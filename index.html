@@ -1,0 +1,16 @@
+---
+layout: theme:pages/base
+crumb: home
+---
+
+<main>
+  {% include theme:structures/hero-unit.html %}
+  <article>
+    {% assign posts=site.posts %}
+    {% include theme:components/snippets.html count="3" %}
+  </article>
+  <aside>
+    {% assign links = site.blog %}
+    {% include theme:components/side-nav.html %}
+  </aside>
+</main>
