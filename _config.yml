@@ -1,0 +1,22 @@
+# collections
+collections:
+  - global_nav
+  - hero_unit
+
+# plugins
+gems:
+  - jekyll-sitemap
+  - UNStats-theme
+
+# exclusions
+exclude:
+  - Gemfile*
+  - Rakefile
+  - README.md
+  - vendor # Travis CI installs gems into vendor dir and makes Jekyll explode on it
+
+# metadata
+encoding: utf-8
+
+# GitHub
+repository: https://github.com/UNStats/website-statsday
