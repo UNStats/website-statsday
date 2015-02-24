@@ -1,0 +1,10 @@
+# metadata
+title: World Statistics Day 2015
+short_title: 'World #StatsDay15'
+description: Official website for World Statistics Day 2015.
+
+# banner logos
+logos:
+  - src: /images/logo-smiley.svg
+    alt: "World Statistics Day 2015 smiley logo"
+    height: 120px

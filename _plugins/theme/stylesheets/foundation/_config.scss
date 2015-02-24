@@ -1,0 +1,52 @@
+// *************************************
+//
+//   Config override
+//
+// *************************************
+
+// -------------------------------------
+//   Colors
+// -------------------------------------
+
+// ----- Palette ----- //
+
+$dark-blue: rgb(0, 102, 153);
+$light-blue: rgb(117, 190, 233);
+$gray: rgb(199, 228, 248);
+$white: rgb(255, 255, 255);
+
+// ----- Base ----- //
+
+$c-background: $dark-blue;
+$c-background-invert: $white;
+$c-border: $dark-blue;
+$c-highlight: $light-blue;
+$c-text: $white;
+$c-text-invert: $dark-blue;
+
+// -------------------------------------
+//   Components
+// -------------------------------------
+
+// ----- Banner ----- //
+
+$banner-background-color: $c-background;
+$banner-color: $c-text;
+
+// ----- Deliver as One ----- //
+
+$deliver-as-one-background-color: $light-blue;
+$deliver-as-one-color: $c-text;
+
+// ----- Global Navigation ----- //
+
+$global-nav-background-color: $light-blue;
+$global-nav-color: $c-text;
+$global-nav-highlight-color: $dark-blue;
+
+// ----- Hero Unit ----- //
+
+$hero-unit-background-color: $c-background;
+$hero-unit-color: $c-text;
+$hero-unit-button-background-color: $gray;
+$hero-unit-button-color: $white;
