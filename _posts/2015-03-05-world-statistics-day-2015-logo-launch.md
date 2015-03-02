@@ -1,6 +1,7 @@
 ---
-layout: theme:pages/post
-title: Addressing inequality is major health challenge of our time
+layout: theme:post
+title: World Statistics Day 2015 Logo Launch
+youtube: fhdM21AZwPg
 ---
 
 Bacon ipsum dolor sit amet eu leberkas beef ribs ham hock, strip steak tongue mollit pig swine ut porchetta hamburger ham in. Pastrami cow hamburger pork chop ball tip mollit duis. Eu qui beef mollit reprehenderit short ribs ex id pork chop jowl. Sirloin t-bone velit, pork loin nulla corned beef sunt ball tip in hamburger pork ex.
