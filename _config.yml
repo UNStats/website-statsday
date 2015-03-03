@@ -22,7 +22,7 @@ collections:
 
 # plugins
 gems:
-  - octopress-debugger
+  #- octopress-debugger
   - website-theme
 
 # exclusions
