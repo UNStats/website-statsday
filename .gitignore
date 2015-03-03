@@ -1,0 +1,5 @@
+# Jekyll on GitHub Pages ignore dotfiles
+_site
+.divshot-cache
+.ink-cache
+.sass-cache
