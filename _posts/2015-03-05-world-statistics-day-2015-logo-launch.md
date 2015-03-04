@@ -4,11 +4,9 @@ title: World Statistics Day 2015 Logo Launch
 youtube: fhdM21AZwPg
 ---
 
-Bacon ipsum dolor sit amet eu leberkas beef ribs ham hock, strip steak tongue mollit pig swine ut porchetta hamburger ham in. Pastrami cow hamburger pork chop ball tip mollit duis. Eu qui beef mollit reprehenderit short ribs ex id pork chop jowl. Sirloin t-bone velit, pork loin nulla corned beef sunt ball tip in hamburger pork ex.
+In order to mark 2015's World Statistics Day, the United Nations Statistics Division engaged the award winning team of UN designers in developing a logo that embodies the theme: *Better data. Better lives.*
 
 
-Nulla swine in proident ham aute. Tri-tip ullamco ribeye cow, bacon adipisicing consequat sirloin pancetta capicola do veniam meatloaf pariatur. Non qui sausage, commodo tenderloin laboris frankfurter spare ribs. Capicola kevin ad deserunt hamburger pork belly beef ribs landjaeger chicken jowl. Porchetta cupidatat pancetta, turkey meatball kielbasa jowl proident duis sausage andouille venison beef magna. Officia leberkas eu shankle cillum nisi ut brisket excepteur sed. Pork meatloaf leberkas in spare ribs.
+The result is this brilliantly simple logo: a smiling face, a globe, a percentage sign. The logo evokes the idea of statistics making it possible to better lives of people, globally. The blue colour scheme conveys universality and professionalism, and alludes to the pillars of the United Nations.
 
-Bacon flank landjaeger leberkas. Shoulder turkey chuck velit. Doner ad minim pork et ullamco salami. Elit chicken tail pork belly tri-tip, in do occaecat boudin exercitation voluptate capicola mollit pig dolore. Laboris nulla doner in meatloaf eiusmod pork jowl ut. Ad minim consectetur frankfurter cupidatat pig ball tip t-bone.
-
-Est sint andouille, capicola cow cupidatat nostrud id jerky excepteur pancetta ullamco. Cow porchetta andouille in strip steak culpa sausage. Cupidatat bresaola qui strip steak flank. Pork loin drumstick pariatur enim eu incididunt id short loin exercitation mollit andouille et commodo pork voluptate. Boudin biltong esse aliqua prosciutto. Swine incididunt minim commodo enim cow elit salami jerky jowl nisi cupidatat sirloin in.
+The logo is expected to be adopted by national statistical systems and international organizations in their commemorations of World Statistics Day 2015, following the successful 2010 experience.  

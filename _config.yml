@@ -18,7 +18,10 @@ google_analytics_id: UA-48267274-5
 
 # collections
 collections:
-  - global_nav
+  about:
+    output: true
+  global_nav:
+    outpus: false
 
 # plugins
 gems:

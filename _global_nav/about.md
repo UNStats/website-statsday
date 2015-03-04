@@ -2,5 +2,5 @@
 title: About
 crumb: about
 href: /about/
-order: 3
+order: 2
 ---
