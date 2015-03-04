@@ -2,5 +2,5 @@
   "name": "website-statsday",
   "root": "_site",
   "clean_urls": false,
-  "error_page": "error.html"
+  "error_page": "404.html"
 }
