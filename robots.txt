@@ -1,0 +1,7 @@
+# http://www.sitemaps.org/protocol.html#informing
+Sitemap: /sitemap.xml
+
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Disallow:
