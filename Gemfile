@@ -1,14 +1,10 @@
 source 'https://rubygems.org'
 
-# gem 'website-theme',
-#     git: 'https://github.com/UNStats/website-theme.git',
-#     ref: '2a089cf'
-
 gem 'html-proofer', '~> 2.1'
 gem 'rake', '~> 10.4'
 gem 'website-theme',
     git: 'https://github.com/UNStats/website-theme.git',
-    tag: 'v0.1.5'
+    tag: 'v0.1.6'
 
 group :development do
   gem 'launchy', '~> 2.4'
