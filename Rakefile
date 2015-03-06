@@ -1,20 +1,48 @@
 require 'jekyll'
 require 'rake'
 
-# Prod deployment requires JEKYLL_ENV = produciton on Travis CI
+# Build options:
+#
+# dev: "rake site:build"
+# - URL overridden to '': can be served from localhost or Divshot.
+# - baseurl overridden to '': localhost and Divshot serve from root dir
+# - include future posts
+# - does not generate related posts index
+# to preview from localhost, execute "rake site:preview" instead
+#
+# proddev: "rake site:build[proddev]"
+# - URL overridden to '': can be served from localhost or Divshot.
+# - baseurl overridden to '': localhost and Divshot serve from root dir
+# - do not include future posts
+# - generate related posts index
+# to preview from localhost, execute "rake site:preview[proddev]" instead
+#
+# prod: "rake site:build[prod]"
+# - works only on Travis CI
+# - URL and baseurl settings are respected
+# - do not include future posts
+# - generate related posts index
+#
+# Generation of Google Analytics into pages requires JEKYLL_ENV = production
+# during build. This is to prevent analytics in any kind of build other than the
+# one intended to be published on the production server.
 
 # Jekyll options for dev build
 DEV_OPTIONS = {
-  'baseurl' => '', # set 'baseurl' to '' for local preview
-  'future' => true, # include posts with future date
-  'lsi' => false, # suppress related posts index
-  'url' => '' # set 'url' to '' for local preview
+  'url' => '', # override for local preview
+  'baseurl' => '', # override for local preview
+  'future' => true, # include future posts
+  'lsi' => false # suppress related posts index
 }
 # Jekyll options for prod build
 PROD_OPTIONS = {
-  'full_rebuild' => true,
-  'future' => false, # suppress posts with future date
-  'lsi' => true # create index for related posts
+  'future' => false, # suppress future posts
+  'lsi' => true, # create related posts index
+  'full_rebuild' => true
+}
+PREVIEW_OPTIONS = {
+  'watch' => true,
+  'serving' => true
 }
 
 # site tasks
@@ -26,7 +54,7 @@ namespace :site do
   # Examples
   #
   #   rake site:preview - dev preview
-  #   rake site:preview[prod] - prod preview
+  #   rake site:preview[proddev] - proddev preview
   #
   # Prod preview does not include analytics unless JEKYLL_ENV = production.
   desc 'Preview site'
@@ -39,18 +67,14 @@ namespace :site do
       Launchy.open('http://localhost:4000')
     end
 
-    # merge dev options with serve options
-    options = Jekyll::Utils.deep_merge_hashes(
-      DEV_OPTIONS,
-      'watch' => true,
-      'serving' => true
-    )
+    # default: dev
+    options = Jekyll::Utils.deep_merge_hashes(DEV_OPTIONS, PREVIEW_OPTIONS)
     message = 'Run dev preview...'
 
-    if args.env == 'prod'
-      # merge prod options in
+    if args.env == 'proddev'
+      # mixin PROD_OPTIONS
       options = Jekyll::Utils.deep_merge_hashes(options, PROD_OPTIONS)
-      message = 'Run prod preview...'
+      message = 'Run proddev preview...'
     end
 
     puts message
@@ -66,17 +90,25 @@ namespace :site do
   # Examples
   #
   #   rake site:build - dev build
-  #
+  #   rake site:build[proddev] - proddev build
   #   rake site:build[prod] - prod build
   #
-  # Prod build does not include analytics unless JEKYLL_ENV = production.
+  # Set JEKYLL_ENV = production to include Google Analytics.
   desc 'Build site'
   task :build, [:env] do |_task, args|
+    # prod build can be execute on CI only
+    fail if args.env == 'prod' && ENV['CI'] != 'true'
+
+    # default: dev
     options = DEV_OPTIONS
     message = 'Run dev build...'
-    if args.env == 'prod'
+
+    if args.env == 'proddev'
       # mixin prod options
-      options = Jekyll::Utils.deep_merge_hashes(DEV_OPTIONS, PROD_OPTIONS)
+      options = Jekyll::Utils.deep_merge_hashes(options, PROD_OPTIONS)
+      message = 'Run proddev build...'
+    elsif args.env == 'prod'
+      options = PROD_OPTIONS # url and baseurl may not be overridden
       message = 'Run prod build...'
     end
     puts message
@@ -84,11 +116,7 @@ namespace :site do
     puts '...done.'
   end
 
-  # Check links on last build.
-  #
-  # env - environment
-  #
-  # Dir to be checked depends on environemnt.
+  # Run linkchecker on last build.
   desc 'Check links on last build'
   task :linkchecker do
     require 'html/proofer'

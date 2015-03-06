@@ -119,7 +119,7 @@ GEM
     octopress-include-tag (1.0.3)
       jekyll (~> 2.0)
       octopress-tag-helpers (~> 1.0)
-    octopress-ink (1.0.0.rc.52)
+    octopress-ink (1.0.0.rc.53)
       jekyll (~> 2.0)
       octopress (~> 3.0.0.rc)
       octopress-date-format (~> 3.0)
