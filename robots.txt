@@ -1,5 +1,5 @@
 # http://www.sitemaps.org/protocol.html#informing
-Sitemap: /sitemap.xml
+Sitemap: https://worldstatisticsday.org/sitemap.xml
 
 # http://www.robotstxt.org/robotstxt.html
 

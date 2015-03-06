@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/2015/03/05/world-statistics-day-2015-logo-launch/</loc>
+    <loc>https://worldstatisticsday.org/2015/03/05/world-statistics-day-2015-logo-launch/</loc>
     <lastmod>2015-03-05T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>/</loc>
-    <lastmod>2015-03-05T16:00:23-05:00</lastmod>
+    <loc>https://worldstatisticsday.org/</loc>
+    <lastmod>2015-03-06T11:13:39-05:00</lastmod>
   </url>
   <url>
-    <loc>/404.html</loc>
-    <lastmod>2015-03-05T16:00:23-05:00</lastmod>
+    <loc>https://worldstatisticsday.org/404.html</loc>
+    <lastmod>2015-03-06T11:13:39-05:00</lastmod>
   </url>
   <url>
-    <loc>/about/</loc>
-    <lastmod>2015-03-05T16:00:23-05:00</lastmod>
+    <loc>https://worldstatisticsday.org/about/</loc>
+    <lastmod>2015-03-06T11:13:39-05:00</lastmod>
   </url>
 </urlset>
