@@ -5,8 +5,6 @@ rvm:
 - 2.1.5
 before_script: # any command in this section with exit code 1 fails build
 - bundle exec rake ci:checkout
-- pwd
-- ls
 - bundle exec rake site:build[prod]
 - bundle exec rake site:linkchecker
 script:
@@ -15,7 +13,7 @@ script:
 # branch whitelist
 branches:
   only:
-  - production
+  - master
 
 env:
   global:
