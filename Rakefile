@@ -147,8 +147,8 @@ namespace :ci do
       _site/.
       _site/..
       _site/.git
-      _site/.gitignore
     )
+    # _site/{*,.*} includes _site/. and _site/.. and need to be excluded
     FileList['_site/{*,.*}'].exclude(*purge_exclude).each do |path|
       sh "rm -rf #{path}"
     end
