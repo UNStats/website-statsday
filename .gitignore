@@ -4,4 +4,5 @@ _site
 .divshot-cache
 .ink-cache
 .sass-cache
+.vagrant
 .DS_Store

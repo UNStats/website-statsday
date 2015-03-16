@@ -35,6 +35,7 @@ exclude:
   - Gemfile*
   - Rakefile
   - README.md
+  - Vagrantfile
   - vendor # Travis CI installs gems into vendor dir and makes Jekyll explode on it
 
 # GitHub

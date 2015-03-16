@@ -59,14 +59,6 @@ namespace :site do
   # Prod preview does not include analytics unless JEKYLL_ENV = production.
   desc 'Preview site'
   task :preview, [:env] do |_task, args|
-    require 'launchy'
-    # credit: https://github.com/jekyll/jekyll/blob/master/Rakefile#L141
-    Thread.new do
-      sleep 4
-      puts 'Opening in browser...'
-      Launchy.open('http://localhost:4000')
-    end
-
     # default: dev
     options = Jekyll::Utils.deep_merge_hashes(DEV_OPTIONS, PREVIEW_OPTIONS)
     message = 'Run dev preview...'

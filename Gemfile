@@ -7,10 +7,8 @@ gem 'website-theme',
     tag: 'v0.1.6'
 
 group :development do
-  gem 'launchy', '~> 2.4'
   gem 'octopress-debugger', '~> 1.0'
   gem 'pry-byebug', '~> 3.0'
   gem 'rubocop', '~> 0.29'
   gem 'scss-lint', '~> 0.34'
-  gem 'wdm', '~> 0.1'
 end

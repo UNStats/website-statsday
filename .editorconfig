@@ -12,3 +12,11 @@ insert_final_newline = true
 
 [*.md]
 trim_trailing_whitespace = false # trailing whitespace is part of MD syntax
+
+[*.sh]
+end_of_line = lf # bash script files run on Vagrant VM and require LF
+
+[{.ruby-version,.ruby-gemset,.nvmrc}]
+# files may not have more than 1 line when read from bash script and require LF
+end_of_line = lf
+insert_final_newline = true
