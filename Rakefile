@@ -42,7 +42,8 @@ PROD_OPTIONS = {
 }
 PREVIEW_OPTIONS = {
   'watch' => true,
-  'serving' => true
+  'serving' => true,
+  'host' => '0.0.0.0' # bind to 0.0.0.0 instead of 127.0.0.1 for Vagrant access
 }
 
 # site tasks
