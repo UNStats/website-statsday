@@ -1,7 +1,7 @@
 # set the default behavior in case core.autocrlf has not been set
 * text=auto
 
-# declare files that require LF line endings on checkout
+# declare files that require LF line endings on checkout even on Windows
 *.sh text eol=lf
 .ruby-version text eol=lf
 .ruby-gemset text eol=lf
