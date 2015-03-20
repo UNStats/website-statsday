@@ -15,6 +15,10 @@ echo "source /home/vagrant/.nvm/nvm.sh" >> /home/vagrant/.bash_profile
 source /home/vagrant/.nvm/nvm.sh
 echo "...done."
 
+# cd to /vagrant when logging in via "vagrant ssh"
+echo "cd /vagrant" >> /home/vagrant/.bash_profile
+
+# cd into /vagrant to get access to NVM and RVM config files
 cd /vagrant
 
 echo "Install Ruby..."
