@@ -8,7 +8,7 @@ gem 'website-theme',
 
 group :development do
   gem 'octopress-debugger', '~> 1.0'
-  gem 'pry-byebug', '~> 3.0'
+  gem 'pry-byebug', '~> 3.1'
   gem 'rubocop', '~> 0.29'
-  gem 'scss-lint', '~> 0.34'
+  gem 'scss-lint', '~> 0.35'
 end
