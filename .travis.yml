@@ -4,9 +4,9 @@ cache: bundler
 rvm:
 - 2.1.5
 before_script: # any command in this section with exit code 1 fails build
-- bundle exec rake ci:checkout
-- bundle exec rake site:build[prod]
-- bundle exec rake site:linkchecker
+- bundle exec rake ci:clone
+- bundle exec rake site:build env=prod # prod build
+- bundle exec rake site:validate
 script:
 - bundle exec rake ci:deploy
 
@@ -17,4 +17,4 @@ branches:
 
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speed up installation of html-proofer

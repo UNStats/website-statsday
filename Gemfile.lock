@@ -1,24 +1,26 @@
 GIT
   remote: https://github.com/UNStats/website-theme.git
-  revision: f1154d28508dd29a12bf1e9e38c60cb7d5f10990
-  tag: v0.1.6
+  revision: 9bd10892f3bc3d3c84de4ff139c6b10cf7ebea86
+  tag: v0.2.0
   specs:
-    website-theme (0.1.6)
-      jekyll-sitemap (~> 0.8.0)
+    website-theme (0.2.0)
+      html-proofer (~> 2.1.0)
+      jekyll-sitemap (~> 0.8.1)
       octopress-comment-tag (~> 1.0.1)
-      octopress-ink (~> 1.0.0.rc.48)
-      octopress-multilingual (~> 1.1.2)
+      octopress-ink (~> 1.0.0.rc.57)
+      octopress-multilingual (~> 1.2.0)
       octopress-render-tag (~> 1.0.6)
+      rake (~> 10.4.2)
 
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.3.7)
+    addressable (2.3.8)
     ast (2.0.0)
     astrolabe (1.3.0)
       parser (>= 2.2.0.pre.3, < 3.0)
     blankslate (2.1.2.4)
-    byebug (4.0.3)
+    byebug (4.0.4)
       columnize (= 0.9.0)
     celluloid (0.16.0)
       timers (~> 4.0.0)
@@ -73,8 +75,8 @@ GEM
     json (1.8.2)
     kramdown (1.6.0)
     liquid (2.6.2)
-    listen (2.9.0)
-      celluloid (>= 0.15.2)
+    listen (2.10.0)
+      celluloid (~> 0.16.0)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
     mercenary (0.3.5)
@@ -111,7 +113,7 @@ GEM
     octopress-include-tag (1.0.3)
       jekyll (~> 2.0)
       octopress-tag-helpers (~> 1.0)
-    octopress-ink (1.0.0.rc.56)
+    octopress-ink (1.0.0.rc.57)
       jekyll (~> 2.0)
       octopress (~> 3.0.0.rc)
       octopress-date-format (~> 3.0)
@@ -119,12 +121,12 @@ GEM
       octopress-hooks (~> 2.2)
       octopress-include-tag (~> 1.0)
       uglifier (~> 2.5)
-    octopress-multilingual (1.1.3)
+    octopress-multilingual (1.2.0)
       octopress-hooks
     octopress-render-tag (1.0.6)
       jekyll (~> 2.0)
       octopress-tag-helpers (~> 1.0)
-    octopress-tag-helpers (1.0.3)
+    octopress-tag-helpers (1.0.4)
       jekyll (~> 2.0)
     parallel (1.4.1)
     parser (2.2.0.3)
@@ -140,7 +142,7 @@ GEM
     pry-byebug (3.1.0)
       byebug (~> 4.0)
       pry (~> 0.10)
-    pygments.rb (0.6.2)
+    pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
     rainbow (2.0.0)
@@ -155,7 +157,7 @@ GEM
       powerpack (~> 0.1)
       rainbow (>= 1.99.1, < 3.0)
       ruby-progressbar (~> 1.4)
-    ruby-progressbar (1.7.4)
+    ruby-progressbar (1.7.5)
     rubypants-unicode (0.2.5)
     safe_yaml (1.0.4)
     sass (3.4.13)

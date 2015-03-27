@@ -4,7 +4,7 @@ gem 'html-proofer', '~> 2.1'
 gem 'rake', '~> 10.4'
 gem 'website-theme',
     git: 'https://github.com/UNStats/website-theme.git',
-    tag: 'v0.1.6'
+    tag: 'v0.2.0'
 
 group :development do
   gem 'octopress-debugger', '~> 1.0'
