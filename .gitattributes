@@ -2,6 +2,7 @@
 * text=auto
 
 # declare files that require LF line endings on checkout even on Windows
+*.md text eol=lf
 *.sh text eol=lf
 .ruby-version text eol=lf
 .ruby-gemset text eol=lf
