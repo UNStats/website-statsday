@@ -1,13 +1,14 @@
 GIT
   remote: https://github.com/UNStats/website-theme.git
-  revision: 9bd10892f3bc3d3c84de4ff139c6b10cf7ebea86
-  tag: v0.2.0
+  revision: 7a045f1bd23f9673c77bdaba1bbb716f0076d57f
+  tag: v0.2.1
   specs:
-    website-theme (0.2.0)
+    website-theme (0.2.1)
       html-proofer (~> 2.1.0)
+      jekyll (~> 2.5.3)
       jekyll-sitemap (~> 0.8.1)
       octopress-comment-tag (~> 1.0.1)
-      octopress-ink (~> 1.0.0.rc.57)
+      octopress-ink (~> 1.0.0.rc.58)
       octopress-multilingual (~> 1.2.0)
       octopress-render-tag (~> 1.0.6)
       rake (~> 10.4.2)
@@ -113,7 +114,7 @@ GEM
     octopress-include-tag (1.0.3)
       jekyll (~> 2.0)
       octopress-tag-helpers (~> 1.0)
-    octopress-ink (1.0.0.rc.57)
+    octopress-ink (1.0.0.rc.58)
       jekyll (~> 2.0)
       octopress (~> 3.0.0.rc)
       octopress-date-format (~> 3.0)
