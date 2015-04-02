@@ -1,20 +1,23 @@
 language: ruby
-bundler_args: --without development --deployment --jobs=3 --retry=3
+bundler_args: "--without development --deployment --jobs=3 --retry=3"
 cache: bundler
 rvm:
 - 2.1.5
-before_script: # any command in this section with exit code 1 fails build
-- bundle exec rake ci:clone
-- bundle exec rake site:build env=prod # prod build
-- bundle exec rake site:validate
 script:
-- bundle exec rake ci:deploy
-
-# branch whitelist
+- bundle exec rake site:deploy
 branches:
   only:
+  - development
   - master
-
+  - staging
+deploy:
+  provider: divshot
+  environment:
+    development: development # deploy development branch to development
+    staging: staging # staging branch goes to staging
+  skip_cleanup: true
+  api_key:
+    secure: DwMdwtUrW69bPh1GKThEqAN+hV43MdfrYh1ttb/36ZYlbsZO4rz8Qe+xb1FCAVi/Qkmhckz4lWkA2NCiTnXiIJd9WE49Yq4PoEL9sAzIIHtxmKQbkgEvGSvpvbjxQ7RZXJbQ0lk9MApT8j0N5tctwBV/UwUaKdy4PCSODwjys94=
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speed up installation of html-proofer
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true

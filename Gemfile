@@ -4,11 +4,12 @@ gem 'html-proofer', '~> 2.1'
 gem 'rake', '~> 10.4'
 gem 'website-theme',
     git: 'https://github.com/UNStats/website-theme.git',
-    tag: 'v0.2.1'
+    tag: 'v0.2.3'
 
 group :development do
-  gem 'octopress-debugger', '~> 1.0'
-  gem 'pry-byebug', '~> 3.1'
-  gem 'rubocop', '~> 0.29'
-  gem 'scss-lint', '~> 0.35'
+  gem 'octopress-debugger'
+  gem 'pry-byebug'
+  gem 'rubocop'
+  gem 'scss-lint'
+  gem 'travis', '~> 1.7.5' # force v1.7.5
 end
