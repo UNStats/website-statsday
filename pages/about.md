@@ -1,7 +1,9 @@
 ---
 layout: theme:about
-title: About World Statistics Day 2015
+permalink: /about/
 ---
+
+# About World Statistics Day 2015
 
 The World Statistics Day was proclaimed by the United Nations General Assembly in 2010 to recognize the importance of statistics in shaping our societies. The holding of national and regional statistical days was already a tradition in [more than 100 countries](http://unstats.un.org/unsd/dnss/statistics_day/Statistics_Day.htm), but the General Assembly's adoption of this international day as 20 October brought new light to this important observance. The [first World Statistics Day was commemorated on 20&nbsp;October&nbsp;2010](http://unstats.un.org/unsd/wsd/Default.aspx) in over 130 countries and areas.  
 
