@@ -1,6 +1,6 @@
 ---
-layout: theme:post
 title: Forum on World Statistics Day to be held on 4 December 2015 in Tokyo, Japan
+published: false
 countries:
  - JPN
 sector:
