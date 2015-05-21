@@ -14,6 +14,14 @@ timezone: America/New_York
 google_analytics_id: UA-48267274-5
 google_site_verification: nk60R1XQN6vHs3x1JLOOiysZpFFjCMLwc4BBJfIYHz8
 
+defaults:
+  - scope:
+      path: "blog"
+      type: "posts"
+    values:
+      layout: "theme:article"
+      permalink: /:year/:month/:day/:title/
+
 gems:
   - website-theme
   #- octopress-debugger
