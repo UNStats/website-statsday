@@ -2,7 +2,7 @@ url: https://worldstatisticsday.org
 name: World Statistics Day 2015
 nickname: 'World #StatsDay15'
 tagline: 'Better data. Better lives.'
-author: 'UNStats'
+author: World Statistics Day 2015
 description: Official website for World Statistics Day 2015.
 twitter_id: UNStats
 twitter_hashtag: StatsDay15
@@ -16,10 +16,11 @@ google_site_verification: nk60R1XQN6vHs3x1JLOOiysZpFFjCMLwc4BBJfIYHz8
 
 defaults:
   - scope:
-      path: "blog"
-      type: "posts"
+      path: blog
+      type: posts
     values:
-      layout: "theme:article"
+      label: article
+      layout: theme:posts/article
       permalink: /:year/:month/:day/:title/
 
 gems:

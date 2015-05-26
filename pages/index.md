@@ -1,5 +1,5 @@
 ---
-layout: theme:home
+layout: theme:pages/home
 title: Home
 permalink: /
 ---
