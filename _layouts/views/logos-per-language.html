@@ -1,0 +1,14 @@
+---
+---
+
+<h2>{{ page.key | capitalize }}</h2>
+
+<ul>
+{% for logo in site.collections.logos.files %}
+  {% assign path = logo.path | split: '/' %}
+  {% if path[2] == page.lang %}
+    {% _ // logos are linked with relative paths %}
+    <li><a href="{{ path[3] | prepend: '/' | prepend: page.lang | prepend: '/' }}">{{ path[3] }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>

@@ -14,6 +14,10 @@ timezone: America/New_York
 google_analytics_id: UA-48267274-5
 google_site_verification: nk60R1XQN6vHs3x1JLOOiysZpFFjCMLwc4BBJfIYHz8
 
+collections:
+  logos:
+    output: false
+
 defaults:
   - scope:
       path: blog
@@ -22,6 +26,18 @@ defaults:
       label: article
       layout: theme:posts/article
       permalink: /:year/:month/:day/:title/
+  - scope:
+      path: resources
+      type: posts
+    values:
+      label: download
+      layout: theme:posts/article
+      permalink: /:title/
+  - scope:
+      path: ""
+      type: logos
+    values:
+      layout: views/logos-per-language
 
 gems:
   - website-theme
