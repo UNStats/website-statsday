@@ -1,5 +1,7 @@
 # Website for World Statistics Day 2015
 
+[![Build Status](https://travis-ci.org/UNStats/website-statsday.svg?branch=master)](https://travis-ci.org/UNStats/website-statsday)
+
 This repository contains the website for World Statistics Day 2015.
 
 ## Development
