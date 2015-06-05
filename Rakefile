@@ -1,32 +1,43 @@
+# encoding: utf-8
 require 'rake'
 
 # imported tasks will be loaded once Rakefile has been processed
 spec = Gem::Specification.find_by_name 'website-theme'
 import "#{spec.gem_dir}/lib/tasks/build.rake"
-import "#{spec.gem_dir}/lib/tasks/ghpages.rake"
+import "#{spec.gem_dir}/lib/tasks/github.rake"
 import "#{spec.gem_dir}/lib/tasks/validate.rake"
 
-ENV['GH_REPO'] = 'https://github.com/UNStats/website-statsday.git' # GitHub repo
+ENV['GH_REPO'] = 'https://github.com/UNStats/website-statsday.git'
+ENV['DEPLOY_BRANCH'] = 'gh-pages'
 
 namespace :site do
-  desc 'Deploy task based on branch'
+  desc 'Deploy to environments based on branch'
   task :deploy do
-    fail unless ENV['CI'] == 'true' # execute on CI only
-    if ENV['TRAVIS_BRANCH'] == 'development'
-      ENV['JEKYLL_ENV'] = 'development'
-    elsif ENV['TRAVIS_BRANCH'] == 'staging'
-      ENV['JEKYLL_ENV'] = 'staging'
-    elsif ENV['TRAVIS_BRANCH'] == 'master'
-      ENV['JEKYLL_ENV'] = 'production'
-      Rake::Task['ghpages:clone'].invoke # checkout gh-pages branch
+    fail 'Deploy task can be executed on CI only.' unless ENV['CI'] == 'true'
+    branch = ENV['TRAVIS_BRANCH']
+    pull_request = (ENV['TRAVIS_PULL_REQUEST'] == 'true')
+    case branch
+    when 'development', 'staging' # deploy to Divshot
+      ENV['JEKYLL_ENV'] = branch
+      ENV['IGNORE_BASEURL'] = 'true'
+    when 'master'
+      if pull_request
+        ENV['JEKYLL_ENV'] = 'staging' # staging build for pull requests
+      else
+        ENV['JEKYLL_ENV'] = 'production'
+        Rake::Task['github:clone'].invoke # checkout deploy branch
+      end
     else
-      fail
+      fail 'Branch must be one of deployment, staging or master.'
     end
-    Rake::Task['site:build'].invoke
-    Rake::Task['site:validate'].invoke # site has no baseurl
-    if ENV['TRAVIS_BRANCH'] == 'master'
-      Rake::Task['ghpages:push'].invoke # push build to gh-pages branch
+    Rake::Task['site:validate'].invoke # ignore baseurl
+    Rake::Task['site:build'].reenable # build task needs to run second time
+    Rake::Task['site:build'].invoke # honor baseurl
+    if branch == 'master' && !pull_request
+      Rake::Task['github:push'].invoke # push build to deploy branch
     end
-    # deploy development and staging branches to Divshot, see .travis.yml
+    # Deploy 'development' and 'staging' branches to Divshot via .travis.yml.
+    # Pull requests will never trigger a Divshot deploy:
+    # http://docs.travis-ci.com/user/deployment/divshot/
   end
 end
