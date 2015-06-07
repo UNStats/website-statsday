@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/UNStats/website-theme.git
-  revision: 9e3a629e7de6d78831dd02eda2f51473dd81f2b5
-  tag: v0.6.2
+  revision: 9be168f2cc407f0673228df9a6f85f2cb78245e2
+  tag: v0.6.3
   specs:
-    website-theme (0.6.2)
+    website-theme (0.6.3)
       jekyll-redirect-from (~> 0.8.0)
       jekyll-sitemap (~> 0.8.1)
       octopress-comment-tag (~> 1.0.1)
@@ -145,6 +145,9 @@ GEM
     pry-byebug (3.1.0)
       byebug (~> 4.0)
       pry (~> 0.10)
+    pry-doc (0.6.0)
+      pry (~> 0.9)
+      yard (~> 0.8)
     pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
@@ -168,6 +171,7 @@ GEM
       execjs (>= 0.3.0)
       json (>= 1.8.0)
     yajl-ruby (1.2.1)
+    yard (0.8.7.6)
     yell (2.0.5)
 
 PLATFORMS
@@ -177,5 +181,6 @@ DEPENDENCIES
   html-proofer
   octopress-debugger
   pry-byebug
+  pry-doc
   rake
   website-theme!

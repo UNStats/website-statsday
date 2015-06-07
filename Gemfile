@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 
 gem 'website-theme',
     git: 'https://github.com/UNStats/website-theme.git',
-    tag: 'v0.6.2'
+    tag: 'v0.6.3'
 
 group :deploy do
   gem 'html-proofer'
@@ -13,4 +13,5 @@ end
 group :development do
   gem 'octopress-debugger'
   gem 'pry-byebug'
+  gem 'pry-doc'
 end
