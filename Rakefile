@@ -15,7 +15,7 @@ namespace :site do
   task :deploy do
     fail 'Deploy task can be executed on CI only.' unless ENV['CI'] == 'true'
     branch = ENV['TRAVIS_BRANCH']
-    pull_request = (ENV['TRAVIS_PULL_REQUEST'] == 'true')
+    pull_request = (ENV['TRAVIS_PULL_REQUEST'].to_i > 0)
     case branch
     when 'development', 'staging' # deploy to Divshot
       ENV['JEKYLL_ENV'] = branch
