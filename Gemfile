@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 
 gem 'website-theme',
     git: 'https://github.com/UNStats/website-theme.git',
-    tag: 'v0.6.3'
+    tag: 'v0.6.4'
 
 group :deploy do
   gem 'html-proofer'

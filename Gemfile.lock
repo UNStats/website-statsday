@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/UNStats/website-theme.git
-  revision: 9be168f2cc407f0673228df9a6f85f2cb78245e2
-  tag: v0.6.3
+  revision: 17cd4658feab7b86f46b3e437a273fe0384554d4
+  tag: v0.6.4
   specs:
-    website-theme (0.6.3)
+    website-theme (0.6.4)
       jekyll-redirect-from (~> 0.8.0)
       jekyll-sitemap (~> 0.8.1)
       octopress-comment-tag (~> 1.0.1)
