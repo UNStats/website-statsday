@@ -32,7 +32,7 @@ defaults:
     values:
       label: download
       layout: theme:posts/article
-      permalink: /:title/
+      permalink: /:categories/:title/
   - scope:
       path: ""
       type: logos
