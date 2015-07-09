@@ -4,10 +4,45 @@
   <link rel="alternate" type="text/html" href="https://worldstatisticsday.org/"/>
   <link rel="self" type="application/atom+xml" href="https://worldstatisticsday.org/feed/"/>
   <id>https://worldstatisticsday.org/</id>
-  <updated>2015-06-25T00:00:00-04:00</updated>
+  <updated>2015-07-09T00:00:00-04:00</updated>
   <generator uri="http://octopress.org/">Octopress</generator>
   
   <rights>Copyright © 2015, World Statistics Day 2015</rights>
+
+  <entry>
+    <title type="html">Put your creativity to the test joining our Data Visualization Challenge</title>
+    
+    <link rel="alternate" type="text/html" href="https://worldstatisticsday.org/2015/07/09/dataviz-challenge/"/>
+    
+    <id>/2015/07/09/dataviz-challenge</id>
+    <published>2015-07-09T00:00:00-04:00</published>
+    <updated>2015-07-09T00:00:00-04:00</updated>
+    <author>
+      <name>World Statistics Day 2015</name>
+      <uri>https://worldstatisticsday.org/</uri>
+    </author>
+    <content type="html" xml:base="https://worldstatisticsday.org/" >
+<![CDATA[
+
+<p><img src="https://worldstatisticsday.org/images/MDGReport2015.png" alt="MDG2015 Report" style="width:200px" /><br /><br />Following the launch of the <a href="http://mdgs.un.org/unsd/mdg/Default.aspx">2015 Millennium Development Goals Report</a>, the United Nations Statistics Division is excited to announce the <a href="https://unite.un.org/ideas/content/wsd2015-data-visualization-challenge">#WSD2015 Data Visualization Challenge competition</a> as part of the celebration around the World Statistics Day 2015.</p>
+
+<p>In this competition, we challenge you to use your creativity and imagination to help answer a question relevant for development policy, by building an infographic or dynamic visualization featuring the latest data from the <a href="http://mdgs.un.org/unsd/mdg/Default.aspx">2015 MDG report</a>.  For instance:</p>
+
+<ul>
+  <li>Find interlinkages, synergies and tradeoffs between different MDG goals and targets</li>
+  <li>Identify factors that help explain different levels of achievement across countries and regions</li>
+  <li>Or come up with your own questions to put your analytical and data visualization skills to the test!</li>
+</ul>
+
+<p>The winner will be announced on 20 October 2015 - World Statistics Day 2015! A selection of the best visualizations received will be showcased on the <a href="http://unstats.un.org/unsd/default.htm">UNSD website</a>, as well as on the <a href="https://unite.un.org/ideas/">Unite Ideas</a> website and other platforms worldwide.</p>
+
+<p>To learn more about the rules and ways of participating in this Data Visualization Challenge, visit <a href="https://unite.un.org/ideas/">Unite Ideas</a> and follow this <a href="https://unite.un.org/ideas/WSD2015">link</a>.</p>
+
+
+
+]]>
+    </content>
+  </entry>
 
   <entry>
     <title type="html">The World Statistics Day 2015 logo in Portuguese is available</title>
