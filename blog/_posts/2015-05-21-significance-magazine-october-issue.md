@@ -5,7 +5,7 @@ countries:
  - USA
 ---
 
-To mark World Statistics Day, [Significance Magazine](http://www.statslife.org.uk/significance) will devote its October 2015 issue to articles highlighting important contributions of statistics in different parts of the world. Significance Magazine is an official publication of both the Royal Statistical Society (RSS) and the [American Statistical Association (ASA)](http://www.amstat.org/).
+To mark World Statistics Day, [Significance Magazine](http://www.statslife.org.uk/significance) will devote its October 2015 issue to articles highlighting important contributions of statistics in different parts of the world. Significance Magazine is an official publication of both the [Royal Statistical Society (RSS)](http://www.rss.org.uk/) and the [American Statistical Association (ASA)](http://www.amstat.org/).
 
 The magazine is planning to publish one article from each of the main geographic regions: North America, South America, Europe, the Middle East, Africa, and Asia.
 
