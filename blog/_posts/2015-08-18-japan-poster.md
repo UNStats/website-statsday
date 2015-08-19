@@ -1,5 +1,5 @@
 ---
-title: Japanese statistics day poster
+title: A new Statistics Day poster in Japanese is out
 ---
 
 <img src="/images/japanese-wsd-poster.jpg" alt="World Statistics Day 2015 poster in Japanese" style="width:300px"><br><br>20 October 2015 is the second World Statistics day.  But did you know that 18 October this year is also the Japanese Statistics Day?  
