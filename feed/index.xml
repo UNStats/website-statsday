@@ -4,10 +4,35 @@
   <link rel="alternate" type="text/html" href="https://worldstatisticsday.org/"/>
   <link rel="self" type="application/atom+xml" href="https://worldstatisticsday.org/feed/"/>
   <id>https://worldstatisticsday.org/</id>
-  <updated>2015-08-10T00:00:00-04:00</updated>
+  <updated>2015-08-18T00:00:00-04:00</updated>
   <generator uri="http://octopress.org/">Octopress</generator>
   
   <rights>Copyright © 2015, World Statistics Day 2015</rights>
+
+  <entry>
+    <title type="html">A new Statistics Day poster in Japanese is out</title>
+    
+    <link rel="alternate" type="text/html" href="https://worldstatisticsday.org/2015/08/18/japan-poster/"/>
+    
+    <id>/2015/08/18/japan-poster</id>
+    <published>2015-08-18T00:00:00-04:00</published>
+    <updated>2015-08-18T00:00:00-04:00</updated>
+    <author>
+      <name>World Statistics Day 2015</name>
+      <uri>https://worldstatisticsday.org/</uri>
+    </author>
+    <content type="html" xml:base="https://worldstatisticsday.org/" >
+<![CDATA[
+
+<p><img src="https://worldstatisticsday.org/images/japanese-wsd-poster.jpg" alt="World Statistics Day 2015 poster in Japanese" style="width:300px" /><br /><br />20 October 2015 is the second World Statistics day.  But did you know that 18 October this year is also the Japanese Statistics Day?</p>
+
+<p>To promote both celebrations, the government of Japan has released a poster featuring the image of the World Statistics Day 2015 logo and the Japanese translation of the slogan “Better data. Better lives.”</p>
+
+
+
+]]>
+    </content>
+  </entry>
 
   <entry>
     <title type="html">Take a look at the World Statistics Day 2015 logos in Romanian and Slovak</title>
