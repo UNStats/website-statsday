@@ -1,0 +1,4 @@
+---
+key: papiamento
+lang: pap
+---
