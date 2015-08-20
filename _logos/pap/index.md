@@ -1,4 +1,4 @@
 ---
-key: papiamento
+key: papiamentu
 lang: pap
 ---
