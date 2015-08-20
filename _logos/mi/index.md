@@ -1,0 +1,4 @@
+---
+key:  maori
+lang: mi
+---
