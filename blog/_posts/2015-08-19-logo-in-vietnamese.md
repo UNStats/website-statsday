@@ -1,5 +1,5 @@
 ---
-title: The Vientamese version of the World Statistics Day 2015 has arrived
+title: The Vietnamese version of the World Statistics Day 2015 has arrived
 ---
 
 <img src="/logos/vi/WorldStatsDay_Logo_VI.png" alt="World Statistics Day 2015 logo in Vientamese" style="width:200px"><br><br>Now the World Statistics Day logo is also available in Vietnamese, allowing us to say "Better Data. Better Lives." in 14 different ways!  
