@@ -1,4 +1,0 @@
----
-key: slovene
-lang: sl
----

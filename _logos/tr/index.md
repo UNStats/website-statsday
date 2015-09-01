@@ -1,4 +1,0 @@
----
-key: turkish
-lang: tr
----

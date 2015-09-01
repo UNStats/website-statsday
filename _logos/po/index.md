@@ -1,4 +1,0 @@
----
-key: portuguese
-lang: po
----

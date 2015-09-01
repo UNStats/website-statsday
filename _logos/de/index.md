@@ -1,4 +1,0 @@
----
-key: german
-lang: de
----
