@@ -1,4 +1,0 @@
----
-key: french
-lang: fr
----

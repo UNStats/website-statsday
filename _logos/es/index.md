@@ -1,4 +1,0 @@
----
-key: spanish
-lang: es
----

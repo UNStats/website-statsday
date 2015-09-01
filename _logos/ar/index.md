@@ -1,4 +1,0 @@
----
-key: arabic
-lang: ar
----

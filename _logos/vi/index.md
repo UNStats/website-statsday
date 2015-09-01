@@ -1,4 +1,0 @@
----
-key: vietnamese
-lang: vi
----

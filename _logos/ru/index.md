@@ -1,4 +1,0 @@
----
-key: russian
-lang: ru
----
