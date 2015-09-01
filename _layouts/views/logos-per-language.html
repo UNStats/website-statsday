@@ -1,0 +1,13 @@
+---
+---
+
+<h2>{{ page.key | capitalize }}</h2>
+
+<ul>
+{% for logo in site.collections.logos.files %}
+  {% assign path = logo.path | split: '/' %}
+  {% if path[2] == page.lang %}
+    <li><a href="{{ logo.path | remove_first: '_' | prepend: site.baseurl }}">{{ path[3] }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>

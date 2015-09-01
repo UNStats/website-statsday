@@ -1,0 +1,4 @@
+---
+key: papiamentu
+lang: pap
+---

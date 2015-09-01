@@ -1,0 +1,4 @@
+---
+key: romanian
+lang: ro
+---

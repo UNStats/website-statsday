@@ -1,0 +1,54 @@
+url: https://worldstatisticsday.org
+name: World Statistics Day 2015
+nickname: 'World #StatsDay15'
+tagline: 'Better data. Better lives.'
+author: World Statistics Day 2015
+description: Official website for World Statistics Day 2015.
+twitter_id: UNStats
+twitter_hashtag: StatsDay15
+youtube_id: UNStats
+
+encoding: utf-8
+permalink: pretty
+timezone: America/New_York
+google_analytics_id: UA-48267274-5
+google_site_verification: nk60R1XQN6vHs3x1JLOOiysZpFFjCMLwc4BBJfIYHz8
+
+collections:
+  logos:
+    output: false
+
+defaults:
+  - scope:
+      path: blog
+      type: posts
+    values:
+      label: article
+      layout: theme:posts/article
+      permalink: /:year/:month/:day/:title/
+  - scope:
+      path: resources
+      type: posts
+    values:
+      label: download
+      layout: theme:posts/article
+      permalink: /:categories/:title/
+  - scope:
+      path: ""
+      type: logos
+    values:
+      layout: views/logos-per-language
+
+gems:
+  - website-theme
+  #- octopress-debugger
+
+exclude:
+  - divshot.json
+  - Gemfile*
+  - Rakefile
+  - README.md
+  - Vagrantfile
+  - vendor # Travis CI installs gems into vendor dir and makes Jekyll explode on it
+
+repository: https://github.com/UNStats/website-statsday
