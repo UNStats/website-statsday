@@ -1,0 +1,10 @@
+_drafts
+_site
+.c9
+.divshot-cache
+.ink-cache
+.sass-cache
+.tags
+tags
+.vagrant
+.DS_Store
