@@ -1,0 +1,4 @@
+---
+key: hungarian
+lang: hu
+---

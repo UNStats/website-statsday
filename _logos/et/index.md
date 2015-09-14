@@ -1,0 +1,4 @@
+---
+key: estonian
+lang: et
+---
