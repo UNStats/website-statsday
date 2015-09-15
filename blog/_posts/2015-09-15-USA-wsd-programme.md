@@ -1,0 +1,10 @@
+---
+title: Former U.S. Labor Statistics Commissioners to be inducted into Labor Hall of Honor on World Statistics Day
+---
+The <a href="http://www.dol.gov/" target="_blank">U.S. Department of Labor</a> will induct <a href="http://www.bls.gov/home.htm" target="_blank">Bureau of Labor Statistics</a> Commissioners <a href="http://www.bls.gov/bls/history/commissioners/wright.htm" target="_blank">Carroll D. Wright</a> and <a href="http://www.bls.gov/bls/history/commissioners/norwood.htm" target="_blank">Janet L. Norwood</a> into the <a href="http://www.dol.gov/dol/aboutdol/hallofhonor/" target="_blank">Labor Hall of Honor</a> on Tuesday, 20 October 2015 at 11 a.m.
+
+Carroll Wright was the first BLS Commissioner, serving from 1885 to 1905. Janet Norwood, who passed away recently, was the first woman to serve as BLS Commissioner and led the Bureau for 12 crucial years (1979-1991), modernizing it and raising the profile of its work. Both former Commissioners ensured BLS produced the high quality of statistics necessary to the proper functioning of a democratic government. This will be the first time BLS Commissioners will be inducted into the Labor Hall of Honor.
+
+The Hall of Honor was established in 1988 to honor those Americans whose distinctive contributions in the field of labor have elevated working conditions, wages, and over-all quality of life of America's working families. Recent inductees include former U.S. Senator <a href="" target="_blank">Edward “Ted” M. Kennedy</a> and the <a href="http://www.dol.gov/dol/aboutdol/hallofhonor/2014_railroad.htm" target="_blank">Chinese Railroad Workers</a>.
+
+During their time as Commissioner, Wright and Norwood each strongly emphasized the necessity of accurate data to help workers suffering from economic hardships. Their legacy lives on as the tangible results of their many accomplishments still impact workers today. On World Statistics Day, we look forward to honoring the achievements of both Wright and Norwood during the Hall of Honor Induction Ceremony.
