@@ -1,5 +1,5 @@
 ---
-title: This how World Statistics Day will be celebrated in Estonia
+title: This is how World Statistics Day will be celebrated in Estonia
 ---
 <a href="http://www.stat.ee" target="_blank">Statistics Estonia</a> is planning a number of exciting events on and around 20 October to celebrate World Statistics Day 2015.
 
