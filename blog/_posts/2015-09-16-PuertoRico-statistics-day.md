@@ -1,5 +1,5 @@
 ---
-title: Puerto Rico Institute of Statistics is organizing Expo Estadisticas 2015 in observance of the World Statistics Day 2015!
+title: Puerto Rico Institute of Statistics is organizing Expo Estadisticas 2015 in observance of the World Statistics Day 2015
 ---
 
 <img src="/images/PuertoRico_statistics_day_2015_poster.png" alt="Puerto Rico Statistics Day poster" style="width:300px"><br><br>
