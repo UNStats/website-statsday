@@ -1,7 +1,7 @@
 ---
 title: Philippine Statistical System celebrates World Statistics Day and the 26th National Statistics Month in October
 ---
-
+<img src="/images/26th_NSMposter.png" alt="Philippines Workshop banner" style="width:300px"><br><br>
 Spearheaded by the <a href= "https://psa.gov.ph" target="_blank">Philippine Statistics Authority </a>, <a href="http://nap.psa.gov.ph/pss/default.asp" target="_blank" >the Philippine Statistical System </a> has developed a rich programme to celebrate their <a href= "http://nap.psa.gov.ph/nsm/26thNSM/default.asp"  target="_blank" >26th National Statistics Month </a>and the Second World Statistics Day this October.
 
 Celebration on the national level features an exhibit of Official Statistics in the Philippines, a Statistics Fair and the release of an audio-visual presentation on the milestones of the <a href="http://nap.psa.gov.ph/pss/default.asp" target="_blank"> Philippine Statistical System </a>. Streamers, tarpaulins and posters promoting the <a href= "http://nap.psa.gov.ph/nsm/26thNSM/default.asp"  target="_blank" >26th National Statistics Month </a> and 2nd World Statistics Day will be displayed on the facades of government buildings across the country.
