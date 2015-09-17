@@ -1,0 +1,4 @@
+---
+key: latvian
+lang: lv
+---
