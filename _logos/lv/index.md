@@ -1,0 +1,4 @@
+---
+key: latvia
+lang: lv
+---
