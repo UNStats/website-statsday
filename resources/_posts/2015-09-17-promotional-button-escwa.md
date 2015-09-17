@@ -3,7 +3,6 @@ title: Popular World Statistics Day button in Arabic and French
 ---
 
 <img src="/images/WSD_ESCWA_Buttons.jpg" alt="World Statistics Day buttons in Arabic and French" style="width:300px"><br><br>
-<a href="http://www.escwa.un.org/divisions/main.asp?division=sd" target="_blank"> Statistics Division of the Economic and Social Commission for Western Asia (ESCWA)</a> produces popular WSD button in Arabic and French.
 
 <a href="http://www.escwa.un.org/divisions/main.asp?division=sd" target="_blank"> Statistics Division of the Economic and Social Commission for Western Asia (ESCWA)</a> produces popular WSD button in Arabic and French.
 
