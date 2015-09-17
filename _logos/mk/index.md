@@ -1,0 +1,4 @@
+---
+key: macedonian
+lang: mk
+---
