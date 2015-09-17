@@ -1,4 +1,4 @@
 ---
-key: latvia
+key: latvian
 lang: lv
 ---

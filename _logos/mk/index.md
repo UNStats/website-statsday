@@ -1,4 +1,4 @@
 ---
-key: macedonia
+key: macedonian
 lang: mk
 ---
