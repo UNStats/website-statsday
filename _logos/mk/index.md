@@ -1,0 +1,4 @@
+---
+key: macedonia
+lang: mk
+---
