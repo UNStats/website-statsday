@@ -1,0 +1,8 @@
+---
+title: World Statistics Day button popular at the Joint Statistical Meetings (JSM) in Seattle and the ISI World Statistics Congress (WSC) in Rio de Janeiro
+---
+
+<img src="/images/ISI-WSC_Button_1.jpg" alt="World Statistics Day Button in ISI Rio" style="width:300px">  <img src="/images/ISI-WSC_Button_2.JPG" alt="World Statistics Day Button in ISI Rio" style="width:300px">  <img src="/images/ISI_WSC_Button_3.png" alt="World Statistics Day Button in ISI Rio" style="width:300px"><br><br>
+
+Buttons promoting this year’s celebration of World Statistics Day (WSD) were a hot commodity at recent national and international meetings: Buttons were distributed at the <a href="https://www.amstat.org/meetings/jsm/2015/" target="_blank">2015 Joint Statistical Meetings (JSM)</a> in Seattle as well as the <a href="http://www.isi2015.org/" target="_blank">2015 ISI World Statistics Congress</a> in Rio. In Seattle, the buttons were handed out at the <a href="http://www.amstat.org/" target="_blank">American Statistical Association’s</a> booth in the heavily trafficked Exhibit Hall. Many JSM 2015 attendees were spotted around the convention center and on streets nearby sporting the WSD button. More than 6,800 people attended the largest gathering of statisticians in the world and were introduced to WSD 15 during the event.
+The 60th World Statistics Congress took place in Rio de Janeiro. This bi-annual conference was attended by more than 1500 participants from more than 100 countries. Almost 1000 buttons were distributed at the <a href="http://www.isi-web.org/" target="_blank">ISI booth</a> and could be seen around around the Riocentro, where 1,250 papers were presented in 282 sessions.
