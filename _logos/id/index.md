@@ -1,4 +1,4 @@
 ---
-key: indonesia
+key: indonesian
 lang: id
 ---
