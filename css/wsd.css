@@ -1,0 +1,367 @@
+/*!
+ * Start Bootstrap - Landing Page Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+ 
+ @font-face { 
+     font-family: Lovelo; 
+     src: url('../fonts/Lovelo-Black.otf');
+     font-weight: 100;
+}
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lovelo","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+h1 {
+    color: #069;
+}
+
+.UN-links {
+    padding: 3px;
+    padding-right: 30px;
+    text-align: right;
+    border-bottom: solid 1px #ddd;
+    background-color: #f8f8f8;
+}
+
+.UN-links a {
+    color: #777;
+    font-size: 10px;
+}
+
+@media(min-width:767px) {   
+    .UN-links br {
+        display: none;
+    }
+}
+
+@media(max-width:767px) {   
+    .UN-links {
+        padding-right: 0;
+    }
+    
+    .hide-divider {
+        display: none;
+    }
+}
+
+.topnav {
+    font-size: 16px; 
+}
+
+.navbar-default {
+    margin-bottom: 0;
+    border: none;
+    border-radius: 0;
+    background-color: #fff;
+}
+
+.navbar-default .navbar-brand {
+    color: #069;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #222;
+}
+
+.navbar-brand>img {
+    display: inline;
+    padding-right: 5px;
+}
+
+@media(min-width:767px) {   
+    .navbar-brand>img {
+        display: none;
+    }
+}
+
+@media(max-width:767px) {
+    .navbar-default {
+        padding: 10px 0;
+    }
+    
+    .img-logo {
+        margin-right: 10px;
+    }
+
+    .intro-header {
+        display: none;
+    }
+}
+
+.lead {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.intro-header {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 30px;
+    background-color: #069;
+    color: #fff;
+    text-align: center;
+}
+
+.intro-message {
+    position: relative;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    text-align: center;
+}
+
+.intro-message > h1 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 5em;
+}
+
+.intro-divider {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.intro-message > h3 {
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+@media(max-width:767px) {
+    .intro-message {
+        padding-bottom: 15%;
+    }
+
+    .intro-message > h1 {
+        font-size: 3em;
+    }
+
+    ul.intro-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.intro-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+
+    .intro-divider {
+        width: 100%;
+    }
+}
+
+.content-section-a {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+
+.content-section-b {
+    padding: 50px 0;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.section-heading {
+    margin-bottom: 30px;
+    color: #069;
+}
+
+.section-heading-spacer {
+    float: left;
+    width: 200px;
+    border-top: 3px solid #e7e7e7;
+}
+
+ul.latest-posts {
+    margin: 0;
+    padding: 0;
+}
+
+ul.latest-posts li {
+    padding-left: 20px;
+}
+
+.UN-post:hover, .latest-post:hover {
+    border-color: #069;
+    text-decoration: none;
+}
+
+@media(min-width:767px) {
+    .UN-post .thumbnail {
+        height: 400px;
+    }
+    
+    .latest-post .thumbnail {
+        height: 380px;
+    }
+}
+
+.active-countries {
+    background-color: #f8f8f8;
+    border: solid 1px #e7e7e7;
+    margin-bottom: 20px;
+}
+
+ul.country-list {
+    list-style: none;
+    padding-left: 20px;
+}
+
+ul.country-list img {
+    margin-right: 5px;
+}
+
+ul.country-list a {
+    color: #222;
+}
+
+/* Blog posts ---------------------------------- */
+
+#countries {
+    margin-bottom: 20px;
+}
+
+#remove-filter {
+    margin-bottom: 0px;
+}
+
+select {
+    padding: 5px;
+    background-color: #f8f8f8;
+    border-color: #ccc;
+    
+}
+
+@media(min-width:767px) {
+    .filter-dropdown-m {
+        display: none;
+    }
+}
+
+@media(max-width:767px) {
+    .active-countries {
+        display: none;
+    }
+}
+
+
+.make-visible {
+    display: none;
+}
+
+hr.filter-divider {
+    border-color: #f8f8f8;
+}
+
+ul#posts {
+    list-style: none;
+    padding: 0;
+}
+
+.post {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 3px 2px -2px #e7e7e7;
+}
+
+.post-heading {
+    color: #069;
+    margin-bottom: 20px;
+}
+/* /Blog posts ---------------------------------- */
+
+/* Resources ------------------------------------ */
+
+.thumbnail h4 {
+    color: #069;
+}
+
+.label-blue {
+    background-color: #069;
+    border: solid 1px #069;
+}
+
+.label-white {
+    background-color: #fff;
+    color: #069;
+    border: solid 1px #069;
+}
+
+
+/* /Resources ---------------------------------- */
+
+.banner {
+    padding: 50px 0;
+    color: #f8f8f8;
+    background: url() no-repeat center center;
+    background-size: cover;
+    background-color: #069;
+}
+
+.banner h2 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 3em;
+}
+
+.banner ul {
+    margin-bottom: 0;
+}
+
+.banner-social-buttons {
+    float: right;
+    margin-top: 0;
+}
+
+@media(max-width:1199px) {
+    ul.banner-social-buttons {
+        float: left;
+        margin-top: 15px;
+    }
+}
+
+@media(max-width:767px) {
+    .banner h2 {
+        margin: 0;
+        text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+        font-size: 3em;
+    }
+
+    ul.banner-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.banner-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+}
+
+footer {
+    padding: 20px 0;
+    background-color: #f8f8f8;
+}
+
+p.copyright {
+    margin: 15px 0 0;
+}

@@ -1,0 +1,4 @@
+---
+key: chinese
+lang: zh
+---
