@@ -150,6 +150,15 @@
   },
   "posts": [
     {
+      "id": "42",
+      "title": "The U.S. portal for statistics - FedStats is reaching out to data users with new materials",
+      "date": "2015-10-01",
+      "countries": ["USA"
+      ],
+      "image": "FedStat_logo",
+      "text": "FedStats provides access to the full range of official statistics produced by the federal government of the United States. Continuously updated, the FedStats Showcase page will release a range of new products and features to celebrate World Statistics Day 2015. These include links to all the agencies in the U.S. Federal Statistical System, examples of new data tools and web apps, API information for developers, and details about mobile apps.\n\nIn addition, FedStats will release two new videos: one describing innovative data tools and apps now available from Federal statistical agencies, and the other highlighting the many achievements of America’s largest statistical agency, the U.S. Census Bureau. The Showcase will post videos from other agencies as they become available. Please check back on this website or on [fedstats.sites.usa.gov] (http://fedstats.sites.usa.gov) for more details later."
+    },
+    {
       "id": "41",
       "title": "Lithuania will celebrate with a conference on and cooperate with the Vilnius College of Design to create infographics",
       "date": "2015-09-30",
@@ -335,7 +344,7 @@
       "date": "2015-09-14",
       "countries": ["EST"
       ],
-      "image": "wsd-logo",
+      "image": "Estonia",
       "text": "[Statistics Estonia](http://www.stat.ee) is planning a number of exciting events on and around 20 October to celebrate World Statistics Day 2015.\n\nOn the day itself, Statistics Estonia in cooperation with the [Estonian Statistical Society](http://www-history.mcs.st-andrews.ac.uk/Societies/Estonian_Statistical.html) is organizing a one-day conference. The main office in Tallinn will open its doors to the general public and offer guided tours to visitors. Part of the tour will be a short presentation on the work of Statistics Estonia. Another great way to engage users will be a statistical quiz, which will be launched on the website of [Statistics Estonia](http://www.stat.ee) on 19 October. The quiz will be available online throughout the week."
     },
     {
