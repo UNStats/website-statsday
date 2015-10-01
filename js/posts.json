@@ -47,6 +47,10 @@
           "code": "LTU",
           "name": "Lithuania"
         },
+        {
+          "code": "MEX",
+          "name": "Mexico"
+        },
 
         {
           "code": "NZL",
@@ -145,13 +149,49 @@
     ]
   },
   "posts": [
+    {
+      "id": "42",
+      "title": "The U.S. portal for statistics - FedStats is reaching out to data users with new materials",
+      "date": "2015-10-01",
+      "countries": ["USA"
+      ],
+      "image": "FedStat_logo",
+      "text": "FedStats provides access to the full range of official statistics produced by the federal government of the United States. Continuously updated, the FedStats Showcase page will release a range of new products and features to celebrate World Statistics Day 2015. These include links to all the agencies in the U.S. Federal Statistical System, examples of new data tools and web apps, API information for developers, and details about mobile apps.\n\nIn addition, FedStats will release two new videos: one describing innovative data tools and apps now available from Federal statistical agencies, and the other highlighting the many achievements of America’s largest statistical agency, the U.S. Census Bureau. The Showcase will post videos from other agencies as they become available. Please check back on this website or on [fedstats.sites.usa.gov] (http://fedstats.sites.usa.gov) for more details later."
+    },
+    {
+      "id": "41",
+      "title": "Lithuania will celebrate with a conference on and cooperate with the Vilnius College of Design to create infographics",
+      "date": "2015-09-30",
+      "countries": ["LTU"
+      ],
+      "image": "lithuania",
+      "text": "[Statistics Lithuania] (http://www.stat.gov.lt) will organise different events to celebrate the second World Statistics Day: an official celebratory conference in the Government Office hall, a team building trip for statisticians to famous places of Lithuania, a workshop with design students, and many smaller events. The main event will be the official celebratory conference “Better data. Better lives”, which will be held in the Government Office hall on 20 October. Among the speakers of the conference – Director General of Statistics Lithuania V. Lapėnienė, Prime Minister A. Butkevičius, Minister of Finance R. Šadžius, SEB bank analyst G. Nausėda, spokesman of one of the biggest media Verslo žinios (Business News). A press release about the World Statistics Day, info messages on the Statistics Lithuania website and in social networks and a link to the World Statistics Day website will be published. Statistics Lithuania will for the first time organise a workshop with the students of the [Vilnius College of Design] (http://dizainokolegija.lt). The students, together with the specialists of Statistics Lithuania, will use statistics from our database to create infographics."
+    },
+    {
+      "id": "40",
+      "title": "National Institute of Statistics and Geography of Mexico (INEGI) will celebrate World Statistics Day",
+      "date": "2015-09-30",
+      "countries": ["MEX"
+      ],
+      "image": "inegi",
+      "text": "As part of its programme of activities to commemorate the World Statistics Day on 20 October 2010, Mexico's National Institute of Statistics and Geography, [INEGI] (http://www.inegi.org.mx/) is co-organizing [the 5th OECD World Forum on Statistics, Knowledge and Policy] (http://www.oecd-5wf.mx/), which will take place from 13 to 15 October 2015 in Guadalajara. In addition, INEGI will launch a new web portal with many improvements over its current site, including a new data classification focused on user needs instead of organizational structure, a modern and lighter graphic design, and support for mobile devices. INEGI is also planning to introduce soon the use of video-bulletins to disseminate official communications on its products and activities, which cover areas of great relevance such as National Census, National Surveys and Administrative Records."
+    },
+    {
+      "id": "39",
+      "title": "WSD Logo now available in Filipino",
+      "date": "2015-09-30",
+      "countries": ["PHL"
+      ],
+      "image": "WorldStatsDay_Logo_PH",
+      "text": "Our logo is now available in Filipino, also referred to as Tagalog, which is one of the two official languages of the Philippines. Please send your submission for other languages to [statistics@un.org](mailto:statistics@un.org)"
+    },
    {
       "id": "38",
       "title": "Palestinian Central Bureau of Statistics will hold an international event to celebrate World Statistics Day 2015",
       "date": "2015-09-24",
       "countries": ["PSE"
       ],
-      "image": "wsd-logo",
+      "image": "Palestine",
       "text": "The [Palestinian Central Bureau of Statistics(PCBS)](/files/WSD_PS_2015.pdf) will celebrate this year’s World Statistics Day by organizing an international event that highlights emerging issues and challenges in official statistics. With this, the PCBS builds on the successful international conference PCBS it organized on the first World Statistics Day on 20 October 2010.\n\nThis year’s conference will consist of activities and events that highlight the role of official statistics to the progress of society. The event will witness the launching of the regional Code of Practices (COP). It will also highlight the [Sustainable Development Goal indicators](http://unstats.un.org/sdgs/) from different views and perspectives, emphasize future core competencies in National Statistics (i.e. data visualization, utilization of big data, spatial data), discuss strategies to cope with information revolution and focus on advance innovation and analysis.\n\nThe conference will include reputable keynote speakers, panel discussions, data visualization shows, videos and much more. Conference participants will experience World Statistics Day with a Palestinian flavor with field trips to Palestinian historical and religious sites. Participants will include representatives of Arab and International Statistical Institutions, as well as international experts in the field of official statistics in addition to official research institutions as well as local and international media agencies. The Conference will be held at the Palestine Red Crescent Society HQ in Ramallah from 19-22 October 2015."
     },
    {
@@ -160,7 +200,7 @@
       "date": "2015-09-24",
       "countries": ["DEU"
       ],
-      "image": "wsd-logo",
+      "image": "germany",
       "text": "[Destatis](https://www.destatis.de/DE/Startseite.html), Germany’s national statistical office, will launch its new online portal “StatistikCampus” on 20 October this year. The portal is a special service focusing on users from academia featuring data for research, public use data as well as relevant services and events.\n\nTo foster statistical literacy, Destatis, in cooperation with the [German Statistical Society (DStatG)](http://www.dstatg.de/en/home/) will organize a conference [“Understanding Statistics”](http://www.dstatg.de/de/startseite/aktuelle-news/article/24-wissenschaftliches-kolloquium-statistik-verstehen-orientierung-in-der-informationsgesellschaf/) on 19-20 November 2015. The conference will provide a forum for a dialogue between official statistics and their users from academia, government and the private sector. During the conference, Destatis will also honor the winners of this year’s [Gerhard-Fuerst-Preis](https://www.destatis.de/DE/UeberUns/UnsereAufgaben/GerhardFuerstPreis/GerhardFuerstPreis.html;jsessionid=9C8FF1C087EE24A655D2749A80100D03.cae4). The Gerhard-Fuerst-Preis is awarded annually for outstanding Ph.D., master and bachelor theses in the area of official statistics."
     },
     {
@@ -178,7 +218,7 @@
       "date": "2015-09-22",
       "countries": ["CHE"
       ],
-      "image": "wsd-logo",
+      "image": "Logo_SSS_2013",
       "text": "To celebrate the second World Statistics Day and to further strengthen its visibility, the [Swiss Statistical Society](http://www.stat.ch) is organizing an event on 20 October 2015.\n\nThe seminar will take place at the Fachhochschule Nordwestschweiz in Olten, Switzerland, and will run from 13:30 - 18:30. Presenters include users and producers of statistics from the Swiss Federal Statistical Office, academia and the private sector. The full programme can be found [here](http://www.stat.ch/docs/20151020_Programm_WorldStatisticsDay.pdf)."
     },
     {
@@ -187,7 +227,7 @@
       "date": "2015-09-22",
       "organisations": ["ECB"
       ],
-      "image": "wsd-logo",
+      "image": "European_central_bank",
       "text": "To celebrate this year’s World Statistics Day, the [European Central Bank](http://www.ecb.europa.eu/stats/html/index.en.html) is organizing and hosting a conference on the “European Statistics by the European System of Central Banks”. The main purpose of the conference is to present the European economic and financial statistics by the [European System of Central Banks (ESCB)](https://www.ecb.europa.eu/ecb/orga/escb/html/index.en.html), achievements and further developments.\n\nThe conference will provide EU policy-makers, senior statisticians from central banks around the world, academics, colleagues from other European and international institutions,representatives of the media and of banking and business associations with an opportunity to reflect on a number of key topics related to statistics produced by the ESCB. More information on the programme and registration details can be found [here](/files/20151020_ECB_WSD_Programme.pdf) and [here](/files/20151020_ECB_WSD_registration.pdf)."
     },
      {
@@ -196,7 +236,7 @@
       "date": "2015-09-21",
       "countries": ["TUR"
       ],
-      "image": "wsd-logo",
+      "image": "logo_Turkish_Stat_Institute",
       "text": "The [Turkish Institute of Statistics (Turkstat)](http://www.turkstat.gov.tr/) will celebrate this year’s World Statistics Day in many different ways. On 20 October, Turkstat will hold a panel discussion on “Better data. Better lives.” focusing on the importance of reliable statistics. The panellists are Izak Atiyas (from academia), Prof.Dr. Güngör Uras (a journalist) and Mr. Tarhan Erdem (from research). The event will take place at Turkstat. In addition, all 26 regional offices will organise similar panels in collaboration with universities.\n\nThe office also prepared a range of advocacy material, incl. an article on the “Statistical System of Turkey: Past, Present and Future”, an interview with the director of Turkstat on the development of the national statistical system and a speech of the director launching World Statistics Day. Turkstat is also preparing a special press release “Statistics on Statistics” for the special day. Publicity material such as notepads and posters will be distributed in October and one lucky school in Ankara will receive a visit from Turkstat staff and receive an IT donation. A dedicated website will be released by Turkstat by the end of September."
     },
     {
@@ -304,7 +344,7 @@
       "date": "2015-09-14",
       "countries": ["EST"
       ],
-      "image": "wsd-logo",
+      "image": "Estonia",
       "text": "[Statistics Estonia](http://www.stat.ee) is planning a number of exciting events on and around 20 October to celebrate World Statistics Day 2015.\n\nOn the day itself, Statistics Estonia in cooperation with the [Estonian Statistical Society](http://www-history.mcs.st-andrews.ac.uk/Societies/Estonian_Statistical.html) is organizing a one-day conference. The main office in Tallinn will open its doors to the general public and offer guided tours to visitors. Part of the tour will be a short presentation on the work of Statistics Estonia. Another great way to engage users will be a statistical quiz, which will be launched on the website of [Statistics Estonia](http://www.stat.ee) on 19 October. The quiz will be available online throughout the week."
     },
     {
