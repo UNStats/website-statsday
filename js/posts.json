@@ -7,6 +7,10 @@
           "name": "Belarus"
         },
         {
+          "code": "BGR",
+          "name": "Bulgaria"
+        },
+        {
           "code": "CAN",
           "name": "Canada"
         },
@@ -18,6 +22,10 @@
         {
           "code": "EST",
           "name": "Estonia"
+        },
+        {
+          "code": "FIN",
+          "name": "Finland"
         },
         {
           "code": "DEU",
@@ -34,6 +42,10 @@
         {
           "code": "IRL",
           "name": "Ireland"
+        },
+        {
+          "code": "ITA",
+          "name": "Italy"
         },
         {
           "code": "JPN",
@@ -101,6 +113,10 @@
           "name": "Turkey"
         },
         {
+          "code": "UKR",
+          "name": "Ukraine"
+        },
+        {
           "code": "USA",
           "name": "United States"
         },
@@ -150,6 +166,24 @@
   },
   "posts": [
     {
+      "id": "45",
+      "title": "National Statistical Office of the Dominican Republic celebrates World Statistics Day and its long institutional history",
+      "date": "2015-10-02",
+      "countries": ["DOM"
+      ],
+      "image": "Dominican",
+      "text":"[The National Statistical Office (ONE)] (http://one.gob.do) is planning multiple events to celebrate not only World Statistics Day but also its own long and rich history in producing official statistics for the Dominican Republic. Over the course of October, ONE will hold a press conference to release two new publications and inform the media about World Statistics Day.\n\n ONE is also organizing an exhibition showcasing is long and rich history that reaching back to the early twentieth century using graphs and texts. There will also be a 2-D animation featuring 10 years of National Multi-Purpose Household Survey [Encuesta Nacional de Hogares y Propósitos Múltiples (ENHOGAR)] (http://www.one.gob.do/Estadisticas/216/encuesta-nacional-de-hogares-de-propositos-multiples-%28ENHOGAR%29).\n\n To increase visibility government institutions are invited to place the logo of World Statistics Day at the bottom of their respective homepages, information about World Statistics Day and about the history of ONE will be posted on social networks. ONE's documentation center will host talks with the theme “Better data. Better lives”.\n\n ONE staff have already been enjoying our happy logo on the wallpaper of their computer screens since August."
+    },
+    {
+      "id": "44",
+      "title": "China will celebrate World Statistics Day with a high-level seminar in Xi'an",
+      "date": "2015-10-02",
+      "countries": ["CHN", "UN"
+      ],
+      "image": "NBS_China",
+      "text":"[The United Nations Statistics Division (UNSD)] (http://unstats.un.org) and [the National Bureau of Statistics (NBS) of China] (http://www.stats.gov.cn) will jointly organize the Celebratory Event of the Second World Statistics Day in Xi’an, China, with the theme of  “Better data. Better lives”.\n\n [Mr. Wu Hongbo, United Nations Under-Secretary-General for Economic and Social Affairs] (https://www.un.org/development/desa/statements/usg-wu.html), Mr. Wang Baoan, Commissioner of NBS of China, Mr. Stefan Schweinfest, Director of UNSD, and senior officials of Shaanxi Province will attend the celebratory event. Senior officials and statisticians from over 50 countries and international organizations were expected to join the celebration in China.\n\n The celebratory event will feature keynote speeches for the Second World Statistics Day, a short movie on China’s international statistical training activities, the signing of cooperative document between the United Nations and China, book presentation on a New English-Chinese and Chinese-English Dictionary of Statistics and slides show on the achievements of statistical education and much more."
+    },
+    {
       "id": "43",
       "title": "World Statistics Day logo now available in Bulgarian, Finnish, Italian and Ukrainian",
       "date": "2015-10-02",
@@ -174,7 +208,7 @@
       "countries": ["LTU"
       ],
       "image": "lithuania",
-      "text": "[Statistics Lithuania] (http://www.stat.gov.lt) will organise different events to celebrate the second World Statistics Day: an official celebratory conference in the Government Office hall, a team building trip for statisticians to famous places of Lithuania, a workshop with design students, and many smaller events.\n\n The main event will be the official celebratory conference “Better data. Better lives”, which will be held in the Government Office hall on 20 October. Among the speakers of the conference – Director General of Statistics Lithuania V. Lapėnienė, Prime Minister A. Butkevičius, Minister of Finance R. Šadžius, SEB bank analyst G. Nausėda, spokesman of one of the biggest media Verslo žinios (Business News).\n\n A press release about the World Statistics Day, info messages on the Statistics Lithuania website and in social networks and a link to the World Statistics Day website will be published.\n\n Statistics Lithuania will for the first time organise a workshop with the students of the [Vilnius College of Design] (http://dizainokolegija.lt). The students, together with the specialists of Statistics Lithuania, will use statistics from our database to create infographics."
+      "text": "[Statistics Lithuania] (http://www.stat.gov.lt) will organise different events to celebrate the second World Statistics Day: an official celebratory conference in the Government Office hall, a team building trip for statisticians to famous places of Lithuania, a workshop with design students, and many smaller events. The main event will be the official celebratory conference “Better data. Better lives”, which will be held in the Government Office hall on 20 October. Among the speakers of the conference – Director General of Statistics Lithuania V. Lapėnienė, Prime Minister A. Butkevičius, Minister of Finance R. Šadžius, SEB bank analyst G. Nausėda, spokesman of one of the biggest media Verslo žinios (Business News). A press release about the World Statistics Day, info messages on the Statistics Lithuania website and in social networks and a link to the World Statistics Day website will be published. Statistics Lithuania will for the first time organise a workshop with the students of the [Vilnius College of Design] (http://dizainokolegija.lt). The students, together with the specialists of Statistics Lithuania, will use statistics from our database to create infographics."
     },
     {
       "id": "40",
@@ -183,7 +217,7 @@
       "countries": ["MEX"
       ],
       "image": "inegi",
-      "text": "As part of its programme of activities to commemorate the World Statistics Day on 20 October 2010, Mexico's National Institute of Statistics and Geography, [INEGI] (http://www.inegi.org.mx/) is co-organizing [the 5th OECD World Forum on Statistics, Knowledge and Policy] (http://www.oecd-5wf.mx/), which will take place from 13 to 15 October 2015 in Guadalajara.\n\n In addition, INEGI will launch a new web portal with many improvements over its current site, including a new data classification focused on user needs instead of organizational structure, a modern and lighter graphic design, and support for mobile devices.\n\n INEGI is also planning to introduce soon the use of video-bulletins to disseminate official communications on its products and activities, which cover areas of great relevance such as National Census, National Surveys and Administrative Records."
+      "text": "As part of its programme of activities to commemorate the World Statistics Day on 20 October 2010, Mexico's National Institute of Statistics and Geography, [INEGI] (http://www.inegi.org.mx/) is co-organizing [the 5th OECD World Forum on Statistics, Knowledge and Policy] (http://www.oecd-5wf.mx/), which will take place from 13 to 15 October 2015 in Guadalajara. In addition, INEGI will launch a new web portal with many improvements over its current site, including a new data classification focused on user needs instead of organizational structure, a modern and lighter graphic design, and support for mobile devices. INEGI is also planning to introduce soon the use of video-bulletins to disseminate official communications on its products and activities, which cover areas of great relevance such as National Census, National Surveys and Administrative Records."
     },
     {
       "id": "39",
