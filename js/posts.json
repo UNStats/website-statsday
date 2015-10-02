@@ -14,6 +14,10 @@
           "code": "CAN",
           "name": "Canada"
         },
+		{
+          "code": "CHN",
+          "name": "China"
+        },
         {
          "code": "HKG",
          "name": "China, Hong Kong SAR"
@@ -180,7 +184,7 @@
       "date": "2015-10-02",
       "countries": ["CHN", "UN"
       ],
-      "image": "NBS_China",
+      "image": "NBS_china",
       "text":"[The United Nations Statistics Division (UNSD)] (http://unstats.un.org) and [the National Bureau of Statistics (NBS) of China] (http://www.stats.gov.cn) will jointly organize the Celebratory Event of the Second World Statistics Day in Xi’an, China, with the theme of  “Better data. Better lives”.\n\n [Mr. Wu Hongbo, United Nations Under-Secretary-General for Economic and Social Affairs] (https://www.un.org/development/desa/statements/usg-wu.html), Mr. Wang Baoan, Commissioner of NBS of China, Mr. Stefan Schweinfest, Director of UNSD, and senior officials of Shaanxi Province will attend the celebratory event. Senior officials and statisticians from over 50 countries and international organizations were expected to join the celebration in China.\n\n The celebratory event will feature keynote speeches for the Second World Statistics Day, a short movie on China’s international statistical training activities, the signing of cooperative document between the United Nations and China, book presentation on a New English-Chinese and Chinese-English Dictionary of Statistics and slides show on the achievements of statistical education and much more."
     },
     {
