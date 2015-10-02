@@ -14,13 +14,17 @@
           "code": "CAN",
           "name": "Canada"
         },
-		{
+		    {
           "code": "CHN",
           "name": "China"
         },
         {
          "code": "HKG",
          "name": "China, Hong Kong SAR"
+        },
+        {
+          "code": "DOM",
+          "name": "Dominican Republic"
         },
 
         {
