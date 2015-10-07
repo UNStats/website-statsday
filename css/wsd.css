@@ -32,14 +32,7 @@ h1 {
 }
 
 .lead {
-    font-size: 14px;
-    font-weight: 400;
-}
-
-.text-center {
-    text-align: center;
-}
-
+    font-size: 18px;
 .UN-links {
     padding: 3px;
     padding-right: 30px;
