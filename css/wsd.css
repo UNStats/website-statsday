@@ -31,12 +31,21 @@ h1 {
     color: #069;
 }
 
+.lead {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.text-center {
+    text-align: center;
+}
+
 .UN-links {
     padding: 3px;
     padding-right: 30px;
     text-align: right;
     border-bottom: solid 1px #ddd;
-    background-color: #f8f8f8;
+    background-color: #e7e7e7;
 }
 
 .UN-links a {
@@ -67,9 +76,8 @@ h1 {
 
 .navbar-default {
     margin-bottom: 0;
-    border: none;
     border-radius: 0;
-    background-color: #fff;
+    background-color: #f8f8f8;
 }
 
 .navbar-default .navbar-brand {
@@ -103,18 +111,19 @@ h1 {
     .intro-header {
         display: none;
     }
+    
+    .mobile-top-margin {
+        margin-top: 80px;
+    }
 }
 
-.lead {
-    font-size: 18px;
-    font-weight: 400;
+.navbar-default .navbar-nav>li>a.active-tab {
+    color: #069;
 }
 
-.text-center {
-    text-align: center;
-}
 
 .intro-header {
+    margin-top: 80px;
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     background-color: #069;
@@ -146,6 +155,10 @@ h1 {
 }
 
 /* Carousel */
+.carousel {
+    margin-top: 120px; /* to avoid content overlay by fixed top nav 8*/
+}
+
 .carousel-caption {
     left: 0;
     right: 0;
@@ -159,6 +172,10 @@ h1 {
 }
 
 @media screen and (min-width: 768px) {
+    .carousel {
+        margin-top: 80px;
+    }
+    
     .carousel-caption {
         padding-top: 20px;
         font-size: 20px;
@@ -208,7 +225,6 @@ h1 {
 
 .content-section-b {
     padding: 50px 0;
-    border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
 }
 
@@ -251,6 +267,9 @@ ul.latest-posts li {
     background-color: #f8f8f8;
     border: solid 1px #e7e7e7;
     margin-bottom: 20px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 600px;
 }
 
 ul.country-list {
@@ -264,6 +283,11 @@ ul.country-list img {
 
 ul.country-list a {
     color: #222;
+}
+
+.twitter-feed {
+    background-color: #f8f8f8;
+    border: solid 1px #e7e7e7;
 }
 
 /* Blog posts ---------------------------------- */
@@ -295,13 +319,12 @@ select {
     }
 }
 
+.all-posts {
+    padding: 15px 0;
+}
 
 .make-visible {
     display: none;
-}
-
-hr.filter-divider {
-    border-color: #f8f8f8;
 }
 
 ul#posts {
