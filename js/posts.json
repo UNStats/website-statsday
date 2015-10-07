@@ -1,7 +1,14 @@
 {
   "codes": {
     "country": [
-
+      {
+        "code": "AIA",
+        "name": "Anguilla"
+      },
+      {
+        "code": "BGD",
+        "name": "Bangladesh"
+      },
         {
           "code": "BLR",
           "name": "Belarus"
@@ -71,6 +78,10 @@
           "name": "Lithuania"
         },
         {
+          "code": "LUX",
+          "name": "Luxembourg"
+        },
+        {
           "code": "MAR",
           "name": "Morocco"
         },
@@ -82,6 +93,10 @@
         {
           "code": "NZL",
           "name": "New Zealand"
+        },
+        {
+          "code": "PER",
+          "name": "Peru"
         },
         {
           "code": "PHL",
@@ -159,7 +174,7 @@
       },
       {
         "code": "CARICOM",
-        "name": "Caribbean Community Secretariat"
+        "name": "Caribbean Community"
       },
       {
         "code": "ECB",
@@ -189,16 +204,79 @@
   },
   "posts": [
     {
-      "id": "50",
-      "title": "DESA News article highlights central role of statistics for sustainable development",
-      "date": "2015-10-02",
-      "organisations": ["UN"
+          "id": "56",
+          "title": "DESA News article highlights central role of statistics for sustainable development",
+          "date": "2015-10-02",
+          "organisations": ["UN"
+          ],
+          "image": "ASG-Lenni",
+          "text":"The latest issue of DESA News, the newsletter of the United Nations Department of Economic and Social Affairs, has published a [feature article] ( https://www.un.org/development/desa/newsletter/feature/2015/10/#16126) dedicated to World Statistics Day 2015. It highlights the centrality of statistics to development, particularly by “setting the right standards, providing data and analysis and working closely with countries to strengthen national statistical capacities.” \n\n UN DESA’s Assistant Secretary-General for Economic Development, Mr. Lenni Montiel, also extends an invitation to join him on 22 October in a Twitter chat, via his twitter handle [@LenniMontiel](https://twitter.com/LenniMontiel). The main focus of this chat will be to discuss how the statistical work and lessons learned from the MDG monitoring experience will be the springboard for the new Sustainable Development Goals (SDGs). \n\n [![Better data for better lives: Celebrating World Statistics Day 2015](./img/posts/ASG-Lenni.jpg)](https://youtu.be/hg3gv9ggqSc \"Better data for better lives: Celebrating World Statistics Day 2015\")"
+      },
+      {
+          "id": "55",
+          "title": "The World’s Women 2015: Trends and Statistics will be launched on the World Statistics Day 2015 at UN Headquarters",
+          "date": "2015-10-06",
+          "organisations": ["UN"
+          ],
+          "image": "WorldWomen2015",
+          "text":"The World’s Women 2015: Trends and Statistics is the sixth edition in a series of reports produced by the United Nations Statistics Division.\n\n The report is produced every five years as called for specifically in the Beijing Platform for Action adopted at the Fourth World Conference on Women in 1995.\n\n The eight chapters of the report cover several critical areas of policy concerns identified in the 1995 Beijing Platform for Action: population and families; health; education; work; power and decision-making; violence against women; environment; and poverty.\n\n In each area, a life-cycle approach is used to reveal the experiences of women and men during different periods of life – from childhood and the formative years, through the working and reproductive stages, to older ages. For additional information, please contact: [shibata@un.org](mailto:shibata@un.org)"
+        },
+      {
+                "id": "54",
+                "title": "International Seminar on World Statistics Day 2015 in Peru will focus on ethnicity data",
+                "date": "2015-10-06",
+                "countries": ["PER"
+                ],
+                "image": "Peru",
+                "text":"On the occasion of World Statistics Day, [Peru’s National Statistical Office](http://www.inei.gob.pe/) is organizing an International Seminar to discuss the management of ethnicity variables in national censuses, surveys and administrative records. The seminar will take place in Lima on 20-21 October 2015.\n\n The development of solid statistical methodologies to collect and analyze data on ethnicity is a topic of particular importance this year, as the international statistical community works to define a new indicator framework to follow up and review the implementation of a newly adopted [2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld). Among other things, this indicator framework will require the collection of disaggregated data to ensure that no one is left behind, including ethnic and other vulnerable population groups.\n\n It is expected that the event will be inaugurated by the President of Peru, Mr. Ollanta Humala, and will count with international and national participants, including statisticians, decision makers, researchers, and organizations."
+      },
+      {
+          "id": "53",
+          "title": "Hungary launches an extensive year-round programme in commemoration of World Statistics Day",
+          "date": "2015-10-05",
+          "countries": ["HUN"
+          ],
+          "image": "Hungary_Library",
+          "text":"Hungary, who was the main sponsor of the [General Assembly resolution] (https://docs.google.com/file/d/0B8n3WhOaTbGVQUlwMjJtcWtQZjQ/edit?pli=1), is embarking on a year-round celebration of statistics. [The Hungarian Central Statistical Office (HCO)] (http://www.ksh.hu) is creating a dedicated webpage on which they are going to report on the year-round series of events related to World Statistics Day. The page will also provide statistical curiosities, applications, games, online broadcasts and media contents for visitors.\n\n##### A panel discussion in the HCSO under the motto  “Better data. Better lives”.\n\n Celebrations began on 18 September with a panel discussion in the Hungarian Central Statistical Office on “the practical use and value of statistical data”. The event was live broadcast through a link on the HCSO website.\n\n##### “Doors open” days in the Hungarian Central Statistical Office \n\n On 19-20 September 2015, in conjunction with the event series of the Cultural Heritage Days, the ‘Palace of Statistics’ once again opened its doors. The building located at 5-7 Keleti Károly Street is one of the few still used for the purpose for which it was designed. During the weekend, an exhibition of statistical curiosities, a games corner and a discounted book fair awaited visitors.\n\n [The HCSO library] (http://konyvtar.ksh.hu/index.php?s=fejlesztesalatt_en) also opened its doors. It has a collection of 850 thousand publications. Visitors had the chance to become familiar with the reading rooms, the movable bookshelves in the library’s compact storage area and the prestigious office of the director-general; they could browse old maps and publications once declared to be secret; furthermore, they could join the library for a discounted charge.\n\n##### International conference celebrating World Statistics Day 2015\n\n The Hungarian Central Statistical Office, together with [the Hungarian Academy of Sciences] (http://www.mta.hu) and [the Hungarian Statistical Association] (http://isi.cbs.nl/statsoc/hungary2.htm), is organizing an international conference in Budapest on 20-21 October 2015. The topic is “Official statistics: New opportunities for transformation – innovation and cooperation”. \n\n The conference aims to identify the main concerns and find answers to how producers of official statistics and institutions of higher education can respond in order to satisfy the rightful needs of our users on the short, medium and long term. Being aware of the complexity of the phenomenon, the conference will be addressed in a plenary session, followed by round-table discussions, which will be dedicated to five key aspects, namely:\n\n* Sustainability of statistics: from data sources to the image of official statistics;\n* Microdata exchange in international trade, migration and banking statistics;\n* Human Resources Management and organisational modernisation;\n* Training the new generations and rejuvenating the older generations of statisticians;\n* Dissemination and communication. \n# \n\n For a tentative programme [click here] (./files/20151002_HUN_Preliminary_Programme.pdf). The event will be live broadcast online to facilitate the sharing of knowledge and ideas as widely as possible. The recordings will be made available on Youtube.\n\n##### Events at regional level \n\n Connected to the events of World Statistics Day 2015, the Veszprém Department of the Hungarian Central Statistical Office, as well as the Chamber of Commerce of Veszprém County and the Europe Direct Information Centre of Veszprém County, will organise a team competition entitled 'Who knows more about the world of statistics?' for students studying in grades 10-13 of secondary schools in Veszprém county.\n\n The Hungarian Central Statistical Office is planning to continue organising further events related to World Statistics Day 2015 in the course of the following year."
+      },
+      {
+      "id": "52",
+      "title": "Anguilla Statistics Department celebrates “Statistics Week 2015”",
+      "date": "2015-10-06",
+      "countries": ["AIA"
       ],
-      "image": "ASG-Lenni",
-      "text":"The latest issue of DESA News, the newsletter of the United Nations Department of Economic and Social Affairs, has published a [feature article] ( https://www.un.org/development/desa/newsletter/feature/2015/10/#16126) dedicated to World Statistics Day 2015. It highlights the centrality of statistics to development, particularly by “setting the right standards, providing data and analysis and working closely with countries to strengthen national statistical capacities.” \n\n UN DESA’s Assistant Secretary-General for Economic Development, Mr. Lenni Montiel, also extends an invitation to join him on 22 October in a Twitter chat, via his twitter handle [@LenniMontiel](https://twitter.com/LenniMontiel). The main focus of this chat will be to discuss how the statistical work and lessons learned from the MDG monitoring experience will be the springboard for the new Sustainable Development Goals (SDGs). \n\n [![Better data for better lives: Celebrating World Statistics Day 2015](./img/posts/ASG-Lenni.jpg)](https://youtu.be/hg3gv9ggqSc \"Better data for better lives: Celebrating World Statistics Day 2015\")"
+      "image": "Anguilla",
+      "text":"Anguilla will celebrate “Statistics Week 2015” during the week of 11-16 October 2015 under the theme: “Empowering our nation through the use of quality statistics – Post 2015 Development Agenda”. To celebrate this as well as the [Caribbean Statistics Day (15 October 2015)] (http://www.caricomstats.org/caribbean-statistics-day-2015.htm) and World Statistics Day (20 October 2015) [the Anguilla Statistics Department] (http://www.gov.ai/statistics/) has planned a number of [activities] (http://www.caricomstats.org/caribbean-statistics-day-2015.htm) during this week.\n\n Anguilla’s week of activities is intended to raise awareness of the use of statistics in empowering individuals, communities and ultimately their nation and by extension the Caribbean and the World.\n\n The Anguilla Statistics Department has already launched the following pre-week:\n\n* A Word Creation Competition – using the statement “Development agenda and data” (for all primary school aged students from grades 3 – 6);\n\n* A Poetry Competition – using the topic “Development Agenda – The role of quality statistics” (for all secondary school aged students);\n\n* A Digital Video Creation – using the statement “Empowering our nation through the use of quality statistics” (open to the general public).\n\n \nAll competitions opened on 21 September 2015. The student competitions close on 7 October 2015 and the Digital Video Creation closes a week later on 14 October 2015. Students are encouraged to collect rules and entry forms for the two competitions from the respective schools grade teachers. Rules and entry forms for the Digital Video Creation can be collected from the Treasury or Inland Revenue Counters, the Anguilla General Post Office or the Anguilla Statistics Department.\n\n Further information about the activities planned for Anguilla Statistics Week 2015 will be released during the upcoming weeks. Persons requiring additional information may contact the Anguilla Statistics Department by e-mail (<statistics@gov.ai>)."
+    },
+    {
+      "id": "51",
+      "title": "Conference in Luxembourg to mark World Statistics Day on 20 October 2015",
+      "date": "2015-10-06",
+      "countries": ["LUX"
+      ],
+      "image": "luxembourg",
+      "text":"In the context of World Statistic Day 20 October 2015, a conference including a round table will be organised in Luxembourg by [STATEC] (http://www.statistiques.public.lu/fr/acteurs/statec/), the National Institute of statistics and economic studies of the Grand Duchy of Luxembourg, and [EUROSTAT] (http://ec.europa.eu/eurostat), the statistical office of the European Union situated in Luxembourg.\n\n The opening speech will be delivered by Mr Serge Allegrezza, Director of STATEC and Ms Mariana Kotzeva, Deputy Director General of EUROSTAT. Nico Weydert (President of LSS) will introduce the newly founded Luxembourg Statistics Society LSS). There will then follow a couple of sessions on “big data” and official statistics. To finish, a round-table will be organized with representatives of some of the most important groups of users of statistics in Luxembourg.\n\n Further information and details regarding registration are available at [http://www.statistiques.public.lu/fr/agenda/detail-agenda/2015/10/journeemondiale.pdf](http://www.statistiques.public.lu/fr/agenda/detail-agenda/2015/10/journeemondiale.pdf)"
+    },
+    {
+      "id": "50",
+      "title": "Bangladesh celebrates World Statistics Day 2015",
+      "date": "2015-10-06",
+      "countries": ["BGD"
+      ],
+      "image": "Bangladesh",
+      "text":"In Bangladesh the day is being jointly celebrated by [the Statistics and Informatics Division (SID) of the Ministry of Planning] (http://www.sid.gov.bd/), [the Bangladesh Bureau of Statistics (BBS)] (http://www.bbs.gov.bd/) and [the Bangladesh Statistical Association (BSA)] (http://isi.cbs.nl/statsoc/bangladesh2.htm). A National Committee and a number of sub-committees have been formed comprising members from these offices to implement different programmes.\n\n The programmes include: a National Seminar, souvenirs, newspaper supplements, rallies, press conferences, books, exhibitions, TV talk shows, cultural programmes, posters highlighting the theme of the day, hoisting of festoons and placards and the distribution of Crests among the Distinguished Statisticians."
     },
     {
       "id": "49",
+      "title": "Caribbean Community celebrates the seventh annual Caribbean Statistics Day",
+      "date": "2015-10-05",
+      "organisations": ["CARICOM"
+      ],
+      "image": "Caricom",
+      "text":"15 October 2015 will mark the seventh annual observance of Caribbean Statistics Day in [the Caribbean Community (CARICOM)](http://www.caricomstats.org). This year's activities also coincide with the second observance of the United Nation's World Statistics Day on 20 October 2015.\n\n [Caribbean Statistics Day] (http://www.caricomstats.org/caribbean-statistics-day-2015.htm) is aimed at recognizing the vital role of statistics in improving the daily lives of the peoples of our Community and in raising the profile of statistics and statisticians across the Region. The theme that has been proposed for this year is aligned with the World Statistics Day theme, namely “Better data. Better lives”. \n\n Member States and Associate Members are encouraged to actively engage with stakeholders including, suppliers and users of data and specifically, schools, children and youth in general in promoting the importance of statistics to the development of the respective countries. Countries are also urged to recruit members to [the Caribbean Association of Professional Statisticians (CAPS)] (http://www.caricomstats.org/CAPS.htm).\n\n To learn more about how the region will celebrate Caribbean and World Statistics Day, please also visit [http://www.caricomstats.org/caribbean-statistics-day-2015.htm](http://www.caricomstats.org/caribbean-statistics-day-2015.htm)."
+    },
+    {
+      "id": "48",
       "title": "Statistics Iceland to launch its new website on World Statistics Day",
       "date": "2015-10-05",
       "countries": ["ISL"
@@ -207,7 +285,7 @@
       "text":"[Statistics Iceland] (http://www.statice.is) will launch its new website on World Statistics Day. The new website will feature a more user friendly web interface making statistics more accessible, better search functions and an improved functionality on tablet and mobile phones. Please be sure to check out [statice.is](http://www.statice.is) soon after World Statistics Day."
     },
     {
-      "id": "48",
+      "id": "47",
       "title": "Suriname will celebrate Caribbean Statistics Day on 15 October and World Statistics Day on 20 October",
       "date": "2015-10-05",
       "countries": ["SUR"
@@ -216,7 +294,7 @@
       "text":"On [Caribbean Statistics Day, CSD] (http://www.caricomstats.org/caribbean-statistics-day-2015.htm), 15 October 2015, staff of [the General Bureau of Statistics, GBS] (http://statistics-suriname.org) will get to gather with their staff for a speech from its director, Mr. Sno, a slide show of the previous CSD celebrations and a lunch. All staff will receive a CSD/WSD polo shirt, which they are encouraged to wear to work on Caribbean Statistics Day, on World Statistics Day and every Friday for the remaining of the year.\n\n There will be a one day Statistics Fair, on 20 of October (WSD) from 12.00- 18.00 o’clock at the Lalla Rookh building, where the General Bureau of Statistics and other ministries will participate. [UNICEF] (http://www.unicef.org) and [the UN Development Programme] (http://undp.org) are sponsoring the data fair and the EnvironmentInfo launch. Suriname will launch their SurinameEnvironmentInfo online, and the two DevInfo databases that were launched last year will be updated. At the launch, all the stakeholders of the environment statistics publication will be invited. The launch will be on 20 of October (WSD) from 9.00-11.00 o’clock.\n\n Already on 29 September banners have been placed on various locations in Suriname, where WSD and the Statistics Fair will be promoted. The banners will be on display until World Statistics Day.\n\n On World Statistics Day, GBS staff will visit secondary schools and distribute booklets informing about the Sustainable Development Goals (SDG guide), the work of GBS (GBSINFO guide), an environment guide, and a poster with all the 17 Sustainable Development Goals. The same booklets will also be provided to the Fair visitors.\n\n GBS is also preparing an infomercial where the director of GBS, Mr. Sno will say a few words about Caribbean Statistics Day, World Statistics Day and the fair. In addition, Mr. Armstrong Alexis, from the UN Development Programme, one of the sponsors of the Fair, will have a infomercial saying some words about the importance of data and the Sustainable Development Goals. Both infomercials will be broadcast on television stations in the period 15 – 20 October. There will also be promotion on the radio stations and in the newspapers about celebrating World Statistics Day and the Statistics Fair."
     },
     {
-      "id": "47",
+      "id": "46",
       "title": "The Kingdom of Morocco celebrates World Statistics Day 2015 with an international seminar and a series of regional events",
       "date": "2015-10-05",
       "countries": ["MAR"
@@ -225,7 +303,7 @@
       "text":"Under the High Patronage of His Majesty the King Mohammed VI, [the High Commission for Planning in Morocco] (http://hcp.ma) joins the international community to celebrate World Statistics Day on 20 October 2015 under the theme: “Better Data. Better Lives.”. In this regard, a set of activities are scheduled from 20 to 23 October, 2015 at both central level and in the 12 regions of the Kingdom.\n\n An international seminar will be held on 20 October 2015 in Rabat. Participants include eminent senior government officials in charge of statistical production; parliamentarian personalities; representatives of professional organizations and civil society; academics and researchers and eminent international personalities including Mr. Jean Luc Tavernier, Director of [the National Institute of Statistics and Economic Studies of France] (http://www.insee.fr/en/default.asp), Mr. Mario Pezzini, Director of [the OECD Development Centre] (http://www.oecd.org/dev/) Mr. Pedro Luis do Nascimento Silva, President of [the International Statistical Institute] (http://www.isi-web.org). Mr Walter Radermacher, Director General of [Eurostat] (http://ec.europa.eu/eurostat) and Mr. Enrico Giovannini, former Minister of Employment and social policies, Italy, will participate through visio-conference.\n\n Open Days at both central level and in the 12 regions of the Kingdom will be held on 21, 22 and 23 October 2015. The program for these days includes: thematic workshops on the recent achievements of national statistical system and popularization of statistical concepts and methodologies; exhibition (technologies, websites, publications) and guided visits for pupils and students. \n\n Brochures, banners, posters, roll up and other promotional items are being developed to facilitate communication.\n\n Last but not least, the website for the 61th World Statistics Congress of the International Statistical Institute to be held in Marrakech from 16 to 21 July 2017 (ISI2017)will be officially launched on World Statistics Day."
     },
     {
-      "id": "46",
+      "id": "45",
       "title": "National Statistical Office of the Dominican Republic celebrates World Statistics Day and its long institutional history",
       "date": "2015-10-02",
       "countries": ["DOM"
@@ -234,7 +312,7 @@
       "text":"[The National Statistical Office (ONE)] (http://one.gob.do) is planning multiple events to celebrate not only World Statistics Day but also its own long and rich history in producing official statistics for the Dominican Republic. Over the course of October, ONE will hold a press conference to release two new publications and inform the media about World Statistics Day.\n\n ONE is also organizing an exhibition showcasing is long and rich history that reaching back to the early twentieth century using graphs and texts. There will also be a 2-D animation featuring 10 years of National Multi-Purpose Household Survey [Encuesta Nacional de Hogares y Propósitos Múltiples (ENHOGAR)] (http://www.one.gob.do/Estadisticas/216/encuesta-nacional-de-hogares-de-propositos-multiples-%28ENHOGAR%29).\n\n To increase visibility government institutions are invited to place the logo of World Statistics Day at the bottom of their respective homepages, information about World Statistics Day and about the history of ONE will be posted on social networks. ONE's documentation center will host talks with the theme “Better data. Better lives”.\n\n ONE staff have already been enjoying our happy logo on the wallpaper of their computer screens since August."
     },
     {
-      "id": "45",
+      "id": "44",
       "title": "China will celebrate World Statistics Day with a high-level seminar in Xi'an",
       "date": "2015-10-02",
       "countries": ["CHN"
@@ -243,15 +321,6 @@
       ],
       "image": "NBSchina",
       "text":"[The United Nations Statistics Division (UNSD)] (http://unstats.un.org) and [the National Bureau of Statistics (NBS) of China] (http://www.stats.gov.cn) will jointly organize the Celebratory Event of the Second World Statistics Day in Xi’an, China, with the theme of  “Better data. Better lives”.\n\n [Mr. Wu Hongbo, United Nations Under-Secretary-General for Economic and Social Affairs] (https://www.un.org/development/desa/statements/usg-wu.html), Mr. Wang Baoan, Commissioner of NBS of China, Mr. Stefan Schweinfest, Director of UNSD, and senior officials of Shaanxi Province will attend the celebratory event. Senior officials and statisticians from over 50 countries and international organizations were expected to join the celebration in China.\n\n The celebratory event will feature keynote speeches for the Second World Statistics Day, a short movie on China’s international statistical training activities, the signing of cooperative document between the United Nations and China, book presentation on a New English-Chinese and Chinese-English Dictionary of Statistics and slides show on the achievements of statistical education and much more."
-    },
-    {
-      "id": "44",
-      "title": "Caribbean Community celebrates the seventh annual Caribbean Statistics Day",
-      "date": "2015-10-05",
-      "organisations": ["CARICOM"
-      ],
-      "image": "Caricom",
-      "text":"15 October 2015 will mark the seventh annual observance of Caribbean Statistics Day in [the Caribbean Community (CARICOM)](http://www.caricomstats.org). This year's activities also coincide with the second observance of the United Nation's World Statistics Day on 20 October 2015.\n\n [Caribbean Statistics Day] (http://www.caricomstats.org/caribbean-statistics-day-2015.htm) is aimed at recognizing the vital role of statistics in improving the daily lives of the peoples of our Community and in raising the profile of statistics and statisticians across the Region. The theme that has been proposed for this year is aligned with the World Statistics Day theme, namely “Better data. Better lives”. \n\n Member States and Associate Members are encouraged to actively engage with stakeholders including, suppliers and users of data and specifically, schools, children and youth in general in promoting the importance of statistics to the development of the respective countries. Countries are also urged to recruit members to [the Caribbean Association of Professional Statisticians (CAPS)] (http://www.caricomstats.org/CAPS.htm).\n\n To learn more about how the region will celebrate Caribbean and World Statisics Day, please also visit [http://www.caricomstats.org/caribbean-statistics-day-2015.htm](http://www.caricomstats.org/caribbean-statistics-day-2015.htm)."
     },
     {
       "id": "43",
