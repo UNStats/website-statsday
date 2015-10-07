@@ -6,6 +6,10 @@
         "name": "Anguilla"
       },
       {
+        "code": "AZE",
+        "name": "Azerbaijan"
+      },
+      {
         "code": "BGD",
         "name": "Bangladesh"
       },
@@ -89,7 +93,6 @@
           "code": "MEX",
           "name": "Mexico"
         },
-
         {
           "code": "NZL",
           "name": "New Zealand"
@@ -101,6 +104,10 @@
         {
           "code": "PHL",
           "name": "Philippines"
+        },
+        {
+          "code": "POL",
+          "name": "Poland"
         },
         {
           "code": "PRT",
@@ -125,6 +132,10 @@
         {
           "code": "SVN",
           "name": "Slovenia"
+        },
+        {
+          "code": "ESP",
+          "name": "Spain"
         },
         {
           "code": "PSE",
@@ -204,42 +215,78 @@
   },
   "posts": [
     {
-          "id": "56",
-          "title": "DESA News article highlights central role of statistics for sustainable development",
-          "date": "2015-10-02",
-          "organisations": ["UN"
-          ],
-          "image": "ASG-Lenni",
-          "text":"The latest issue of DESA News, the newsletter of the United Nations Department of Economic and Social Affairs, has published a [feature article] ( https://www.un.org/development/desa/newsletter/feature/2015/10/#16126) dedicated to World Statistics Day 2015. It highlights the centrality of statistics to development, particularly by “setting the right standards, providing data and analysis and working closely with countries to strengthen national statistical capacities.” \n\n UN DESA’s Assistant Secretary-General for Economic Development, Mr. Lenni Montiel, also extends an invitation to join him on 22 October in a Twitter chat, via his twitter handle [@LenniMontiel](https://twitter.com/LenniMontiel). The main focus of this chat will be to discuss how the statistical work and lessons learned from the MDG monitoring experience will be the springboard for the new Sustainable Development Goals (SDGs). \n\n [![Better data for better lives: Celebrating World Statistics Day 2015](./img/posts/ASG-Lenni.jpg)](https://youtu.be/hg3gv9ggqSc \"Better data for better lives: Celebrating World Statistics Day 2015\")"
-      },
-      {
-          "id": "55",
-          "title": "The World’s Women 2015: Trends and Statistics will be launched on the World Statistics Day 2015 at UN Headquarters",
-          "date": "2015-10-06",
-          "organisations": ["UN"
-          ],
-          "image": "WorldWomen2015",
-          "text":"The World’s Women 2015: Trends and Statistics is the sixth edition in a series of reports produced by the United Nations Statistics Division.\n\n The report is produced every five years as called for specifically in the Beijing Platform for Action adopted at the Fourth World Conference on Women in 1995.\n\n The eight chapters of the report cover several critical areas of policy concerns identified in the 1995 Beijing Platform for Action: population and families; health; education; work; power and decision-making; violence against women; environment; and poverty.\n\n In each area, a life-cycle approach is used to reveal the experiences of women and men during different periods of life – from childhood and the formative years, through the working and reproductive stages, to older ages. For additional information, please contact: [shibata@un.org](mailto:shibata@un.org)"
-        },
-      {
-                "id": "54",
-                "title": "International Seminar on World Statistics Day 2015 in Peru will focus on ethnicity data",
-                "date": "2015-10-06",
-                "countries": ["PER"
-                ],
-                "image": "Peru",
-                "text":"On the occasion of World Statistics Day, [Peru’s National Statistical Office](http://www.inei.gob.pe/) is organizing an International Seminar to discuss the management of ethnicity variables in national censuses, surveys and administrative records. The seminar will take place in Lima on 20-21 October 2015.\n\n The development of solid statistical methodologies to collect and analyze data on ethnicity is a topic of particular importance this year, as the international statistical community works to define a new indicator framework to follow up and review the implementation of a newly adopted [2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld). Among other things, this indicator framework will require the collection of disaggregated data to ensure that no one is left behind, including ethnic and other vulnerable population groups.\n\n It is expected that the event will be inaugurated by the President of Peru, Mr. Ollanta Humala, and will count with international and national participants, including statisticians, decision makers, researchers, and organizations."
-      },
-      {
-          "id": "53",
-          "title": "Hungary launches an extensive year-round programme in commemoration of World Statistics Day",
-          "date": "2015-10-05",
-          "countries": ["HUN"
-          ],
-          "image": "Hungary_Library",
-          "text":"Hungary, who was the main sponsor of the [General Assembly resolution] (https://docs.google.com/file/d/0B8n3WhOaTbGVQUlwMjJtcWtQZjQ/edit?pli=1), is embarking on a year-round celebration of statistics. [The Hungarian Central Statistical Office (HCO)] (http://www.ksh.hu) is creating a dedicated webpage on which they are going to report on the year-round series of events related to World Statistics Day. The page will also provide statistical curiosities, applications, games, online broadcasts and media contents for visitors.\n\n##### A panel discussion in the HCSO under the motto  “Better data. Better lives”.\n\n Celebrations began on 18 September with a panel discussion in the Hungarian Central Statistical Office on “the practical use and value of statistical data”. The event was live broadcast through a link on the HCSO website.\n\n##### “Doors open” days in the Hungarian Central Statistical Office \n\n On 19-20 September 2015, in conjunction with the event series of the Cultural Heritage Days, the ‘Palace of Statistics’ once again opened its doors. The building located at 5-7 Keleti Károly Street is one of the few still used for the purpose for which it was designed. During the weekend, an exhibition of statistical curiosities, a games corner and a discounted book fair awaited visitors.\n\n [The HCSO library] (http://konyvtar.ksh.hu/index.php?s=fejlesztesalatt_en) also opened its doors. It has a collection of 850 thousand publications. Visitors had the chance to become familiar with the reading rooms, the movable bookshelves in the library’s compact storage area and the prestigious office of the director-general; they could browse old maps and publications once declared to be secret; furthermore, they could join the library for a discounted charge.\n\n##### International conference celebrating World Statistics Day 2015\n\n The Hungarian Central Statistical Office, together with [the Hungarian Academy of Sciences] (http://www.mta.hu) and [the Hungarian Statistical Association] (http://isi.cbs.nl/statsoc/hungary2.htm), is organizing an international conference in Budapest on 20-21 October 2015. The topic is “Official statistics: New opportunities for transformation – innovation and cooperation”. \n\n The conference aims to identify the main concerns and find answers to how producers of official statistics and institutions of higher education can respond in order to satisfy the rightful needs of our users on the short, medium and long term. Being aware of the complexity of the phenomenon, the conference will be addressed in a plenary session, followed by round-table discussions, which will be dedicated to five key aspects, namely:\n\n* Sustainability of statistics: from data sources to the image of official statistics;\n* Microdata exchange in international trade, migration and banking statistics;\n* Human Resources Management and organisational modernisation;\n* Training the new generations and rejuvenating the older generations of statisticians;\n* Dissemination and communication. \n# \n\n For a tentative programme [click here] (./files/20151002_HUN_Preliminary_Programme.pdf). The event will be live broadcast online to facilitate the sharing of knowledge and ideas as widely as possible. The recordings will be made available on Youtube.\n\n##### Events at regional level \n\n Connected to the events of World Statistics Day 2015, the Veszprém Department of the Hungarian Central Statistical Office, as well as the Chamber of Commerce of Veszprém County and the Europe Direct Information Centre of Veszprém County, will organise a team competition entitled 'Who knows more about the world of statistics?' for students studying in grades 10-13 of secondary schools in Veszprém county.\n\n The Hungarian Central Statistical Office is planning to continue organising further events related to World Statistics Day 2015 in the course of the following year."
-      },
-      {
+      "id": "60",
+      "title": "DESA News article highlights central role of statistics for sustainable development",
+      "date": "2015-10-02",
+      "organisations": ["UN"
+      ],
+      "image": "ASG-Lenni",
+      "text":"The latest issue of DESA News, the newsletter of the United Nations Department of Economic and Social Affairs, has published a [feature article] ( https://www.un.org/development/desa/newsletter/feature/2015/10/#16126) dedicated to World Statistics Day 2015. It highlights the centrality of statistics to development, particularly by “setting the right standards, providing data and analysis and working closely with countries to strengthen national statistical capacities.” \n\n UN DESA’s Assistant Secretary-General for Economic Development, Mr. Lenni Montiel, also extends an invitation to join him on 22 October in a Twitter chat, via his twitter handle [@LenniMontiel](https://twitter.com/LenniMontiel). The main focus of this chat will be to discuss how the statistical work and lessons learned from the MDG monitoring experience will be the springboard for the new Sustainable Development Goals (SDGs). \n\n [![Better data for better lives: Celebrating World Statistics Day 2015](./img/posts/ASG-Lenni.jpg)](https://youtu.be/hg3gv9ggqSc \"Better data for better lives: Celebrating World Statistics Day 2015\")"
+    },
+    {
+      "id": "59",
+      "title": "Statistical Institute of Catalonia and the Catalan Statistical Society will celebrate World Statistics Day",
+      "date": "2015-10-07",
+      "countries": ["ESP"
+      ],
+      "image": "Catalonia",
+      "text":"[The Statistical Institute of Catalonia](http://www.idescat.cat/) is joining UN and other institutions in the world to celebrate the World Statistics Day 2015. We have included a [short promotional vídeo](https://www.youtube.com/watch?v=IH4TAKZQzkc) in our web site.\n\n Together with the Catalan Statistical Society, we will celebrate an event on October 20 in Barcelona, where a Data Manifesto will be made públic. It will be published in our [web page](http://www.idescat.cat/institut/manifestdades/?lang=en)(link will be live starting on October 20, 20h)"
+    },
+    {
+      "id": "58",
+      "title": "Azerbaijan State Statistical Committee celebrates with competition for journalists and a brand new journal “Statistical News”",
+      "date": "2015-10-07",
+      "countries": ["AZE"
+      ],
+      "image": "Azerbaijan",
+      "text":"A number of activities are being carried out in Azerbaijan to celebrate this year’s World Statistics Day.\n\n With the aim to encourage more professional journalists to work with information about the history of statistics of Azerbaijan, its present and future development as well as its role in formation of social and economic policies, a [competition] (http://www.stat.gov.az/news/source/Statistika-KIVDF.pdf) of personal journalist writings was announced. The theme of the competition is “Better data. Better lives.” It is sponsored by [the State Statistical Committee] (http://www.stat.gov.az/indexen.php) and the State Fund for the Support of Mass Media Development under the President of the Republic of Azerbaijan. Winners will be awarded prize money and a diploma. Winning entries will be announced in a press conference and distributed to staff of the State Statistical Committee.\n\n The State Statistical Committee is also producing a video and organizing an exhibition of statistical publications. A ceremonial meeting with participation of representatives from central executive authorities, [the Azerbaijan National Academy of Science] (http://www.science.gov.az), higher educational institutions, international organizations and producers and users of official statistics is also being planned.\n\n Many local statistical bodies in all regions of the country are organizing similar activities.\n\n With the aim of timely informing of community about the activities, a special section related to World Statistics Day has been created on the official webpage by the State Statistical Committee and it is planned to post all materials related World Statistics Day there.\n\n Furthermore, the first issue of the new scientific-practical journal “Statistical news” is planned to be released on World Statistics Day. “Statistical News” will be issued four times a year with the purpose of timely submission of information to general public on achievements in the science of statistics, economic and political analysis, key statistical indicators and its calculation methodologies as well as statistical news occurred in world arena. This journal will cover articles of scientists and researchers, international standards, new statistical technologies, outputs of international statistical workshops and conferences, and other materials. The journal will be an important means for promoting scientific researches in the field of scientific-statistical methodology as well as sharing knowledge."
+    },
+    {
+      "id": "57",
+      "title": "Promote World Statistics Day with banners",
+      "date": "2015-10-07",
+      "organisations": ["UN"
+      ],
+      "image": "wsd-logo",
+      "text":"Check out the artwork we have added to our [Resource page] (./resources.html): you can now download files for a large gate banner [(69x180 inches)](./files/WSDGateBanner.pdf) and a pull up banner [(33x79 inches)](./files/WSDRetracatbleBanner.pdf). The gate banner will be on display at the UN Headquarters starting next week."
+    },
+    {
+      "id": "56",
+      "title": "Poland will celebrate with a focus on community statistics",
+      "date": "2015-10-06",
+      "countries": ["POL"
+      ],
+      "image": "Poland",
+      "text":"[The Central Statistical Office] (http://stat.gov.pl/en/) of Poland is planning to promote the upcoming World Statistics Day in two ways: by providing information on the event via various media and with a conference to be held 20-21 October 2015.\n\n The Central Statistical Office will provide information about World Statistics Day on their website, issue a press release as well as infographics with the logo. Information about World Statistics Day will also be on display on the digital billboard at the office’s headquarter.\n\n To celebrate the World Statistics Day as well as for the 25th anniversary of local-governance in Poland, the Central Statistical Office of Poland is organizing a Conference called “ Official statistics as the local government partner” on 20-21 October 2015 in Lidzbark Warminski (Poland). The Conference is dedicated to the official statistics’ partners, including the local governments cooperating for the statistical surveys’ development, particularly in the area of monitoring of cohesion policy.\n\n The main aim of the conference is to emphasize the importance of the cooperation between official statistics and stakeholders of regional surveys’ development, including the local governments. Its goal is also the promotion of activities for strengthening the official statistics’ confidentiality, official statistics being the key holder of statistical data.\n\n The conference will also highlight the aspects of regional statistics’ development in the view of information needs concerning the monitoring of the conducting of public policies on the local and national level. The issues related to the modern communication methods in the region and to the computing tools improving statistical information availability will be tackled too.\n\n The conference will include the following plenary sessions:\n\n  I. Introduction  \n\n II.    Statistics for local government\n\n III.   Modern statistics in the service of local government and other partners\n\n IV.    Statistics for cohesion – directions for development \n\nand some parallel sessions, presenting the results of research activities in the area of labour market, public services as well as R&D and innovation activities conducted from the EU funds."
+    },
+    {
+      "id": "55",
+      "title": "The World’s Women 2015: Trends and Statistics will be launched on the World Statistics Day 2015 at UN Headquarters",
+      "date": "2015-10-06",
+      "organisations": ["UN"
+      ],
+      "image": "WorldsWomen2015",
+      "text":"The World’s Women 2015: Trends and Statistics is the sixth edition in a series of reports produced by the United Nations Statistics Division.\n\n The report is produced every five years as called for specifically in the Beijing Platform for Action adopted at the Fourth World Conference on Women in 1995.\n\n The eight chapters of the report cover several critical areas of policy concerns identified in the 1995 Beijing Platform for Action: population and families; health; education; work; power and decision-making; violence against women; environment; and poverty.\n\n In each area, a life-cycle approach is used to reveal the experiences of women and men during different periods of life – from childhood and the formative years, through the working and reproductive stages, to older ages.For additional information, please contact: [statistics@un.org](mailto:shibata@un.org)"
+    },
+    {
+      "id": "54",
+      "title": "International Seminar on World Statistics Day 2015 in Peru will focus on ethnicity data",
+      "date": "2015-10-06",
+      "countries": ["PER"
+      ],
+      "image": "Peru",
+      "text":"On the occasion of World Statistics Day, [Peru’s National Statistical Office](http://www.inei.gob.pe/) is organizing an International Seminar to discuss the management of ethnicity variables in national censuses, surveys and administrative records. The seminar will take place in Lima on 20-21 October 2015.\n\n The development of solid statistical methodologies to collect and analyze data on ethnicity is a topic of particular importance this year, as the international statistical community works to define a new indicator framework to follow up and review the implementation of a newly adopted [2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld). Among other things, this indicator framework will require the collection of disaggregated data to ensure that no one is left behind, including ethnic and other vulnerable population groups.\n\n It is expected that the event will be inaugurated by the President of Peru, Mr. Ollanta Humala, and will count with international and national participants, including statisticians, decision makers, researchers, and organizations."
+    },
+    {
+      "id": "53",
+      "title": "Hungary launches an extensive year-round programme in commemoration of World Statistics Day",
+      "date": "2015-10-05",
+      "countries": ["HUN"
+      ],
+      "image": "Hungary_Library",
+      "text":"Hungary, who was the main sponsor of the [General Assembly resolution] (https://docs.google.com/file/d/0B8n3WhOaTbGVQUlwMjJtcWtQZjQ/edit?pli=1), is embarking on a year-round celebration of statistics. [The Hungarian Central Statistical Office (HCO)] (http://www.ksh.hu) is creating a dedicated webpage on which they are going to report on the year-round series of events related to World Statistics Day. The page will also provide statistical curiosities, applications, games, online broadcasts and media contents for visitors.\n\n##### A panel discussion in the HCSO under the motto  “Better data. Better lives”.\n\n Celebrations began on 18 September with a panel discussion in the Hungarian Central Statistical Office on “the practical use and value of statistical data”. The event was live broadcast through a link on the HCSO website.\n\n##### “Doors open” days in the Hungarian Central Statistical Office \n\n On 19-20 September 2015, in conjunction with the event series of the Cultural Heritage Days, the ‘Palace of Statistics’ once again opened its doors. The building located at 5-7 Keleti Károly Street is one of the few still used for the purpose for which it was designed. During the weekend, an exhibition of statistical curiosities, a games corner and a discounted book fair awaited visitors.\n\n [The HCSO library] (http://konyvtar.ksh.hu/index.php?s=fejlesztesalatt_en) also opened its doors. It has a collection of 850 thousand publications. Visitors had the chance to become familiar with the reading rooms, the movable bookshelves in the library’s compact storage area and the prestigious office of the director-general; they could browse old maps and publications once declared to be secret; furthermore, they could join the library for a discounted charge.\n\n##### International conference celebrating World Statistics Day 2015\n\n The Hungarian Central Statistical Office, together with [the Hungarian Academy of Sciences] (http://www.mta.hu) and [the Hungarian Statistical Association] (http://isi.cbs.nl/statsoc/hungary2.htm), is organizing an international conference in Budapest on 20-21 October 2015. The topic is “Official statistics: New opportunities for transformation – innovation and cooperation”. \n\n The conference aims to identify the main concerns and find answers to how producers of official statistics and institutions of higher education can respond in order to satisfy the rightful needs of our users on the short, medium and long term. Being aware of the complexity of the phenomenon, the conference will be addressed in a plenary session, followed by round-table discussions, which will be dedicated to five key aspects, namely:\n\n* Sustainability of statistics: from data sources to the image of official statistics;\n* Microdata exchange in international trade, migration and banking statistics;\n* Human Resources Management and organisational modernisation;\n* Training the new generations and rejuvenating the older generations of statisticians;\n* Dissemination and communication. \n# \n\n For a tentative programme [click here] (./files/20151002_HUN_Preliminary_Programme.pdf). The event will be live broadcast online to facilitate the sharing of knowledge and ideas as widely as possible. The recordings will be made available on Youtube.\n\n##### Events at regional level \n\n Connected to the events of World Statistics Day 2015, the Veszprém Department of the Hungarian Central Statistical Office, as well as the Chamber of Commerce of Veszprém County and the Europe Direct Information Centre of Veszprém County, will organise a team competition entitled 'Who knows more about the world of statistics?' for students studying in grades 10-13 of secondary schools in Veszprém county.\n\n The Hungarian Central Statistical Office is planning to continue organising further events related to World Statistics Day 2015 in the course of the following year."
+    },
+    {
       "id": "52",
       "title": "Anguilla Statistics Department celebrates “Statistics Week 2015”",
       "date": "2015-10-06",
@@ -374,7 +421,7 @@
       "countries": ["PSE"
       ],
       "image": "Palestine",
-      "text": "The [Palestinian Central Bureau of Statistics(PCBS)](/files/WSD_PS_2015.pdf) will celebrate this year’s World Statistics Day by organizing an international event that highlights emerging issues and challenges in official statistics. With this, the PCBS builds on the successful international conference PCBS it organized on the first World Statistics Day on 20 October 2010.\n\nThis year’s conference will consist of activities and events that highlight the role of official statistics to the progress of society. The event will witness the launching of the regional Code of Practices (COP). It will also highlight the [Sustainable Development Goal indicators](http://unstats.un.org/sdgs/) from different views and perspectives, emphasize future core competencies in National Statistics (i.e. data visualization, utilization of big data, spatial data), discuss strategies to cope with information revolution and focus on advance innovation and analysis.\n\nThe conference will include reputable keynote speakers, panel discussions, data visualization shows, videos and much more. Conference participants will experience World Statistics Day with a Palestinian flavor with field trips to Palestinian historical and religious sites. Participants will include representatives of Arab and International Statistical Institutions, as well as international experts in the field of official statistics in addition to official research institutions as well as local and international media agencies. The Conference will be held at the Palestine Red Crescent Society HQ in Ramallah from 19-22 October 2015."
+      "text": "The [Palestinian Central Bureau of Statistics(PCBS)](http://www.pcbs.gov.ps/wsd-2015/en-us/) will celebrate this year’s World Statistics Day by organizing an international event that highlights emerging issues and challenges in official statistics. With this, the PCBS builds on the successful international conference PCBS it organized on the first World Statistics Day on 20 October 2010.\n\nThis year’s conference will consist of activities and events that highlight the role of official statistics to the progress of society. The event will witness the launching of the regional Code of Practices (COP). It will also highlight the [Sustainable Development Goal indicators](http://unstats.un.org/sdgs/) from different views and perspectives, emphasize future core competencies in National Statistics (i.e. data visualization, utilization of big data, spatial data), discuss strategies to cope with information revolution and focus on advance innovation and analysis.\n\nThe conference will include reputable keynote speakers, panel discussions, data visualization shows, videos and much more. Conference participants will experience World Statistics Day with a Palestinian flavor with field trips to Palestinian historical and religious sites. Participants will include representatives of Arab and International Statistical Institutions, as well as international experts in the field of official statistics in addition to official research institutions as well as local and international media agencies. The Conference will be held at the Palestine Red Crescent Society HQ in Ramallah from 19-22 October 2015."
     },
    {
       "id": "37",
