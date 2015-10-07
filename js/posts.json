@@ -86,6 +86,10 @@
           "name": "Luxembourg"
         },
         {
+          "code": "MLI",
+          "name": "Mali"
+        },
+        {
           "code": "MAR",
           "name": "Morocco"
         },
@@ -215,13 +219,22 @@
   },
   "posts": [
     {
-      "id": "60",
+      "id": "61",
       "title": "DESA News article highlights central role of statistics for sustainable development",
-      "date": "2015-10-02",
+      "date": "2015-10-07",
       "organisations": ["UN"
       ],
       "image": "ASG-Lenni",
       "text":"The latest issue of DESA News, the newsletter of the United Nations Department of Economic and Social Affairs, has published a [feature article] ( https://www.un.org/development/desa/newsletter/feature/2015/10/#16126) dedicated to World Statistics Day 2015. It highlights the centrality of statistics to development, particularly by “setting the right standards, providing data and analysis and working closely with countries to strengthen national statistical capacities.” \n\n UN DESA’s Assistant Secretary-General for Economic Development, Mr. Lenni Montiel, also extends an invitation to join him on 22 October in a Twitter chat, via his twitter handle [@LenniMontiel](https://twitter.com/LenniMontiel). The main focus of this chat will be to discuss how the statistical work and lessons learned from the MDG monitoring experience will be the springboard for the new Sustainable Development Goals (SDGs). \n\n [![Better data for better lives: Celebrating World Statistics Day 2015](./img/posts/ASG-Lenni.jpg)](https://youtu.be/hg3gv9ggqSc \"Better data for better lives: Celebrating World Statistics Day 2015\")"
+    },
+    {
+      "id": "60",
+      "title": "Mali will celebrate World Statistics Day with a day-long event in Bamako on 20 October and information days for users 21-24 October",
+      "date": "2015-10-07",
+      "countries": ["MLI"
+      ],
+      "image": "mali",
+      "text":"Mali is preparing to celebrate the Second World Statistics Day. [The National Institute of Statistics] (http://www.instat-mali.org/), which is the central service of the national statistical system (NSS) and the permanent secretariat of the Statistics and Informatics Coordination Committee, plans to organize several activities between 20 and 26 October 2015 in cooperation with other parts of the national statistical system.\n\n A celebratory day-long event will be held at the International Conference Centre of Bamako on 20 October 2015. The event will be chaired by the Minister of Spatial Planning and Population, who will be joined by counterparts from the national statistical system as well as technical and financial partners of the national statistical system. The main programme includes speeches, the screening of a documentary film as well as performances of arts groups such as the Instrumental Ensemble and the National Theatre Group on topics relating to the use of statistics.\n\n Information days for various user groups, including journalists, NGO leaders, civil society and government offices use statistics will be held from 21 to 24 October 2015. The objective is to strengthen the dialogue between users and producers of data, increase statistical literacy and promote wide dissemination of statistical products.\n\n On 26 October, a panel discussion will be held at the University of Social Sciences and Management in Bamako. It aims at strengthening the cooperation between the national statistical system and academia and at facilitating access to micro-data."
     },
     {
       "id": "59",
@@ -244,7 +257,7 @@
     {
       "id": "57",
       "title": "Poland will celebrate with a focus on community statistics",
-      "date": "2015-10-06",
+      "date": "2015-10-07",
       "countries": ["POL"
       ],
       "image": "Poland",
@@ -271,7 +284,7 @@
     {
       "id": "54",
       "title": "Hungary launches an extensive year-round programme in commemoration of World Statistics Day",
-      "date": "2015-10-05",
+      "date": "2015-10-06",
       "countries": ["HUN"
       ],
       "image": "Hungary_Library",
