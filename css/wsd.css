@@ -104,7 +104,11 @@ h1 {
     .intro-header {
         display: none;
     }
-
+    
+    #selected-country {
+        display: none;
+    }
+    
     .mobile-top-margin {
         margin-top: 80px;
     }

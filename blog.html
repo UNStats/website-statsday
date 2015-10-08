@@ -33,19 +33,19 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-default topnav navbar-fixed-top" role="navigation">
-  <!-- UN official web site banner -->
-  <div class="UN-links">
-    <div class="container">
-      <a href="http://www.un.org/en/">United Nations</a> |
-      <a href="http://www.un.org/desa/">Department of Economic and Social Affairs</a>
-      <span class="hide-divider">|</span>
-      <br />
-      <a href="http://unstats.un.org/">Statistics Division</a>
-    </div>
-  </div>
-
   <!-- Navigation -->
+  <nav class="navbar navbar-default topnav navbar-fixed-top" role="navigation">
+    <!-- UN official web site banner -->
+    <div class="UN-links">
+      <div class="container">
+        <a href="http://www.un.org/en/">United Nations</a> |
+        <a href="http://www.un.org/desa/">Department of Economic and Social Affairs</a>
+        <span class="hide-divider">|</span>
+        <br />
+        <a href="http://unstats.un.org/">Statistics Division</a>
+      </div>
+    </div>
+
     <div class="container topnav">
       <!-- Brand and toggle get grouped for better mobile display -->
       <div class="navbar-header">
@@ -108,6 +108,7 @@
       </div>
       <div class="all-posts">
         <div id="remove-filter" class="make-visible">
+          <div id="selected-country"><h4></h4></div>
           <a href="blog.html">See all posts <i class="fa fa-times-circle"></i></a>
         </div>
       </div>
@@ -117,15 +118,15 @@
           </ul>
         </div>
         <div class="col-md-3">
-            <div class="active-countries">
-                <h3 class="section-heading text-center">Activities</h3>
-                <h5 class="text-center">Countries/areas</h5>
-                <ul id="countries-d" class="country-list">
-                </ul>
-                <h5 class="text-center">Organisations</h5>
-                <ul id="organisations-d">
-                </ul>
-            </div>
+          <div class="active-countries">
+            <h3 class="section-heading text-center">Activities</h3>
+            <h5 class="text-center">Countries/areas</h5>
+            <ul id="countries-d" class="country-list">
+            </ul>
+            <h5 class="text-center">Organisations</h5>
+            <ul id="organisations-d">
+            </ul>
+          </div>
         </div>
       </div>
       <!-- /.container -->
@@ -140,7 +141,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-5 col-lg-offset-2">
-          <p>This is a website by UNStats, the United Nations Statistics Division, a Division of the Department of Economic and Social Affairs.</p>
+          <p>This is a website by UNStats, the United Nations Statistics Division, a Division of the Department of Economic
+            and Social Affairs.</p>
         </div>
         <div class="col-lg-4">
           <ul class="list-inline banner-social-buttons">
@@ -168,7 +170,7 @@
         <div class="col-lg-12">
           <ul class="list-inline">
             <li>
-                <a href="http://unstats.un.org/unsd/wsd/" target="_blank">World Statistics Day 2010</a>
+              <a href="http://unstats.un.org/unsd/wsd/" target="_blank">World Statistics Day 2010</a>
             </li>
             <li class="footer-menu-divider">&sdot;</li>
             <li>
@@ -210,45 +212,37 @@
   <script src="js/wsd2015.js"></script>-->
 
   <script id="countries-template" type="text/template">
-      <option value="Select a country">Select a country</option>
-      {{#codes}}
-          {{#country}}
-          <option value="{{code}}">{{name}}</option>
-          {{/country}}
-      {{/codes}}
+    <option value="Select a country">Select a country</option>
+    {{#codes}} {{#country}}
+    <option value="{{code}}">{{name}}</option>
+    {{/country}} {{/codes}}
   </script>
 
   <script id="organisations-template" type="text/template">
-      <option value="Select an organisation">Select an organisation</option>
-      {{#codes}}
-          {{#organisation}}
-          <option value="{{code}}">{{name}}</option>
-          {{/organisation}}
-      {{/codes}}
+    <option value="Select an organisation">Select an organisation</option>
+    {{#codes}} {{#organisation}}
+    <option value="{{code}}">{{name}}</option>
+    {{/organisation}} {{/codes}}
   </script>
 
   <script id="countries-d-template" type="text/template">
-        {{#codes}}
-            {{#country}}
-            <li>
-                <a href="blog.html?c={{code}}"><img src="img/flags_15/flag_button_{{code}}.jpg" alt="{{name}} flag" /> {{name}}</a>
-            </li>
-            {{/country}}
-        {{/codes}}
-    </script>
+    {{#codes}} {{#country}}
+    <li>
+      <a href="blog.html?c={{code}}"><img src="img/flags_15/flag_button_{{code}}.jpg" alt="{{name}} flag" /> {{name}}</a>
+    </li>
+    {{/country}} {{/codes}}
+  </script>
 
-    <script id="organisations-d-template" type="text/template">
-        {{#codes}}
-            {{#organisation}}
-            <li>
-                <a href="blog.html?o={{code}}">{{name}}</a>
-            </li>
-            {{/organisation}}
-        {{/codes}}
-    </script>
+  <script id="organisations-d-template" type="text/template">
+    {{#codes}} {{#organisation}}
+    <li>
+      <a href="blog.html?o={{code}}">{{name}}</a>
+    </li>
+    {{/organisation}} {{/codes}}
+  </script>
 
   <script>
-      /* Mobile version */
+    /* Mobile version */
       $(function() {
           $.getJSON('js/posts.json', function(data) {
               var template = $('#countries-template').html();
@@ -362,12 +356,14 @@
             posts = posts.where({'organisations': [o]});
             $("#remove-filter").removeClass("make-visible");
             $('#organisations').val(o);
+            $("#selected-country h4").text(organisations.lookup(o));
           }
 
           if (c !== '') {
             posts = posts.where({'countries': [c]});
             $("#remove-filter").removeClass("make-visible");
             $('#countries').val(c);
+            $("#selected-country h4").text(countries.lookup(c));
           }
 
           if (i !== '') {
@@ -379,10 +375,10 @@
           $('#posts').html(postsHtml);
         });
       });
-    </script>
+  </script>
 
-    <script>
-      $(function(){
+  <script>
+    $(function(){
         $("#countries").change(function(){
           window.location='blog.html?c=' + this.value;
         });
@@ -393,19 +389,18 @@
           window.location='blog.html?o=' + this.value;
         });
       });
-    </script>
+  </script>
 
-    <!--GA code -->
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  <!--GA code -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
         ga('create', 'UA-48267274-5', 'auto');
         ga('send', 'pageview');
-
-    </script>
+  </script>
 
 </body>
 
