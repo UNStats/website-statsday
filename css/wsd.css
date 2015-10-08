@@ -3,9 +3,9 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-
- @font-face {
-     font-family: Lovelo;
+ 
+ @font-face { 
+     font-family: Lovelo; 
      src: url('../fonts/Lovelo-Black.otf');
      font-weight: 100;
 }
@@ -33,6 +33,13 @@ h1 {
 
 .lead {
     font-size: 18px;
+    font-weight: 400;
+}
+
+.text-center {
+    text-align: center;
+}
+
 .UN-links {
     padding: 3px;
     padding-right: 30px;
@@ -46,24 +53,24 @@ h1 {
     font-size: 10px;
 }
 
-@media(min-width:767px) {
+@media(min-width:767px) {   
     .UN-links br {
         display: none;
     }
 }
 
-@media(max-width:767px) {
+@media(max-width:767px) {   
     .UN-links {
         padding-right: 0;
     }
-
+    
     .hide-divider {
         display: none;
     }
 }
 
 .topnav {
-    font-size: 16px;
+    font-size: 16px; 
     font-weight: bold;
 }
 
@@ -86,7 +93,7 @@ h1 {
     padding-right: 5px;
 }
 
-@media(min-width:767px) {
+@media(min-width:767px) {   
     .navbar-brand>img {
         display: none;
     }
@@ -96,7 +103,7 @@ h1 {
     .navbar-default {
         padding: 10px 0;
     }
-
+    
     .img-logo {
         margin-right: 10px;
     }
@@ -202,14 +209,14 @@ h1 {
     .intro-divider {
         width: 100%;
     }
-
+    
     /* Carousel */
     .carousel-caption {
         bottom: 0;
         padding-bottom: 5px;
         font-size: 10px;
     }
-
+    
     .carousel-indicators {
         display: none;
     }
@@ -255,7 +262,7 @@ ul.latest-posts li {
     .UN-post .thumbnail {
         height: 400px;
     }
-
+    
     .latest-post .thumbnail {
         height: 380px;
     }
@@ -302,7 +309,7 @@ select {
     padding: 5px;
     background-color: #f8f8f8;
     border-color: #ccc;
-
+    
 }
 
 @media(min-width:767px) {
