@@ -6,6 +6,10 @@
         "name": "Anguilla"
       },
       {
+        "code": "AUS",
+        "name": "Australia"
+      },
+      {
         "code": "AZE",
         "name": "Azerbaijan"
       },
@@ -16,6 +20,10 @@
         {
           "code": "BLR",
           "name": "Belarus"
+        },
+        {
+          "code": "BRB",
+          "name": "Barbados"
         },
         {
           "code": "BGR",
@@ -142,6 +150,11 @@
           "name": "Spain"
         },
         {
+          "code": "LKA",
+          "name": "Sri Lanka"
+        },
+
+        {
           "code": "PSE",
           "name": "State of Palestine"
         },
@@ -196,6 +209,10 @@
         "name": "European Central Bank"
       },
       {
+        "code": "ICAO",
+        "name": "International Civil Aviation Organization"
+      },
+      {
         "code": "ISI",
         "name": "International Statistical Institute"
       },
@@ -212,6 +229,14 @@
         "name": "United Nations"
       },
       {
+        "code": "UNIDO",
+        "name": "UNIDO"
+      },
+      {
+        "code": "USQ",
+        "name": "University of Queensland"
+      },
+      {
         "code": "Wiley",
         "name": "Wiley"
       }
@@ -219,13 +244,62 @@
   },
   "posts": [
     {
-      "id": "61",
+      "id": "66",
+      "title": "UNIDO Celebrates World Statistics Day with a seminar on Measuring progress of nations in inclusive and sustainable industrialization",
+      "date": "2015-10-08",
+      "organisations": ["UNIDO"
+      ],
+      "image": "UNIDO",
+      "text":"Around 50 national and international statisticians will be gathering at the Vienna International Centre from 14-16 October to celebrate World Statistics Day on the margins of an international seminar on the role of industrial statistics in the global monitoring of the sustainable development goals. The seminar is organized by the [Statistics Unit] (http://www.unido.org/statistics.html?ucg_no64=1%2Fdata%2Findex.php) of the [UN Industrial Development Organization (UNIDO)] (http://www.unido.org).\n\n In September the UN General assembly adopted the [2030 Sustainable Development Agenda] (https://sustainabledevelopment.un.org/post2015/transformingourworld) shaping the international development agenda for the period till 2030. Sustainable Development Goal (SDG) 9 is related to sustainable industrialization. UNIDO promotes the [Inclusive and Sustainable Industrial Development (ISID)] (https://isid.unido.org) around the world. [Industrial Statistics] (https://www.unido.org/en/resources/statistics/statistical-databases.html) will be instrumental in global monitoring of the progress of nations towards the achievement of industrialization.\n\n The World Statistics Day celebration will provide an excellent forum to commence a new task of industrial statistics in an atmosphere of cordiality, intellectual exercise and professional unity. Around 50 national and international statisticians have already confirmed their participation. Many of them will present their research papers covering the measurement issues on industrial growth, social inclusiveness and the impact of industrial production on environment."
+    },
+    {
+      "id": "65",
+      "title": "University of Queensland to host two guest speakers on World Statistics Day",
+      "date": "2015-10-08",
+      "organisations": ["USQ"
+      ],
+      "countries": ["AUS"
+      ],
+      "image": "USQ",
+      "text":"[The University of Southern Queensland (USQ)] (http://usq.edu.au) in Toowoomba will celebrate World Statistics Day 2015 by hosting Dr. Neil Gordon of the [Defence Science & Technology Group] (http://www.dsto.defence.gov.au) based in Adelaide and Dr. Ross Darnell, principal research scientist at the [Commonwealth Scientific and Industrial Research Organisation] (http://www.csiro.au), Brisbane. [Click here] (files/WSD_Australia.pdf) for the detailed program.\n\n Gordon, who was part of the Australian team to search for missing [Malaysian Airline] (http://www.malaysiaairlines.com) Flight MH370, will speak on “Bayesian Statistics and the Search for Flight MH370”. On 7 March 2014, MH370 carrying 239 passengers and crew from Kuala Lumpur to Beijing lost contact with air traffic control and was subsequently reported missing. In his talk, Gordon, a member of the [Australian Transport Safety Bureau] (http://www.atsb.gov.au) search advisory team, will show how Bayesian statistical estimation methods have been used to process the [Inmarsat] (http://www.inmarsat.com/) data and produce a probability distribution of MH370 flight paths that defines the current search zone in the southern Indian Ocean.\n\n Darnell will present a talk titled “Data Literacy in a World of Big Data”. There is an increasingly large amount of data available either publicly or available to scientists across the globe. Making honest predictions from these data is not necessarily determined by quantity. Even large datasets can be generated with limitations that define their quality. In his talk, Darnell will argue data scientists need to be trained to understand these limitations of empirical evidence.\n\n In the opening session, Professor Shahjahan Khan, the event organiser, will provide a brief introduction on “Why World Statistics Day?”"
+    },
+    {
+      "id": "64",
       "title": "DESA News article highlights central role of statistics for sustainable development",
       "date": "2015-10-07",
       "organisations": ["UN"
       ],
       "image": "ASG-Lenni",
       "text":"The latest issue of DESA News, the newsletter of the United Nations Department of Economic and Social Affairs, has published a [feature article] ( https://www.un.org/development/desa/newsletter/feature/2015/10/#16126) dedicated to World Statistics Day 2015. It highlights the centrality of statistics to development, particularly by “setting the right standards, providing data and analysis and working closely with countries to strengthen national statistical capacities.” \n\n UN DESA’s Assistant Secretary-General for Economic Development, Mr. Lenni Montiel, also extends an invitation to join him on 22 October in a Twitter chat, via his twitter handle [@LenniMontiel](https://twitter.com/LenniMontiel). The main focus of this chat will be to discuss how the statistical work and lessons learned from the MDG monitoring experience will be the springboard for the new Sustainable Development Goals (SDGs). \n\n [![Better data for better lives: Celebrating World Statistics Day 2015](./img/posts/ASG-Lenni.jpg)](https://youtu.be/hg3gv9ggqSc \"Better data for better lives: Celebrating World Statistics Day 2015\")"
+    },
+    {
+      "id": "63",
+      "title": "International Civil Aviation Organization will celebrate World Statistics Day with a workshop",
+      "date": "2015-10-08",
+      "organisations": ["ICAO"
+      ],
+      "countries": ["TUR"
+      ],
+      "image": "ICAO",
+      "text":"[International Civil Aviation Organization (ICAO),](http://www.icao.int) will be celebrating World Statistics Day jointly with the Government of Turkey on 20 October 2015. On this day, special workshops will be conducted by ICAO. The co-hosts and contributors to these workshops includes [the World Tourism Organization (UNWTO)] (http://www.unwto.org/), [the University of Warsaw] (http://en.uw.edu.pl), Interdisciplinary Centre for Mathematical and Computational Modelling (ICM) , [the Istanbul Technical University] (http://www.itu.edu.tr/), [International Air Transport Association (IATA)] (http://www.iata.org), [Turkish Airlines] (http://www.turkishairlines.com), [Airbus] (http://www.airbus.com) and others. The event will be held at the [Mardan Palace Hotel] (http://www.mardanpalace.com) and attended by [ICAO member States] (http://www.icao.int/about-icao/Pages/member-states.aspx) and other aviation stakeholders.\n\n The workshop will highlight the paramount importance of statistics in helping governments and other stakeholders to take informed policy or strategic decisions to further the sustainable development of civil air transport. Some of the showcases of the workshops to be held to celebrate the World Statistics Day include air transportation connectivity statistics and the Sustainable Development Goals, the critical role of reliable statistics in official development assistance, financing and implementation of aviation projects; new and current statistical trends in the air transportation environment and aviation and tourism statistics and economic impacts.\n\n The links to the WSD program in the ICAO website can be found at [http://www.icao.int/Meetings/ICAN2015/Pages/Showcases-and-Workshops.aspx](http://www.icao.int/Meetings/ICAN2015/Pages/Showcases-and-Workshops.aspx) and [http://www.icao.int/Meetings/ICAN2015/Pages/Programme.aspx](http://www.icao.int/Meetings/ICAN2015/Pages/Programme.aspx)"
+    },
+    {
+      "id": "62",
+      "title": "Sri Lanka will promote statistical awareness through their World Statistics Day programme",
+      "date": "2015-10-08",
+      "countries": ["LKA"
+      ],
+      "image": "SriLanka",
+      "text":"[The Department of Census and Statistics Sri Lanka (DCS)] (http://www.statistics.gov.lk/) has announced its [extensive programme] (./files/SriLanka.pdf) in celebration of World Statistics Day 2015. The programme includes many events targeted at increasing awareness amongst various user groups: school children will benefit from awareness seminars in all districts and from an “All Island Awareness Campaign”. There will also be special seminars for district administrations as well as for journalists. The general public will be addressed through TV discussions. Last but not least, DCS staff will enjoy a special programme in observance of World Statistics Day on 22 October."
+    },
+    {
+      "id": "61",
+      "title": "Barbados launches programme to celebrate Statistics Week 2015 under the theme “Better data. Better lives.”",
+      "date": "2015-10-08",
+      "countries": ["BRB"
+      ],
+      "image": "Barbados",
+      "text":"[The Barbados Statistical Service] (http://www.barstats.gov.bb) will celebrate World and Caribbean Statistics Day with [week-long activities] (./files/Proposed_Activities_StatisticsWeek2015.pdf) both for partners and staff. Activities include open days, presentations for schools and an exhibit at the main library of the University of the West Indies (UWI) at the [Cave Hill Campus] (http://www.cavehill.uwi.edu/). Staff will enjoy the “Fun Dress and Bajan Day” and a “Family Fun Day and Picnic”, which concludes the festivities."
     },
     {
       "id": "60",
@@ -434,7 +508,7 @@
       "countries": ["PSE"
       ],
       "image": "Palestine",
-      "text": "The [Palestinian Central Bureau of Statistics(PCBS)](http://www.pcbs.gov.ps/wsd-2015/en-us/) will celebrate this year’s World Statistics Day by organizing an international event that highlights emerging issues and challenges in official statistics. With this, the PCBS builds on the successful international conference PCBS it organized on the first World Statistics Day on 20 October 2010.\n\nThis year’s conference will consist of activities and events that highlight the role of official statistics to the progress of society. The event will witness the launching of the regional Code of Practices (COP). It will also highlight the [Sustainable Development Goal indicators](http://unstats.un.org/sdgs/) from different views and perspectives, emphasize future core competencies in National Statistics (i.e. data visualization, utilization of big data, spatial data), discuss strategies to cope with information revolution and focus on advance innovation and analysis.\n\nThe conference will include reputable keynote speakers, panel discussions, data visualization shows, videos and much more. Conference participants will experience World Statistics Day with a Palestinian flavor with field trips to Palestinian historical and religious sites. Participants will include representatives of Arab and International Statistical Institutions, as well as international experts in the field of official statistics in addition to official research institutions as well as local and international media agencies. The Conference will be held at the Palestine Red Crescent Society HQ in Ramallah from 19-22 October 2015."
+      "text": "The [Palestinian Bureau of Statistics (PCBS)](pcbs.gov.ps) launches the [web site](http://www.pcbs.gov.ps/wsd-2015/en-us/) for its celebration of the World Statistics Day that will take place on 20 October 2015. The website is designed to document the celebration and promote statistics in Palestine. In addition, PCBS seizes this opportunity to promote its practices of social responsibility as well as its dissemination means of official statistics.\n\nPCBS will celebrate World Statistics Day on 20 October 2015 through a centralized event in Ramallah under the auspices of H.E. Dr. Rami Hamdallah - The Prime Minister - and in participation of key national and international figures. International delegation will join Palestine's celebration including UAE, Jordan, South Africa, Turkey, Tunisia, Sudan, Mexico, Brazil, Sweden, Germany and many others.\n\nOne of the guest speakers will be Mr. Ola Rosling, CEO & Co-Founder of [Gap minder Foundation](http://www.gapminder.org/), who has been a pioneer in using information technology to popularize international statistics among the general public. Mr. Rosling shows the power of statistics through data visualization, with his popular animations converting complex statistics into moving bubbles that reveal clear global trends"
     },
    {
       "id": "37",
@@ -515,7 +589,7 @@
       "countries": ["CAN"
       ],
       "image": "flag_rectangle_CAN",
-      "text": "[Statistics Canada]( http://www.statcan.gc.ca/) employees will be celebrating World Statistics Day in a special way. The agency invited their staff to submit their vision of the future of their agency and how it will look like in 2035. A group of selected employees will present to their co-workers their vision. The event will be broadcast to all Statistics Canada staff across the country. A reverse time capsule will be produced, so employees in 2035 can watch it during their own World Statistics Day celebration! \n\nStatistics Canada will also be hosting a panel discussion in Ottawa on official health statistics. First, a presentation will provide an overview of the Canadian Health Measures Survey and its objectives, collection processes and dissemination strategy. A panel discussion with Canadian experts from the public and private sectors will follow, along with audience questions. The session will focus on how health data are being used to address important health research questions and to develop emerging health-related policies. \n\nStatistics Canada is also busy preparing support material for their events, such as web and intranet sites, videos, and other communications pieces."
+      "text": "[Statistics Canada]( http://www.statcan.gc.ca/eng/wsd/index#a2) employees will be celebrating World Statistics Day in a special way. The agency invited their staff to submit their vision of the future of their agency and how it will look like in 2035. A group of selected employees will present to their co-workers their vision. The event will be broadcast to all Statistics Canada staff across the country. A reverse time capsule will be produced, so employees in 2035 can watch it during their own World Statistics Day celebration! \n\nStatistics Canada will also be hosting a panel discussion in Ottawa on official health statistics. First, a presentation will provide an overview of the Canadian Health Measures Survey and its objectives, collection processes and dissemination strategy. A panel discussion with Canadian experts from the public and private sectors will follow, along with audience questions. The session will focus on how health data are being used to address important health research questions and to develop emerging health-related policies. \n\nStatistics Canada is also busy preparing support material for their events, such as web and intranet sites, videos, and other communications pieces."
     },
     {
       "id": "28",
