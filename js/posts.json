@@ -273,30 +273,30 @@
   "posts": [
     {
       "id": "73",
-      "title": "Brazil will take a look at current challenges for national statistical offices and at how professional statisticians apply their knowledge",
-      "date": "2015-10-09",
-      "countries": ["BRA"
-      ],
-      "image": "brazil",
-      "text":"The [Instituto Brasileiro de Geografia e Estatística (IBGE)](http://www.ibge.gov.br/) will celebrate World Statistics Day with two major events. On World Statistics Day, 20 October 2015, experts will share their thoughts on current themes on statistics and the major challenges faced by national statistics offices in a [seminar](files/WSD2015_Brazil.pdf) . The event will take place at the Teixeira de Freitas Auditorium, Rua General Canabarro, 706 - Maracana - Rio de Janiro. \n\nOn 21 and 22 October, a webinar will be dedicated to  \"Statistics and its professional possibilities\". At this event, people who graduated in statistics will share their professional experience and how they now professionally apply their knowledge in different segments, such as insurance, marketing, retail, health, among others."
-    },
-    {
-      "id": "72",
-      "title": "World Statistics Day logo now available in Chinese-Traditional, Greek, Hebrew and Icelandic",
+      "title": "Our logo is now available in over 30 languages:  Chinese Traditional, Greek, Hebrew and Icelandic have just been added.",
       "date": "2015-10-09",
       "countries": ["CHN","GRC","ISL","ISR"
       ],
       "image": "20151009-WorldStatsDay_Logo_combined",
-      "text":"They keep coming in: four more languages have just been added to our [logo collection] (resources.html) bringing the tally to almost thirty."
+      "text":"We have just passed the 30 languages mark. Together with Chinese Traditional, we added Greek, Hebrew and Icelandic. The logo looks amazing in every language. Please send your translation to [statistics@un.org](mailto:statistics@un.org)"
     },
     {
-      "id": "71",
+      "id": "72",
       "title": "Republic of Kazakhstan is celebrating the 95th anniversary of the state statistics in Kazakhstan",
       "date": "2015-10-09",
       "countries": ["KAZ"
       ],
       "image": "Kazakhstan",
       "text":"[The Committee on Statistics of the Republic of Kazakhstan] (http://stat.gov.kz/) is joining the worldwide celebration of the World Statistics Day 2015. At the same time it is celebrating the 95th anniversary of the state statistics in Kazakhstan.\n\n On the eve of the World Statistics Day 2015, the Committee on Statistics will hold an international conference dedicated to the 95th anniversary of the state statistics in Kazakhstan. This meeting will be a great opportunity to look back, assess the current situation of official statistics in the country and plan for the future taking into account the best international practice and modern challenges. The main theme of the conference will be the modernization of state statistics. The significance of availability of high-quality statistical information and the role of the World Statistics Day celebration in promoting statistics will be emphasized during the conference.\n\n Traditionally, every year the Committee and its regional divisions also organize the Open Days to promote official statistics among users, respondents and other stakeholders. The Committee conducts a number of regular activities throughout the year to advocate and explain the role of statistics and to maintain connections with policy-makers, users, as well as respondents."
+    },
+	{
+      "id": "71",
+      "title": "Brazil will take a look at current challenges for national statistical offices and at how professional statisticians apply their knowledge",
+      "date": "2015-10-09",
+      "countries": ["BRA"
+      ],
+      "image": "Brazil",
+      "text":"The [Instituto Brasileiro de Geografia e Estatística (IBGE)](http://www.ibge.gov.br/) will celebrate World Statistics Day with two major events. On World Statistics Day, 20 October 2015, experts will share their thoughts on current themes on statistics and the major challenges faced by national statistics offices in a [seminar](files/WSD2015_Brazil.pdf) . The event will take place at the Teixeira de Freitas Auditorium, Rua General Canabarro, 706 - Maracana - Rio de Janiro. \n\nOn 21 and 22 October, a webinar will be dedicated to  \"Statistics and its professional possibilities\". At this event, people who graduated in statistics will share their professional experience and how they now professionally apply their knowledge in different segments, such as insurance, marketing, retail, health, among others."
     },
     {
       "id": "70",
