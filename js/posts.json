@@ -26,6 +26,10 @@
           "name": "Barbados"
         },
         {
+          "code": "BRA",
+          "name": "Brazil"
+        },
+        {
           "code": "BGR",
           "name": "Bulgaria"
         },
@@ -58,12 +62,20 @@
           "name": "Germany"
         },
         {
+          "code": "GRC",
+          "name": "Greece"
+        },
+        {
           "code": "HUN",
           "name": "Hungary"
         },
         {
           "code": "ISL",
           "name": "Iceland"
+        },
+        {
+          "code": "IND",
+          "name": "India"
         },
         {
           "code": "IDN",
@@ -74,12 +86,20 @@
           "name": "Ireland"
         },
         {
+          "code": "ISR",
+          "name": "Israel"
+        },
+        {
           "code": "ITA",
           "name": "Italy"
         },
         {
           "code": "JPN",
           "name": "Japan"
+        },
+        {
+          "code": "KAZ",
+          "name": "Kazakhstan"
         },
         {
           "code": "LVA",
@@ -130,12 +150,20 @@
           "name": "Puerto Rico"
         },
         {
+          "code": "MDA",
+          "name": "Republic of Moldova"
+        },
+        {
           "code": "ROU",
           "name": "Romania"
         },
         {
           "code": "RUS",
           "name": "Russian Federation"
+        },
+        {
+          "code": "SRB",
+          "name": "Serbia"
         },
         {
           "code": "SVK",
@@ -243,6 +271,69 @@
     ]
   },
   "posts": [
+    {
+      "id": "73",
+      "title": "Brazil will take a look at current challenges for national statistical offices and at how professional statisticians apply their knowledge",
+      "date": "2015-10-09",
+      "countries": ["BRA"
+      ],
+      "image": "brazil",
+      "text":"The [Instituto Brasileiro de Geografia e Estatística (IBGE)](http://www.ibge.gov.br/) will celebrate World Statistics Day with two major events, [click here](files/WSD_brazil.pdf) for the program. On World Statistics Day, 20 October 2015, experts will share their thoughts on current themes on statistics and the major challenges faced by national statistics offices in a [seminar] [files/WSD_Brazil_Seminar.]. The event will take place at the Teixeira de Freitas Auditorium, Rua General Canabarro, 706 - Maracana - Rio de Janiro. \n\nOn 21 and 22 October, a webinar will be dedicated to  \"Statistics and its professional possibilities\". At this event, people who graduated in statistics will share their professional experience and how they now professionally apply their knowledge in different segments, such as insurance, marketing, retail, health, among others."
+    },
+    {
+      "id": "72",
+      "title": "World Statistics Day logo now available in Chinese-Traditional, Greek, Hebrew and Icelandic",
+      "date": "2015-10-09",
+      "countries": ["CHN","GRC","ISL","ISR"
+      ],
+      "image": "20151009-WorldStatsDay_Logo_combined",
+      "text":"They keep coming in: four more languages have just been added to our [logo collection] (resources.html) bringing the tally to almost thirty."
+    },
+    {
+      "id": "71",
+      "title": "Republic of Kazakhstan is celebrating the 95th anniversary of the state statistics in Kazakhstan",
+      "date": "2015-10-09",
+      "countries": ["KAZ"
+      ],
+      "image": "Kazakhstan",
+      "text":"[The Committee on Statistics of the Republic of Kazakhstan] (http://stat.gov.kz/) is joining the worldwide celebration of the World Statistics Day 2015. At the same time it is celebrating the 95th anniversary of the state statistics in Kazakhstan.\n\n On the eve of the World Statistics Day 2015, the Committee on Statistics will hold an international conference dedicated to the 95th anniversary of the state statistics in Kazakhstan. This meeting will be a great opportunity to look back, assess the current situation of official statistics in the country and plan for the future taking into account the best international practice and modern challenges. The main theme of the conference will be the modernization of state statistics. The significance of availability of high-quality statistical information and the role of the World Statistics Day celebration in promoting statistics will be emphasized during the conference.\n\n Traditionally, every year the Committee and its regional divisions also organize the Open Days to promote official statistics among users, respondents and other stakeholders. The Committee conducts a number of regular activities throughout the year to advocate and explain the role of statistics and to maintain connections with policy-makers, users, as well as respondents."
+    },
+    {
+      "id": "70",
+      "title": "Creative workshop with students at Statistics Lithuania",
+      "date": "2015-10-09",
+      "countries": ["LTU"
+      ],
+      "image": "Lithuania",
+      "text":"On 6 October [Statistics Lithuania] (http://www.stat.gov.lt/en/home) organised a creative statistics and design workshop, dedicated to the commemoration of the World Statistics Day. The workshop was attended by 36 second-year students of [the Vilnius College of Technologies and Design] (http://www.dizainokolegija.lt/lt/) – to familiarise themselves with official statistics and, with the help of statisticians, to create infographics, presenting a statistical message in an attractive manner.\n\n At the beginning of the event, the students received information about the World Statistics Day, familiarised themselves with Statistics Lithuania, the main principles behind the production and dissemination of official statistics, the Official Statistics Portal, the Database of Indicators, etc.\n\n After a lunchbreak, work proceeded in small (four-student) groups. A statistician joined each group; the statistician helped the students to better understand the statistical domain selected, discover interesting statistics and come to a solution how to visualise them via infographics. For many students, it was not an easy task. “I had no idea that statistics covers such a wide range of topics. I am totally lost.”, said one of the participants. However, after three hours of intensive work, all student groups presented the first draft infographics.\n\n After the creative workshop, future designers will continue working individually and finalise the infographics by the World Statistics Day, commemorated on 20 October.\n\n “Our cooperation with the Vilnius College of Technologies and Design dates back many years. This mutual work provides students an opportunity to scrutinise an almost unfamiliar area, learn to find information in the abundance of data, use the Official Statistics Portal. As for our specialists, it is a great opportunity for them to try to explain complicated things in a simple language, look at the results of their work from a user's perspective”, said the Director General of Statistics Lithuania Vilija Lapėnienė in her introductory speech.\n\n More information on the event can be found [here](http://www.stat.gov.lt/en/home/-/asset_publisher/lbrXvLVHX2ln/content/studentu-kurybines-dirbtuves-lietuvos-statistikos-departamente?redirect=http%3A%2F%2Fwww.stat.gov.lt%2Fen%2Fhome%3Fp_p_id%3D101_INSTANCE_lbrXvLVHX2ln%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-3%26p_p_col_count%3D1)."
+    },
+    {
+      "id": "69",
+      "title": "The Statistical Office of the Republic of Serbia will feature an exhibit “SORS – part of the world statistical family”",
+      "date": "2015-10-09",
+      "countries": ["SRB"
+      ],
+      "image": "Serbia",
+      "text":"The library of [the Statistical Office of the Republic of Serbia (SORS)] (http://webrzs.stat.gov.rs/WebSite/) is organizing an exhibition on “SORS – part of the world statistical family”. The Library will be decorated with banners for the special and day. Printed releases and information leaflets about World Statistics Day 2015 will be available to visitors. The office will also issue a press release on 20 October 2015.\n\n World Statistics Day will also feature prominently on the [SORS website] (http://webrzs.stat.gov.rs/) and there will be extensive media coverage. SORS will also promote the day via social networks [(https://twitter.com/StatistikaSrb)] (https://twitter.com/StatistikaSrb)."
+    },
+    {
+      "id": "68",
+      "title": "The Republic of Moldova celebrates the Second World Statistics Day and the Fifth Statisticians' Day in the Republic",
+      "date": "2015-10-09",
+      "countries": ["MDA"
+      ],
+      "image": "Moldova",
+      "text":"20 October 2015 is not only the second ever World Statistics Day but also their Fith Statisticians' Day. On that day the [National Bureau of Statistics of the Republic of Moldova (NBS)] (http://www.statistica.md/) and the [Academy of Economic Studies of Moldova] (http://www.ase.md/) with the support of the project [“Improving regional statistics in Moldova”] (http://www.statistica.md/pageview.php?l=en&idc=486) will organize the conference “Improved local and regional statistics for a better life” which aims to contribute to strengthening links between academia and territorial statistics in official statistics, as well as to creating opportunities for gaining practical experience for students and PhD.\n\n Throughout the months of October and November the [National Bureau of Statistics (NBS)] (http://www.statistica.md/) will promote World Statistics Day by organizing jointly with UN Project [“Strengthening the National Statistical System”](http://www.md.undp.org/content/moldova/en/home/operations/projects/democratic_governance/strengthening-the-national-statistical-system-.html) three training courses for non-governmental organizaions, government agencies and journalists with the subject “Use of Gender Statistics”. All training will take place in the context of World Statistics Day under the slogan “Better data. Better lives.”\n\n The NBS will promote World Statistics Day and related events through their website and social networks. NBS will also issue a press release on 20 October 2015."
+    },
+    {
+      "id": "67",
+      "title": "The National Institute of Technology Calicut (India) celebrates World Statistics Day",
+      "date": "2015-10-09",
+      "countries": ["IND"
+      ],
+      "image": "NICT",
+      "text":"[The School of Bio-Technology](http://nitc.ac.in/index.php/?url=department/index/18) of the [National Institute of Technology Calicut (NITC)]  (http://www.nitc.ac.in/) in Keralam, Bharatham (India) is inviting NITC staff to a workshop on “Statistical Principles in Live Sciences” on World Statistics Day."
+    },
     {
       "id": "66",
       "title": "UNIDO Celebrates World Statistics Day with a seminar on Measuring progress of nations in inclusive and sustainable industrialization",
@@ -389,7 +480,7 @@
       "countries": ["BGD"
       ],
       "image": "Bangladesh",
-      "text":"In Bangladesh the day is being jointly celebrated by [the Statistics and Informatics Division (SID) of the Ministry of Planning] (http://www.sid.gov.bd/), [the Bangladesh Bureau of Statistics (BBS)] (http://www.bbs.gov.bd/) and [the Bangladesh Statistical Association (BSA)] (http://isi.cbs.nl/statsoc/bangladesh2.htm). A National Committee and a number of sub-committees have been formed comprising members from these offices to implement different programmes.\n\n The programmes include: a National Seminar, souvenirs, newspaper supplements, rallies, press conferences, books, exhibitions, TV talk shows, cultural programmes, posters highlighting the theme of the day, hoisting of festoons and placards and the distribution of Crests among the Distinguished Statisticians."
+      "text":"In Bangladesh the day is being jointly celebrated by [the Statistics and Informatics Division (SID) of the Ministry of Planning] (http://www.sid.gov.bd/), [the Bangladesh Bureau of Statistics (BBS)] (http://www.bbs.gov.bd/) and [the Bangladesh Statistical Association (BSA)] (http://isi.cbs.nl/statsoc/bangladesh2.htm). A National Committee and a number of sub-committees have been formed comprising members from these offices to implement different programmes.\n\n The programmes include: a National Seminar, souvenirs, newspaper supplements, rallies, press conferences, books, exhibitions, TV talk shows, cultural programmes, posters highlighting the theme of the day, hoisting of festoons and placards and the distribution of Crests among the Distinguished Statisticians.\n\n World Statistics Day logo in Bengali is available [here](./resources.html#nonUNLogo)  "
     },
     {
       "id": "50",
@@ -490,7 +581,7 @@
       "countries": ["MEX"
       ],
       "image": "inegi",
-      "text": "As part of its programme of activities to commemorate the World Statistics Day on 20 October 2010, Mexico's National Institute of Statistics and Geography, [INEGI] (http://www.inegi.org.mx/) is co-organizing [the 5th OECD World Forum on Statistics, Knowledge and Policy] (http://www.oecd-5wf.mx/), which will take place from 13 to 15 October 2015 in Guadalajara.\n\n In addition, INEGI will launch a new web portal with many improvements over its current site, including a new data classification focused on user needs instead of organizational structure, a modern and lighter graphic design, and support for mobile devices.\n\n INEGI is also planning to introduce soon the use of video-bulletins to disseminate official communications on its products and activities, which cover areas of great relevance such as National Census, National Surveys and Administrative Records."
+      "text": "As part of its programme of activities to commemorate the World Statistics Day on 20 October 2010, Mexico's National Institute of Statistics and Geography, [INEGI] (http://www.inegi.org.mx/) is co-organizing [the 5th OECD World Forum on Statistics, Knowledge and Policy] (http://www.oecd-5wf.mx/), which will take place from 13 to 15 October 2015 in Guadalajara.\n\n In addition, INEGI will launch a new web portal with many improvements over its current site, including a new data classification focused on user needs instead of organizational structure, a modern and lighter graphic design, and support for mobile devices.\n\n INEGI is also planning to introduce soon the use of video-bulletins to disseminate official communications on its products and activities, which cover areas of great relevance such as National Census, National Surveys and Administrative Records. The video-bulletins will use a presenter and background images to disseminate information that the Institute already makes available via written press releases. The video-bulletins are short clips, no longer than a minute and a half and will be in compatible format so that media can easily use them."
     },
     {
       "id": "39",
