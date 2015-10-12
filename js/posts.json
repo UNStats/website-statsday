@@ -102,6 +102,10 @@
           "name": "Italy"
         },
         {
+          "code": "JAM",
+          "name": "Jamaica"
+        },
+        {
           "code": "JPN",
           "name": "Japan"
         },
@@ -125,13 +129,22 @@
           "code": "MLI",
           "name": "Mali"
         },
-        {
-          "code": "MAR",
-          "name": "Morocco"
-        },
+
         {
           "code": "MEX",
           "name": "Mexico"
+        },
+        {
+          "code": "MCO",
+          "name": "Monaco"
+        },
+        {
+          "code": "MNG",
+          "name": "Mongolia"
+        },
+        {
+          "code": "MAR",
+          "name": "Morocco"
         },
         {
           "code": "NZL",
@@ -156,6 +169,10 @@
         {
           "code": "PRI",
           "name": "Puerto Rico"
+        },
+        {
+          "code": "QAT",
+          "name": "Qatar"
         },
         {
           "code": "MDA",
@@ -207,6 +224,10 @@
           "name": "TFYR Macedonia"
         },
         {
+          "code": "TGO",
+          "name": "Togo"
+        },
+        {
           "code": "TUR",
           "name": "Turkey"
         },
@@ -245,6 +266,10 @@
         "name": "European Central Bank"
       },
       {
+        "code": "IAOS",
+        "name": "International Association for Official Statistics"
+      },
+      {
         "code": "ICAO",
         "name": "International Civil Aviation Organization"
       },
@@ -279,6 +304,78 @@
     ]
   },
   "posts": [
+    {
+      "id": "81",
+      "title": "Qatar will announce the results of the 2015 simplified Population, Housing and Establishments Census at the World Statistics Day Forum in Doha",
+      "date": "2015-10-12",
+      "countries": ["QAT"
+      ],
+      "image": "Qatar",
+      "text":"The Ministry of Development Planning and Statistics launched an extensive [programme] (files/MDPS_plan_Arabic.pdf) to celebrate World Statistics Day. The main event will be the “World Statistics Day Forum” to be held at the Grand Hyatt Hotel, Doha, under the patronage of His Excellency Sheikh Abdullah Bin Nasser Bin Khalifa AI-Thani, Prime Minister and Minister of Interior. Invitations to this Forum were extended to a number of senior national, regional and international personalities. The Forum events will include the announcement of the results of the 2015 simplified Population, Housing and Establishments Census, carried out by the Ministry. The World Statistic Day Forum will be accompanied by a Statistical Exhibition displaying certain collections and visuals that reflect the history of statistics in Qatar from the early twentieth century till the present. A dedicated [website] (http://www.mdps.gov.qa/statsDay15/) is available in Arabic and English.\n\n His Excellency the Minister of Development Planning and Statistics give a press conference focussing on the importance of official statistics and their role in the formulation of development strategies as well as the role of government agencies and corporations supporting the Ministry in the compilation of accurate data.\n\n Various advocacy materials, such as banners, [posters] (files/WSD_poster_Qatar.pdf), brochures and a newsletter are being prepared."
+    },
+    {
+      "id": "80",
+      "title": "Monaco Statistics will celebrate World Statistics Day",
+      "date": "2015-10-12",
+      "countries": ["MCO"
+      ],
+      "image": "Monaco",
+      "text":"Monaco Statistics, the [Monegasque Institute of Statistics and Economic Studies (IMSEE)] (http://www.monacostatistics.mc/), is organizing a conference to be held on 20 October 2015 at the [Lycée Technique et Hôtelier de Monaco’s] (http://www.lycee-technique.mc/)  Auditorium (7 Allée Lazare Sauvaigo, 98000 Monaco) from 8:30 – 11:00am.\n\n After a short welcome, Lionel Galfré, Director of IMSEE will talk about “the place of statistics in modern societies”. The second segment of the conference is entitled “Better data. Better lives.” Speaker include Fabrice BOULAY, Doctor, Head of Medical information Department at the [Princess Grace Hospital Centre] (http://www.chpg.mc/en/?), Denis ALLEMAND , Professor, Scientific Director of the [Scientific Centre of Monaco] (http://www.centrescientifique.mc/en/) and Pascal FERRY from IMSEE. The full schedule of the conference is available in [English] (http://www.monacostatistics.mc/About-Monaco-Statistics/World-Statistics-Day) and [French] (http://www.imsee.mc/A-propos-de-l-IMSEE/Journee-Mondiale-de-la-Statistique). The conference will be held in French."
+    },
+    {
+      "id": "79",
+      "title": "World Statistics Day 2015 in Mongolia",
+      "date": "2015-10-12",
+      "countries": ["MNG"
+      ],
+      "image": "Mongolia",
+      "text":"To celebrate World Statistics Day, the following [activities] (https://www.un.int/mongolia/news/world-statistics-day-2015-mongolia) will be organized in Mongolia:\n\n [The National Statistical Office of Mongolia] (http://nso.mn) will organize a series of events under the theme “World Statistics Day” for students from the national and private universities, studying statistics and economies, on 16 October 2015. Similar events will be organized for the staff members from the Statistics Divisions in the district of Ulaanbaatar and in the Municipal Statistics Department, and the NSO Headquarters on 20 October 2015.\n\n The senior staff of the National Statistical Office will give interviews to the mass media to promote the World Statistics Day and the operation of the Office.\n\n A promotional video for the World Statistics Day will be broadcasted through 3 big screens in the main streets and squares of the capital city. Also, it will be distributed to the regional statistical offices in order to publicize the event for the citizens in rural areas.\n\n The logo of the World Statistics Day will be placed on the taxi-top advertisement. Banners and posters of the World Statistics Day will be placed at the entrance of the regional statistical offices and the Headquarters of the National Statistical Offices.\n\n The staff members in the national statistical system will launch a public campaign to publicize the importance of the World Statistics Day and the operation of the National Statistical Office throughout the social network.\n\n The celebration of World Statistics Day coincides with the 2015 Population and Housing Bycensus in Mongolia."
+    },
+    {
+      "id": "78",
+      "title": "The Royal Statistical Society Celebrates World Statistics Day with a number of initiatives",
+      "date": "2015-10-12",
+      "organisation": ["RSS"
+      ],
+      "image": "RoyalSS",
+      "text":"[The Royal Statistical Society (RSS)] (http://www.statslife.org.uk) will mark the second World Statistics Day on 20 October with a number of [initiatives] (http://www.statslife.org.uk/news/2499-rss-commemorates-world-statistics-day), including a statement, a reception in London for RSS fellows, statistics training for Members of Parliaments and a special edition of their flagship magazine [Significance] (http://www.statslife.org.uk/significance).\n\n The RSS has issued a [statement] (http://www.rss.org.uk/RSS/Influencing_Change/World_Statistics_Day_statement/RSS/Influencing_Change/World_Statistics_Day_statement.aspx?hkey=c261be5f-4079-4392-aa0e-35f6021aee6c) with the [International Statistical Institute (ISI)] (http://www.isi-web.org) and the [American Statistical Association (ASA)] (www.amstat.org) , to which more than 40 other organisations have signed up. It calls for 'a true data revolution' in order to properly be able to measure progress against the UN's ambitious new [Sustainable Development Goals] (https://sustainabledevelopment.un.org/post2015/transformingourworld). The statement urges that the opportunities provided by new technology and big data are properly utilised, emphasising that national statistical systems are central to this effort. To this end, the statement continues, 'systems must be properly financed, the development of statistical skills and expertise must be supported, and access to new tools and technology must be provided.'\n\n On the evening of WSD, the RSS is hosting a [reception] (http://www.statslife.org.uk/events/events-calendar/eventdetail/501/-/royal-statistical-society-celebrates-world-statistics-day-2015) for members and supporters of the society, as well as from partner organisations we have worked with throughout the past year. The event will include short speeches by the national statistician John Pullinger and Claire Melamed from the Overseas Development Institute who wrote a recent [report] (http://www.undatarevolution.org/report/) for the UN Secretary General on a ‘data revolution’ for international development. A number of local [events] (http://www.statslife.org.uk/events/events-calendar) are also planned for the day.\n\n 20 October also happens to be the day that the RSS’ training for Members of Parliament will take place in parliament following our [Parliament Counts campaign] (http://www.rss.org.uk/rss/influencing_change/lobby_election_candidates/rss/influencing_change/lobby_election_candidates.aspx?hkey=51a5581b-e36f-4f6b-92d0-8e9299133fcd). The campaign sent thousands of messagesbto candidates around the country during the election campaign earlier in 2015, resulting in 324 candidates across the political spectrum signing up to the campaign, of which 55 are now elected members of parliament.\n\n Finally, the RSS will publish a World Statistics Day issue issue of [Significance magazine] (http://www.statslife.org.uk/significance) with six articles, all focusing on the importance of measuring sustainable development, all being made open access for a limited time from 20 October onwards. Claire Melamed will talk about how close we are to achieving a 'data revolution', while other articles focus on how statistics have been employed to examine issues as diverse as undernourishment, slavery and trends in travel."
+    },
+    {
+      "id": "77",
+      "title": "Learn how World Statistics Day will be celebrated in Togo",
+      "date": "2015-10-12",
+      "countries": ["TGO"
+      ],
+      "image": "Togo",
+      "text":"[The National Institute of Statistics and Economic and Demographic Studies (INSEED)] (http://www.stat-togo.org) and the National Statistical System (NSS) of Togo will mark World Statistics Day with various high level events. On 19 October, radio and TV stations will broadcast a message of the Minister of Development Planning to raise awareness of the importance of statistics for socio-economic development.\n\n The actual day will be marked by an official ceremony, which will include a statement on behalf of the Secretary-General of the United Nations as well as presentations on the day’s theme “Better data. Better lives.”, on the national statistical system and on the importance of statistics in the socio-economic life of the country. An exhibition of the statistical outputs of the national statistical system will be organized and promotional material such as buttons and t-shirts with the logo of the day will be provided.\n\n The ceremony will be attended by experts from the Commission of [ECOWAS] (http://www.ecowas.int), the [United Nations Statistics Division (UNSD)] (unstats.un.org) and from 15 Member States of ECOWAS, who will be in Lomé from 19 to 23 in October 2015 for a regional workshop on environment statistics."
+    },
+    {
+      "id": "76",
+      "title": "Jamaica will celebrate Caribbean Statistics Day and World Statistics Day",
+      "date": "2015-10-12",
+      "countries": ["JAM"
+      ],
+      "image": "Jamaica",
+      "text":"During the week 12-15 October 2015, the [Statistical Institute of Jamaica (STATIN)] (link: http://statinja.gov.jm) will hold seminars for CAPE/CSEC Students for the [Caribbean Advanced Proficiency Examination (CAPE)] (https://www.cxc.org/?q=examinations/exams/cape) and for the [Caribbean Secondary Education Certificate (CSEC)] (https://www.cxc.org/?q=examinations/exams/csec) from across the island in the areas of Economics, Sociology and Geography.\n\n Also starting on 12 October, an exhibition on “Better data. Better lives.” will open in the lobby of the Statistical Institute. The exhibition will be on display until 23 October.\n\n World Statistics Day will also be marked by the kick off of two outreach campaigns: an advertorial in the Daily Newspapers will feature the concepts, definition and methodology of the Gross Domestic Product; a second advertorial will sensitize the public on the upcoming Household Expenditure Survey scheduled to commence 2016."
+    },
+    {
+      "id": "75",
+      "title": "Palestinian Central Bureau of Statistics launches a special web site for the celebration of the World Statistics Day 2015",
+      "date": "2015-10-12",
+      "countries": ["PSE"
+      ],
+      "image": "Palestine",
+      "text":"The [Palestinian Bureau of Statistics (PCBS)] (pcbs.gov.ps) launches the [web site] (http://www.pcbs.gov.ps/wsd-2015/en-us/) for its celebration of the World Statistics Day that will take place on 20 October 2015. The website is designed to document the celebration and promote statistics in Palestine. In addition, PCBS seizes this opportunity to promote its practices of social responsibility as well as its dissemination means of official statistics.\n\nPCBS will celebrate World Statistics Day on 20 October 2015 through  a centralized event in Ramallah under the auspices of H.E. Dr. Rami Hamdallah - The Prime Minister - and in participation of key national and international figures. International delegation will join Palestine's celebration including UAE, Jordan, South Africa, Turkey, Tunisia, Sudan, Mexico, Brazil, Sweden, Germany and many others.\n\n One of the guest speakers will be Mr.  Ola Rosling, CEO & Co-Founder of [Gap minder Foundation](http://www.gapminder.org/), who has been a pioneer in using information technology to popularize international statistics among the general public. Mr. Rosling shows the power of statistics through data visualization, with his popular animations converting complex statistics into moving bubbles that reveal clear global trends."
+    },
+    {
+      "id": "74",
+      "title": "International Association for Official Statistics to launch its 2015-2017 strategy on World Statistics Day",
+      "date": "2015-10-23",
+      "organisation": ["IAOS"
+      ],
+      "image": "IAOS",
+      "text":"The [International Association for Official Statistics (IAOS)] (http://isi.cbs.nl/iaos/), an association of the [International Statistical Institute (ISI)] (http://www.isi-web.org) will be launching the 2015-2017 strategy on World Statistics Day. More information will be distributed in the IAOS Newsletter and on the IAOS [website] (http://isi.cbs.nl/iaos/)."
+    },
     {
       "id": "73",
       "title": "Our logo is now available in over 30 languages:  Chinese Traditional, Greek, Hebrew and Icelandic have just been added.",
@@ -606,8 +703,8 @@
       "date": "2015-09-24",
       "countries": ["PSE"
       ],
-      "image": "Palestine",
-      "text": "The [Palestinian Central Bureau of Statistics(PCBS)](http://www.pcbs.gov.ps/wsd-2015/en-us/) will celebrate this year’s World Statistics Day by organizing an international event that highlights emerging issues and challenges in official statistics. With this, the PCBS builds on the successful international conference PCBS it organized on the first World Statistics Day on 20 October 2010.\n\nThis year’s conference will consist of activities and events that highlight the role of official statistics to the progress of society. The event will witness the launching of the regional Code of Practices (COP). It will also highlight the [Sustainable Development Goal indicators](http://unstats.un.org/sdgs/) from different views and perspectives, emphasize future core competencies in National Statistics (i.e. data visualization, utilization of big data, spatial data), discuss strategies to cope with information revolution and focus on advance innovation and analysis.\n\nThe conference will include reputable keynote speakers, panel discussions, data visualization shows, videos and much more. Conference participants will experience World Statistics Day with a Palestinian flavor with field trips to Palestinian historical and religious sites. Participants will include representatives of Arab and International Statistical Institutions, as well as international experts in the field of official statistics in addition to official research institutions as well as local and international media agencies. The Conference will be held at the Palestine Red Crescent Society HQ in Ramallah from 19-22 October 2015."
+      "image": "PCBS",
+      "text": "The [Palestinian Central Bureau of Statistics(PCBS)](http://www.pcbs.gov.ps) will celebrate this year’s World Statistics Day by organizing an international event that highlights emerging issues and challenges in official statistics. With this, the PCBS builds on the successful international conference PCBS it organized on the first World Statistics Day on 20 October 2010.\n\nThis year’s conference will consist of activities and events that highlight the role of official statistics to the progress of society. The event will witness the launching of the regional Code of Practices (COP). It will also highlight the [Sustainable Development Goal indicators](http://unstats.un.org/sdgs/) from different views and perspectives, emphasize future core competencies in National Statistics (i.e. data visualization, utilization of big data, spatial data), discuss strategies to cope with information revolution and focus on advance innovation and analysis.\n\nThe conference will include reputable keynote speakers, panel discussions, data visualization shows, videos and much more. Conference participants will experience World Statistics Day with a Palestinian flavor with field trips to Palestinian historical and religious sites. Participants will include representatives of Arab and International Statistical Institutions, as well as international experts in the field of official statistics in addition to official research institutions as well as local and international media agencies. The Conference will be held at the Palestine Red Crescent Society HQ in Ramallah from 19-22 October 2015."
     },
    {
       "id": "37",
