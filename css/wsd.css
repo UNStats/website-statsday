@@ -229,9 +229,9 @@ h1 {
 }
 
 .content-section-b {
-    padding: 50px 0;
-    border-bottom: 1px solid #e7e7e7;
+    padding: 50px 0 20px 0;
 }
+
 .content-section-c {
     padding: 50px 0;
     border-bottom: 1px solid #e7e7e7;
@@ -258,16 +258,20 @@ ul.latest-posts li {
     padding-left: 20px;
 }
 
-.UN-post:hover, .latest-post:hover {
-    border-color: #069;
+.latest-post .thumbnail {
+    background-color: #f8f8f8;
+}
+
+.latest-post .thumbnail:hover {
+    border-color: #ccc;
+    background-color: #e7e7e7;
+}
+
+.latest-post .thumbnail a {
     text-decoration: none;
 }
 
 @media(min-width:767px) {
-    .UN-post .thumbnail {
-        height: 400px;
-    }
-
     .latest-post .thumbnail {
         height: 380px;
     }
