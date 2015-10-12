@@ -46,6 +46,14 @@
          "name": "China, Hong Kong SAR"
         },
         {
+         "code": "MAC",
+         "name": "China, Macao SAR"
+        },
+        {
+         "code": "CYP",
+         "name": "Cyprus"
+        },
+        {
           "code": "DOM",
           "name": "Dominican Republic"
         },
@@ -275,10 +283,10 @@
       "id": "73",
       "title": "Our logo is now available in over 30 languages:  Chinese Traditional, Greek, Hebrew and Icelandic have just been added.",
       "date": "2015-10-09",
-      "countries": ["CHN","GRC","ISL","ISR"
+      "countries": ["CHN","GRC","ISL","ISR","MAC","CYP"
       ],
       "image": "20151009-WorldStatsDay_Logo_combined",
-      "text":"We have just passed the 30 languages mark. Together with Chinese Traditional, we added Greek, Hebrew and Icelandic. The logo looks amazing in every language. Please send your translation to [statistics@un.org](mailto:statistics@un.org)"
+      "text":"We have just passed the 30 languages mark. Together with Chinese Traditional, we added Greek, Hebrew and Icelandic. The logo looks amazing in every language. Please send your translation to [statistics@un.org](mailto:statistics@un.org).\n\nThe World Statistics Day 2015 logo in different languages is available from [this link](resources.html)."
     },
     {
       "id": "72",
@@ -323,7 +331,7 @@
       "countries": ["MDA"
       ],
       "image": "Moldova",
-      "text":"20 October 2015 is not only the second ever World Statistics Day but also their Fith Statisticians' Day. On that day the [National Bureau of Statistics of the Republic of Moldova (NBS)] (http://www.statistica.md/) and the [Academy of Economic Studies of Moldova] (http://www.ase.md/) with the support of the project [“Improving regional statistics in Moldova”] (http://www.statistica.md/pageview.php?l=en&idc=486) will organize the conference “Improved local and regional statistics for a better life” which aims to contribute to strengthening links between academia and territorial statistics in official statistics, as well as to creating opportunities for gaining practical experience for students and PhD.\n\n Throughout the months of October and November the [National Bureau of Statistics (NBS)] (http://www.statistica.md/) will promote World Statistics Day by organizing jointly with UN Project [“Strengthening the National Statistical System”](http://www.md.undp.org/content/moldova/en/home/operations/projects/democratic_governance/strengthening-the-national-statistical-system-.html) three training courses for non-governmental organizaions, government agencies and journalists with the subject “Use of Gender Statistics”. All training will take place in the context of World Statistics Day under the slogan “Better data. Better lives.”\n\n The NBS will promote World Statistics Day and related events through their website and social networks. NBS will also issue a press release on 20 October 2015."
+      "text":"20 October 2015 is not only the second ever World Statistics Day but also their Sixth Statisticians' Day. On that day the [National Bureau of Statistics of the Republic of Moldova (NBS)] (http://www.statistica.md/) and the [Academy of Economic Studies of Moldova] (http://www.ase.md/) with the support of the project [“Improving regional statistics in Moldova”] (http://www.statistica.md/pageview.php?l=en&idc=486) will organize the conference “Improved local and regional statistics for a better life” which aims to contribute to strengthening links between academia and territorial statistics in official statistics, as well as to creating opportunities for gaining practical experience for students and PhD.\n\n Throughout the months of October and November the [National Bureau of Statistics (NBS)] (http://www.statistica.md/) will promote World Statistics Day by organizing jointly with UN Project [“Strengthening the National Statistical System”](http://www.md.undp.org/content/moldova/en/home/operations/projects/democratic_governance/strengthening-the-national-statistical-system-.html) three training courses for non-governmental organizaions, government agencies and journalists with the subject “Use of Gender Statistics”. All training will take place in the context of World Statistics Day under the slogan “Better data. Better lives.”\n\n The NBS will promote World Statistics Day and related events through their website and social networks. NBS will also issue a press release on 20 October 2015."
     },
     {
       "id": "67",
