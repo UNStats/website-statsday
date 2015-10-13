@@ -38,7 +38,11 @@
           "code": "CAN",
           "name": "Canada"
         },
-		    {
+        {
+          "code": "TCD",
+          "name": "Chad"
+        },
+        {
           "code": "CHN",
           "name": "China"
         },
@@ -89,6 +93,10 @@
         {
           "code": "IDN",
           "name": "Indonesia"
+        },
+        {
+          "code": "IRQ",
+          "name": "Iraq"
         },
         {
           "code": "IRL",
@@ -279,8 +287,16 @@
         "name": "International Statistical Institute"
       },
       {
+        "code": "ITAM",
+        "name": "Instituto Tecnológico Autónomo de México"
+      },
+      {
         "code": "RSS",
         "name": "Royal Statistical Society"
+      },
+      {
+        "code": "SUEKRD",
+        "name": "Salahaddin University-Erbil"
       },
       {
         "code": "StatViews",
@@ -299,6 +315,10 @@
         "name": "UNIDO"
       },
       {
+        "code": "PITT",
+        "name": "University of Pittsburgh"
+      },
+      {
         "code": "USQ",
         "name": "University of Queensland"
       },
@@ -309,6 +329,57 @@
     ]
   },
   "posts": [
+    {
+      "id": "88",
+      "title": "The Institut National de la Statistique des Etudes Economiques et Démographiques (INSEED) of Chad is busy preparing for World Statistics Day",
+      "date": "2015-10-13",
+      "countries": ["TCD"
+      ],
+      "image": "Chad",
+      "text":"The [Institut National de la Statistique des Etudes Economiques et Démographiques (INSEED)] (http://www.inseedtchad.com/) of Chad is in the process of preparing the celebration of World Statistics Day on 10 October 2015. Planned activities include a radio and television speech, which will be delivered by the Minister of Planning and International Cooperation and a press conferencegiven by the Minister and the Director General of Statistics.\n\n World Statistics Day banners will be displayed on the main arteries of the capital city around World Statistics Day."
+    },
+    {
+      "id": "87",
+      "title": "Statistics Department of the Salahaddin University in Erbil will celebrate World Statistics Day",
+      "date": "2015-10-13",
+      "countries": ["IRQ"
+      ],
+      "organisations": ["SUEKRD"
+      ],
+      "image": "SalahaddinUniv",
+      "text":"On the occasion of World Statistics Day 2015 the [Statistics Department] (http://su.edu.krd/content.php?topic=146&articleNo=1298&lang=en) of the [Salahaddin University] (http://su.edu.krd/), in Erbil will hold some activities such as conducting seminars, announcing publication of Kurdish statistical book and some other activities. The main ceremony will take place on 20 October 2015 at 10am in the facilities of the [College of Administration & Economics] (http://su.edu.krd/content.php?topic=146&articleNo=1176&lang=en)."
+    },
+    {
+      "id": "86",
+      "title": "Statistical Office of the Slovak Republic will celebrate with a series of events, including an open house, a quiz and a conference",
+      "date": "2015-10-13",
+      "countries": ["SVK"
+      ],
+      "image": "SlovakRep",
+      "text":"[The Statistical Office of the Slovak Republic (SOSR)] (http://slovak.statistics.sk) is joining the World Statistics Day celebration with various activities and events.\n\n The Open Day of the SOSR is the main activity and will take place on 20 October 2015 at the headquarters and in all regional offices. Visitors have the opportunity to learn information on statistical work through short presentations on selected statistical topics, to gain promotional documents and publications and to familiarize with the new internet portal and statistical databases. The set of specialized presentations is prepared for invited group of users. A [flyer] (http://slovak.statistics.sk/wps/wcm/connect/5fef378e-b749-4669-af77-3315db7670c0/Svetovy_den_statistiky_AJ.pdf?MOD=AJPERES) has been created for this event.\n\n SOSR is also preparing an electronic quiz for users focused on testing statistical knowledge and skills in searching information on the portal and in databases of the SOSR. The quiz will be available from 15 October unitl 15 November 2015.\n\n A Conference on “Electronic Services of the Statistical Office” will be held on 21 October 2015 hosting invited experts. The main aim of the event is to present the results of the national project of the Office.\n\n There are planned internal activities for the staff of the Office as well, e.g. Sports Day and the award “Young Statistician of the year” as the motivation for young employees to active statistical work.\n\n More information on SOSR activities is available on the portal."
+    },
+    {
+      "id": "85",
+      "title": "Instituto Tecnológico Autónomo de México will celebrate World Statistics Day",
+      "date": "2015-10-13",
+      "countries": ["MEX"
+      ],
+      "organisations": ["ITAM"
+      ],
+      "image": "ITAM",
+      "text":"To celebrate the second World Statistics Day and to further strengthen its visibility, the Statistics Department at [Instituto Tecnológico Autónomo de México] (http://www.itam.mx/en/index.php) is organizing an event on 23 October 2015. The seminar will take place at the Main Conference Room in Instituto Tecnológico Autónomo de México in Mexico City, México, and will run from 11:30 - 14:00. Presenters include members from academia and the National Elections Institute. [Click here] (files/ProgramaDiaMundialdelaEstadisticaITAM.pdf) for the full programme."
+    },
+    {
+      "id": "84",
+      "title": "World Statistics Day at the University of Pittsburgh",
+      "date": "2015-10-13",
+      "countries": ["USA"
+      ],
+      "organisations": ["PITT"
+      ],
+      "image": "UnivPittsburgh",
+      "text":"The [University of Pittsburgh] (http://www.pitt.edu/) is celebrating World Statistics Day in a special way. The [Department of Biostatistics](http://www.publichealth.pitt.edu/biostatistics) will be distributing cookies with the [World Statistics Day logo] (resources.html) in icing to members of the department and the Pittsburgh community."
+    },
     {
       "id": "83",
       "title": "Statistics Portugal will celebrate the World Statistics Day 2015 with a Seminar on “Sustainable Development Goals: The challenges for the statistical community.”",
