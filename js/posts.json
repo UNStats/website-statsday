@@ -17,14 +17,15 @@
         "code": "BGD",
         "name": "Bangladesh"
       },
+	  {
+          "code": "BRB",
+          "name": "Barbados"
+      },
         {
           "code": "BLR",
           "name": "Belarus"
         },
-        {
-          "code": "BRB",
-          "name": "Barbados"
-        },
+        
         {
           "code": "BRA",
           "name": "Brazil"
