@@ -25,7 +25,7 @@
           "code": "BLR",
           "name": "Belarus"
         },
-        
+
         {
           "code": "BRA",
           "name": "Brazil"
@@ -287,6 +287,10 @@
         "name": "Statistics Views"
       },
       {
+        "code": "SRHU",
+        "name": "Swami Rama Himalayan University"
+      },
+      {
         "code": "UN",
         "name": "United Nations"
       },
@@ -305,6 +309,28 @@
     ]
   },
   "posts": [
+    {
+      "id": "82",
+      "title": "Swami Rama Himalayan University is conducting their First Annual Symposium on Clinical Biostatistics on World Statistics Day",
+      "date": "2015-10-13",
+      "countries": ["IND"
+      ],
+      "organisations": ["SRHU"
+      ],
+      "image": "SRHU",
+      "text":"On the occasion of World Statistics Day, the [Department of Community Medicine, Himalayan Institute of Medical Sciences] (http://www.srhu.edu.in/academics/schools-colleges/himalayan-institute-of-medical-sciences.html) of the [Swami Rama Himalayan University] (http://www.srhu.edu.in/) is conducting the First Annual Symposium on Clinical Biostatistics on 20 October 2015 under the theme of: “Application of Bio statistical methods in Epidemiological study designs”.\n\n The annual symposium on Clinical Bio-Statistics 2015 is a scientific forum for national exchange of theory, methods and applications of biostatistics in medical research and practice. It will enable participants to know the pre requisites for application of various statistical methods and to select the appropriate test for the study designs as well as interpretation. For more information click [here](files/CME_final_3.pdf). \n\n The symposium is intended for statisticians, clinicians and members of other disciplines, such as epidemiologists, clinical chemists and clinical pharmacologists, nursing & other paramedical staff, interested in the field of clinical biostatistics."
+    },
+    {
+      "id": "81",
+      "title": "Israeli Central Bureau of Statistics celebrates World Statistics Day",
+      "date": "2015-10-12",
+      "countries": ["ISR"
+      ],
+      "organisations": ["RSS","ASA"
+      ],
+      "image": "Israel",
+      "text":"[The Israeli Central Bureau of Statistics] (http://www.cbs.gov.il) will put emphasis on measuring well-being and sustainable development goals to promote evidence-based and, therefore, effective decision-making. \n\n During the weekly Cabinet Meeting, the Government Statistician of Israel is scheduled to present a review of the structure and functions of the [Central Bureau of Statistics] (http://www.cbs.gov.il) and the importance of the use of official statistics in the government decision-making process. \n\n The Public Council for Statistics will mark this day in a special meeting of its 60 members, in which key speakers will present the strategic plan of the government of Israel, and the work done defining well-being indicators that will be monitored to serve the plan. Directors of research centers in the Knesset and in public institutes will present evidence-based decision-making in their organizations.\n\n The [Israel Statistical Association] (http://www.statistics.org.il/) initiated the updating of statistical entries in Wikipedia, for example “The Government Statistician”, “Public Council for Statistics” and “The Statistics Ordinance”. \n\n The Central Bureau of Statistics (CBS) will launch a new yearbook which summarizes the main statistical information on Israel. CBS staff has contributed an article to [Significance Magazine](http://www.statslife.org.uk/significance) [(of RSS and ASA)] (https://worldstatisticsday.org/blog.html?o=RSS) “Magical Mirror: Improving foreign trade in the Middle East”, to be published in a special issue dedicated to World Statistics Day.  In addition, the CBS has prepared special publications related to WSD to be shared with the press and social media to mark this special day."
+    },
     {
       "id": "80",
       "title": "Qatar will announce the results of the 2015 simplified Population, Housing and Establishments Census at the World Statistics Day Forum in Doha",
