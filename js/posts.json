@@ -265,6 +265,10 @@
           "name": "Ukraine"
         },
         {
+          "code": "ARE",
+          "name": "United Arab Emirates"
+        },
+        {
           "code": "USA",
           "name": "United States"
         },
@@ -275,8 +279,16 @@
     ],
     "organisation": [
       {
+        "code": "ACEMS",
+        "name": "Australian Research Council (ARC) Centre of Excellence for Mathematical and Statistical Frontiers"
+      },
+      {
         "code": "ACS",
         "name": "African Centre for Statistics"
+      },
+      {
+        "code": "AIMSCS",
+        "name": "C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science"
       },
       {
         "code": "ASA",
@@ -287,12 +299,24 @@
         "name": "Association of Public Data Users"
       },
       {
+        "code": "AMSI",
+        "name": "Australian Mathematical Sciences Institute"
+      },
+      {
         "code": "CARICOM",
         "name": "Caribbean Community"
       },
       {
         "code": "ECB",
         "name": "European Central Bank"
+      },
+      {
+        "code": "Eurostat",
+        "name": "Eurostat"
+      },
+      {
+        "code": "IADB",
+        "name": "Inter-American Development Bank"
       },
       {
         "code": "IAOS",
@@ -311,12 +335,20 @@
         "name": "Instituto Tecnológico Autónomo de México"
       },
       {
+        "code": "NIS",
+        "name": "National Institute of Statistics Romania"
+      },
+      {
         "code": "RSS",
         "name": "Royal Statistical Society"
       },
       {
         "code": "SUEKRD",
         "name": "Salahaddin University-Erbil"
+      },
+      {
+        "code": "STATSWE",
+        "name": "Statistics Sweden"
       },
       {
         "code": "StatViews",
@@ -339,6 +371,10 @@
         "name": "University of Pittsburgh"
       },
       {
+        "code": "CORK",
+        "name": "University College Cork"
+      },
+      {
         "code": "USQ",
         "name": "University of Queensland"
       },
@@ -350,13 +386,133 @@
   },
   "posts": [
     {
+       "id": "107",
+        "title": "UNSD is getting ready for World Statistics Day",
+        "date": "2015-10-14",
+        "organisations": ["UN"
+        ],
+        "image": "WSDGateBanner",
+        "text": "Preparations at the [UN Statistics Division](http://unstats.un.org/unsd/default.htm) for World Statistics Day are well underway. Pedestrians on First Avenue are greeted by our smiley statistician when walking past the entrance to the UN Secretariat building in New York. Staff are now busy updating the official [https://worldstatisticsday.org](https://worldstatisticsday.org/) website with news and information shared by countries and other partners about the many events they are planning to join the celebration. Also, UNSD staff will celebrate World Statistics Day with a social gathering, at which they will create a time capsule to be opened on World Statistics Day 2030.\n\n [![Banner1](img/posts/WSDGateBanner1_sm.jpg)](img/posts/WSDGateBanner1_bg.jpg)[![Banner2](img/posts/WSDGateBanner3_sm.jpg)](img/posts/WSDGateBanner3_bg.jpg)[![DirPic](img/posts/StatsDay15UNSDdirector_sm.jpg)](img/posts/StatsDay15UNSDdirector_bg.jpg)[![Banner2](img/posts/StatsDay15_WebDev_sm.jpg)](img/posts/StatsDay15_WebDev_sm.jpg)"
+      },
+      {
+      "id": "106",
+      "title": "National Statistics Institute of Spain celebrates with two conferences",
+      "date": "2015-10-15",
+      "countries": ["ESP"
+      ],
+      "image": "Spain",
+      "text": "The [National Statistics Institute of Spain (INE)] (http://www.ine.es) will celebrate World Statistics Day with two main events. On World Statistics Day, 20 October 2015, a seminar about the use of Big Data in Official Statistics will be held in the INE headquarters in Madrid. Moreover, a conference about “The future of INE demographic statistics and 2021 population census” will be organized jointly by INE and the [Spanish National Research Council (CSIC)] (http://www.csic.es). Both events are open to the participation of any public interested in the future challenges of statistics.\n\n For more info please check the programme in [Spanish] (files/INE_Spain_WSD_2015_ES.pdf) and [English] (files/INE_Spain_WSD_2015.pdf)."
+    },
+      {
+        "id": "105",
+        "title": "More on World Statistics Day in Australia",
+        "date": "2015-10-15",
+        "countries": ["AUS"
+        ],
+        "organisations": ["AMSI","ACEMS"
+        ],
+        "image": "Australia_Mathematics",
+        "text": "The [Australian Mathematical Sciences Institute (AMSI)](http://amsi.org.au) and the [Australian Research Council (ARC) Centre of Excellence for Mathematical and Statistical Frontiers (ACEMS)](http://acems.org.au) are organising a lecture by Professor Kerrie Mengersen at the [Queensland University of Technology (QUT)] (http://www.qut.edu.au) on [“The power and promise of immersive virtual environments”](files/ACE_flyer_Prof_Mengersen_2015.pdf). The event will be held on 20 October 2015 at 3:30pm AEST at the QUT Video Collaboration Room.\n\n For more information please visit [http://amsi.org.au/events/event/world-statistics-day-2015/](http://amsi.org.au/events/event/world-statistics-day-2015/)"
+      },
+      {
+        "id": "104",
+        "title": "National Institute of Statistics Romania celebrates World Statistics Day",
+        "date": "2015-10-15",
+        "countries": ["ROU"
+        ],
+        "organisations": ["NIS"
+        ],
+        "image": "Romania",
+        "text": "The [National Institute of Statistics Romania (NIS)](http://www.insse.ro) will celebrate World Statistics Day with multiple activities. An Open Day at the NIC offices will take visitors through history with the motto “A Travel in Time – 156 Years of Romanian Official Statistics”. On the same day a press release will be issued focusing on the general World Statistics Day theme “Better data. Better lives.”\n\n Experts from the [National Institute of Statistics Romania (NIS)](http://www.insse.ro), the [Institute of National Economy (IEN)](http://www.ien.ro), the Ministry of Labour, the Ministry of Education and Science, the National Commission for Prognosis, the Territorial Labour Inspectorate and the National Agency for Workforce Employment will attend a round table entitled “Revenues and expenditures of Population-balance or imbalance”. It will be the third roundtable in series of meetings “Institutional Cooperation INS - IEN”\n\n Earlier this year, the [World Statistics Day logo was already published in Romanian](blog.html?i=10)"
+      },
+      {
+        "id": "103",
+        "title": "Irish Central Statistics Office engages with students of all ages though a professional exhibition and at Ireland's Maths Week",
+        "date": "2015-10-15",
+        "countries": ["IRL"
+        ],
+        "image": "Ireland",
+        "text": "The [Irish Central Statistics Office (CSO)] (http://www.cso.ie/) is celebrating World Statistics Day with a number of activities. Firstly, the CSO has partnered with the [Portuguese Exploristica] (http://www.exploristica.com/) team to bring Exploristica, an engaging, interactive set of educational games, to Ireland. The CSO has partnered with the [Lifetime Labs] (http://www.lifetimelab.ie/) in Cork to curate this exhibition and will launch this project on World Statistics Day. Initially, Exploristica will be exhibited in the Lifetime Labs, but, it is easily transportable so it will make a tour of Ireland through regular annual events like the [BT Young Scientist] (http://btyoungscientist.com/) and [SciFest] (http://scifest.ie/) as well as being curated in other cities.\n\n Secondly, CSO will publish our [Statistical Yearbook of Ireland 2015] (http://www.cso.ie/en/releasesandpublications/statisticalyearbookofireland/) on World Statistics Day. The Statistical Yearbook of Ireland 2015 presents a comprehensive picture of Ireland today. It provides detailed information, tables and graphs across a wide range of topics. These include the population, labour market, education, crime, the economy, agriculture, industry, services, prices, housing, and the environment. The yearbook is published as a mobile friendly web publication.\n\n Thirdly, the CSO will partner with [University College Cork] (http://www.ucc.ie) to present a series of short presentations on statistical topics of interest. Statistics will engage the audience will topics like open data and big data and will provide a window to our statistics products and services as well as our wealth of data.\n\n World Statistics Day will build on the CSO outreach work in [Maths Week] (http://www.mathsweek.ie/), taking place a week earlier in Ireland where over a quarter of a million students engage in all things mathematical. During Maths Week the CSO Director General Padraig Dalton will launch our new [CensusAtSchool questionnaire] (http://www.censusatschool.ie/en/take-part/questionnaires/phase15-16), Felix Coleman, a CSO statistician, will publish the finding of the CensusAtSchool 2014/2015 questionnaire. Minister Damien Engliah TD, Minister of State for Skills, Research and Innovation will launch our [statistical poster competition] (http://www.cso.ie/en/studentscorner/johnhoopermedalforstatisticscompetition/) and our [app building competition](http://apps4gaps.ie/). In addition, there will be lots of engagement at school level with themed school visits.\n\n Ireland has an exciting two weeks ahead with World Statistics Day and Maths week creating plenty of opportunities to engage."
+      },
+      {
+        "id": "102",
+        "title": "Statistics Sweden will launch its new website “Sweden in Figures” on World Statistics Day",
+        "date": "2015-10-15",
+        "countries": ["SWE"
+        ],
+        "organisations": ["STATSWE"
+        ],
+        "image": "Sweden",
+        "text": "To celebrate World Statistics Day, [Statistics Sweden](http://www.scb.se) is launching the website [Sverige i siffror (Sweden in Figures)] (http://www.scb.se/sverigeisiffror/). Statistics Sweden created a new concept to make their data available to a broader audience. Information technologies have driven changes in the ways users want to consume statistics. With the increasing flow of information, users need to get information quickly before digging deeper into reports and databases. Information needs to be simple to find, fast to interpret, and easy to dig deeper into.\n\n In addition to the website, Statistics Sweden has developed a teacher’s guide and a booklet."
+      },
+      {
+        "id": "101",
+        "title": "C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science (AIMSCS) celebrates World Statistics Day",
+        "date": "2015-10-15",
+        "countries": ["IND"
+        ],
+        "organisations": ["AIMSCS"
+        ],
+        "image": "AIMSCS",
+        "text": "The [C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science (AIMSCS)](http://www.crraoaimscs.org) located in Kolkata is organizing a [talk] (files/WSIS Boole Invitation from Ireland.pdf) entitled “Better statistics, better lives” by Dr TJ Rao, Former Chairman, National Sample Survey, Former Professor, Indian Statistical Institute, Kolkata.\n\n The event will take place on 20 October 2015, 4pm at the Auditorium, RAMANUJAN Building, AIMSCS, University of Hyderabad Campus, Prof CR Rao Road, Gachibowli, Hyderabad-500 046."
+      },
+    {
+      "id": "100",
+      "title": "The Department of Census and Statistics of Sri Lanka is adding a high level World Statistics Day Forum to its extensive programme for World Statistics Day",
+      "date": "2015-10-15",
+      "countries": ["LKA"
+      ],
+      "image": "SriLanka",
+      "text":"The [Department of Census and Statistics](http://www.statistics.gov.lk/) of Sri Lanka has extended its already extensive programme in celebration for World Statistics Day 2015. The Department will organize a World Statistics Day Forum 2015, which will be held on 20 October 2015 in Colombo, with the participation of the decision makers of the Island. The Forum will showcase the achievements of the Department of Census and Statistics of Sri Lanka and will present how data users use data for making informed decisions.\n\n Other activities include Statistical Literacy Seminars, which will be conducted for GCE (A/L) students of Government schools in Colombo District under the theme “World Statistics Day” on 15 October 2015 and Seminar for Journalists, which will be held on 18 October 2015, to enhance statistical awareness. Special School Assemblies will also be held Island wide on 20 October 2015, to pass the message on “Better data. Better lives”. Seminars for District level officers will be held on 20 October 2015, with the aim of enhancing statistical awareness and appreciating their support to the work of statisticians."
+    },
+    {
+      "id": "99",
+      "title": "How George Boole’s legacy enables the Information Society and is central to better data for better lives",
+      "date": "2015-10-15",
+      "countries": ["IRL"
+      ],
+      "organisations": ["CORK"
+      ],
+      "image": "IrelandPM_UnivCC",
+      "text": "The [Permanent Mission of Ireland to the United Nations] (https://www.dfa.ie/pmun/newyork/) and [University College Cork] (http://www.ucc.ie/en/) are organizing a Panel Discussion on issues related to World Summit on the [Information Society (WSIS)] (www.wsis.org/) entitled [“How George Boole’s legacy enables the Information Society and is central to better data for better lives”](files/WSIS Boole Invitation from Ireland.pdf). Topics include: “The Life and Legacy of George Boole”, “ICT for Development”, “Big Data for Development” and “Big Data and Human Rights”. The event will take place on 20 October 2015, 6:30pm at UNHQ (ECOSOC Chamber).\n\n [A screening of a documentary on George Boole at 5pm in Conference Room 12 will precede the panel discussion](blog.html?i=26).\n\n The discussion will be followed by a reception at the Permanent Mission of Ireland."
+    },
+    {
+      "id": "98",
+      "title": "Eurostat celebrates World Statistics Day",
+      "date": "2015-10-15",
+      "organisations": ["Eurostat"
+      ],
+      "image": "EUROSTAT",
+      "text": "[Eurostat] (http://ec.europa.eu/eurostat/web/main) is the statistical office of the European Union situated in Luxembourg. Its task is to provide the European Union with statistics at European level that enable comparisons between countries and regions. Eurostat will celebrate this year's World Statistics Day with a news release and a short video, which will be published on Monday 19 October. Both will focus on the global theme “Better data. Better lives.” In the news release, Eurostat will highlight the links between its data and the priorities of the European Commission as set out in the recent publication [“European Statistics for European Policies”] (http://ec.europa.eu/eurostat/documents/4031688/7008709/KS-04-15-397-EN-N/).\n\n Nowadays European statistics are used in many different ways by a growing number of people.\n\n ![Eurostat](img/posts/Eurostat_users.png)\n\n In addition, the release will highlight recent work with a link to the lives of European citizens, such as [“Sustainable development in the European Union”](http://ec.europa.eu/eurostat/documents/3217494/6987735/KS-GU-15-001-EN-N.pdf/), [“The EU in the World”] (http://ec.europa.eu/eurostat/documents/3217494/6975194/KS-EX-15-001-EN-N.pdf/), [“Quality of life – Facts and views”] (http://ec.europa.eu/eurostat/documents/3217494/6856423/KS-05-14-073-EN-N/), [“Being young in Europe today“] (http://ec.europa.eu/eurostat/documents/3217494/6776245/KS-05-14-031-EN-N.pdf/) and [“Smarter, greener, more inclusive? – Indicators to support the Europe 2020 strategy”] (http://ec.europa.eu/eurostat/documents/3217494/6655013/KS-EZ-14-001-EN-N.pdf/)."
+    },
+    {
+      "id": "97",
+      "title": "World Statistics Day Celebration 2015 in Curaçao",
+      "date": "2015-10-15",
+      "countries": ["CUW"
+      ],
+      "image": "Curacao",
+      "text": "The [Central Bureau of Statistics Curaçao (CBS)] (http://www.cbs.cw/) intends to celebrate World Statistics Day this year in the following way:\n\n A special newspaper will be published with information on World Statistics Day and general information on the Central Bureau of Statistics (mission, plans for the future, surveys, accomplishments). The most important figures of Curaçao are also presented in this newspaper. The intention is to distribute this newspaper as widely as possible among the population of Curaçao.\n\n A full page size advertorial will be published in the three most important newspaper of Curaçao. The intention of the advertorial is to inform the population of Curaçao about World Statistics Day but also about the importance of statistics and data for Curaçao and for themselves. Seven persons of the community were asked several questions about this topic. The answers along with their photographs will form the adverterial.\n\n As part of a special media campaign information about World Statistics Day and the importance of the CBS will be sent to the media of Curaçao.\n\n A special afternoon will be organized for the staff of CBS on 20 October with a speech of the director and recognition of the staff."
+    },
+    {
+      "id": "96",
+      "title": "Inter-American Development Bank celebrates World Statistics Day",
+      "date": "2015-10-15",
+      "organisations": ["IADB"
+      ],
+      "image": "IADB",
+      "text": "The Institutional Capacity of the State Division of the [Inter-American Development Bank (IADB)] (http://www.iadb.org) is organizing a seminar focusing on “Better Data, Better Lives.” on World Statistics Day.\n\n The event will take place in the IADB offices (CR-201) from 10-11:30am. Richard B. Leshner from [Planet Labs] (https://www.planet.com) will talk about “Using Space to Help Life on Earth”; Anthony Vanky from [MIT Senseable City Lab] (http://senseable.mit.edu) will focus on “When Communities Talk Back: Data & Vizualization in the “Senseable City” and Hermann Habermann from the [National Academies of Sciences] (http://sites.nationalacademies.org/DBASSE/CNSTAT/index.htm) will look at “New Directions in the Use of Data”."
+    },
+    {
       "id": "95",
-      "title": "UNSD is getting ready for World Statistics Day",
-      "date": "2015-10-14",
+      "title": "Second Global Conference on Big Data for Official Statistics will take place on 20-22 October in Abu Dhabi",
+      "date": "2015-10-15",
+      "countries": ["ARE"
+      ],
       "organisations": ["UN"
       ],
-      "image": "WSDGateBanner",
-      "text": "Preparations at the [UN Statistics Division](http://unstats.un.org/unsd/default.htm) for World Statistics Day are well underway. Pedestrians on First Avenue are greeted by our smiley statistician when walking past the entrance to the UN Secretariat building in New York. Staff are now busy updating the official [https://worldstatisticsday.org](https://worldstatisticsday.org/) website with news and information shared by countries and other partners about the many events they are planning to join the celebration. Also, UNSD staff will celebrate World Statistics Day with a social gathering, at which they will create a time capsule to be opened on World Statistics Day 2030.\n\n [![Banner1](img/posts/WSDGateBanner1_sm.jpg)](img/posts/WSDGateBanner1_bg.jpg)[![Banner2](img/posts/WSDGateBanner3_sm.jpg)](img/posts/WSDGateBanner3_bg.jpg)[![DirPic](img/posts/StatsDay15UNSDdirector_sm.jpg)](img/posts/StatsDay15UNSDdirector_bg.jpg)[![Banner2](img/posts/StatsDay15_WebDev_sm.jpg)](img/posts/StatsDay15_WebDev_sm.jpg)"
+      "image": "BigDataUN",
+      "text": "The [Second Global Conference on Big Data for Official Statistics] (http://unstats.un.org/unsd/trade/events/2015/abudhabi/default.asp) opens on 20 October 2015, which happens to be World Statistics Day. This day is celebrated all over the world under the general theme of “Better data. Better lives.” What better way of celebrating World Statistics Day than by highlighting the benefits of Big Data for Better Lives. Innovations in technology, widespread penetration of electronic devices, and the rapid rise in the use of technology for social purposes all bring fundamental changes to the availability of real-time information. Such massive, highly dynamic and weakly structured data is commonly referred to as Big Data.\n\n Recognizing the potential of Big Data, the UN Statistical Commission established in 2014 a global working group (GWG) [http://unstats.un.org/unsd/bigdata/] to provide strategic vision, direction and coordination of Big Data for official statistics. This is the 2nd Conference of the GWG, which will take the use of Big Data one step further from examples to guidance, and from pilot projects to production."
     },
   {
       "id": "94",
@@ -631,7 +787,7 @@
     },
     {
       "id": "65",
-      "title": "University of Queensland to host two guest speakers on World Statistics Day",
+      "title": "University of South Queensland to host two guest speakers on World Statistics Day",
       "date": "2015-10-08",
       "organisations": ["USQ"
       ],
@@ -991,6 +1147,8 @@
       "title": "2015 marks the bicentenary of the birth of George Boole",
       "date": "2015-09-17",
       "countries": ["IRL"
+      ],
+      "organisations": ["CORK"
       ],
       "image": "Univ-College-Cork",
       "text": "In its resolution declaring 20 October 2015 as [the second World Statistics Day](https://worldstatisticsday.org/2015/06/03/general-assembly-resolution/), the United Nations General Assembly noted that this year also marks the bicentenary of the birth of George Boole, whose work on the application of the principles of logic as a form of algebra underpins modern computer science. A new 58-minute film commissioned by [University College Cork](http://www.ucc.ie/en/) shines new light on the legacy of George Boole, recognised as the forefather of the information age.\n\nThe huge impact of George Boole’s work on technology today is explored in [The Genius of George Boole](http://www.georgeboole.com/film/), a stunning new film narrated by Oscar-winning actor Jeremy Irons and produced by multi award-winning Oxford Film and Television. It assembles academics and industry leaders from across the globe to explore the life and importance of one of the world’s greatest unsung heroes.\n\nWorld-renowned film producer and Ireland’s digital champion, Lord Puttnam, sets film with the question: “Is George Boole important?” Puttnam continues: “I guess, no George Boole, no Google, no Amazon, no Intel…that makes him pretty important,” leaving no doubt that Boole is indeed a key figure in our digital age. Dealing with the themes of genius and what motivates genius, the film looks at Boole’s legacy with special references to how Boole research has been applied in today’s world. The film also touches on the historic contexts of Ireland, Cork and UCC as well as England in the early nineteenth century.\n\nThe film, which was recently shown on national television in Ireland, will be shown at the United Nations HQ in New York on World Statistics Day courtesy of the [University College Cork](http://www.ucc.ie/en/) in cooperation with the [Permanent Mission of Ireland to the United Nations](https://www.dfa.ie/pmun/newyork/)."
