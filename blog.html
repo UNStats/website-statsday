@@ -363,7 +363,7 @@
             var os = organisations.lookupByType(ot);
             posts = posts.filter(function(p) { return _.some(_.intersection(p.organisations, os)); });
             $("#remove-filter").removeClass("make-visible");
-            $("#selected-filter h4").text("Non-governmental organisation");
+            $("#selected-filter h4").text("Non-governmental organisations");
           }
 
           if (c !== '') {
