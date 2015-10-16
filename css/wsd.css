@@ -40,6 +40,10 @@ h1 {
     text-align: center;
 }
 
+.btn-filter {
+    margin-top: 20px;
+}
+
 .UN-links {
     padding: 3px;
     padding-right: 30px;
@@ -112,7 +116,7 @@ h1 {
         display: none;
     }
 
-    #selected-country {
+    #selected-filter {
         display: none;
     }
 
@@ -229,9 +233,9 @@ h1 {
 }
 
 .content-section-b {
-    padding: 50px 0;
-    border-bottom: 1px solid #e7e7e7;
+    padding: 50px 0 20px 0;
 }
+
 .content-section-c {
     padding: 50px 0;
     border-bottom: 1px solid #e7e7e7;
@@ -240,6 +244,7 @@ h1 {
 
 .section-heading {
     margin-bottom: 30px;
+    margin-top: 0;
     color: #069;
 }
 
@@ -258,16 +263,20 @@ ul.latest-posts li {
     padding-left: 20px;
 }
 
-.UN-post:hover, .latest-post:hover {
-    border-color: #069;
+.latest-post .thumbnail {
+    background-color: #f8f8f8;
+}
+
+.latest-post .thumbnail:hover {
+    border-color: #ccc;
+    background-color: #e7e7e7;
+}
+
+.latest-post .thumbnail a {
     text-decoration: none;
 }
 
 @media(min-width:767px) {
-    .UN-post .thumbnail {
-        height: 400px;
-    }
-
     .latest-post .thumbnail {
         height: 380px;
     }
@@ -277,13 +286,22 @@ ul.latest-posts li {
     background-color: #f8f8f8;
     border: solid 1px #e7e7e7;
     margin-bottom: 20px;
-    overflow-x: hidden;
-    overflow-y: scroll;
-    height: 600px;
+    padding: 5px;
 }
 
+.country-scrolling {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 500px;
+}
 
-.tweeter-feed {
+.organisation-scrolling {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 200px;
+}
+
+.twitter-feed {
     background-color: #f8f8f8;
     border: solid 1px #e7e7e7;
     margin-bottom: 20px;
@@ -334,7 +352,7 @@ select {
 }
 
 @media(max-width:767px) {
-    .active-countries {
+    .no-filters-m {
         display: none;
     }
 }
@@ -363,6 +381,13 @@ ul#posts {
     color: #069;
     margin-bottom: 20px;
 }
+
+.post-body img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
 /* /Blog posts ---------------------------------- */
 
 /* Resources ------------------------------------ */
@@ -460,3 +485,197 @@ blockquote p {
   font-size: 2em;
   font-style: italic;
 }
+
+
+/* Data Visualisation Page  -----------------------*/
+
+#data-visualisation .data-visualisation-item {
+    right: 0;
+    margin: 0 0 15px;
+}
+
+#data-visualisation .data-visualisation-item .data-visualisation-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+#data-visualisation .data-visualisation-item .data-visualisation-link .data-visualisation-hover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    background: rgba(254,209,54,.9);
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+}
+
+#data-visualisation .data-visualisation-item .data-visualisation-link .data-visualisation-hover:hover {
+    opacity: 1;
+}
+
+#data-visualisation .data-visualisation-item .data-visualisation-link .data-visualisation-hover .data-visualisation-hover-content {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 20px;
+    margin-top: -12px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+#data-visualisation .data-visualisation-item .data-visualisation-link .data-visualisation-hover .data-visualisation-hover-content i {
+    margin-top: -12px;
+}
+
+#data-visualisation .data-visualisation-item .data-visualisation-link .data-visualisation-hover .data-visualisation-hover-content h3,
+#data-visualisation .data-visualisation-item .data-visualisation-link .data-visualisation-hover .data-visualisation-hover-content h4 {
+    margin: 0;
+}
+
+#data-visualisation .data-visualisation-item .data-visualisation-caption {
+    margin: 0 auto;
+    padding: 25px;
+    max-width: 400px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 3px 2px -2px #e7e7e7;
+    color: #069;
+}
+
+#data-visualisation .data-visualisation-item .data-visualisation-caption h4 {
+    margin: 0;
+    text-transform: none;
+}
+
+#data-visualisation .data-visualisation-item .data-visualisation-caption p {
+    margin: 0;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-style: italic;
+}
+
+#data-visualisation * {
+    z-index: 2;
+}
+
+@media(min-width:767px) {
+    #data-visualisation .data-visualisation-item {
+        margin: 0 0 30px;
+    }
+}
+
+.data-visualisation-modal .modal-content {
+    padding: 100px 0;
+    min-height: 100%;
+    border: 0;
+    border-radius: 0;
+    text-align: center;
+    background-clip: border-box;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.data-visualisation-modal .modal-content h2 {
+    margin-bottom: 15px;
+    font-size: 3em;
+}
+
+.data-visualisation-modal .modal-content p {
+    margin-bottom: 30px;
+}
+
+.data-visualisation-modal .modal-content p.item-intro {
+    margin: 20px 0 30px;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.data-visualisation-modal .modal-content ul.list-inline {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.data-visualisation-modal .modal-content img {
+    margin-bottom: 30px;
+}
+
+.data-visualisation-modal .close-modal {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    width: 75px;
+    height: 75px;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.data-visualisation-modal .close-modal:hover {
+    opacity: .3;
+}
+
+.data-visualisation-modal .close-modal .lr {
+    z-index: 1051;
+    width: 1px;
+    height: 75px;
+    margin-left: 35px;
+    background-color: #222;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.data-visualisation-modal .close-modal .lr .rl {
+    z-index: 1052;
+    width: 1px;
+    height: 75px;
+    background-color: #222;
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.data-visualisation-modal .modal-backdrop {
+    display: none;
+    opacity: 0;
+}
+
+/* /Data Visualisation Page  -----------------------*/
+
+/* Image Gallery  -----------------------*/
+
+ul.thumbnails-data-visualisation {
+    padding: 0;
+    list-style: none;
+}
+
+ul.thumbnails-data-visualisation li a {
+    text-align: center;
+        text-decoration: none;
+}
+
+ul.thumbnails-data-visualisation h4 {
+    margin-top: 25px;
+}
+
+ul.thumbnails-data-visualisation p {
+    margin-bottom: 15px;
+}
+
+.thumbnail img {
+  opacity: .75;
+}
+
+.thumbnail img:hover {
+  opacity: 1;
+}
+
+div.pp_default .pp_content_container .pp_details {
+    margin-top:5px;
+}
+
+/* Image Gallery  -----------------------*/

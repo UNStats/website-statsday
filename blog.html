@@ -77,7 +77,7 @@
     <!-- /.container -->
   </nav>
 
-    <!-- Header -->
+  <!-- Header -->
   <a name="about"></a>
   <div class="intro-header">
     <div class="container">
@@ -91,7 +91,6 @@
       </div>
     </div>
     <!-- /.container -->
-
   </div>
   <!-- /.intro-header -->
 
@@ -102,12 +101,14 @@
     <!-- .container -->
     <div class="container">
       <div class="filter-dropdown-m">
-        <select id="countries"></select>
-        <select id="organisations"></select>
+        <select class="btn btn-default" id="countries"></select><br />
+        <select class="btn btn-default" id="organisations"></select><br />
+        <a class="btn btn-default btn-filter" role="button" href="blog.html?ot=other">Non-Governmental Organisations</a>
       </div>
       <div class="all-posts">
         <div id="remove-filter" class="make-visible">
-          <div id="selected-country"><h4></h4></div>
+          <div id="selected-filter">
+            <h4></h4></div>
           <a href="blog.html">See all posts <i class="fa fa-times-circle"></i></a>
         </div>
       </div>
@@ -116,15 +117,20 @@
           <ul id="posts" class="list">
           </ul>
         </div>
-        <div class="col-md-3">
-          <div class="active-countries">
-            <h3 class="section-heading text-center">Activities</h3>
+        <div class="col-md-3 no-filters-m">
+          <h3 class="section-heading text-center">Activities</h3>
+          <div class="active-countries country-scrolling">
             <h5 class="text-center">Countries/areas</h5>
             <ul id="countries-d" class="country-list">
             </ul>
-            <h5 class="text-center">Organisations</h5>
+          </div>
+          <div class="active-countries organisation-scrolling">
+            <h5 class="text-center">International Organisations</h5>
             <ul id="organisations-d">
             </ul>
+          </div>
+          <div class="active-countries">
+            <a href="blog.html?ot=other"><h5 class="text-center">Non-Governmental Organisations</h5></a>
           </div>
         </div>
       </div>
@@ -140,7 +146,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-5 col-lg-offset-2">
-          <p>This is a website by UNStats, the United Nations Statistics Division, <br>a Division of the Department of Economic and Social Affairs.</p>
+          <p>This is a website by UNStats, the United Nations Statistics Division,
+            <br>a Division of the Department of Economic and Social Affairs.</p>
         </div>
         <div class="col-lg-4">
           <ul class="list-inline banner-social-buttons">
@@ -218,9 +225,9 @@
 
   <script id="organisations-template" type="text/template">
     <option value="Select an organisation">Select an organisation</option>
-    {{#codes}} {{#organisation}}
+    {{#codes}} {{#organisation}} {{#isInternational}}
     <option value="{{code}}">{{name}}</option>
-    {{/organisation}} {{/codes}}
+    {{/isInternational}} {{/organisation}} {{/codes}}
   </script>
 
   <script id="countries-d-template" type="text/template">
@@ -232,45 +239,35 @@
   </script>
 
   <script id="organisations-d-template" type="text/template">
-    {{#codes}} {{#organisation}}
+    {{#codes}} {{#organisation}} {{#isInternational}}
     <li>
       <a href="blog.html?o={{code}}">{{name}}</a>
     </li>
-    {{/organisation}} {{/codes}}
+    {{/isInternational}} {{/organisation}} {{/codes}}
   </script>
 
   <script>
-    /* Mobile version */
-      $(function() {
-          $.getJSON('js/posts.json', function(data) {
-              var template = $('#countries-template').html();
-              var info = Mustache.to_html(template, data);
-              $('#countries').html(info);
-          });
-      });
-
-      $(function() {
-          $.getJSON('js/posts.json', function(data) {
-              var template = $('#organisations-template').html();
-              var info = Mustache.to_html(template, data);
-              $('#organisations').html(info);
-          });
-      });
-
-      /* Desktop version */
-      $(function() {
+    $(function() {
             $.getJSON('js/posts.json', function(data) {
+                /* Desktop version */
                 var template = $('#countries-d-template').html();
-                var info = Mustache.to_html(template, data);
-                $('#countries-d').html(info);
-            });
-        });
-
-        $(function() {
-            $.getJSON('js/posts.json', function(data) {
-                var template = $('#organisations-d-template').html();
-                var info = Mustache.to_html(template, data);
-                $('#organisations-d').html(info);
+                var items = Mustache.to_html(template, data);
+                $('#countries-d').html(items);
+                
+                template = $('#organisations-d-template').html();
+                _(data.codes.organisation).map(function(o) { o.isInternational = o.type === 'international'; return o; }).value();
+                items = Mustache.to_html(template, data);
+                $('#organisations-d').html(items);    
+                
+                /* Mobile version */  
+                template = $('#countries-template').html();
+                items = Mustache.to_html(template, data);
+                $('#countries').html(items);    
+                
+                template = $('#organisations-template').html();
+                _(data.codes.organisation).map(function(o) { o.isInternational = o.type === 'international'; return o; }).value();
+                items = Mustache.to_html(template, data);
+                $('#organisations').html(items);       
             });
         });
   </script>
@@ -285,7 +282,7 @@
             <img src="img/posts/{{image}}.jpg" class="img-responsive" />
           </div>
         </div>
-        <div class="col-lg-9">
+        <div class="col-lg-9 post-body">
           <p class="date">{{date}}</p>
           <p>{{{html}}}</p>
           <p>
@@ -327,8 +324,12 @@
             organisations.lookup = function (code) {
               return _(this).where({ 'code': code }).pluck('name').first();
             };
+            
+            organisations.lookupByType = function (type) {              
+              return _(this).where({ 'type': type }).pluck('code').value();
+            }
           }
-
+          
           var addProvider = function(post) {
             post.provider = function() {
               var cs = _(this.countries || []).map(function (code) { return countries.lookup(code); });
@@ -346,6 +347,7 @@
           };
 
           var o = getParameterByName('o');
+          var ot = getParameterByName('ot');
           var c = getParameterByName('c');
           var i = getParameterByName('i');
           var posts = _(data.posts).map(addHtml).map(addProvider);
@@ -354,14 +356,21 @@
             posts = posts.where({'organisations': [o]});
             $("#remove-filter").removeClass("make-visible");
             $('#organisations').val(o);
-            $("#selected-country h4").text(organisations.lookup(o));
+            $("#selected-filter h4").text(organisations.lookup(o));
+          }
+          
+          if (ot !== '') {
+            var os = organisations.lookupByType(ot);
+            posts = posts.filter(function(p) { return _.some(_.intersection(p.organisations, os)); });
+            $("#remove-filter").removeClass("make-visible");
+            $("#selected-filter h4").text("Non-governmental organisations");
           }
 
           if (c !== '') {
             posts = posts.where({'countries': [c]});
             $("#remove-filter").removeClass("make-visible");
             $('#countries').val(c);
-            $("#selected-country h4").text(countries.lookup(c));
+            $("#selected-filter h4").text(countries.lookup(c));
           }
 
           if (i !== '') {
