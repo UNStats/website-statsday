@@ -149,7 +149,6 @@
         "code": "MCO",
         "name": "Monaco"
       },
-        },
       {
         "code": "MNG",
         "name": "Mongolia"
@@ -249,6 +248,8 @@
       {
         "code": "USA",
         "name": "United States"
+      },
+      {
          "code": "CUW",
          "name": "Curaçao"
         },
@@ -273,15 +274,15 @@
           "name": "United Arab Emirates"
         },
         {
-      {
-        "code": "VNM",
-        "name": "Viet Nam"
-      }
+          "code": "VNM",
+          "name": "Viet Nam"
+        }
     ],
     "organisation": [
       {
         "code": "ACEMS",
-        "name": "Australian Research Council (ARC) Centre of Excellence for Mathematical and Statistical Frontiers"
+        "name": "Australian Research Council (ARC) Centre of Excellence for Mathematical and Statistical Frontiers", 
+        "type": "other"
       },
       {
         "code": "ACS",
@@ -304,7 +305,8 @@
       },
       {
         "code": "AMSI",
-        "name": "Australian Mathematical Sciences Institute"
+        "name": "Australian Mathematical Sciences Institute", 
+        "type": "other"
       },
       {
         "code": "CARICOM",
@@ -318,11 +320,13 @@
       },
       {
         "code": "Eurostat",
-        "name": "Eurostat"
+        "name": "Eurostat", 
+        "type": "international"
       },
       {
         "code": "IADB",
-        "name": "Inter-American Development Bank"
+        "name": "Inter-American Development Bank", 
+        "type": "other"
       },
       {
         "code": "IAOS",
@@ -346,7 +350,8 @@
       },
       {
         "code": "NIS",
-        "name": "National Institute of Statistics Romania"
+        "name": "National Institute of Statistics Romania", 
+        "type": "other"
       },
       {
         "code": "RSS",
@@ -360,7 +365,8 @@
       },
       {
         "code": "STATSWE",
-        "name": "Statistics Sweden"
+        "name": "Statistics Sweden", 
+        "type": "other"
       },
       {
         "code": "StatViews",
