@@ -90,6 +90,10 @@
         "name": "Israel"
       },
       {
+        "code": "ITA",
+        "name": "Italy"
+      },
+      {
         "code": "JAM",
         "name": "Jamaica"
       },
@@ -401,6 +405,25 @@
     ]
   },
   "posts": [
+
+      {
+        "id": "109",
+        "title": "Italian National Institute of Statistics (Istat) joins the celebrations for World Statistics Day 2015",
+        "date": "2015-10-16",
+        "countries": ["ITA"
+        ],
+        "image": "Istat",
+        "text": "The [Italian National Institute of Statistics (Istat)] (http://www.istat.it) joins the World Statistics Day 2015 with an event, “Better data. Better life”, to be held in Rome on 20 October, in partnership with the [Italian Statistical Society (SIS)] (http://www.sis-statistica.it).\n\n On the same date, Italy celebrates the Italian Day of Statistics, now in its fifth edition. In line with the UN guidelines, the focus of the Day will be the need to produce reliable and timely statistics and indicators to measure a country’s progress, but also to use new measurement and analysis approaches in support of policies for sustainable development.\n\n The opening ceremony will start with the institutional greetings, among the others, of the Permanent Representative of Italy to the United Nations in Rome. The Presidents of Istat and Sis will then proceed with the signing of the “Data for Sustainable Development - A Statement for World Statistics Day”, sponsored by the Royal Statistical Society and the American Statistical Association. The ceremony will conclude with the awarding of the national winner of the [International Statistical Literacy Project (ISLP)](http://iase-web.org/islp/).\n\n A panel of experts will discuss the theme of “Sustainable development and social progress”, which is the focus of the second part of the day. Besides the national event, which can also be followed in live streaming on the institutional website, Istat, in collaboration with organizations, local institutions and universities promotes about thirty-five regional initiatives and activities.\n\n All material will be available on a designated [website] (http://www.istat.it/it/archivio/169060)."
+      },
+      {
+          "id": "108",
+          "title": "Statistical Office of the Former Yugoslav Republic of Macedonia joins in the celebration of World Statistics Day",
+          "date": "2015-10-16",
+          "countries": ["MKD"
+          ],
+          "image": "RepofMacedonia",
+          "text": "[The Statistical Office of the Former Yugoslav Republic of Macedonia] (http://www.stat.gov.mk/Default_en.aspx) joins in the celebration of World Statistics Day with a number of activities. Seven leaflets have been prepared with information about the country in various fields, and several events will be organised: with pupils and students, with the official bodies in the national statistical system, with data providers and data users, and with the chambers of commerce in the country.\n\n All events organised on the occasion of World Statistics Day will be presented on the office's website in the special section dedicated to World Statistics Day."
+        },
     {
        "id": "107",
         "title": "UNSD is getting ready for World Statistics Day",
