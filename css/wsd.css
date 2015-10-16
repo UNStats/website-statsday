@@ -40,6 +40,10 @@ h1 {
     text-align: center;
 }
 
+.btn-filter {
+    margin-top: 20px;
+}
+
 .UN-links {
     padding: 3px;
     padding-right: 30px;
@@ -112,7 +116,7 @@ h1 {
         display: none;
     }
 
-    #selected-country {
+    #selected-filter {
         display: none;
     }
 
@@ -240,6 +244,7 @@ h1 {
 
 .section-heading {
     margin-bottom: 30px;
+    margin-top: 0;
     color: #069;
 }
 
@@ -281,11 +286,20 @@ ul.latest-posts li {
     background-color: #f8f8f8;
     border: solid 1px #e7e7e7;
     margin-bottom: 20px;
-    overflow-x: hidden;
-    overflow-y: scroll;
-    height: 600px;
+    padding: 5px;
 }
 
+.country-scrolling {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 500px;
+}
+
+.organisation-scrolling {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 200px;
+}
 
 .twitter-feed {
     background-color: #f8f8f8;
@@ -338,7 +352,7 @@ select {
 }
 
 @media(max-width:767px) {
-    .active-countries {
+    .no-filters-m {
         display: none;
     }
 }
@@ -367,6 +381,13 @@ ul#posts {
     color: #069;
     margin-bottom: 20px;
 }
+
+.post-body img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
 /* /Blog posts ---------------------------------- */
 
 /* Resources ------------------------------------ */
