@@ -1,4 +1,0 @@
----
-key: slovak
-lang: sk
----
