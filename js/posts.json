@@ -6,6 +6,10 @@
         "name": "Anguilla"
        },
        {
+        "code": "ARG",
+        "name": "Argentina"
+       },
+       {
         "code": "AUS",
         "name": "Australia"
        },
@@ -258,6 +262,10 @@
         "name": "Togo"
       },
       {
+        "code": "TKL",
+        "name": "Tokelau"
+      },
+      {
         "code": "TUR",
         "name": "Turkey"
       },
@@ -462,6 +470,35 @@
     ]
   },
   "posts": [
+    {
+        "id": "129",
+        "title":"Argentina’s National University of Tucuman celebrates World Statistics Day and anniversary of Inter-American Statistical Institute",
+        "date": "2015-10-19",
+        "organisations":["NUofT"
+        ],
+        "countries":["ARG"
+        ],
+        "image": "UnivTucuman",
+        "text": "From 19-22 October 2015, the [Faculty of Economic Sciences of the National University of Tucuman] (http://face.unt.edu.ar/web/) in Argentina will celebrate World Statistics Day and commemorate the 75th anniversary of the [Inter-American Statistical Institute (IASI)](http://www.contraloria.gob.pa/inec/iasi/ing_index.html).\n\n The Institute of Statistical Research of the Faculty of Economic Sciences and the Inter-American Statistical Institute (IASI) are organizing a series of academic events during these four days, including conferences, courses, and discussion panels, which will count with the participation of distinguished professors and researchers from various countries.\n\n For more information, visit this [page](http://face.unt.edu.ar/web/blog/la-face-sera-sede-de-la-celebracion-por-el-dia-mundial-de-estadistica-y-los-75-anos-de-vida-del-iasi/)."
+      },
+      {
+        "id": "128",
+        "title":"What’s your number, Tokelau?",
+        "date": "2015-10-19",
+        "countries":["TKL"
+        ],
+        "image": "Tokelau",
+        "text": "On the occasion of World Statistics Day, the [Tokelau National Statistics Office] (http://www.tokelau.org.nz) issued an [online bulletin](http://www.tokelau.org.nz/Bulletin/October+2015/World+Statistics+Day.html) on how they produce official statistics. In the bulletin the Jaap (“iapi”) Jasperse, Statistics Adviser, writes: “Rather than dazzle the reader with lots of figures about the three Tokelau atolls and their inhabitants, we’ll use this opportunity to show what statistics are relevant for Samoa’s northern neighbour Tokelau today, and how they are obtained.”"
+      },
+      {
+        "id": "127",
+        "title":"Australian Bureau of Statistics - taking the theme of 'Better Data. Better Lives.' to heart.",
+        "date": "2015-10-19",
+        "countries":["AUS"
+        ],
+        "image": "Australia_ABS",
+        "text": "The [Australian Bureau of Statistics (ABS)] (http://www.abs.gov.au) will release the results of the 2015 Community Trust in [ABS Statistics Survey](http://www.abs.gov.au/ausstats/abs@.nsf/mf/1014.0) on World Statistics Day. This survey measures the current levels of trust in the Australian Bureau of Statistics and its statistical output. It also compares results to a similar survey conducted in 2010 for the last World Statistics Day.\n\n The Australian Bureau of Statistics has already been celebrating World Statistics Day on its Facebook page with their [ChatStats competition] (https://www.facebook.com/absstats). \n\n The headline event for World Statistics Day celebrations is the ABS Transformation Showcase Expo. This Expo will highlight some key achievements in the [ABS transformation program] (http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/by Subject/1005.0~2015-19~Main Features~Transforming for the future~5) and will be attended by ABS staff and invited external stakeholders.\n\n The Australian Statistician, David W. Kalisch, said; “The 2015 World Statistics Day theme is ‘Better Data. Better Lives’ which resonates well with the ABS’ own transformation agenda - the ABS is rebuilding its statistical infrastructure so that we can more readily provide information that will help policy makers improve the lives of all Australians. Essentially, the World Statistics Day theme is what we are going to be working towards over the next five years.”"
+      },
     {
         "id": "126",
         "title":"Université catholique de Louvain (Belgium) celebrates World Statistics Day",
