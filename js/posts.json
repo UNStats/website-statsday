@@ -174,10 +174,6 @@
         "name": "Myanmar"
       },
       {
-        "code": "NZL",
-        "name": "New Zealand"
-      },
-      {
         "code": "NOR",
         "name": "Norway"
       },
@@ -918,7 +914,7 @@
       "id": "93",
       "title": "Austrian Statistical Days will be held 21-23 October in Vienna",
       "date": "2015-10-14",
-      "countries": ["AUT","HUN"
+      "countries": ["AUT",
       ],
       "organisations": ["HAS","HSA"
       ],
