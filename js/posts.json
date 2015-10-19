@@ -50,9 +50,13 @@
         "name": "China, Hong Kong SAR"
       },
       {
+         "code": "HRV",
+         "name": "Croatia"
+      },
+      {
          "code": "CUW",
          "name": "Curaçao"
-        },
+      },
       {
         "code": "DOM",
         "name": "Dominican Republic"
@@ -78,6 +82,10 @@
         "name": "India"
       },
       {
+        "code": "IRN",
+        "name": "Iran"
+      },
+      {
         "code": "IRQ",
         "name": "Iraq"
       },
@@ -88,10 +96,6 @@
       {
         "code": "ISR",
         "name": "Israel"
-      },
-      {
-        "code": "ITA",
-        "name": "Italy"
       },
       {
         "code": "JAM",
@@ -261,16 +265,6 @@
         "type": "other"
       },
       {
-        "code": "UNECA",
-        "name": "UN Economic Commission for Africa",
-        "type": "international"
-      },
-      {
-        "code": "AIMSCS",
-        "name": "C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science",
-        "type": "other"
-      },
-      {
         "code": "ASA",
         "name": "American Statistical Association",
         "type": "other"
@@ -286,6 +280,11 @@
         "type": "other"
       },
       {
+        "code": "BostonUniversity",
+        "name": "Boston University of Arts and Sciences",
+        "type": "other"
+      },
+      {
         "code": "CARICOM",
         "name": "Caribbean Community",
         "type": "international"
@@ -293,6 +292,16 @@
       {
         "code": "CSS",
         "name": "Catalan Statistical Society",
+        "type": "other"
+      },
+      {
+        "code": " C.R.Rao AIMSCS",
+        "name": "C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science",
+        "type": "other"
+      },
+      {
+        "code": "CUSAT",
+        "name": "Cochin University of Science and Technology",
         "type": "other"
       },
       {
@@ -315,8 +324,6 @@
         "name": "Hungarian Statistical Association",
         "type": "other"
       },
-
-
       {
         "code": "IADB",
         "name": "Inter-American Development Bank",
@@ -373,14 +380,29 @@
         "type": "other"
       },
       {
+        "code": "USCensus",
+        "name": "United States Census Bureau",
+        "type": "other"
+      },
+      {
         "code": "UN",
         "name": "United Nations",
         "type": "international"
       },
       {
-        "code": "UNIDO",
-        "name": "UNIDO",
+        "code": "UNECA",
+        "name": "UN Economic Commission for Africa",
         "type": "international"
+      },
+      {
+        "code": "UNIDO",
+        "name": "UN Industrial Development Organization",
+        "type": "international"
+      },
+      {
+        "code": "UGIR",
+        "name": "University of Golestan",
+        "type": "other"
       },
       {
         "code": "PITT",
@@ -407,6 +429,59 @@
   "posts": [
 
       {
+        "id": "114",
+        "title":"Boston University College of Arts and Sciences marks World Statistics Day",
+        "date": "2015-10-19",
+        "organisations":["BostonUniversity"
+        ],
+        "countries":["USA"
+        ],
+        "image": "BostonUniversity",
+        "text": "The [Boston University College of Arts and Sciences (BUSCASA)] (http://www.bu.edu) is hosting Sinan Aral, PhD, a leading expert on social networks and digital strategy as guest speaker for World Statistics Day. The [event] (http://www.bu.edu/stat/bu-student-chapter-of-the-asa/world-statistics-day-2015/) will take place on Tuesday, 20 October at 11am in the Hariri Institute Conference Room 180 and will discuss how improved data sources, sound statistical methods, and new technologies enable better decisions that eventually result in better lives for all of us.\n\n Dr. Aral will share the importance of statistics in his experiences working closely with Facebook, Microsoft, Nike, the New York Times, and many other leading Fortune 500 firms. He is frequently the keynote speaker at leading events and has given numerous TEDx talks, and his work is often featured in the New York Times, Businessweek, and Wired. After the seminar, are invited to joint Dr. Aral for lunch and a meet and greet opportunity in MCS 148."
+      },
+      {
+        "id": "113",
+        "title":"U.S. Census Bureau issues infographics and a Facts for Features “Special Edition: World Statistics Day”",
+        "date": "2015-10-19",
+        "organisations":["USCensus"
+        ],
+        "countries":["USA"
+        ],
+        "image": "US_CensusBureau",
+        "text": "The [U.S. Census Bureau] (http://census.gov/) is joining statistical organizations throughout the world to celebrate the second World Statistics Day on 20 October 2015.\n\n This [interactive infographic] (http://www.census.gov/library/infographics/wsd_2015.html) is a compilation of news graphics that highlights the wide range of ways the Census Bureau supports this year’s theme of “Better data. Better lives.” The Census Bureau also released a Facts for Features “Special Edition: World Statistics Day” [online] (http://www.census.gov/library/infographics/wsd_2015.html) and in [pdf] (http://www.census.gov/content/dam/Census/newsroom/facts-for-features/2015/cb15-ff20_world_stats_day.pdf).\n\n The Census Bureau will also release several new blog posts and two additional videos in honor of World Statistics Day on 20 October."
+      },
+      {
+        "id": "112",
+        "title":"Croatia celebrates a long history of statistics in Croatia with a Croatian Statistics Day",
+        "date": "2015-10-19",
+        "countries":["HRV"
+        ],
+        "image": "Croatia_CBS",
+        "text": "[The Department of Statistics, Cochin University of Science and Technology] (http://www.cusat.ac.in), Cochin, Kerala (India) under the aegis of Centre for Population Studies is organizing a workshop on “Official Statistics” to Commemorate World Statistics Day -2015 on 20 October 2015.\n\n More information can be found in this [brochure] (files/CUSAT_brochure_WSD2015.pdf)."
+      },
+      {
+        "id": "111",
+        "title":"Cochin University of Science and Technology (India) is organizing a workshop on official statistics to commemorate World Statistics Day",
+        "date": "2015-10-19",
+        "organisations": ["CUSAT"
+        ],
+        "countries":["IND"
+        ],
+        "image": "CUSAT",
+        "text": "[The Department of Statistics, Cochin University of Science and Technology] (http://www.cusat.ac.in), Cochin, Kerala (India) under the aegis of Centre for Population Studies is organizing a workshop on “Official Statistics” to Commemorate World Statistics Day -2015 on 20 October 2015.\n\n More information can be found in this [brochure] (files/CUSAT_brochure_WSD2015.pdf)."
+      },
+      {
+        "id": "110",
+        "title":"University of Golestan has issued a poster",
+        "date": "2015-10-19",
+        "organisations": ["UGIR"
+        ],
+        "countries":["IRN"
+        ],
+        "image": "Iran",
+        "text": "The Department of Statistics of the University of Golestan produced a [poster] (files/Iran_WSD2015_poster.jpg) marking the second World Statistics Day."
+      },
+      {
         "id": "109",
         "title": "Italian National Institute of Statistics (Istat) joins the celebrations for World Statistics Day 2015",
         "date": "2015-10-16",
@@ -416,15 +491,15 @@
         "text": "The [Italian National Institute of Statistics (Istat)] (http://www.istat.it) joins the World Statistics Day 2015 with an event, “Better data. Better life”, to be held in Rome on 20 October, in partnership with the [Italian Statistical Society (SIS)] (http://www.sis-statistica.it).\n\n On the same date, Italy celebrates the Italian Day of Statistics, now in its fifth edition. In line with the UN guidelines, the focus of the Day will be the need to produce reliable and timely statistics and indicators to measure a country’s progress, but also to use new measurement and analysis approaches in support of policies for sustainable development.\n\n The opening ceremony will start with the institutional greetings, among the others, of the Permanent Representative of Italy to the United Nations in Rome. The Presidents of Istat and Sis will then proceed with the signing of the “Data for Sustainable Development - A Statement for World Statistics Day”, sponsored by the Royal Statistical Society and the American Statistical Association. The ceremony will conclude with the awarding of the national winner of the [International Statistical Literacy Project (ISLP)](http://iase-web.org/islp/).\n\n A panel of experts will discuss the theme of “Sustainable development and social progress”, which is the focus of the second part of the day. Besides the national event, which can also be followed in live streaming on the institutional website, Istat, in collaboration with organizations, local institutions and universities promotes about thirty-five regional initiatives and activities.\n\n All material will be available on a designated [website] (http://www.istat.it/it/archivio/169060)."
       },
       {
-          "id": "108",
-          "title": "Statistical Office of the Former Yugoslav Republic of Macedonia joins in the celebration of World Statistics Day",
-          "date": "2015-10-16",
-          "countries": ["MKD"
-          ],
-          "image": "RepofMacedonia",
-          "text": "[The Statistical Office of the Former Yugoslav Republic of Macedonia] (http://www.stat.gov.mk/Default_en.aspx) joins in the celebration of World Statistics Day with a number of activities. Seven leaflets have been prepared with information about the country in various fields, and several events will be organised: with pupils and students, with the official bodies in the national statistical system, with data providers and data users, and with the chambers of commerce in the country.\n\n All events organised on the occasion of World Statistics Day will be presented on the office's website in the special section dedicated to World Statistics Day."
-        },
-    {
+        "id": "108",
+        "title": "Statistical Office of the Former Yugoslav Republic of Macedonia joins in the celebration of World Statistics Day",
+        "date": "2015-10-16",
+        "countries": ["MKD"
+        ],
+        "image": "RepofMacedonia",
+        "text": "[The Statistical Office of the Former Yugoslav Republic of Macedonia] (http://www.stat.gov.mk/Default_en.aspx) joins in the celebration of World Statistics Day with a number of activities. Seven leaflets have been prepared with information about the country in various fields, and several events will be organised: with pupils and students, with the official bodies in the national statistical system, with data providers and data users, and with the chambers of commerce in the country.\n\n All events organised on the occasion of World Statistics Day will be presented on the office's website in the special section dedicated to World Statistics Day."
+      },
+      {
        "id": "107",
         "title": "UNSD is getting ready for World Statistics Day",
         "date": "2015-10-14",
@@ -441,7 +516,7 @@
       ],
       "image": "Spain",
       "text": "The [National Statistics Institute of Spain (INE)] (http://www.ine.es) will celebrate World Statistics Day with two main events. On World Statistics Day, 20 October 2015, a seminar about the use of Big Data in Official Statistics will be held in the INE headquarters in Madrid. Moreover, a conference about “The future of INE demographic statistics and 2021 population census” will be organized jointly by INE and the [Spanish National Research Council (CSIC)] (http://www.csic.es). Both events are open to the participation of any public interested in the future challenges of statistics.\n\n For more info please check the programme in [Spanish] (files/INE_Spain_WSD_2015_ES.pdf) and [English] (files/INE_Spain_WSD_2015.pdf)."
-    },
+      },
       {
         "id": "105",
         "title": "More on World Statistics Day in Australia",
@@ -489,7 +564,7 @@
         "organisations": ["AIMSCS"
         ],
         "image": "AIMSCS",
-        "text": "The [C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science (AIMSCS)](http://www.crraoaimscs.org) located in Kolkata is organizing a [talk] (files/WSIS Boole Invitation from Ireland.pdf) entitled “Better statistics, better lives” by Dr TJ Rao, Former Chairman, National Sample Survey, Former Professor, Indian Statistical Institute, Kolkata.\n\n The event will take place on 20 October 2015, 4pm at the Auditorium, RAMANUJAN Building, AIMSCS, University of Hyderabad Campus, Prof CR Rao Road, Gachibowli, Hyderabad-500 046."
+        "text": "The [C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science (AIMSCS)](http://www.crraoaimscs.org) located in Hyderabad is organizing a [talk] (files/WSIS Boole Invitation from Ireland.pdf) entitled “Better statistics, better lives” by Dr TJ Rao, Former Chairman, National Sample Survey, Former Professor, Indian Statistical Institute, Kolkata.\n\n The event will take place on 20 October 2015, 4pm at the Auditorium, RAMANUJAN Building, AIMSCS, University of Hyderabad Campus, Prof CR Rao Road, Gachibowli, Hyderabad-500 046."
       },
     {
       "id": "100",
@@ -560,7 +635,7 @@
       "id": "93",
       "title": "Austrian Statistical Days will be held 21-23 October in Vienna",
       "date": "2015-10-14",
-      "countries": ["AUT","HUN"
+      "countries": ["AUT"
       ],
       "organisations": ["HAS","HSA"
       ],
@@ -800,7 +875,7 @@
       "countries": ["MDA"
       ],
       "image": "Moldova",
-      "text":"20 October 2015 is not only the second ever World Statistics Day but also their Sixth Statisticians' Day. On that day the [National Bureau of Statistics of the Republic of Moldova (NBS)] (http://www.statistica.md/) and the [Academy of Economic Studies of Moldova] (http://www.ase.md/) with the support of the project [“Improving regional statistics in Moldova”] (http://www.statistica.md/pageview.php?l=en&idc=486) will organize the conference “Improved local and regional statistics for a better life” which aims to contribute to strengthening links between academia and territorial statistics in official statistics, as well as to creating opportunities for gaining practical experience for students and PhD.\n\n Throughout the months of October and November the [National Bureau of Statistics (NBS)] (http://www.statistica.md/) will promote World Statistics Day by organizing jointly with UN Project [“Strengthening the National Statistical System”](http://www.md.undp.org/content/moldova/en/home/operations/projects/democratic_governance/strengthening-the-national-statistical-system-.html) three training courses for non-governmental organizaions, government agencies and journalists with the subject “Use of Gender Statistics”. All training will take place in the context of World Statistics Day under the slogan “Better data. Better lives.”\n\n The NBS will promote World Statistics Day and related events through their website and social networks. NBS will also issue a press release on 20 October 2015."
+      "text":"20 October 2015 is not only the second ever World Statistics Day but also their Sixth Statisticians' Day. On that day the [National Bureau of Statistics of the Republic of Moldova (NBS)] (http://www.statistica.md/) and the [Academy of Economic Studies of Moldova] (http://www.ase.md/) with the support of the project [“Improving regional statistics in Moldova”] (http://www.statistica.md/pageview.php?l=en&idc=486) will organize the conference {}“Improved local and regional statistics for a better life”](files/Moldova_WSD_Conference.pdf) which aims to contribute to strengthening links between academia and territorial statistics in official statistics, as well as to creating opportunities for gaining practical experience for students and PhD.\n\n Throughout the months of October and November the [National Bureau of Statistics (NBS)] (http://www.statistica.md/) will promote World Statistics Day by organizing jointly with UN Project [“Strengthening the National Statistical System”](http://www.md.undp.org/content/moldova/en/home/operations/projects/democratic_governance/strengthening-the-national-statistical-system-.html) three training courses for non-governmental organizaions, government agencies and journalists with the subject “Use of Gender Statistics”. All training will take place in the context of World Statistics Day under the slogan “Better data. Better lives.”\n\n The NBS will promote World Statistics Day and related events through their website and social networks. NBS will also issue a press release on 20 October 2015."
     },
     {
       "id": "67",
