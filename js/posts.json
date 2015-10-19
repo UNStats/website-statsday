@@ -62,6 +62,10 @@
         "name": "Dominican Republic"
       },
       {
+        "code": "EGY",
+        "name": "Egypt"
+      },
+      {
         "code": "EST",
         "name": "Estonia"
       },
@@ -120,6 +124,10 @@
       {
         "code": "LUX",
         "name": "Luxembourg"
+      },
+      {
+        "code": "MYS",
+        "name": "Malaysia"
       },
       {
         "code": "MLI",
@@ -422,27 +430,73 @@
     ]
   },
   "posts": [
-
-      {
-        "id": "114",
-        "title":"Boston University College of Arts and Sciences marks World Statistics Day",
-        "date": "2015-10-19",
-        "organisations":["BostonUniversity"
-        ],
-        "countries":["USA"
-        ],
-        "image": "BostonUniversity",
-        "text": "The [Boston University College of Arts and Sciences (BUSCASA)] (http://www.bu.edu) is hosting Sinan Aral, PhD, a leading expert on social networks and digital strategy as guest speaker for World Statistics Day. The [event] (http://www.bu.edu/stat/bu-student-chapter-of-the-asa/world-statistics-day-2015/) will take place on Tuesday, 20 October at 11am in the Hariri Institute Conference Room 180 and will discuss how improved data sources, sound statistical methods, and new technologies enable better decisions that eventually result in better lives for all of us.\n\n Dr. Aral will share the importance of statistics in his experiences working closely with Facebook, Microsoft, Nike, the New York Times, and many other leading Fortune 500 firms. He is frequently the keynote speaker at leading events and has given numerous TEDx talks, and his work is often featured in the New York Times, Businessweek, and Wired. After the seminar, are invited to joint Dr. Aral for lunch and a meet and greet opportunity in MCS 148."
-      },
-      {
-        "id": "113",
-        "title":"U.S. Census Bureau issues infographics and a Facts for Features “Special Edition: World Statistics Day”",
-        "date": "2015-10-19",
-        "countries":["USA"
-        ],
-        "image": "US_CensusBureau",
-        "text": "The [U.S. Census Bureau] (http://census.gov/) is joining statistical organizations throughout the world to celebrate the second World Statistics Day on 20 October 2015.\n\n This [interactive infographic] (http://www.census.gov/library/infographics/wsd_2015.html) is a compilation of news graphics that highlights the wide range of ways the Census Bureau supports this year’s theme of “Better data. Better lives.” The Census Bureau also released a Facts for Features “Special Edition: World Statistics Day” [online] (http://www.census.gov/library/infographics/wsd_2015.html) and in [pdf] (http://www.census.gov/content/dam/Census/newsroom/facts-for-features/2015/cb15-ff20_world_stats_day.pdf).\n\n The Census Bureau will also release several new blog posts and two additional videos in honor of World Statistics Day on 20 October."
-      },
+    {
+           "id": "119",
+           "title":"Malaysia Statsrun a big success",
+           "date": "2015-10-19",
+           "countries":["MYS"
+           ],
+           "image": "statsRun",
+           "text": "According to [New Straits Times online] (http://www.nst.com.my/news/2015/10/more-4500-attends-statsrun-2015) more than 4,500 public and civil servants from all ages took part in the second Statsrun help in Putrajaya (Malaysia) on Saturday 17 October. \n\nThe Run was organized by the [Department of Statistics] (http://www.statistics.gov.my/) in the context of World Statistics Day 2015, which will be celebrated around the world on 20 October 2015.\n\n More information can be found [here] (http://www.nst.com.my/news/2015/10/more-4500-attends-statsrun-2015)."
+         },
+         {
+           "id": "118",
+           "title":"Central Agency for Public Mobilization and Statistics of Egypt is planning an extensive programme in celebration of World Statistics Day",
+           "date": "2015-10-19",
+           "countries":["EGY"
+           ],
+           "image": "Egypt_CentralAgency",
+           "text": "The [Central Agency for Public Mobilization and Statistics (CAPMAS)] (http://www.capmas.gov.eg) will organize different [events] (files/EGY_Activities.pdf) to celebrate the second World Statistics Day 2015. The main event will be the official celebratory conference “Better data. Better lives.”, which will be held at the CAPMAS main hall on 20 October under auspices of H.E. Gen. Abdel Fatah El SISI – President of Egypt. Among the speakers of the conference H.E. Gen. Abou Bakr El-Gendy – CAPMAS President, H.E. Eng. Sherif Ismaail- the prime Minister, and some ministries amongst them Dr. Ashraf El Araby-Minister of Planning, and Dr. Ghada Wally – Minister of Social Solidarity. The programme is available in [Arabic] (files/EGY_Agenda_Arabic.pdf) and [English] (files/EGY_Agenda_English.pdf). \n\n The CAPMAS celebration will also involve international experts through organizing sessions and workshops - [UN Coordination Office in Cairo] (http://jobs.undp.org/cj_view_job.cfm?cur_job_id=35584) will organize a session on “SDGs in Egypt: opportunities and steps forward”, Ms. Nathalie Milbach Bouché – UN Regional Team Leader, Inclusive Growth & Sustainable Development will be one presenter in the main event. A half-day workshop on “SDGs, data requirements, and innovative technologies”. The [World Bank] (http://www.worldbank.org) will organize both a session on “Assessing Welfare of Egyptian Household” and a workshop on the methodology for measuring poverty in Egypt. The [International Labour Organization (ILO)] (http://www.ilo.org) will organize a session on “Youth Employment and Aspirations” and the [International Organization for Migration (IOM)] (http://www.iom.int) will organize a session on “International and Regional Migration in Egypt”.\n\n At the regional level, CAPMAS jointly with [Economic Researches Forum (ERF)] (http://www.erf.org.eg) will organize a regional training course for statisticians from Arab countries on “Analysis of Economic Census Data” in order to upgrade their statistical capacity.\n\n CAPMAS is coordinating with the Ministry of Education for considering the period from 17 - 22 October 2015 as the week for statistics to raise the statistical awareness for the students through the material prepared by CAPMAS, as well as the coordination with Postal Authority for issuing stamp of the celebration, and organizing exhibitions in the universities and scientific centers to promote CAPMAS publications.\n\n A broadened conference will be held on Tuesday 20 October 2015 to deliberate and discuss emerging issues in statistics and the relevance of official statistics to development. Participants will be prominent international, national and regional experts. CAPMAS will announce the results of field surveys such as the Time Use Survey and Constituents of the local community survey. In addition the extensive programme will inlcude: a competition for the best Statistical Article “the role of statistics for the society development”, a media campaign for raising the statistical awareness (posters on the public transportation means), sending mobiles SMS to inform the public about the celebration, a press release, a booklet on the prominent role of statistics to increase the individual's standard of living, presenting the prominent events at CAPMAS website and the digital board and displaying boards about World Statistics Day all over the CAPMAS regional offices. It will also include a scientific conference, an exhibition of CAPMAS' publications in collaboration with different organizations, institutions & universities, honoring senior statisticians, an overview over the history of CAPMAS, the launching of CAPMAS' new website and last but not least the distribution of souvenirs."
+         },
+         {
+           "id": "117",
+           "title":"U.S. Census Bureau issues infographics and a Facts for Features “Special Edition: World Statistics Day”",
+           "date": "2015-10-19",
+           "organisations":["USCensus"
+           ],
+           "countries":["USA"
+           ],
+           "image": "US_CensusBureau",
+           "text": "The [U.S. Census Bureau] (http://census.gov/) is joining statistical organizations throughout the world to celebrate the second World Statistics Day on 20 October 2015.\n\n This [interactive infographic] (http://www.census.gov/library/infographics/wsd_2015.html) is a compilation of news graphics that highlights the wide range of ways the Census Bureau supports this year’s theme of “Better data. Better lives.” The Census Bureau also released a Facts for Features “Special Edition: World Statistics Day” [online] (http://www.census.gov/library/infographics/wsd_2015.html) and in [pdf] (http://www.census.gov/content/dam/Census/newsroom/facts-for-features/2015/cb15-ff20_world_stats_day.pdf).\n\n The Census Bureau will also release several new blog posts and two additional videos in honor of World Statistics Day on 20 October."
+         },
+         {
+           "id": "116",
+           "title":"Boston University College of Arts and Sciences marks World Statistics Day",
+           "date": "2015-10-19",
+           "organisations":["BostonUniversity"
+           ],
+           "countries":["USA"
+           ],
+           "image": "BostonUniversity",
+           "text": "The [Boston University College of Arts and Sciences (BUSCASA)] (http://www.bu.edu) is hosting Sinan Aral, PhD, a leading expert on social networks and digital strategy as guest speaker for World Statistics Day. The [event] (http://www.bu.edu/stat/bu-student-chapter-of-the-asa/world-statistics-day-2015/) will take place on Tuesday, 20 October at 11am in the Hariri Institute Conference Room 180 and will discuss how improved data sources, sound statistical methods, and new technologies enable better decisions that eventually result in better lives for all of us.\n\n Dr. Aral will share the importance of statistics in his experiences working closely with Facebook, Microsoft, Nike, the New York Times, and many other leading Fortune 500 firms. He is frequently the keynote speaker at leading events and has given numerous TEDx talks, and his work is often featured in the New York Times, Businessweek, and Wired. After the seminar, are invited to joint Dr. Aral for lunch and a meet and greet opportunity in MCS 148."
+         },
+         {
+           "id": "115",
+           "title":"Department of Statistics Malaysia sponsors StatsRun 2015, a Statistics Talk",
+           "date": "2015-10-19",
+           "countries":["MYS"
+           ],
+           "image": "Malaysia_DS",
+           "text": "[StatsRun] (http://home.hooha.asia/STATS-2015.aspx) will be held on 17 October 2015 morning at Putrajaya. The objective of this event is to encourage the community to adopt a healthy life style as well to promote World Statistics Day among Malaysians. The event is expected to attract more than 4,000 participants, includes professional and amateur runner, government servants, students and public. This is the second time this event being held. StatsRun 2015 is open to all Malaysians. The competition will consists of 13 categories, among others open categories (10 km) for men, women, veteran man and veteran women as well as special categories for the government servant and association chamber members. This is a combination of social and sports toward increasing the awareness of the important of statistics for the nation building.\n\n Statistics Talk will be the main event for the celebration of World Statistics Day and will be held on 20 October 2015 at Putrajaya organised by the [Department of Statistics Malaysia (DOSM)](http://www.statistics.gov.my). This event will be officiated by YB Dato’ Sri Abdul Wahid Omar, Minister at the [Prime Minister Department] (http://www.jpm.gov.my/). The talk will be moderated by Mr. Shaik Abdul Rasheed Abdul Ghaffour, Assistant Governor, [Central Bank of Malaysia] (http://www.bnm.gov.my). The panellists are Tan Sri Dato’ Seri Dr. Sulaiman Mahbob, Chairman, [Telekom Malaysia Berhad] (www.tm.com.my) , Professor Datuk Dr. Noor Azlan Ghazali, Vice Chancellor, [National University of Malaysia] (http://www.ukm.my), Datuk Zakaria Abd. Wahab, Editor-in-Chief, [BERNAMA] (http://www.bernama.com) and Ms. Nazaria Baharudin, Senior Director, [Department of Statistics] (http://www.statistics.gov.my). The panel will discuss matters related to “The Power of Statistics”. The expected audience for this event are 350 people, comprising statisticians, lecturers, university students, government servants and ex-statisticians.\n\n Statistics Talk at a smaller scale is also organised at Universities as an effort to increase the statistical literacy among students. The talk will be delivered by officers from DOSM and discuss the importance of statistics in national planning. The Statistics talks are being held at [Malaysia University of Science and Technology] (http://must.edu.my), [National University of Malaysia] (http://www.ukm.my/v6/), [Universiti Utara Malaysia](http://www.uum.edu.my) and [Universiti Teknologi Mara] (http://www.uitm.edu.my/index.php/en/) from September to October 2015."
+         },
+         {
+           "id": "114",
+           "title":"Croatia celebrates a long history of statistics in Croatia with a Croatian Statistics Day",
+           "date": "2015-10-19",
+           "countries":["HRV"
+           ],
+           "image": "Croatia_CBS",
+           "text": "The [Central Bureau of Statistics of the Republic of Croatia] (http://www.dzs.hr) and the Croatian Statistical Association are organizing the Croatian Statistics Day on 19 October 2015. The event will take place at the Croatian [Chamber of Economy] (http://en.hgk.hr) with the theme “Overview the history of statistics in Croatia” and will feature by three keynote speakers from the Europan Union."
+         },
+         {
+           "id": "113",
+           "title":"Department of Statistics of Malaysia kicks off its activities for World Statistics Day 2015 with community outreach",
+           "date": "2015-10-19",
+           "countries":["MYS"
+           ],
+           "image": "Malaysia_1",
+           "text": "The [Department of Statistics, Malaysia (DOSM)] (http://www.statistics.gov.my) along with stakeholders, universities and private sectors is organising many [programmes] (https://www.statistics.gov.my/index.php?r=column/cone&menu_id=NHg3RnVLZlJ1YWoxYVUyZ0kzS1FNZz09) to commemorate the celebration of the World Statistics Day (WSD) 2015.\n\n The programme started out with statistics sessions with communities. A total of 13 sessions with the community and respondents on the area of statistics were held all over the nation from March until August 2015. The objective of these sessions was to explain the importance and usefulness of statistics compiled by DOSM for the formulation of national development policies and administration. The seminars also highlighted the importance of cooperation from community and respondents in the success of the census/survey conducted by DOSM. From these seminars, the relations between the communities and DOSM will be strengthened and generate better understanding.\n\n The Department also created [pamphlets] (https://www.statistics.gov.my/index.php?r=column/cone&menu_id=VDE2UzVqZDRFemdoeWk2YVVLR2p4Zz09), a [monthly newsletter] (https://www.statistics.gov.my/index.php?r=column/cone&menu_id=Q3FZa1MzcG5ON3ZQbWZhTUQrQURvdz09) and [infographics](https://www.statistics.gov.my/index.php?r=column/cone&menu_id=azd5YkRxWmNrMDU4MldVc2QzcWdEUT09).\n\n Many more events are planned. See other [posts](blog.html?c=MYS)."
+         },
       {
         "id": "112",
         "title":"Croatia celebrates a long history of statistics in Croatia with a Croatian Statistics Day",
@@ -1074,7 +1128,7 @@
       "countries": ["MAR"
       ],
       "image": "Morocco",
-      "text":"Under the High Patronage of His Majesty the King Mohammed VI, [the High Commission for Planning in Morocco] (http://hcp.ma) joins the international community to celebrate World Statistics Day on 20 October 2015 under the theme: “Better Data. Better Lives.”. In this regard, a set of activities are scheduled from 20 to 23 October, 2015 at both central level and in the 12 regions of the Kingdom.\n\n An international seminar will be held on 20 October 2015 in Rabat. Participants include eminent senior government officials in charge of statistical production; parliamentarian personalities; representatives of professional organizations and civil society; academics and researchers and eminent international personalities including Mr. Jean Luc Tavernier, Director of [the National Institute of Statistics and Economic Studies of France] (http://www.insee.fr/en/default.asp), Mr. Mario Pezzini, Director of [the OECD Development Centre] (http://www.oecd.org/dev/) Mr. Pedro Luis do Nascimento Silva, President of [the International Statistical Institute] (http://www.isi-web.org). Mr Walter Radermacher, Director General of [Eurostat] (http://ec.europa.eu/eurostat) and Mr. Enrico Giovannini, former Minister of Employment and social policies, Italy, will participate through visio-conference.\n\n Open Days at both central level and in the 12 regions of the Kingdom will be held on 21, 22 and 23 October 2015. The program for these days includes: thematic workshops on the recent achievements of national statistical system and popularization of statistical concepts and methodologies; exhibition (technologies, websites, publications) and guided visits for pupils and students. \n\n Brochures, banners, posters, roll up and other promotional items are being developed to facilitate communication.\n\n Last but not least, the website for the 61th World Statistics Congress of the International Statistical Institute to be held in Marrakech from 16 to 21 July 2017 (ISI2017)will be officially launched on World Statistics Day."
+      "text":"Under the High Patronage of His Majesty the King Mohammed VI, [the High Commission for Planning in Morocco] (http://hcp.ma) joins the international community to celebrate World Statistics Day on 20 October 2015 under the theme: “Better Data. Better Lives.”. In this regard, a set of activities are scheduled from 20 to 23 October, 2015 at both central level and in the 12 regions of the Kingdom.\n\n An international seminar will be held on 20 October 2015 in Rabat. Participants include eminent senior government officials in charge of statistical production; parliamentarian personalities; representatives of professional organizations and civil society; academics and researchers and eminent international personalities including Mr. Jean Luc Tavernier, Director of [the National Institute of Statistics and Economic Studies of France] (http://www.insee.fr/en/default.asp), Mr. Mario Pezzini, Director of [the OECD Development Centre] (http://www.oecd.org/dev/) Mr. Pedro Luis do Nascimento Silva, President of [the International Statistical Institute] (http://www.isi-web.org). Mr Walter Radermacher, Director General of [Eurostat] (http://ec.europa.eu/eurostat) and Mr. Enrico Giovannini, former Minister of Employment and social policies, Italy, will participate through visio-conference.\n\n Open Days at both central level and in the 12 regions of the Kingdom will be held on 21, 22 and 23 October 2015. The program for these days includes: thematic workshops on the recent achievements of national statistical system and popularization of statistical concepts and methodologies; exhibition (technologies, websites, publications) and guided visits for pupils and students. \n\n Brochures, banners, [posters](files/WSD_Poster_Morocco.pdf), roll up and other promotional items are being developed to facilitate communication.\n\n Last but not least, the website for the 61th World Statistics Congress of the International Statistical Institute to be held in Marrakech from 16 to 21 July 2017 (ISI2017)will be officially launched on World Statistics Day."
     },
     {
       "id": "45",
