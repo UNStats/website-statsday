@@ -359,8 +359,6 @@
         "name": "Hungarian Statistical Association",
         "type": "other"
       },
-
-
       {
         "code": "IADB",
         "name": "Inter-American Development Bank",
@@ -464,8 +462,7 @@
     ]
   },
   "posts": [
-
-      {
+    {
         "id": "126",
         "title":"Université catholique de Louvain (Belgium) celebrates World Statistics Day",
         "date": "2015-10-19",
@@ -523,9 +520,7 @@
         "image": "GCC_Stat",
         "text": "For the first time since its establishment in June 2011, the [Statistical Centre for the Cooperation Council for the Arab Countries of the Gulf (GCC-Stat)] (http://www.gccstat.org) joins with the rest of the world in celebrating World Statistics Day 2015 on 20 October 2015.\n\n In preparation for the event, the GCC-Stat website now contains a link to the World Statistics Day website. GCC-Stat is also actively promoting World Statistics Day through social media [twitter] (https://twitter.com/@gccstat), [Facebook] (https://www.facebook.com/gccstat), [Instagram] (http://instagram.com/gccstat), its own [website] (http://gccstat.org/en/) and a media release for distribution through all the GCC countries (United Arab Emirates, Kingdom of Bahrain, Kingdom of Saudi Arabia, Sultanate of Oman, State of Qatar and State of Kuwait).\n\n With many other events happening in the region related to World Statistics Day, managers and staff will gather for a special lunch on 18 October. This will include a short speech from the GCC-Stat Director-General, His Excellency Sabir Al Harbi on the theme of World Statistics Day “Better data. Better lives.”.\n\n On World Statistics Day, congratulatory messages will be sent to all staff working in national statistics offices and other related agencies who contribute in statistical work in the region. Mugs with the 2015 World Statistics Day logo will also be distributed. Highlighting the importance of World Statistics Day, GCC-Stat staff will share their views on WSD (How do statistics make your life better?). These answers will be video recorded and a short movie produced and published later in all related channels."
       },
-
-
-          {
+      {
             "id": "120",
             "title": "We have added three more languages:  Africaans, Azeri and Croatian have just been added.",
             "date": "2015-10-19",
@@ -581,15 +576,6 @@
          },
          {
            "id": "114",
-           "title":"Department of Statistics Malaysia sponsors StatsRun 2015, a Statistics Talk",
-           "date": "2015-10-19",
-           "countries":["MYS"
-           ],
-           "image": "Malaysia_DS",
-           "text": "[StatsRun] (http://home.hooha.asia/STATS-2015.aspx) will be held on 17 October 2015 morning at Putrajaya. The objective of this event is to encourage the community to adopt a healthy life style as well to promote World Statistics Day among Malaysians. The event is expected to attract more than 4,000 participants, includes professional and amateur runner, government servants, students and public. This is the second time this event being held. StatsRun 2015 is open to all Malaysians. The competition will consists of 13 categories, among others open categories (10 km) for men, women, veteran man and veteran women as well as special categories for the government servant and association chamber members. This is a combination of social and sports toward increasing the awareness of the important of statistics for the nation building.\n\n Statistics Talk will be the main event for the celebration of World Statistics Day and will be held on 20 October 2015 at Putrajaya organised by the [Department of Statistics Malaysia (DOSM)](http://www.statistics.gov.my). This event will be officiated by YB Dato’ Sri Abdul Wahid Omar, Minister at the [Prime Minister Department] (http://www.jpm.gov.my/). The talk will be moderated by Mr. Shaik Abdul Rasheed Abdul Ghaffour, Assistant Governor, [Central Bank of Malaysia] (http://www.bnm.gov.my). The panellists are Tan Sri Dato’ Seri Dr. Sulaiman Mahbob, Chairman, [Telekom Malaysia Berhad] (www.tm.com.my) , Professor Datuk Dr. Noor Azlan Ghazali, Vice Chancellor, [National University of Malaysia] (http://www.ukm.my), Datuk Zakaria Abd. Wahab, Editor-in-Chief, [BERNAMA] (http://www.bernama.com) and Ms. Nazaria Baharudin, Senior Director, [Department of Statistics] (http://www.statistics.gov.my). The panel will discuss matters related to “The Power of Statistics”. The expected audience for this event are 350 people, comprising statisticians, lecturers, university students, government servants and ex-statisticians.\n\n Statistics Talk at a smaller scale is also organised at Universities as an effort to increase the statistical literacy among students. The talk will be delivered by officers from DOSM and discuss the importance of statistics in national planning. The Statistics talks are being held at [Malaysia University of Science and Technology] (http://must.edu.my), [National University of Malaysia] (http://www.ukm.my/v6/), [Universiti Utara Malaysia](http://www.uum.edu.my) and [Universiti Teknologi Mara] (http://www.uitm.edu.my/index.php/en/) from September to October 2015."
-         },
-         {
-           "id": "113",
            "title":"Croatia celebrates a long history of statistics in Croatia with a Croatian Statistics Day",
            "date": "2015-10-19",
            "countries":["HRV"
@@ -598,9 +584,18 @@
            "text": "The [Central Bureau of Statistics of the Republic of Croatia] (http://www.dzs.hr) and the Croatian Statistical Association are organizing the Croatian Statistics Day on 19 October 2015. The event will take place at the Croatian [Chamber of Economy] (http://en.hgk.hr) with the theme “Overview the history of statistics in Croatia” and will feature by three keynote speakers from the Europan Union."
          },
          {
+           "id": "113",
+           "title":"Department of Statistics Malaysia sponsors StatsRun 2015 and a Statistics Talk",
+           "date": "2015-10-17",
+           "countries":["MYS"
+           ],
+           "image": "Malaysia_DS",
+           "text": "[StatsRun] (http://home.hooha.asia/STATS-2015.aspx) will be held on 17 October 2015 morning at Putrajaya. The objective of this event is to encourage the community to adopt a healthy life style as well to promote World Statistics Day among Malaysians. The event is expected to attract more than 4,000 participants, includes professional and amateur runner, government servants, students and public. This is the second time this event being held. StatsRun 2015 is open to all Malaysians. The competition will consists of 13 categories, among others open categories (10 km) for men, women, veteran man and veteran women as well as special categories for the government servant and association chamber members. This is a combination of social and sports toward increasing the awareness of the important of statistics for the nation building.\n\n Statistics Talk will be the main event for the celebration of World Statistics Day and will be held on 20 October 2015 at Putrajaya organised by the [Department of Statistics Malaysia (DOSM)](http://www.statistics.gov.my). This event will be officiated by YB Dato’ Sri Abdul Wahid Omar, Minister at the [Prime Minister Department] (http://www.jpm.gov.my/). The talk will be moderated by Mr. Shaik Abdul Rasheed Abdul Ghaffour, Assistant Governor, [Central Bank of Malaysia] (http://www.bnm.gov.my). The panellists are Tan Sri Dato’ Seri Dr. Sulaiman Mahbob, Chairman, [Telekom Malaysia Berhad] (www.tm.com.my) , Professor Datuk Dr. Noor Azlan Ghazali, Vice Chancellor, [National University of Malaysia] (http://www.ukm.my), Datuk Zakaria Abd. Wahab, Editor-in-Chief, [BERNAMA] (http://www.bernama.com) and Ms. Nazaria Baharudin, Senior Director, [Department of Statistics] (http://www.statistics.gov.my). The panel will discuss matters related to “The Power of Statistics”. The expected audience for this event are 350 people, comprising statisticians, lecturers, university students, government servants and ex-statisticians.\n\n Statistics Talk at a smaller scale is also organised at Universities as an effort to increase the statistical literacy among students. The talk will be delivered by officers from DOSM and discuss the importance of statistics in national planning. The Statistics talks are being held at [Malaysia University of Science and Technology] (http://must.edu.my), [National University of Malaysia] (http://www.ukm.my/v6/), [Universiti Utara Malaysia](http://www.uum.edu.my) and [Universiti Teknologi Mara] (http://www.uitm.edu.my/index.php/en/) from September to October 2015."
+         },
+         {
            "id": "112",
            "title":"Department of Statistics of Malaysia kicks off its activities for World Statistics Day 2015 with community outreach",
-           "date": "2015-10-19",
+           "date": "2015-10-17",
            "countries":["MYS"
            ],
            "image": "Malaysia_1",
@@ -1613,7 +1608,6 @@
       "organisations": ["ASA", "RSS"
       ],
       "countries":["USA", "GBR"
-
       ],
       "image": "Significance-Royal_Stat_Society",
       "text": "To mark World Statistics Day, [Significance Magazine](http://www.statslife.org.uk/significance) will devote its October 2015 issue to articles highlighting important contributions of statistics in different parts of the world. Significance Magazine is an official publication of both the [Royal Statistical Society (RSS)](http://www.rss.org.uk/) and the [American Statistical Association (ASA)](http://www.amstat.org/).\n\nThe magazine is planning to publish one article from each of the main geographic regions: North America, South America, Europe, the Middle East, Africa, and Asia.\n\nWe are particularly keen that articles published about the developing world do not fall into the \"bad news\" trap - that is, focusing only on stories of war, death, disease, poverty, and natural disasters,\"says Significance Editor Brian Tarran. Instead, the magazine is seeking tales of interesting work and novel applications of statistics from parts of the planet that are too often overlooked by the media, he adds.\n\nYou can send your article ideas or recommendations of potential contributors to Brian at [b.tarran@rss.org.uk](mailto:b.tarran@rss.org.uk)."
