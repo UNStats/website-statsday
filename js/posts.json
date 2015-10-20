@@ -38,6 +38,10 @@
         "name": "Belgium"
       },
       {
+       "code": "BWA",
+       "name": "Botswana"
+     },
+      {
         "code": "BRA",
         "name": "Brazil"
       },
@@ -545,6 +549,15 @@
         ],
         "image": "Data_Vis",
         "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
+      },
+      {
+        "id": "142",
+        "title":"World Statistics Day celebrations in Botswana",
+        "date": "2015-10-19",
+        "countries":["BWA"
+        ],
+        "image": "Botswana_CSO",
+        "text": "The Botswana Statistics Association and the Central Statistical Office of Botswana have put together a variety of activities to celebrate World Statistics Day.\n\n The [programme](files/Botswana_Activities.pdf) includes a press conference, exhibitions, publicity in radio/TV and print media, community ourtreach and a World Statistics Day march on the morning of 20 October.\n\n For more information click [here] (files/Botswana_Activities.pdf)."
       },
       {
   "id": "141",
