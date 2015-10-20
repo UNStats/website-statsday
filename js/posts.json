@@ -459,6 +459,11 @@
         "type": "other"
       },
       {
+        "code": "OECD",
+        "name": "Organisation for Economic Co-operation and Development",
+        "type": "international"
+      },
+      {
         "code": "RSS",
         "name": "Royal Statistical Society",
         "type": "other"
@@ -579,7 +584,7 @@
         "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
       },
       {
-        "id": "150",
+        "id": "153",
         "title":"Happy ‘Te rā whakanui i te tauanga’ from New Zealand!",
         "date": "2015-10-20",
         "countries":["NZL"
@@ -588,13 +593,40 @@
         "text": "As one of the first National Statistics Offices to see the light on World Statistics Day, [Statistics New Zealand] (http://www.stats.govt.nz/) began its celebrations with a tweet from our Government Statistician, Liz MacPherson.\n\n Statistics New Zealand also produced a video to show how statistics keep our country moving forward.\n\n [![Statistics New Zealand Video](img/posts/NZL_video.png)](http://www.youtube.com/watch?v=Q63Nk41PZSc “World Statistics Day 2015”) \n\nIn addition, Statistics New Zealand website has also been adorned [(screenshot)](img/posts/NZL_website.png) for the occasion thanking New Zealand for their contribution to “Better data. Better lives.”"
       },
       {
-        "id": "149",
+        "id": "152",
         "title":"World Statistics Day in Finland",
         "date": "2015-10-20",
         "countries":["FIN"
         ],
         "image": "Finland_StatFinland",
         "text": "On the World Statistics Day, [Statistics Finland] (http://www.stat.fi/) will arrange open lectures for educational institutions on the way statistics can be used and introduces its activities. In cooperation with the [Bank of Finland] (http://www.suomenpankki.fi) the \"Portrait of a nation – 150 years of statistics on Finland\" exhibition is ongoing at the Bank of Finland museum. The exhibition showcases the evolution of Finnish statistical production and, for example, the beginnings of national income and census calculation. In addition, the exhibition offers a chance to meet the average Finn from 1900, 1956 and 2014. The exhibition opened at the end of September also celebrates Statistics Finland's 150th anniversary. You can learn more about the [exhibition online](http://www.rahamuseo.fi/vaihtuvat_nayttelyt/kansakunnan-kuva/en/). \n\nOn the World Statistics Day, an open lecture on what GDP measures will be arranged at the Bank of Finland museum.\n\nStatistics Finland will also open a new e-course in Tilastokoulu (eCourse in statistics) concerning the history of statistics."
+      },
+      {
+        "id": "151",
+        "title":"Abu Dhabi celebrates World Statistics Day",
+        "date": "2015-10-20",
+        "countries":["ARE"
+        ],
+        "image": "AbuDhabi",
+        "text": "The [Statistics Centre - Abu Dhabi] (http://www.scad.ae) joins the global statistical community in celebrating the World Statistics Day of Statistics under the theme “Better data, Better lives” to educate the society about the significance of statistics in the formulation and support of development strategies and goals at the national, regional and global dimensions. In his word marking this occasion, HE Butti Al Qubaisi, Director General of SCAD thanked the staff members for their dedicated work to improve statistics in the Emirate of Abu Dhabi, emphasizing the need for continued efforts in the implementation of SCAD’s strategy (2016-2020). HE Al Qubaisi also invited his strategic partners and the general public to take part in the centre’s activities marking the Worlds Statistics Day, which include: a symposium on the Implications of Data Revolution for Better Statistics (Keynote lecturer: Professor Enrico Giovannini), social media activities messages, including a Facebook quiz for the public with prizes for winners, an open day with the public at the Shopping Mall, featuring a variety of activities, including a stand acquainting the public with SCAD’s smart phone apps and services, stage events and competitions, a kids corner and kids’ books and gifts, and a survey to measure statistical awareness.\n\n Our main partners in this initiative are: Majid TV Channel, Ministry of Culture, Youth and Community Development, Zayed Foundation for Humanitarian Care and representatives and guests from the above institutions.\n\nFor more information, please visit our social media account: adstatistics [Facebook]    (https://www.facebook.com/adstatistics), [Twitter](https://mobile.twitter.com/adstatistics), [Instagram](https://www.instagram.com/adstatistics/)."
+      },
+      {
+        "id": "150",
+        "title":"OECD celebrates World Statistics Day",
+        "date": "2015-10-20",
+        "organisations":["OECD"
+        ],
+        "image": "OECD",
+        "text": "To celebrate World Statistics Day, the [Organisation for Economic Co-operation and Development (OECD)] (http://www.oecd.org) will hold a “Statistics Day” conference under the World Statistics Day theme– Better Data. Better Lives. The conference will showcase statistics from all OECD directorates through interactive displays, presentations and poster displays. The conference will be opened by the Secretary-General of the OECD with a keynote address from Yann Algan, Professor of Economics, [Sciences Po] (http://www.sciencespo.fr), Paris . The conference is scheduled for early December.\n\n Additionally, OECD has a webpage for [World Statistics Day] (http://www.oecd.org/statistics/world-statistics-day-2015-better-data-better-lives.htm)."
+      },
+      {
+        "id": "149",
+        "title":"FAO supports World Statistics Day 2015",
+        "date": "2015-10-20",
+        "organisations":["FAO"
+        ],
+        "image": "FAO_1",
+        "text": "As a major producer of data and statistics, the [Food and Agriculture Organizations of the United Nations (FAO)] (http://www.fao.org/) strongly supports the designation of 20 October 2015 as World Statistics Day and is actively promoting this to Members Countries and partners, as well as to FAO staff, encouraging them to join the celebration. In this respect, FAO has itself launched a dedicated web page on the Organization’s [web site] (http://www.fao.org/economic/ess/ess-events/wsd/en/) to bring the attention of the general public to this important theme.\n\n There will also be a number of internal events taking place within FAO, for example the launch of a FAO Technical Network of Statisticians. All activities will be reported on the dedicated FAO web page for [World Statistics Day] (http://www.fao.org/economic/ess/ess-events/wsd/en/) as they unfold."
       },
       {
         "id": "148",
