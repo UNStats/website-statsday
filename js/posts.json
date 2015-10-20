@@ -10,6 +10,10 @@
         "name": "Argentina"
        },
        {
+        "code": "ABW",
+        "name": "Aruba"
+       },
+       {
         "code": "AUS",
         "name": "Australia"
        },
@@ -84,6 +88,10 @@
       {
         "code": "EST",
         "name": "Estonia"
+      },
+      {
+      "code": "FIN",
+      "name": "Finland"
       },
       {
        "code": "FJI",
@@ -252,6 +260,10 @@
       {
         "code": "SLB",
         "name": "Solomon Islands"
+      },
+      {
+        "code": "ZAF",
+        "name": "South Africa"
       },
       {
         "code": "ESP",
@@ -551,6 +563,33 @@
         "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
       },
       {
+        "id": "145",
+        "title":"Hearing the voice of ordinary citizens",
+        "date": "2015-10-20",
+        "countries":["ZAF"
+        ],
+        "image": "SouthAfrica",
+        "text": "[Statistics South Africa] (http://www.statssa.gov.za) is conducting a Citizen Satisfaction Survey in the province of KwaZulu-Natal between 12 October and 20 November. The Survey is a joint effort between the [KwaZulu-Natal Office of the Premier] (http://www.kznpremier.gov.za) and Statistics South Africa and will gauge the level of service delivery satisfaction. Just over 200 fieldworkers armed with tablets will start visiting the over 20 000 selected household, asking questions about their satisfaction with services delivered by government ranging from housing and sanitation to law enforcement and transport in the province.\n\n The survey also marks a new era for Stats SA as we launch a paperless survey for the first time. This will also shorten the turnaround time on the processing and release of data. The findings of the Citizen Satisfaction Survey will province the KwaZulu-Natal government with the information it needs to assess the current status of service delivery in the province and allow the Office of the Premier to make informed decisions towards making people’s lives better. See also [here] (http://www.statssa.gov.za/?p=5582)."
+      },
+      {
+        "id": "144",
+        "title":"World Statistics Day in Finland",
+        "date": "2015-10-20",
+        "countries":["FIN"
+        ],
+        "image": "Finland_StatFinland",
+        "text": "On the World Statistics Day, [Statistics Finland] (http://www.stat.fi/) will arrange open lectures for educational institutions on the way statistics can be used and introduces its activities. In cooperation with the [Bank of Finland] (http://www.suomenpankki.fi) the \"Portrait of a nation – 150 years of statistics on Finland\" exhibition is ongoing at the Bank of Finland museum. The exhibition showcases the evolution of Finnish statistical production and, for example, the beginnings of national income and census calculation. In addition, the exhibition offers a chance to meet the average Finn from 1900, 1956 and 2014. The exhibition opened at the end of September also celebrates Statistics Finland's 150th anniversary. You can learn more about the [exhibition online](http://www.rahamuseo.fi/vaihtuvat_nayttelyt/kansakunnan-kuva/en/). \n\nOn the World Statistics Day, an open lecture on what GDP measures will be arranged at the Bank of Finland museum.\n\nStatistics Finland will also open a new e-course in Tilastokoulu (eCourse in statistics) concerning the history of statistics."
+      },
+      {
+        "id": "143",
+        "title":"Central Bank of Aruba marks World Statistics Day with a technical seminar",
+        "date": "2015-10-20",
+        "countries":["ABW"
+        ],
+        "image": "Aruba_CBA",
+        "text": "As one of the two major producers of statistics on Aruba, the [Central Bank of Aruba (CBA)] (http://www.cbaruba.org/cba/home.do) will be celebrating World Statistics Day together with other data compilers and daily users of statistics on a technical level.\n\n The celebration will be in the form of a technical seminar focusing on the importance of statistics in our daily lives. Three guest speakers have been invited to make a presentation at this seminar. The first speaker is Mr. Henk Lub, a former employee of De Nederlandsche Bank (DNB) and the International Monetary Fund ([IMF] (http://imf.org)), who will elaborate on the role of central bank statistics. Mrs. Desiree Helder of the [Centraal Bureau voor de Statistiek (CBS)](http://www.cbs.aw) is the second speaker. She will focus on the role of statistics in our community from the perspective of the CBS. The third speaker, Mr. Ryan Peterson, professor at the [University of Aruba (UA)] (http://www.ua.aw), will discuss the topic big data. More information can be found in the [CBA press release] (http://www.cbaruba.org/cba/readBlob.do?id=3560)."
+      },      
+      {
         "id": "142",
         "title":"World Statistics Day celebrations in Botswana",
         "date": "2015-10-19",
@@ -617,7 +656,7 @@
         "countries":["CHE"
         ],
         "image": "Switzerland_FSO",
-        "text": "The [Federal Statistical Office (FSO)] (http://www.bfs.admin.ch/) will publish a special information site, “Statistics count”, on 20 October. Its purpose is to highlight the growing importance of statistics for democracy and society in general.\n\n The special page will be available in [French] (http://www.la-statistique-compte.ch), [German] (http://www.statistik-zaehlt.ch) and [Italian] (http://www.la-statistica-conta.ch)."
+        "text": "The [Federal Statistical Office (FSO)] (http://www.bfs.admin.ch/) will publish a special information site, “Statistics count”, on 20 October. Its purpose is to highlight the growing importance of statistics for democracy and society in general.\n\n The special page will be available in [French] (http://www.la-statistique-compte.ch), [German] (http://www.statistik-zaehlt.ch) and [Italian] (http://www.la-statistica-conta.ch). \n\n For more information please find [the press release here](http://www.bfs.admin.ch/bfs/portal/en/index/news/01/nip_detail.html?gnpID=2015-682)."
       },
       {
         "id": "135",
