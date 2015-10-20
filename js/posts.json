@@ -314,11 +314,6 @@
         "type": "other"
       },
       {
-        "code": "UNECA",
-        "name": "UN Economic Commission for Africa",
-        "type": "international"
-      },
-      {
         "code": "AIMSCS",
         "name": "C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science",
         "type": "other"
@@ -370,7 +365,7 @@
       },
       {
         "code": "FAO",
-        "name": "FAO",
+        "name": "Food and Agriculture Organization",
         "type": "international"
       },
       {
@@ -388,8 +383,6 @@
         "name": "Hungarian Statistical Association",
         "type": "other"
       },
-
-
       {
         "code": "IADB",
         "name": "Inter-American Development Bank",
@@ -466,8 +459,13 @@
         "type": "international"
       },
       {
+        "code": "UNECA",
+        "name": "UN Economic Commission for Africa",
+        "type": "international"
+      },
+      {
         "code": "UNIDO",
-        "name": "UNIDO",
+        "name": "UN Industrial Development Organization",
         "type": "international"
       },
       {
@@ -843,7 +841,7 @@
         "organisations": ["AIMSCS"
         ],
         "image": "AIMSCS",
-        "text": "The [C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science (AIMSCS)](http://www.crraoaimscs.org) located in Kolkata is organizing a [talk] (files/WSIS Boole Invitation from Ireland.pdf) entitled “Better statistics, better lives” by Dr TJ Rao, Former Chairman, National Sample Survey, Former Professor, Indian Statistical Institute, Kolkata.\n\n The event will take place on 20 October 2015, 4pm at the Auditorium, RAMANUJAN Building, AIMSCS, University of Hyderabad Campus, Prof CR Rao Road, Gachibowli, Hyderabad-500 046."
+        "text": "The [C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science (AIMSCS)](http://www.crraoaimscs.org) located in Hyderabad is organizing a [talk] (files/Invitation_WSD_2015.pdf) entitled “Better statistics, better lives” by Dr TJ Rao, Former Chairman, National Sample Survey, Former Professor, Indian Statistical Institute, Kolkata.\n\n The event will take place on 20 October 2015, 4pm at the Auditorium, RAMANUJAN Building, AIMSCS, University of Hyderabad Campus, Prof CR Rao Road, Gachibowli, Hyderabad-500 046."
       },
     {
       "id": "100",
@@ -1154,7 +1152,7 @@
       "countries": ["MDA"
       ],
       "image": "Moldova",
-      "text":"20 October 2015 is not only the second ever World Statistics Day but also their Sixth Statisticians' Day. On that day the [National Bureau of Statistics of the Republic of Moldova (NBS)] (http://www.statistica.md/) and the [Academy of Economic Studies of Moldova] (http://www.ase.md/) with the support of the project [“Improving regional statistics in Moldova”] (http://www.statistica.md/pageview.php?l=en&idc=486) will organize the conference “Improved local and regional statistics for a better life” which aims to contribute to strengthening links between academia and territorial statistics in official statistics, as well as to creating opportunities for gaining practical experience for students and PhD.\n\n Throughout the months of October and November the [National Bureau of Statistics (NBS)] (http://www.statistica.md/) will promote World Statistics Day by organizing jointly with UN Project [“Strengthening the National Statistical System”](http://www.md.undp.org/content/moldova/en/home/operations/projects/democratic_governance/strengthening-the-national-statistical-system-.html) three training courses for non-governmental organizaions, government agencies and journalists with the subject “Use of Gender Statistics”. All training will take place in the context of World Statistics Day under the slogan “Better data. Better lives.”\n\n The NBS will promote World Statistics Day and related events through their website and social networks. NBS will also issue a press release on 20 October 2015."
+      "text":"20 October 2015 is not only the second ever World Statistics Day but also their Sixth Statisticians' Day. On that day the [National Bureau of Statistics of the Republic of Moldova (NBS)] (http://www.statistica.md/) and the [Academy of Economic Studies of Moldova] (http://www.ase.md/) with the support of the project [“Improving regional statistics in Moldova”] (http://www.statistica.md/pageview.php?l=en&idc=486) will organize the conference [“Improved local and regional statistics for a better life](files/Moldova_WSD_Conference.pdf) which aims to contribute to strengthening links between academia and territorial statistics in official statistics, as well as to creating opportunities for gaining practical experience for students and PhD.\n\n Throughout the months of October and November the [National Bureau of Statistics (NBS)] (http://www.statistica.md/) will promote World Statistics Day by organizing jointly with UN Project [“Strengthening the National Statistical System”](http://www.md.undp.org/content/moldova/en/home/operations/projects/democratic_governance/strengthening-the-national-statistical-system-.html) three training courses for non-governmental organizaions, government agencies and journalists with the subject “Use of Gender Statistics”. All training will take place in the context of World Statistics Day under the slogan “Better data. Better lives.”\n\n The NBS will promote World Statistics Day and related events through their website and social networks. NBS will also issue a press release on 20 October 2015."
     },
     {
       "id": "67",
@@ -1360,7 +1358,7 @@
       "countries": ["MAR"
       ],
       "image": "Morocco",
-      "text":"Under the High Patronage of His Majesty the King Mohammed VI, [the High Commission for Planning in Morocco] (http://hcp.ma) joins the international community to celebrate World Statistics Day on 20 October 2015 under the theme: “Better Data. Better Lives.”. In this regard, a set of activities are scheduled from 20 to 23 October, 2015 at both central level and in the 12 regions of the Kingdom.\n\n An international seminar will be held on 20 October 2015 in Rabat. Participants include eminent senior government officials in charge of statistical production; parliamentarian personalities; representatives of professional organizations and civil society; academics and researchers and eminent international personalities including Mr. Jean Luc Tavernier, Director of [the National Institute of Statistics and Economic Studies of France] (http://www.insee.fr/en/default.asp), Mr. Mario Pezzini, Director of [the OECD Development Centre] (http://www.oecd.org/dev/) Mr. Pedro Luis do Nascimento Silva, President of [the International Statistical Institute] (http://www.isi-web.org). Mr Walter Radermacher, Director General of [Eurostat] (http://ec.europa.eu/eurostat) and Mr. Enrico Giovannini, former Minister of Employment and social policies, Italy, will participate through visio-conference.\n\n Open Days at both central level and in the 12 regions of the Kingdom will be held on 21, 22 and 23 October 2015. The program for these days includes: thematic workshops on the recent achievements of national statistical system and popularization of statistical concepts and methodologies; exhibition (technologies, websites, publications) and guided visits for pupils and students. \n\n Brochures, banners, posters, roll up and other promotional items are being developed to facilitate communication.\n\n Last but not least, the website for the 61th World Statistics Congress of the International Statistical Institute to be held in Marrakech from 16 to 21 July 2017 (ISI2017)will be officially launched on World Statistics Day."
+      "text":"Under the High Patronage of His Majesty the King Mohammed VI, [the High Commission for Planning in Morocco] (http://hcp.ma) joins the international community to celebrate World Statistics Day on 20 October 2015 under the theme: “Better Data. Better Lives.”. In this regard, a set of activities are scheduled from 20 to 23 October, 2015 at both central level and in the 12 regions of the Kingdom.\n\n An international seminar will be held on 20 October 2015 in Rabat. Participants include eminent senior government officials in charge of statistical production; parliamentarian personalities; representatives of professional organizations and civil society; academics and researchers and eminent international personalities including Mr. Jean Luc Tavernier, Director of [the National Institute of Statistics and Economic Studies of France] (http://www.insee.fr/en/default.asp), Mr. Mario Pezzini, Director of [the OECD Development Centre] (http://www.oecd.org/dev/) Mr. Pedro Luis do Nascimento Silva, President of [the International Statistical Institute] (http://www.isi-web.org). Mr Walter Radermacher, Director General of [Eurostat] (http://ec.europa.eu/eurostat) and Mr. Enrico Giovannini, former Minister of Employment and social policies, Italy, will participate through visio-conference.\n\n Open Days at both central level and in the 12 regions of the Kingdom will be held on 21, 22 and 23 October 2015. The program for these days includes: thematic workshops on the recent achievements of national statistical system and popularization of statistical concepts and methodologies; exhibition (technologies, websites, publications) and guided visits for pupils and students. \n\n Brochures, banners, [posters](files/WSD_Poster_Morocco.pdf), roll up and other promotional items are being developed to facilitate communication.\n\n Last but not least, the website for the 61th World Statistics Congress of the International Statistical Institute to be held in Marrakech from 16 to 21 July 2017 (ISI2017)will be officially launched on World Statistics Day."
     },
     {
       "id": "45",
