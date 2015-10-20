@@ -66,6 +66,10 @@
          "name": "Curaçao"
       },
       {
+        "code": "CZE",
+        "name": "Czech Republic"
+      },
+      {
         "code": "DOM",
         "name": "Dominican Republic"
       },
@@ -77,6 +81,10 @@
         "code": "EST",
         "name": "Estonia"
       },
+      {
+       "code": "FJI",
+       "name": "Fiji"
+     },
       {
         "code": "DEU",
         "name": "Germany"
@@ -429,6 +437,11 @@
         "type": "other"
       },
       {
+        "code": "SDV_Serbia",
+        "name": "Statistical Society of Vojvodina",
+        "type": "other"
+      },
+      {
         "code": "StatViews",
         "name": "Statistics Views",
         "type": "other"
@@ -480,7 +493,17 @@
       },
       {
         "code": "USQ",
-        "name": "University of Sourth Queensland",
+        "name": "University of South Queensland",
+        "type": "other"
+      },
+      {
+        "code": "USP_Fiji",
+        "name": "University of the South Pacific",
+        "type": "other"
+      },
+      {
+        "code": "UZurich",
+        "name": "  University of Zurich",
         "type": "other"
       },
       {
@@ -523,6 +546,57 @@
         "image": "Data_Vis",
         "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
       },
+      {
+  "id": "141",
+  "title":"Italy's Ministero degli Affari Esteri e della Cooperazione Internazionale supports World Statistics Day",
+  "date": "2015-10-19",
+  "countries":["ITA"
+  ],
+  "image": "Italy_MFAIC",
+  "text": "Italy's [Ministero degli Affari Esteri e della Cooperazione Internazionale (MFAIC)] (http://www.esteri.it/mae/en/) will participate in World Statistics Day 2015, convinced of the strategic role in official statistical data in sustainable development policies. “Better Data, Better Lives” is also the motto of the 5th Italian Day of Statistics , which is led by [ISTAT] (http://www.istat.it/) as a national event  and followed by additional initiatives organised by local offices in collaboration with the academic world and the national statistics system.\n\n In this context, the MFAIC will publish its “Statistical Yearbook 2015 – The Ministry of Foreign Affairs and International Cooperation in numbers” on-line on World Statistics Day. An English language compendium of data regarding the activities of the Farnesina’s central headquarters and the entire diplomatic network abroad, bearing witness to the ministry’s commitment to the production of quality statistical data in the service of transparency."
+},
+{
+  "id": "140",
+  "title":"The Czech Republic celebrates World Statistics Day",
+  "date": "2015-10-19",
+  "countries":["CZE"
+  ],
+  "image": "CzechRepublic_CZSO",
+  "text": "The [Czech Statistical Office (CZSO)] (https://www.czso.cz/csu/czso/home) has put together an extensive [programme] (https://www.czso.cz/csu/czso/world-statistics-day) in celebration of World Statistics Day 2015. Some of the events are a press conference, the release of a new mobile app, an open day in the library of the CZSO headquarters in Prague, a statistical quiz and a game of pairs (also called Memory or Pemenism). More information on the programme can be found [here] (https://www.czso.cz/csu/czso/world-statistics-day)."
+},
+{
+  "id": "139",
+  "title":"Fiji joins the World Statistics Day celebrations",
+  "date": "2015-10-19",
+  "organisations":["USP_Fiji"
+  ],
+  "countries":["FJI"
+  ],
+  "image": "Fiji_UnivoftheSouthPacific",
+  "text": "To mark World Statistics Day 2015, the [School of Economics (FBE)] (http://www.econ.fbe.usp.ac.fj/) of the [University of the South Pacific] (http://www.usp.ac.fj) is hosting a panel discussion on the theme “Better data. Better lives.” to address aspects of data quality, dissemination, data accessibility, and use for public policy and nation building in the Pacific region. Speakers will also examine recent developments on how big data revolution can shape future of evidence based public policy. Opportunity will be given to participants to ask questions and to share their views. Speakers include Mr. Epeli Waqavonovono (Government Statistician, [Fiji Bureau of Statistics] (http://www.statsfiji.gov.fj) ) and Dr. Alessio Cangiano and Dr. Manoj Pandey (The University of the South Pacific). Dr. Manoranjan Mohanty (The University of the South Pacific) will moderate the discussion."
+},
+{
+  "id": "138",
+  "title":"Statistical Society of Vojvodina, Serbia, is celebrating World Statistics Day",
+  "date": "2015-10-19",
+  "organisations":["SDV_Serbia"
+  ],
+  "countries":["SRB"
+  ],
+  "image": "Serbia_StatisticalSocietyofVojvodina",
+  "text": "The [Statistical Society of Vojvodina] (http://sdv.pmf.uns.ac.rs/), Serbia, will have its general assembly, at 11:00 in the building of [Assembly of the Autonomous Province of Vojvodina] (http://www.skupstinavojvodine.gov.rs/default.aspx?s=vesti&j=EN). At 12:15 [Professor Rajko Bukvic] (http://www.gi.sanu.ac.rs/en/organisation/collaborators/cv/cv_short_rajko_bukvic_eng.pdf) will give a lecture."
+},
+{
+  "id": "137",
+  "title":"University of Zurich is celebrating World Statistics Day",
+  "date": "2015-10-19",
+  "organisations":["UZurich"
+  ],
+  "countries":["CHE"
+  ],
+  "image": "UnivofZurich",
+  "text": "The [University of Zurich (UZH)] (http://www.uzh.ch), [Faculty of Science] (http://www.mnf.uzh.ch/) is celebrating the second World Statistics Day with a variety of events ath the Lichthof of the Irchel Campus to increase statistics awareness within the University. \n\n Activities include poster presentations and screen animations starting from 9am, lunch activities, and more. Between 3 and 4pm a [panel discussion](http://www.mnf.uzh.ch/news/detailansicht.html?tx_ttnews[year]=2015&tx_ttnews[month]=10&tx_ttnews[tt_news]=1058&cHash=4ef22ebbfb0232fac18bfaff96f9fdb2) about 'The many faces of Big Data @UZH' is featured. Discussants are Carolin Strobl (Psychology), Michael Schaepman (Geography), Ralph Schlapbach (FGCZ), Joachim Stadel (Computational Science) and Renato Pajarola (Informatics). The panel is moderated by science journalist Beat Glogger. Discussions can be continued during the apero afterwards."
+},
       {
         "id": "136",
         "title":"Federal Statistical Office of Switzerland launches special microsite",
@@ -1223,7 +1297,7 @@
       "countries": ["TUR"
       ],
       "image": "ICAO",
-      "text":"[International Civil Aviation Organization (ICAO),](http://www.icao.int) will be celebrating World Statistics Day jointly with the Government of Turkey on 20 October 2015. On this day, special workshops will be conducted by ICAO. The co-hosts and contributors to these workshops includes [the World Tourism Organization (UNWTO)] (http://www.unwto.org/), [the University of Warsaw] (http://en.uw.edu.pl), Interdisciplinary Centre for Mathematical and Computational Modelling (ICM) , [the Istanbul Technical University] (http://www.itu.edu.tr/), [International Air Transport Association (IATA)] (http://www.iata.org), [Turkish Airlines] (http://www.turkishairlines.com), [Airbus] (http://www.airbus.com) and others. The event will be held at the [Mardan Palace Hotel] (http://www.mardanpalace.com) and attended by [ICAO member States] (http://www.icao.int/about-icao/Pages/member-states.aspx) and other aviation stakeholders.\n\n The workshop will highlight the paramount importance of statistics in helping governments and other stakeholders to take informed policy or strategic decisions to further the sustainable development of civil air transport. Some of the showcases of the workshops to be held to celebrate the World Statistics Day include air transportation connectivity statistics and the Sustainable Development Goals, the critical role of reliable statistics in official development assistance, financing and implementation of aviation projects; new and current statistical trends in the air transportation environment and aviation and tourism statistics and economic impacts.\n\n The links to the WSD program in the ICAO website can be found at [http://www.icao.int/Meetings/ICAN2015/Pages/Showcases-and-Workshops.aspx](http://www.icao.int/Meetings/ICAN2015/Pages/Showcases-and-Workshops.aspx) and [http://www.icao.int/Meetings/ICAN2015/Pages/Programme.aspx](http://www.icao.int/Meetings/ICAN2015/Pages/Programme.aspx)"
+      "text":"[International Civil Aviation Organization (ICAO),](http://www.icao.int) will be celebrating World Statistics Day jointly with the Government of Turkey on 20 October 2015. On this day, special workshops will be conducted by ICAO. The co-hosts and contributors to these workshops includes [the World Tourism Organization (UNWTO)] (http://www.unwto.org/), [the University of Warsaw] (http://en.uw.edu.pl), Interdisciplinary Centre for Mathematical and Computational Modelling (ICM) , [the Istanbul Technical University] (http://www.itu.edu.tr/), [International Air Transport Association (IATA)] (http://www.iata.org), [Turkish Airlines] (http://www.turkishairlines.com), [Airbus] (http://www.airbus.com) and others. The event will be held at the [Mardan Palace Hotel] (http://www.mardanpalace.com) and attended by [ICAO member States] (http://www.icao.int/about-icao/Pages/member-states.aspx) and other aviation stakeholders.\n\n The workshop will highlight the paramount importance of statistics in helping governments and other stakeholders to take informed policy or strategic decisions to further the sustainable development of civil air transport. Some of the showcases of the workshops to be held to celebrate the World Statistics Day include air transportation connectivity statistics and the Sustainable Development Goals, the critical role of reliable statistics in official development assistance, financing and implementation of aviation projects; new and current statistical trends in the air transportation environment and aviation and tourism statistics and economic impacts.\n\n The links to the WSD program in the ICAO website can be found at the following [link](http://www.icao.int/Meetings/ICAN2015/Pages/Showcases-and-Workshops.aspx) and [http://www.icao.int/Meetings/ICAN2015/Pages/Programme.aspx](http://www.icao.int/Meetings/ICAN2015/Pages/Programme.aspx)"
     },
     {
       "id": "62",
@@ -1322,7 +1396,7 @@
       "countries": ["LUX"
       ],
       "image": "luxembourg",
-      "text":"In the context of World Statistic Day 20 October 2015, a conference including a round table will be organised in Luxembourg by [STATEC] (http://www.statistiques.public.lu/fr/acteurs/statec/), the National Institute of statistics and economic studies of the Grand Duchy of Luxembourg, and [EUROSTAT] (http://ec.europa.eu/eurostat), the statistical office of the European Union situated in Luxembourg.\n\n The opening speech will be delivered by Mr Serge Allegrezza, Director of STATEC and Ms Mariana Kotzeva, Deputy Director General of EUROSTAT. Nico Weydert (President of LSS) will introduce the newly founded Luxembourg Statistics Society LSS). There will then follow a couple of sessions on “big data” and official statistics. To finish, a round-table will be organized with representatives of some of the most important groups of users of statistics in Luxembourg.\n\n Further information and details regarding registration are available at [http://www.statistiques.public.lu/fr/agenda/detail-agenda/2015/10/journeemondiale.pdf](http://www.statistiques.public.lu/fr/agenda/detail-agenda/2015/10/journeemondiale.pdf)"
+      "text":"In the context of World Statistic Day 20 October 2015, a conference including a round table will be organised in Luxembourg by [STATEC] (http://www.statistiques.public.lu/fr/acteurs/statec/), the National Institute of statistics and economic studies of the Grand Duchy of Luxembourg, and [EUROSTAT] (http://ec.europa.eu/eurostat), the statistical office of the European Union situated in Luxembourg.\n\n The opening speech will be delivered by Mr Serge Allegrezza, Director of STATEC and Ms Mariana Kotzeva, Deputy Director General of EUROSTAT. Nico Weydert (President of LSS) will introduce the newly founded Luxembourg Statistics Society LSS). There will then follow a couple of sessions on “big data” and official statistics. To finish, a round-table will be organized with representatives of some of the most important groups of users of statistics in Luxembourg.\n\n Further information and details regarding registration are available at the following [link](http://www.statistiques.public.lu/fr/agenda/detail-agenda/2015/10/journeemondiale.pdf)"
     },
     {
       "id": "51",
