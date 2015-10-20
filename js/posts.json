@@ -66,6 +66,10 @@
         "name": "China, Hong Kong SAR"
       },
       {
+         "code": "COL",
+         "name": "Colombia"
+      },
+      {
          "code": "HRV",
          "name": "Croatia"
       },
@@ -192,6 +196,10 @@
       {
         "code": "MMR",
         "name": "Myanmar"
+      },
+      {
+        "code": "NZL",
+        "name": "New Zealand"
       },
       {
         "code": "NOR",
@@ -562,6 +570,25 @@
         "image": "Data_Vis",
         "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
       },
+
+      {
+        "id": "147",
+        "title":"Happy ‘Te rā whakanui i te tauanga’ from New Zealand!",
+        "date": "2015-10-20",
+        "countries":["NZL"
+        ],
+        "image": "NewZealand",
+        "text": "As one of the first National Statistics Offices to see the light on World Statistics Day, [Statistics New Zealand] (http://www.stats.govt.nz/) began its celebrations with a tweet from our Government Statistician, Liz MacPherson.\n\n Statistics New Zealand also produced a video to show how statistics keep our country moving forward.\n\n [![Statistics New Zealand Video](img/posts/NZL_video.png)](http://www.youtube.com/watch?v=Q63Nk41PZSc “World Statistics Day 2015”) \n\nIn addition, Statistics New Zealand website has also been adorned [(screenshot)](img/posts/NZL_website.png) for the occasion thanking New Zealand for their contribution to “Better data. Better lives.”"
+      },
+      {
+        "id": "146",
+        "title":"World Statistics Day in Finland",
+        "date": "2015-10-20",
+        "countries":["FIN"
+        ],
+        "image": "Finland_StatFinland",
+        "text": "On the World Statistics Day, [Statistics Finland] (http://www.stat.fi/) will arrange open lectures for educational institutions on the way statistics can be used and introduces its activities. In cooperation with the [Bank of Finland] (http://www.suomenpankki.fi) the \"Portrait of a nation – 150 years of statistics on Finland\" exhibition is ongoing at the Bank of Finland museum. The exhibition showcases the evolution of Finnish statistical production and, for example, the beginnings of national income and census calculation. In addition, the exhibition offers a chance to meet the average Finn from 1900, 1956 and 2014. The exhibition opened at the end of September also celebrates Statistics Finland's 150th anniversary. You can learn more about the [exhibition online](http://www.rahamuseo.fi/vaihtuvat_nayttelyt/kansakunnan-kuva/en/). \n\nOn the World Statistics Day, an open lecture on what GDP measures will be arranged at the Bank of Finland museum.\n\nStatistics Finland will also open a new e-course in Tilastokoulu (eCourse in statistics) concerning the history of statistics."
+      },
       {
         "id": "145",
         "title":"Hearing the voice of ordinary citizens",
@@ -573,12 +600,12 @@
       },
       {
         "id": "144",
-        "title":"World Statistics Day in Finland",
+        "title":"Colombia is organizing more that 100 events all over the country in support of “Better data. Better lives.”",
         "date": "2015-10-20",
-        "countries":["FIN"
+        "countries":["COL"
         ],
-        "image": "Finland_StatFinland",
-        "text": "On the World Statistics Day, [Statistics Finland] (http://www.stat.fi/) will arrange open lectures for educational institutions on the way statistics can be used and introduces its activities. In cooperation with the [Bank of Finland] (http://www.suomenpankki.fi) the \"Portrait of a nation – 150 years of statistics on Finland\" exhibition is ongoing at the Bank of Finland museum. The exhibition showcases the evolution of Finnish statistical production and, for example, the beginnings of national income and census calculation. In addition, the exhibition offers a chance to meet the average Finn from 1900, 1956 and 2014. The exhibition opened at the end of September also celebrates Statistics Finland's 150th anniversary. You can learn more about the [exhibition online](http://www.rahamuseo.fi/vaihtuvat_nayttelyt/kansakunnan-kuva/en/). \n\nOn the World Statistics Day, an open lecture on what GDP measures will be arranged at the Bank of Finland museum.\n\nStatistics Finland will also open a new e-course in Tilastokoulu (eCourse in statistics) concerning the history of statistics."
+        "image": "Colombia_DANE",
+        "text": "The [National Administrative Department of Statistics (DANE)] (http://www.dane.gov.co) is proud to join the commemoration of the second World Statistics Day, with the theme “Better data, better life”. To this end, DANE has organized various events across Colombia aimed at fostering statistical culture and data dissemination through lectures, forums, interactive workshops and virtual competitions on statistical knowledge. These events are aimed at diverse public, such as children, university students, academics and researcher, government official at national and territorial levels, as well as entrepreneurs in the public sector and DANE’s team.\n\n The agenda includes more than 100 events organized in the following way: 79 events that will take place in 18 municipalities across the national territory and 27 events in Bogotá D.C. Additionally, we are happy to welcome 2 international experts who will share their knowledge in the field of open data usage, 2 lecturers with academic and research background as well as 4 territorial entities as panelists. More information on the events can be found [here] (http://www.dane.gov.co/semanaestadistica2015/)."
       },
       {
         "id": "143",
@@ -588,7 +615,7 @@
         ],
         "image": "Aruba_CBA",
         "text": "As one of the two major producers of statistics on Aruba, the [Central Bank of Aruba (CBA)] (http://www.cbaruba.org/cba/home.do) will be celebrating World Statistics Day together with other data compilers and daily users of statistics on a technical level.\n\n The celebration will be in the form of a technical seminar focusing on the importance of statistics in our daily lives. Three guest speakers have been invited to make a presentation at this seminar. The first speaker is Mr. Henk Lub, a former employee of De Nederlandsche Bank (DNB) and the International Monetary Fund ([IMF] (http://imf.org)), who will elaborate on the role of central bank statistics. Mrs. Desiree Helder of the [Centraal Bureau voor de Statistiek (CBS)](http://www.cbs.aw) is the second speaker. She will focus on the role of statistics in our community from the perspective of the CBS. The third speaker, Mr. Ryan Peterson, professor at the [University of Aruba (UA)] (http://www.ua.aw), will discuss the topic big data. More information can be found in the [CBA press release] (http://www.cbaruba.org/cba/readBlob.do?id=3560)."
-      },      
+      },
       {
         "id": "142",
         "title":"World Statistics Day celebrations in Botswana",
