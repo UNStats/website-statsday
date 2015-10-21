@@ -70,6 +70,10 @@
          "name": "Colombia"
       },
       {
+         "code": "CIV",
+         "name": "Cote d'Ivoire"
+      },
+      {
          "code": "HRV",
          "name": "Croatia"
       },
@@ -101,6 +105,10 @@
        "code": "FJI",
        "name": "Fiji"
      },
+     {
+      "code": "FRA",
+      "name": "France"
+    },
       {
         "code": "DEU",
         "name": "Germany"
@@ -439,6 +447,11 @@
         "type": "international"
       },
       {
+        "code": "ILO",
+        "name": "International Labour Organization",
+        "type": "international"
+      },
+      {
         "code": "ISI",
         "name": "International Statistical Institute",
         "type": "other"
@@ -457,6 +470,11 @@
         "code": "NUofT",
         "name": "National University of Tucuman",
         "type": "other"
+      },
+      {
+        "code": "OHCHR",
+        "name": "Office of the United Nations High Commissioner for Human Rights",
+        "type": "international"
       },
       {
         "code": "OECD",
@@ -582,6 +600,60 @@
         ],
         "image": "Data_Vis",
         "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
+      },
+      {
+        "id": "162",
+        "title":"UNSD issues press release",
+        "date": "2015-10-21",
+        "organisations":["UN"
+        ],
+        "image": "UN",
+        "text": "The United Nations issued the following press release on the occasion of World Statistics Day 2015: [Press release] (http://www.un.org/press/en/2015/obv1538.doc.htm)."
+      },
+      {
+        "id": "161",
+        "title":"Cote d'Ivoire celebrated World Statistics Day",
+        "date": "2015-10-21",
+        "countries":["CIV"
+        ],
+        "image": "CotedIvoire",
+        "text": "Cote d'Ivoire celebrated World Statistics Day with a [statement by Kaba Niale, Minister of the Economy and Finance] (files/CotedIvoire_Journéemondialedelastatistique.pdf). In her statement, Ms. Niale urged statisticians and demographers from Cote d'Ivoire to demonstrate scientific independence, professionalism, impartiality, transparency and rigor in the exercise of their function to make available to government, development partners and all users, better statistical data to ensure a better life for the citizens of Cote d'Ivoire.\n\n The statement was also the focus on a programme entitled “Le 13 Heures de RTI 1 du 20 Octobre 2015 avec Fatou Fofana” on national TV ([You Tube video](https://www.youtube.com/watch?v=qirkqH1Efo0&feature=youtu.be))."
+      },
+      {
+        "id": "160",
+        "title":"Latvia's opinion leaders sharing their vision of the role of data in their lives and in society",
+        "date": "2015-10-21",
+        "countries":["LVA"
+        ],
+        "image": "Latvia",
+        "text": "On the occasion of World Statistics Day 2015 the [Central Statistical Bureau of Latvia] (http://www.csb.gov.lv/en) prepared several [videos] (https://www.youtube.com/playlist?list=PLPPdEBjeUQWHJJge4sacrOZxQf_DeSGEu) of opinion leaders sharing their vision of the role of data in their lives and in society as a whole.The videos are currently available in Latvian but English subtitles will be released shortly. \n\n [![CSB Latvia](img/posts/Latvia_video.png)](http://www.youtube.com/playlist?list=PLPPdEBjeUQWHJJge4sacrOZxQf_DeSGEu) \n\n \n\n In addition, the Bureau had prepared a [quiz] (http://www.poll-maker.com/Q2IPQE) about statistics of Latvia. A [press release] (files/LVA_PressRelease.pdf) was also distributed."
+      },
+      {
+        "id": "159",
+        "title":"Expertise France supported World Statistics Day",
+        "date": "2015-10-21",
+        "countries":["FRA"
+        ],
+        "image": "France_Expertise",
+        "text": "[Expertise France] (http://www.expertisefrance.fr), a the French international technical expertise agency with the aim of increasing the mobilization capacities of the various areas of public technical expertise in the international arena, in order to better respond to the growing needs of developing or emergent countries in terms of assistance to public policies, supported World Statistics Day with a [special poster] (img/posts/France_poster.png)."
+      },
+      {
+        "id": "158",
+        "title":"Statistical Office of the Republic of Serbia issues press release on the occasion of World Statistics Day",
+        "date": "2015-10-21",
+        "countries":["SRB"
+        ],
+        "image": "Serbia_2",
+        "text": "On the occasion of World Statistics Day the Statistical Office of the [Republic of Serbia (SORS)] (http://webrzs.stat.gov.rs/WebSite/Default.aspx) issued a [press release] (http://webrzs.stat.gov.rs/WebSite/userFiles/file/Aktuelnosti/DanStat/II%20WSD.pdf) emphasizing “the critical role of high-quality official statistical information in analysis, planning and decision-making policy” and stressing “the importance of sustainable national capacity to produce reliable and timely statistics and indicators measuring a country’s progress.”\n\nThe Office also posted a photo Gallery “[SORS - Part of world statistics family] (http://webrzs.stat.gov.rs/WebSite/Public/PageView.aspx?pKey=717)”."
+      },
+      {
+        "id": "157",
+        "title":"Biostatistics Group at McGill University celebrates the sweet way",
+        "date": "2015-10-21",
+        "countries":["CAN"
+        ],
+        "image": "Canada_McGill",
+        "text": "The [Biostatistics group] (http://www.mcgill.ca/epi-biostat-occh/) at [McGill University] (http://www.mcgill.ca) in Montreal (Canada) celebrated World Statistics Day in a sweet way. Approximately 45 students, faculty, and other appreciators of statistics gathered for cupcakes & coffee ([link to photo] (files/Canada_McGill_photo.jpg)) to celebrate before their weekly [seminar series] (http://www.mcgill.ca/epi-biostat-occh/news-events/seminars/biostatistics)."
       },
       {
         "id": "156",
