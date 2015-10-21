@@ -400,6 +400,11 @@
         "type": "international"
       },
       {
+        "code": "CBSN",
+        "name": "CBS News Sunday Morning",
+        "type": "other"
+      },
+      {
         "code": "CSS",
         "name": "Catalan Statistical Society",
         "type": "other"
@@ -625,7 +630,16 @@
         "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
       },
       {
-       "id": "167",
+        "id": "169",
+        "title":"CBS News Sunday Morning features World Statistics Day in their “Sunday Morning” Weekly Calendar",
+        "date": "2015-10-21",
+        "organisations":["CBSN"
+        ],
+        "image": "CBSSundayMorning",
+        "text": "[CBS News Sunday Morning] (http://www.cbsnews.com/) is a 90min American newsmagazine television program that has airs Sundays from 9:00 to 10:30 a.m. Eastern, Pacific Time, which features a “Sunday Morning” Calendar that looks ahead on the upcoming week. This Sunday's [calendar] (http://www.cbsnews.com/news/calendar-week-of-october-19/) included World Statistics Day as “a day for statisticians to highlight the innumerable ways they help decision-makers develop informed policies ... by the numbers.”"
+      },
+      {
+       "id": "168",
        "title": "Celebrating 140 years of Croatian official statistics",
        "date": "2015-10-21",
        "countries":  ["HRV"
@@ -634,7 +648,7 @@
        "text": "On 19 October 2015, the [Croatian Bureau of Statistics] (http://www.dzs.hr) celebrated 140 years of Croatian official statistics. On this occasion, the Bureau prepared a short story [“Life through the Spectrum of Numbers”] (http://www.dzs.hr/Eng/important/Interesting/articles/140-years-booklet.pdf), which illustrates to what extent our every step is accompanied with statistical data. A [press release] (http://www.dzs.hr/Eng/important/Interesting/articles/140-years.pdf) was also issued on the occasion."
      },
      {
-       "id":"166",
+       "id":"167",
        "title": "Brunei Darussalam celebrated World Statistics Day",
        "date": "2015-10-21",
        "countries": ["BRN"
@@ -643,12 +657,20 @@
        "text": "On the occasion of World Statistics Day, the [Department of Economic Planning and Development (JPKE)] (http://www.depd.gov.bn/Theme/Home.aspx) of Brunei Darussalam launched its new website, which presents the latest national official statistics in a more user-friendly way. The website was launched in a [formal ceremony](http://www.depd.gov.bn/Lists/News/DispForm.aspx?ID=34).\n\n Upcoming events in commemoration of World Statistics Day are a Surah Yasin and Tahlil Recital Ceremony on Thursday, 22 October 2015, in remembrance of JPKE’s staff who have passed away; the coordination with the media to disseminate infographics on national statistics starting from 20 until 31 October 2015; and a sales Promotion of JPKE’s statistical publications.\n\n The Department also issued a [press release](files/Brunei_PressRelease.pdf)."
      },
      {
-       "id": "165",
+       "id": "166",
        "title":"edX blogs about World Statistics Day 2015",
        "date": "2015-10-21",
        "organisations": ["EDXORG","MITMA","Harvard"],
        "image": "edx",
        "text": "[edX] (http://www.edx.org), a nonprofit online learning destination founded by [Harvard](http://www.harvard.edu) and [MIT](http://web.mit.edu), helped promote World Statistics Day with a [blog post](http://blog.edx.org/edx-celebrates-world-statistics-day/) that highlights a selection of statistic and policy courses that help improve people's lives."
+     },
+     {
+       "id": "165",
+       "title":"Statistics Views and Wiley have announced the winner of their data visualization competition",
+       "date": "2015-10-21",
+       "organisations": ["Wiley","StatViews"],
+       "image": "wiley",
+       "text": "Statistics Views and Wiley have announced the winner of their [data visualization competition] (https://worldstatisticsday.org/blog.html?i=31). For details please [click here] (http://www.statisticsviews.com/details/news/8487731/Winner-of-World-Statistics-Day-competition-is___.html)"
      },
      {
        "id": "164",
