@@ -50,6 +50,10 @@
         "name": "Brazil"
       },
       {
+        "code": "BRN",
+        "name": "Brunei Darussalam"
+      },
+      {
         "code": "CAN",
         "name": "Canada"
       },
@@ -221,6 +225,10 @@
         "code": "OMN",
         "name": "Oman"
       },
+      {
+       "code": "PNG",
+       "name": "Papua New Guinea"
+     },
       {
         "code": "PER",
         "name": "Peru"
@@ -407,6 +415,11 @@
         "type": "international"
       },
       {
+        "code": "EDXORG",
+        "name": "edX",
+        "type": "other"
+      },
+      {
         "code": "Eurostat",
         "name": "Eurostat",
         "type": "international"
@@ -419,6 +432,11 @@
       {
         "code": "GCC_Stat",
         "name": "GCC-STAT",
+        "type": "other"
+      },
+      {
+        "code": "Harvard",
+        "name": "Harvard University",
         "type": "other"
       },
       {
@@ -459,6 +477,11 @@
       {
         "code": "ITAM",
         "name": "Instituto Tecnológico Autónomo de México",
+        "type": "other"
+      },
+      {
+        "code": "MITMA",
+        "name": "Massachusetts Institute of Technology",
         "type": "other"
       },
       {
@@ -601,6 +624,50 @@
         "image": "Data_Vis",
         "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
       },
+      {
+       "id": "167",
+       "title": "Celebrating 140 years of Croatian official statistics",
+       "date": "2015-10-21",
+       "countries":  ["HRV"
+       ],
+       "image": "Croatia140",
+       "text": "On 19 October 2015, the [Croatian Bureau of Statistics] (http://www.dzs.hr) celebrated 140 years of Croatian official statistics. On this occasion, the Bureau prepared a short story [“Life through the Spectrum of Numbers”] (http://www.dzs.hr/Eng/important/Interesting/articles/140-years-booklet.pdf), which illustrates to what extent our every step is accompanied with statistical data. A [press release] (http://www.dzs.hr/Eng/important/Interesting/articles/140-years.pdf) was also issued on the occasion."
+     },
+     {
+       "id":"166",
+       "title": "Brunei Darussalam celebrated World Statistics Day",
+       "date": "2015-10-21",
+       "countries": ["BRN"
+       ],
+       "image": "BruneiDarussalam_JPKE",
+       "text": "On the occasion of World Statistics Day, the [Department of Economic Planning and Development (JPKE)] (http://www.depd.gov.bn/Theme/Home.aspx) of Brunei Darussalam launched its new website, which presents the latest national official statistics in a more user-friendly way. The website was launched in a [formal ceremony](http://www.depd.gov.bn/Lists/News/DispForm.aspx?ID=34).\n\n Upcoming events in commemoration of World Statistics Day are a Surah Yasin and Tahlil Recital Ceremony on Thursday, 22 October 2015, in remembrance of JPKE’s staff who have passed away; the coordination with the media to disseminate infographics on national statistics starting from 20 until 31 October 2015; and a sales Promotion of JPKE’s statistical publications.\n\n The Department also issued a [press release](files/Brunei_PressRelease.pdf)."
+     },
+     {
+       "id": "165",
+       "title":"edX blogs about World Statistics Day 2015",
+       "date": "2015-10-21",
+       "organisations": ["EDXORG","MITMA","Harvard"],
+       "image": "edx",
+       "text": "[edX] (http://www.edx.org), a nonprofit online learning destination founded by [Harvard](http://www.harvard.edu) and [MIT](http://web.mit.edu), helped promote World Statistics Day with a [blog post](http://blog.edx.org/edx-celebrates-world-statistics-day/) that highlights a selection of statistic and policy courses that help improve people's lives."
+     },
+     {
+       "id": "164",
+       "title":"UN Women celebrates World Statistics Day with an “eye on the global gender gap”",
+       "date": "2015-10-21",
+       "organisations": ["UN"
+       ],
+       "image": "UNWomen",
+       "text": "To mark World Statistics Day, [UN Women] (http://www.unwomen.org) is showcasing new interactive figures based on the key findings in its flagship report Progress of the World’s Women 2015-2016 Transforming economies, realizing rights. These eye-catching figures visualize the progress made in the realization of women’s economic and social rights, as well as where gaps remain. They were developed to highlight the importance of gender statistics, as a foundation for informed policymaking, ultimately to secure better lives for women and girls around the world. The four interactive figures feature data on the following: global gender gaps in labour force participation; laws and policies that shape women’s access to paid work and equal conditions at work, maternity and parental leave and childcare; the poverty-reducing effects of social transfers (such as child and family benefits) for single mothers and the economic value of women’s unpaid care and domestic work.\n\n To view the data showcase please visit [http://progress.unwomen.org/en/2015/](http://progress.unwomen.org/en/2015/)."
+     },
+     {
+       "id": "163",
+       "title":"This is how Papua New Guinea celebrated World Statistics Day",
+       "date": "2015-10-21",
+       "countries":["PNG"
+       ],
+       "image": "PapuaNewGuinea_NSO",
+       "text": "The [National Statistical Office] (http://www.nso.gov.pg) of Papua New Guinea celebrated the Day with a Rural High School with a Fun Day. The national statistician, Roko Koloma, was also on the talk-back radio show with the [UNFPA PNG Resident Represent the United Nations] (http://countryoffice.unfpa.org/png/), Walter Mendoca Filho and the Head of Economics Statistics in National Statistical Office. The three officials interacted with the public audience for two hours. Information on official statistics was also advertised in a [newspaper spread] (files/PapuaNewGuinea_newspaper.pdf)."
+     },
       {
         "id": "162",
         "title":"UNSD issues press release",
