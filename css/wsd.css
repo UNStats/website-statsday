@@ -622,10 +622,20 @@ blockquote p {
     margin-bottom: 30px;
 }
 
+.thumbnails-photos img  {
+    margin-bottom: 0;
+    border: none;
+}
+
 .data-visualisation-modal .modal-content img {
     margin-bottom: 30px;
     border: solid 1px #ccc;
     padding: 3px;
+}
+
+.data-visualisation-modal .modal-content .thumbnails-photos img {
+    margin-bottom: 0;
+    border: none;
 }
 
 .data-visualisation-modal .modal-content i {
@@ -676,7 +686,7 @@ blockquote p {
 
 /* Image Gallery  -----------------------*/
 
-ul.thumbnails-data-visualisation {
+ul.thumbnails-data-visualisation, ul.thumbnails-photos {
     padding: 0;
     list-style: none;
 }
@@ -704,6 +714,10 @@ ul.thumbnails-data-visualisation p {
 
 div.pp_default .pp_content_container .pp_details {
     margin-top:5px;
+}
+
+#widget {
+    display: none;
 }
 
 /* Image Gallery  -----------------------*/
