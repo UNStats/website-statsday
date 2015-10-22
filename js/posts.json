@@ -26,6 +26,10 @@
         "name": "Azerbaijan"
       },
       {
+        "code": "BHR",
+        "name": "Bahrain"
+      },
+      {
         "code": "BGD",
         "name": "Bangladesh"
       },
@@ -52,6 +56,10 @@
       {
         "code": "BRN",
         "name": "Brunei Darussalam"
+      },
+      {
+        "code": "BGR",
+        "name": "Bulgaria"
       },
       {
         "code": "CAN",
@@ -84,6 +92,10 @@
       {
          "code": "CUW",
          "name": "Curaçao"
+      },
+      {
+        "code": "CYP",
+        "name": "Cyprus"
       },
       {
         "code": "CZE",
@@ -614,7 +626,7 @@
       },
       {
         "code": "UZurich",
-        "name": "  University of Zurich",
+        "name": "University of Zurich",
         "type": "other"
       },
       {
@@ -625,6 +637,11 @@
       {
         "code": "WHO",
         "name": "World Health Organization",
+        "type": "international"
+      },
+      {
+        "code": "UNWTO",
+        "name": "World Tourism Organization",
         "type": "international"
       },
       {
