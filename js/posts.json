@@ -118,6 +118,10 @@
         "name": "Germany"
       },
       {
+        "code": "GRC",
+        "name": "Greece"
+      },
+      {
         "code": "GUY",
         "name": "Guyana"
       },
@@ -415,6 +419,11 @@
         "type": "other"
       },
       {
+        "code": "ESCWA",
+        "name": "Economic and  Social Commission for Western Asia",
+        "type": "international"
+      },
+      {
         "code": "ECB",
         "name": "European Central Bank",
         "type": "international"
@@ -595,6 +604,11 @@
         "type": "international"
       },
       {
+        "code": "WHO",
+        "name": "World Health Organization",
+        "type": "international"
+      },
+      {
         "code": "Wiley",
         "name": "Wiley",
         "type": "other"
@@ -629,6 +643,62 @@
         "image": "Data_Vis",
         "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
       },
+      {
+              "id": "175",
+              "title":"China marked World Statistics Day with a celebratory",
+              "date": "2015-10-22",
+              "countries":  ["CHN"
+              ],
+              "organisations":["UN"
+              ],
+              "image": "China_UNSD",
+              "text": "A celebratory event of the Second World Statistics Day was jointly organized by the United Nations Statistics Division (UNSD) and the National Bureau of Statistics (NBS) of China in Xi’an, China. Mr. Wu Hongbo, United Nations Under-Secretary-General for Economic and Social Affairs, Mr. Wang Baoan, Commissioner of NBS of China, Mr. Stefan Schweinfest, Director of UNSD, and senior officials of Shaanxi Province attended the event. More details will follow. \n\n![](img/posts/China_gallery.jpg)"
+            },
+           {
+              "id": "174",
+              "title":"ESCWA celebrates World Statistics Day",
+              "date": "2015-10-22",
+              "organisations":["ESCWA"
+              ],
+              "image": "ESCWA",
+              "text": "The [Statistics Division] (http://www.escwa.un.org/divisions/main.asp?division=sd) of the [Economic and Social Commission for Western Asia (ESCWA)] (http://www.escwa.un.org/) celebrated World Statistics Day by reaching out to all ESCWA staff by [e-mail] (/files/ESCWA_WSD-2015.pdf). Staff of the Statistics Division also distributed [World Statistics Day buttons in Arabic, French and English] (resources.html) and encouraged colleagues to wear the buttons in recognition of the importance of quality data in fulfilling the Comission's mandate."
+            },
+           {
+              "id": "173",
+              "title":"Basque Statistics Institute supports World Statistics Day 2015",
+              "date": "2015-10-22",
+              "countries":  ["ESP"
+              ],
+              "image": "Basque",
+              "text": "The [Basque Statistics Institute] (http://eustat.eus) supports World Statistics Day with a banner on their homepage. The banner links to a series of [videos] (http://eustat.eus/ci_ci/indice.html) on official statistics in the Basque Country."
+            },
+           {
+            "id": "172",
+            "title": "Hellenic Statistical Authority marks World Statistics Day",
+            "date": "2015-10-22",
+            "countries":  ["GRC"
+            ],
+            "image": "Greece_ELSTAT",
+            "text": "[The Hellenic Statistical Authority (ELSTAT)] (http://www.statistics.gr), Greece, created a special [webpage] (http://www.statistics.gr/portal/page/portal/ESYE/PAGE-statisticsday) on its website containing information on the celebration of the World Statistics Day 2015 including a special [announcement on the celebration] (http://www.statistics.gr/portal/page/portal/ESYE/BUCKET/General/PR_World_Statistics_Day_EN.pdf), stressing that official statistics must be produced in accordance with the statistical principles of “professional independence” “impartiality”, “objectivity”, “reliability”, “statistical confidentiality” and “cost-effectiveness”. The site also announces the [2016 IAOS Young statisticians competition] (http://www.statistics.gr/portal/page/portal/ESYE/BUCKET/General/NWS_IAOS_EN.pdf) and other relevant links."
+          },
+          {
+             "id": "171",
+             "title":"WHO and the WHO Family of International Classifications Network mark World Statistics Day",
+             "date": "2015-10-22",
+             "organisations":["WHO"
+             ],
+             "image": "WHO",
+             "text": "The global [WHO Family of International Classifications Network] (http://www.who.int/classifications/network/en/) is currently in Manchester, UK, for its annual meeting where it is marking World Statistics Day by showcasing their achievements and their ongoing work to help this vision of a consistent set of tools, standards and methods for statistics and information on causes of death, causes of ill-heath (including those for which people seek assistance from health care providers), functioning and disability come true. More information can be found at [http://www.hscic.gov.uk/whofic2015uk](http://www.hscic.gov.uk/whofic2015uk)."
+           },
+           {
+              "id": "170",
+              "title":"University of Kerala (India) celebrates World Statistics Day",
+              "date": "2015-10-22",
+              "countries":  ["IND"
+              ],
+              "image": "UnivofKerala",
+              "text": "The [Department of Statistics] (http://www.keralauniversity.ac.in/departments/stat) of the [University of Kerala] (http://www.keralauniversity.ac.in), Kariavattom, India , is celebrating [World Statistics Day with an inaugural function] (img/posts/UnivofKerala_WSD.jpg) and an essay competition. The [essay competition] (files/UnivofKerala_WSD-2015.pdf) used the theme “Better data. Better lives”; students in three levels were invited: (1) Plus one- Plus two (intermediate) Level (Mathematics/Statistics stream), (2) Graduate Level (Mathematics/Statistics Main) and (3) Post-graduate Level (M.Sc. Statistics). In the Inaugural function of the Celebrations to be held on 20 October 2015, the winners of the “Essay Competition” will be given certificates and mementos."
+            },
       {
         "id": "169",
         "title":"CBS News Sunday Morning features World Statistics Day in their “Sunday Morning” Weekly Calendar",
