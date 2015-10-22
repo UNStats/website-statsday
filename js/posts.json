@@ -663,7 +663,7 @@
         "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
       },
       {
-              "id": "185",
+              "id": "189",
               "title":"The World’s Women 2015 Trends and Statistics",
               "date": "2015-10-22",
               "organisations":["UN"
@@ -671,6 +671,42 @@
               "image": "WorldsWomen2015a",
               "text": "The World’s Women 2015 Trends and Statistics is now available @ [http://unstats.un.org/unsd/gender/worldswomen.html](http://unstats.un.org/unsd/gender/worldswomen.html) The report presents the latest statistics and analysis on the status of women and men in the world, highlighting the current situation and changes over time. The report is the sixth in the series which has been published every five years by the UN Statistics Division, as called for in the Beijing Platform for Action adopted at the Fourth World Conference on Women in 1995.\n\n The World’s Women 2015 highlights that progress towards the goal of gender equality has been made in the last two decades in most areas of concern, although at low and uneven pace. Through a life cycle approach, the publication reveals the challenges and specific needs experienced by women during their different stages of life. The different trajectories of women and men--from childhood through the working and reproductive stage to older age--are highlighted in the analysis undertaken in eight chapters of the report, each representing a broad area of concern: population and families, health, education, work, power and decision-making, violence against women, environment and poverty. A wide selection of statistics and indicators covered in the publication are presented in its Statistical Annex, available online @ [http://unstats.un.org/unsd/gender/worldswomen.html](http://unstats.un.org/unsd/gender/worldswomen.html)"
             },
+            {
+              "id": "188",
+              "title":"Statistical Service of Cyprus marks World Statistics Day",
+              "date": "2015-10-22",
+              "countries":  ["CYP"
+              ],
+              "image": "Cystat",
+              "text": "The [Statistical Service of Cyprus (CYSTAT)] (http://www.cystat.gov.cy) marked World Statistics Day 2015. In a statement released on the occasion of World Statistics Day, G. Chr. Georgiou, the Director of mentioned the “difficult task of meeting the growing demand for statistical information”. He also acknowledged “the fundamental role of CYSTAT’s work and has made it its primary commitment over the years, to produce reliable, timely, high-quality statistics, taking into account users' needs. … In order to fulfil this commitment, CYSTAT continuously evolves, implementing technological and methodological changes, following the latest developments in the area of statistics.” \n\n The full statement is available [here](http://www.cystat.gov.cy/mof/cystat/statistics.nsf/All/60B07B320C52C257C2257EE3003562A7?OpenDocument&sub=1&sel=1&e=&print). "
+            },
+     {
+       "id": "187",
+       "title":"World Tourism Organization supports World Statistics Day",
+       "date": "2015-10-22",
+       "organisations":  ["UNWTO"
+       ],
+       "image": "UNWTO",
+       "text": "On the occasion of this year's World Statistic Day, the World Tourism Organization (UNWTO) (http://unwto.org) called for improved investment and coordination in data collection in the tourism sector. In their [press release] (http://media.unwto.org/press-release/2015-10-20/world-statistics-day-unwto-calls-more-and-better-tourism-data).\n\n “Robust tourism statistics are vital to guide sustainable development, monitor progress, evaluate impact, promote results-focused management, and highlight strategic issues for policy objectives. UNWTO calls upon national governments to work towards building internationally comparable and reliable tourism statistics, including Tourism Satellite Accounts (TSA), in line with the UN approved guiding namely the International Recommendations, the International Recommendations for Tourism Statistics 2008 and the Tourism Satellite Account: Recommended Methodological Framework 2008” said UNWTO Secretary-General, Taleb Rifai.\n\nThe full press release is available [here](http://media.unwto.org/press-release/2015-10-20/world-statistics-day-unwto-calls-more-and-better-tourism-data)."
+     },
+     {
+       "id": "186",
+       "title":"World Statistics Day in Bulgaria: A Round Table Conference",
+       "date": "2015-10-22",
+       "countries":  ["BGR"
+       ],
+       "image": "Bulgaria",
+       "text": "A Round Table Conference on the World Statistics Day was organized by the [Statistics and Econometrics Department] (http://www.unwe.bg/en/structure/render/246) of the [University of National and World Economy (UNWE)] (http://www.unwe.bg) and the [National Statistical Institute (NSI)] (http://www.nsi.bg) of Bulgaria.\n\n The event was held at the Scientific Councils Hall of UNWE. It was attended by the Rector of the University Prof. D.Sc.(Econ.) Statty Stattev, the Chairman of NSI Sergey Tsvetarski, Prof. Dr. Veselka Pavlova, Vice-Rector of UNWE and Head of the Statistics and Econometrics Department, Prof. Dr. Valentin Goev, Vice-Rector of UNWE, Dr. Bogdan Bogdanov, Deputy Chairman of the National Statistical Institute, Prof. Dr. Kamelia Stefanova, Dean of the Applied Informatics and Statistics Faculty, Prof. D.Sc.(Math.) Nikolay Bozhinov, Vice-Dean and Head of the Mathematics Department, lecturers, experts from the NSI, graduated Bachelors and Masters from the specialty and students.\n\n The Round Table Conference was devoted to the World Statistics Day and discussed issues related to the Bulgarian and European statistical system and the connection between the theory and practice.\n\n For more details please see [here](http://www.unwe.bg/en/news/8060/round-table-conference-on-the-occasion-of-the-world-statistics-day-.html)."
+     },
+     {
+       "id": "185",
+       "title":"Bahrain Statistical Society celebrates the World Statistics Day",
+       "date": "2015-10-22",
+       "countries":  ["BHR"
+       ],
+       "image": "Bahrain",
+       "text": "The [Bahrain Statistical Society (BSS)] (http://bahrainss.org) will celebrate World Statistics Day. The main celebration event is scheduled to take place on 7th November 2015, hosted by [Applied Science University] (http://www.asu.edu.bh). The aim of the event is to: highlight applications of statistics and to promote the WSD slogan “Better data. Better lives.” Guest speakers will present their applications of applying statistics. Participants are from governmental and educational organizations. The [United Nations Development Programme (UNDP)] (http://www.undp.org) was invited to present the new Sustainable Development Goals.\n\n On this occasion, the Bahrain Statistical Society will announce the winner of the Statistical Excellence Award. The award is awarded for Bahraini statisticians with a distinguished excellent profile. The award is a means to encourage excellence in the field of statistics.\n\n Thirdly, during the main celebration event, a research project about Statistical Literacy and Quality of Applying Statistical Methods will be launched. The research will be completed within 3 months. Qualified team of statisticians will examine a sample of Bahraini postgraduate researchers of the academic year 2012/2013. Results will be announced by next year.\n\n For more information please contact BSS at [info@bahrainss.org](mailto:info@bahrainss.org)."
+     },
             {
               "id": "184",
               "title":"Statistics Netherlands releases new video on CBS Compass for quality of life",
