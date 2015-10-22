@@ -564,9 +564,24 @@
         "type": "international"
       },
       {
+       "code": "UNESCO",
+       "name": "UN Educational, Scientific and Cultural Organization",
+       "type": "international"
+     },
+      {
         "code": "UNIDO",
         "name": "UN Industrial Development Organization",
         "type": "international"
+      },
+      {
+        "code": "USNavalAcademy",
+        "name": "United States Naval Academy",
+        "type": "other"
+      },
+      {
+        "code": "UGlasgow",
+        "name": "University of Glasgow",
+        "type": "other"
       },
       {
         "code": "UGIR",
@@ -644,7 +659,7 @@
         "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
       },
       {
-              "id": "175",
+              "id": "181",
               "title":"China marked World Statistics Day with a celebratory",
               "date": "2015-10-22",
               "countries":  ["CHN"
@@ -653,7 +668,67 @@
               ],
               "image": "China_UNSD",
               "text": "A celebratory event of the Second World Statistics Day was jointly organized by the United Nations Statistics Division (UNSD) and the National Bureau of Statistics (NBS) of China in Xi’an, China. Mr. Wu Hongbo, United Nations Under-Secretary-General for Economic and Social Affairs, Mr. Wang Baoan, Commissioner of NBS of China, Mr. Stefan Schweinfest, Director of UNSD, and senior officials of Shaanxi Province attended the event. More details will follow. \n\n![](img/posts/China_gallery.jpg)"
-            },
+      },
+      {
+        "id": "180",
+        "title": "UNESCO supports World Statistics Day",
+        "date": "2015-10-22",
+        "organisations": ["UN","UNESCO"
+        ],
+        "image": "UNESCO",
+        "text": "The Director-General of the [United Nations Educational, Scientific and Cultural Organization (UNESCO)](http://www.unesco.org), Irina Bokova, issued a message on the occasion of World Statistics Day in which she emphasized that “the demand for internationally comparable data is reaching new heights with the adoption of the Sustainable Development Goals (SDGs)”. She also stressed that “statistics is never a matter of simply 'gathering' pre-existing data: it is a construct that plays a part in creating the reality that it reveals. It brings to light previously unnoticed inequalities, fostering social awareness and helping us to find our bearings in terms of how we look at the world. Through the strength of a number or a well-illustrated graphic, statistics are worth more than a lengthy speech. They are a public good that every citizen must be able to understand and every State must be able to make the most of, to the advantage of all.” The full statement is available [here] (http://en.unesco.org/news/world-statistics-day-2015)."
+      },
+      {
+        "id": "179",
+        "title": "Myanmar celebrated World Statistics Day",
+        "date": "2015-10-22",
+        "countries": ["MMR"
+        ],
+        "image": "Myanmar2",
+        "text": "Myanmar celebrated World Statistics Day with the theme “Better Data, Better Lives.” on 20 October 2015 with an address by Union Minister Dr. Kan Zaw. He pointed out that statistics are very important as preparations need to be made for post 2015 development program and taking 2020 world population and household census. The new [Myanmar Statistical Information Service (MMSIS) website] (http://www.mmsis.gov.mm) was launched during this ceremony, during which Director of UN Statistics Division was addressing the participants by video link. The meeting on statistics development followed after the ceremony with the theme “Better Data, Better Lives.” Media coverage is available [here] (http://www.myanmarinternational.tv/news/world-statistics-day-better-data-better-lives).\n\n[![MSIS World Statistics Day Video](http://img.youtube.com/vi/STURP5h4u4M/0.jpg)](http://www.youtube.com/watch?v=STURP5h4u4M)"
+      },
+      {
+        "id": "178",
+        "title": "United States Naval Academy Economics Department Midshipmen celebrated World Statistics Day",
+        "date": "2015-10-22",
+        "organisations": ["USNavalAcademy"
+        ],
+        "countries":["USA"
+        ],
+        "image": "USNavyAcademy",
+        "text": "Students of the [Economics Department] (http://www.usna.edu/EconDept/) Midshipmen at the [US Naval Academy] (http://www.usna.edu) marked World Statistics Day by discussing how economic policy is hardwired into economic data. Students also discussed how statistics affect their professional and personal lives, including the impact of weather and tidal predictions on navigation and logistics and the impact of the internet data on how they get and use data in their planning, shopping, and travel decisions. They also discussed an article from the [Guardian] (http://www.theguardian.com/news/datablog/2015/oct/20/why-world-statistics-day-is-something-worth-celebrating?CMP=share_btn_link) on World Statistics Day which raised the issue of the uses and misuses of statistics in public policy and politics.\n\n![US Naval Academy Students](img/posts/USNavyAcademy_pic.jpg)"
+      },
+      {
+        "id": "177",
+        "title": "Sri Lanka uses World Statistics Day logo in Sinhala and Tamil",
+        "date": "2015-10-22",
+        "countries": ["LKA"
+        ],
+        "image": "SriLanka2",
+        "text": "The Department of Census and Statistics of Sri Lanka uses the World Statistics Day logo in Sinhala/Sinhalese and Tamil, the official languages of Sri Lanka. Please see [Resources page](resources.html)"
+      },
+      {
+        "id": "176",
+        "title": "Two World Statistics Day special editions",
+        "date": "2015-10-22",
+        "organisations": ["ASA", "RSS"
+        ],
+        "countries":["USA", "GBR"
+        ],
+        "image": "Significance_RSS_ASA",
+        "text": "The October issue of the [Significance magazine] (http://www.statslife.org.uk/significance/back-issues) featured a 20-page World Statistics Day special entitled “Fuel for Growth”. In his introduction, John Pullinger, the UK National Statistician and current chair of the UN Statistical Commission emphaisized that the theme of this year's World Statistics Day was “vitally important for the work of the statistical community worldwide”. The eleven articles show “merely a glimpse of the full range of problems to which statistical analysis is applied, despite touching on a wide range of issues: from economic development to trade and transport, data sharing, human rights and hunger.” For the full special see [here] (http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2015.00854.x/abstract). A brief overview is available [here](http://www.statslife.org.uk/significance/2514). The [World of Statistics] (http://www.worldofstatistics.org) issued a special World Statistics Day edition of their [News from the World of Statistics] (http://www.worldofstatistics.org/news-of-the-world-of-statistics-archive/) which is available [here] (http://www.worldofstatistics.org/files/2015/10/World-Statistics-Day-October-20-2015.pdf)."
+      },
+      {
+        "id": "175",
+        "title": "University of Glasgow marks World Statistics Day",
+        "date": "2015-10-22",
+        "organisations": ["UGlasgow"
+        ],
+        "countries":["GBR"
+        ],
+        "image": "UnivofGlasgow",
+        "text": "The [School of Mathematics and Statistics] (http://www.gla.ac.uk/schools/mathematicsstatistics/) of the [University of Glasgow] (http://gla.ac.uk) marked World Statistics Day by a brief [newsletter] (http://www.gla.ac.uk/media/media_428200_en.pdf) highlighting hree examples of projects, where Glasgow statisticians are making a difference by providing insight into some of the “grand planetary challenges, round people and environment”."
+      },
            {
               "id": "174",
               "title":"ESCWA celebrates World Statistics Day",
