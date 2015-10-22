@@ -70,6 +70,9 @@
           <li>
             <a href="resources.html">Resources</a>
           </li>
+          <li>
+            <a href="photo-gallery.html">Gallery</a>
+          </li>
         </ul>
       </div>
       <!-- /.navbar-collapse -->
@@ -253,21 +256,21 @@
                 var template = $('#countries-d-template').html();
                 var items = Mustache.to_html(template, data);
                 $('#countries-d').html(items);
-                
+
                 template = $('#organisations-d-template').html();
                 _(data.codes.organisation).map(function(o) { o.isInternational = o.type === 'international'; return o; }).value();
                 items = Mustache.to_html(template, data);
-                $('#organisations-d').html(items);    
-                
-                /* Mobile version */  
+                $('#organisations-d').html(items);
+
+                /* Mobile version */
                 template = $('#countries-template').html();
                 items = Mustache.to_html(template, data);
-                $('#countries').html(items);    
-                
+                $('#countries').html(items);
+
                 template = $('#organisations-template').html();
                 _(data.codes.organisation).map(function(o) { o.isInternational = o.type === 'international'; return o; }).value();
                 items = Mustache.to_html(template, data);
-                $('#organisations').html(items);       
+                $('#organisations').html(items);
             });
         });
   </script>
@@ -324,12 +327,12 @@
             organisations.lookup = function (code) {
               return _(this).where({ 'code': code }).pluck('name').first();
             };
-            
-            organisations.lookupByType = function (type) {              
+
+            organisations.lookupByType = function (type) {
               return _(this).where({ 'type': type }).pluck('code').value();
             }
           }
-          
+
           var addProvider = function(post) {
             post.provider = function() {
               var cs = _(this.countries || []).map(function (code) { return countries.lookup(code); });
@@ -358,7 +361,7 @@
             $('#organisations').val(o);
             $("#selected-filter h4").text(organisations.lookup(o));
           }
-          
+
           if (ot !== '') {
             var os = organisations.lookupByType(ot);
             posts = posts.filter(function(p) { return _.some(_.intersection(p.organisations, os)); });

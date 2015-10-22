@@ -222,6 +222,10 @@
         "name": "New Zealand"
       },
       {
+       "code": "NLD",
+       "name": "Netherlands"
+     },
+      {
         "code": "NOR",
         "name": "Norway"
       },
@@ -659,16 +663,52 @@
         "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
       },
       {
-              "id": "181",
-              "title":"China marked World Statistics Day with a celebratory",
+              "id": "185",
+              "title":"The World’s Women 2015 Trends and Statistics",
               "date": "2015-10-22",
-              "countries":  ["CHN"
-              ],
               "organisations":["UN"
               ],
-              "image": "China_UNSD",
-              "text": "A celebratory event of the Second World Statistics Day was jointly organized by the United Nations Statistics Division (UNSD) and the National Bureau of Statistics (NBS) of China in Xi’an, China. Mr. Wu Hongbo, United Nations Under-Secretary-General for Economic and Social Affairs, Mr. Wang Baoan, Commissioner of NBS of China, Mr. Stefan Schweinfest, Director of UNSD, and senior officials of Shaanxi Province attended the event. More details will follow. \n\n![](img/posts/China_gallery.jpg)"
-      },
+              "image": "WorldsWomen2015a",
+              "text": "The World’s Women 2015 Trends and Statistics is now available @ [http://unstats.un.org/unsd/gender/worldswomen.html](http://unstats.un.org/unsd/gender/worldswomen.html) The report presents the latest statistics and analysis on the status of women and men in the world, highlighting the current situation and changes over time. The report is the sixth in the series which has been published every five years by the UN Statistics Division, as called for in the Beijing Platform for Action adopted at the Fourth World Conference on Women in 1995.\n\n The World’s Women 2015 highlights that progress towards the goal of gender equality has been made in the last two decades in most areas of concern, although at low and uneven pace. Through a life cycle approach, the publication reveals the challenges and specific needs experienced by women during their different stages of life. The different trajectories of women and men--from childhood through the working and reproductive stage to older age--are highlighted in the analysis undertaken in eight chapters of the report, each representing a broad area of concern: population and families, health, education, work, power and decision-making, violence against women, environment and poverty. A wide selection of statistics and indicators covered in the publication are presented in its Statistical Annex, available online @ [http://unstats.un.org/unsd/gender/worldswomen.html](http://unstats.un.org/unsd/gender/worldswomen.html)"
+            },
+            {
+              "id": "184",
+              "title":"Statistics Netherlands releases new video on CBS Compass for quality of life",
+              "date": "2015-10-22",
+              "countries":  ["NLD"
+              ],
+              "image": "Netherlands",
+              "text": "To embrace the world wide celebration of World Statistics Day 2015, [CBS (Statistics Netherlands)] (http://www.cbs.nl/) and the [Netherlands Society for Statistics and Operations Research (VvS+OR)] (http://www.vvs-or.nl/) collaborated to produce a video that showcases the so-called CBS's Compass that monitors Quality of Life on three different dashboards. These are the actual quality of life, quality of life in the future, and quality of life world-wide. The video is in Dutch;  \n\n [![CBS (Statistics Netherlands)](img/posts/Netherlands_video.jpg)](https://youtu.be/fRoKnABqAL0)\n\n A version in English is envisioned for the near future."
+            },
+            {
+                    "id": "183",
+                    "title":"China marked World Statistics Day with a celebratory",
+                    "date": "2015-10-22",
+                    "countries":  ["CHN"
+                    ],
+                    "organisations":["UN"
+                    ],
+                    "image": "China_UNSD",
+                    "text": "A celebratory event of the Second World Statistics Day was jointly organized by the United Nations Statistics Division (UNSD) and the National Bureau of Statistics (NBS) of China in Xi’an, China. Mr. Wu Hongbo, United Nations Under-Secretary-General for Economic and Social Affairs, Mr. Wang Baoan, Commissioner of NBS of China, Mr. Stefan Schweinfest, Director of UNSD, and senior officials of Shaanxi Province attended the event. More details will follow. \n\n![](img/posts/China_gallery.jpg)"
+            },
+            {
+               "id": "182",
+               "title":"Former U.S. Labor Statistics Commissioners Carroll D. Wright and Janet L. Norwood were inducted into Labor Hall of Honor on World Statistics Day",
+               "date": "2015-10-22",
+               "countries":  ["USA"
+               ],
+               "image": "USBureauofLabour",
+               "text": "On World Statistics Day, 20 October 2015, [Carroll D. Wright] (http://www.bls.gov/bls/history/commissioners/wright.htm), the first commissioner of the “Bureau of Labor,” and [Janet L. Norwood] (http://www.bls.gov/bls/history/commissioners/norwood.htm), the Bureau of Labor Statistics’ first female commissioner, were inducted into the [Labor Department’s Hall of Honor](http://www.dol.gov/dol/aboutdol/hallofhonor/).\n\n Carroll Wright was the first [Bureau of Labour (BLS)] (http://www.bls.gov/home.htm) Commissioner, serving from 1885 to 1905. Janet Norwood was the first woman to serve as BLS Commissioner and led the Bureau for 12 crucial years (1979-1991), modernizing it and raising the profile of its work. Both former Commissioners ensured BLS produced the high quality of statistics necessary to the proper functioning of a democratic government. This was the first time BLS Commissioners were inducted into the Labor Hall of Honor. The Hall of Honor was established in 1988 to honor those Americans whose distinctive contributions in the field of labor have elevated working conditions, wages, and over-all quality of life of America’s working families.\n\n The full ceremony can be watched here: \n\n [![Bureau of Labour (BLS)](img/posts/US_CensusBureau_video.jpg)](https://www.youtube.com/watch?v=wouyNVtTMkI)"
+             },
+           {
+              "id": "181",
+              "title":"Celebration of the World Statistics Day in Lithuania",
+              "date": "2015-10-22",
+              "countries":  ["LTU"
+              ],
+              "image": "LithuanianStatSociety",
+              "text": "On 20 October 2015, Lithuania, together with many other countries of the world, celebrated the World Statistics Day.\n\n A conference dedicated to the World Statistics Day took place in the Government Office. It was attended by the representatives of the Government, institutions producing official statistics and providing administrative data for statistical purposes, members of the Statistical Council and the [Lithuanian Statistical Society] (http://www.statistikusajunga.lt], representatives of the media, academic community, employees of [Statistics Lithuania] (http://www.stat.gov.lt/) and other members of the national statistical community.\n\n The Director General of Statistics Lithuania Vilija Lapėnienė emphasised that statistical quality requires several preconditions: first, accurate primary statistical data provided by respondents (enterprises, individuals, administrative sources – State registers); second, well-educated and professional staff, able to apply advanced and reliable statistical methods; and, third, professional independence of statistical authorities. “Do all those three preconditions exist in Lithuania? In one word – yes”, – affirmed Vilija Lapėnienė.\n\n At the conference, speeches were also given by the representatives of the main official statistics user groups – advisor to the SEB Bank [http://sebgroup.com] president, financial analyst Gitanas Nausėda, deputy editor-in-chief of a daily [Verslo žinios] (vz.lt) (Business News) Irma Verbienė. At the end of the celebration, a family of musicians – Raminta, Augustas and Benas Gocentas – performed musical compositions.\n\n For more information see and photos [see here] (http://www.stat.gov.lt/en/home/-/asset_publisher/lbrXvLVHX2ln/content/minejome-pasauline-statistikos-diena?redirect=http%3A%2F%2Fwww.stat.gov.lt%2Fen%2Fhome%3Fp_p_id%3D101_INSTANCE_lbrXvLVHX2ln%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-3%26p_p_col_count%3D1)."
+            },
       {
         "id": "180",
         "title": "UNESCO supports World Statistics Day",
