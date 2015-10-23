@@ -66,6 +66,10 @@
         "name": "Canada"
       },
       {
+        "code": "CYM",
+        "name": "Cayman Islands"
+      },
+      {
         "code": "TCD",
         "name": "Chad"
       },
@@ -81,6 +85,10 @@
          "code": "COL",
          "name": "Colombia"
       },
+      {
+       "code": "CRI",
+       "name": "Costa Rica"
+     },
       {
          "code": "CIV",
          "name": "Cote d'Ivoire"
@@ -680,6 +688,42 @@
         "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
       },
       {
+        "id": "193",
+        "title":"Costa Rica’s National Institute of Statistics and Census celebrations of World Statistics Day 2015",
+        "date": "2015-10-23",
+        "countries":  ["CRI"
+        ],
+        "image": "CostaRica",
+        "text": "Acknowledging the fundamental role of official statistics for decision making and the formulation and monitoring of public actions to improve people’s lives, Costa Rica’s National Institute of Statistics and Census (INEC, joined the celebration of World Statistics Day with multiple initiatives, including:\n\n*   An event with expert users and producers of official statistics, who participated in a round table discussion around the theme “Better Data. Better Lives”. The event also featured the presentation of an award winning video on the “History of Statistics”.\n*   Production and distribution of digital flipbook with reviews experts focused on the importance of statistics to promote development. This flipbook is also being disseminated on the institutional website and other public media outlets.\n*   Production of a printed key ring with theme “World Statistics Day. Better data. Better Lives.”\n*   Information campaign which will cover the distribution of a commemorative poster, a photo frame template, a press release for the official launch of activities around the celebration of World Statistics Day, and use of the official World Statistics Day 2015 logo\n*   An internal campaign for INEC staff, which included the distribution of a World Statistics Day 2015 photo frame template, and a photo wall of all INEC staff."
+      },
+      {
+        "id": "192",
+        "title":"Cayman Islands mark World Statistics Day 2015",
+        "date": "2015-10-23",
+        "countries":  ["CYM"
+        ],
+        "image": "CaymanIslands",
+        "text": "The Cayman Islands joined the global statistical community in celebrating World Statistics Day on 20 October. In his statement, Hon. Marco Archer, JP Minister for Finance and Economic and Development, expressed his hope “to motivate the community to actively contribute to the improvement of official statistics in the Cayman Islands” and affirmed his own commitment by stating: “I have certainly made this one of my priorities as the Minister responsible for the development of official economic statistics.” The full statement is available [here](http://www.gov.ky/portal/page/portal/cighome/pressroom/archive/201510/Better%20Data%20Better%20Lives)."
+      },
+      {
+        "id": "191",
+        "title":"Speech of the Director-General of Eurostat on the occasion of World Statistics Day 2015",
+        "date": "2015-10-23",
+        "organisations":  ["Eurostat"
+        ],
+        "image": "EUROSTAT_2",
+        "text": "Walter Radermacher, Director-General of Eurostat, focussed on three keywords independence, importance and innovation, in a speech on the occasion of World Statistics Day. The speech is available here.\n\n [![Eurostat](img/posts/EUROSTAT_video2.jpg)](https://www.youtube.com/watch?v=nlODPf-hQMc)"
+      },
+      {
+        "id": "190",
+        "title":"General Statistics Office of Viet Nam hold press conference",
+        "date": "2015-10-23",
+        "countries":  ["VNM"
+        ],
+        "image": "Vietnam",
+        "text": "The [General Statistics Office (GSO)] (https://www.gso.gov.vn/Default_en.aspx?tabid=491) of Viet Nam held a press conference to inform the media about World Statistics Day and the Revised Statistics Law. The event took place in the afternoon of 19 October 2015. Attending were Mr. Nguyen Bich Lam, Director General of GSO; Mr. Vu Thanh Liem, Deputy Director General of GSO – chairman of the press conference; representatives from press agencies in Hanoi; leadership and staff of units under GSO.\n\n Mr. Vu Thanh Liem informed the press about the full program activities and initiatives planned by GSO including an information campaign about WSD on the GSO website, the websites of provincial statistical offices and on the Figures and Events Journal.\n\nFor more details about the event and photos [click here] (https://www.gso.gov.vn/ItemPreview.aspx?ItemID=15210)."
+      },
+      {
               "id": "189",
               "title":"The World’s Women 2015 Trends and Statistics",
               "date": "2015-10-22",
@@ -926,7 +970,7 @@
        "countries":["PNG"
        ],
        "image": "PapuaNewGuinea_NSO",
-       "text": "The [National Statistical Office] (http://www.nso.gov.pg) of Papua New Guinea celebrated the Day with a Rural High School with a Fun Day. The national statistician, Roko Koloma, was also on the talk-back radio show with the [UNFPA PNG Resident Represent the United Nations] (http://countryoffice.unfpa.org/png/), Walter Mendoca Filho and the Head of Economics Statistics in National Statistical Office. The three officials interacted with the public audience for two hours. Information on official statistics was also advertised in a [newspaper spread] (files/PapuaNewGuinea_newspaper.pdf)."
+       "text": "The [National Statistical Office] (http://www.nso.gov.pg) of Papua New Guinea celebrated the Day at the Kemabolo village in the Rigo District of Central Province. Media coverage from NBCPNG is available here.\n\n [![here](img/posts/Papua_Video.png)](https://www.youtube.com/watch/VCKVk4Lll1Q) \n\nThe national statistician, Roko Koloma, was also on the talk-back radio show with the [UNFPA PNG Resident Represent the United Nations] (http://countryoffice.unfpa.org/png/), Walter Mendoca Filho and the Head of Economics Statistics in National Statistical Office. The three officials interacted with the public audience for two hours. Information on official statistics was also advertised in a [newspaper spread] (files/PapuaNewGuinea_newspaper.pdf)."
      },
       {
         "id": "162",
