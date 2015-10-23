@@ -306,6 +306,10 @@
         "name": "Rwanda"
       },
       {
+        "code": "LCA",
+        "name": "Saint Lucia"
+      },
+      {
         "code": "SAU",
         "name": "Saudi Arabia"
       },
@@ -673,15 +677,6 @@
   },
   "posts": [
     {
-      "id": "197",
-      "title":"THANK YOU FOR A SUCCESSFUL WORLD STATISTICS DAY!",
-      "date": "2015-10-23",
-      "organisations":["UN"
-      ],
-      "image": "UN3",
-      "text": "On 20 October 2015 we celebrated the second World Statistics Day. We thank all our partners across the globe who initiated, organized or took part in activities to celebrate this special Day. This website will remain active as a repository of photos, videos, reports, press clippings etc. on the observance of World Statistics Day 2015 worldwide.\n\n We invite you to share with us how you celebrated World Statistics Day [(statistics@un.org)](mailto:statistics@un.org).\n\n![UNSD Staff Better Data Better Lives](img/posts/BetterDataBetterLives.jpg)\n\n The staff of the United Nations Statistics Division."
-    },
-      {
         "id": "1002",
         "title":"United Nations Secretary-General message on World Statistics Day 2015",
         "date": "2015-10-20",
@@ -689,6 +684,15 @@
         ],
         "image": "20150820-ban_ki-moon_portrait",
         "text": "\"On this World Statistics Day, I urge all partners and stakeholders to work together to ensure that the necessary investments are made, adequate technical capacity is built, new data sources are explored and innovative processes are applied to give all countries the comprehensive information systems they need to achieve sustainable development.\"\n\nThe full text of Secretary-General's message on World Statistics Day 2015 is available here:\n\n*   [Arabic](files/statistics2015-message.Arabic.pdf)\n* [Chinese](files/statistics2015-message.Chinese.pdf)\n*  [English](files/statistics2015-message.pdf)\n*  [French](files/statistics2015-message.French.pdf)\n*  [Russian](files/statistics2015-message.Russian.pdf)\n*   [Spanish](files/statistics2015-message.Spanish.pdf)"
+      },
+      {
+        "id": "197",
+        "title":"THANK YOU FOR A SUCCESSFUL WORLD STATISTICS DAY!",
+        "date": "2015-10-23",
+        "organisations":["UN"
+        ],
+        "image": "BetterDataBetterLives",
+        "text": "On 20 October 2015 we celebrated the second World Statistics Day. We thank all our partners across the globe who initiated, organized or took part in activities to celebrate this special Day. This website will remain active as a repository of photos, videos, reports, press clippings etc. on the observance of World Statistics Day 2015 worldwide.\n\n We invite you to share with us how you celebrated World Statistics Day [(statistics@un.org)](mailto:statistics@un.org).\n\n![UNSD Staff Better Data Better Lives](img/posts/BetterDataBetterLives.jpg)\n\n The staff of the United Nations Statistics Division."
       },
       {
         "id": "1001",
@@ -700,13 +704,40 @@
         "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
       },
       {
-        "id": "196",
+        "id": "200",
         "title":"Malta celebrates with a seminar on “Better data. Better lives.”",
         "date": "2015-10-23",
         "countries":["MLT"
         ],
         "image": "Malta",
         "text": "On 20 October the [National Statistics Office] (http://nso.gov.mt) of Malta held a seminar to celebrate World Statistics Day, with the theme “Better Data, Better Lives”. The objective of the seminar was to increase awareness and recognition of the role of statistics in shaping policy making in many areas, with the aim of making effective impacts on societies and lives. The topics presented span the economic and social spectrum. The audience included key stakeholders and users, opinion makers, the media and NSO staff members.\n\n For more details please see [here](http://nso.gov.mt/en/nso/WSD2015/Pages/World-Statistics-Day-2015.aspx). "
+      },
+      {
+        "id": "199",
+        "title":"Wales celebrates World Statistics Day",
+        "date": "2015-10-23",
+        "countries":  ["GBR"
+        ],
+        "image": "Wales",
+        "text": "The [Government of Wales] (http://www.gov.wales/statistics) celebrated World Statistics Day with an Update by the [Chief Statistician] (http://gov.wales/statistics-and-research/about/user-engagement/chief-statisticians-update/?lang=en) and a promotional stand that featured not only a [statistical quiz] (files/Quiz-WelshGovernment-WorldStatisticsDay2015.pdf) but also with sweet versions of our friendly logo ([see pictures in gallery](photo-gallery.html))."
+      },
+      {
+        "id": "198",
+        "title":"Costa Rica’s National Institute of Statistics and Census celebrations of World Statistics Day 2015",
+        "date": "2015-10-23",
+        "countries":  ["CRI"
+        ],
+        "image": "CostaRica",
+        "text": "Acknowledging the fundamental role of official statistics for decision making and the formulation and monitoring of public actions to improve people’s lives, Costa Rica’s [National Institute of Statistics and Census (INEC)](http://www.inec.go.cr/Web/Home/pagPrincipal.aspx), joined the celebration of World Statistics Day with multiple initiatives, including:\n\n*   An event with expert users and producers of official statistics, who participated in a round table discussion around the theme “Better Data. Better Lives”. The event also featured the presentation of an award winning video on the “History of Statistics”.\n*   Production and distribution of [digital flipbook](http://newoas.nacion.com/inec/INEC.swf) with reviews experts focused on the importance of statistics to promote development. This flipbook is also being disseminated on the institutional website and other public media outlets.\n*   Production of a printed key ring with theme “World Statistics Day. Better data. Better Lives.”\n*   Information campaign which will cover the distribution of a commemorative poster, a photo frame template, a press release for the official launch of activities around the celebration of World Statistics Day, and use of the official World Statistics Day 2015 logo\n*   An internal campaign for INEC staff, which included the distribution of a World Statistics Day 2015 photo frame template, and a photo wall of all INEC staff."
+      },
+      {
+        "id": "196",
+        "title":"European Central Bank celebrated World Statistics Day with a conference on “European Statistics by the European System of Central Banks”",
+        "date": "2015-10-23",
+        "organisations":  ["ECB"
+        ],
+        "image": "European_central_bank2",
+        "text": "To celebrate this year’s World Statistics Day, the [European Central Bank (ECB)] (http://www.ecb.europa.eu/) organised a conference on the “European Statistics by the European System of Central Banks”. The main purpose of the conference was to present the European economic and financial statistics by the [European System of Central Banks (ESCB)] (https://www.ecb.europa.eu/ecb/orga/escb/html/index.en.html), achievements and further developments.\n\n More information on the programme can be found [here] (http://www.ecb.europa.eu/stats/html/index.en.html). In her opening speech, Sabine Lautenschläger, Member of the Executive Board of the ECB and Vice-Chair of the Supervisory Board of the Single Supervisory Mechanism, said: “Credible statistics lie at the heart of the ECB’s policy-making.” but also stressed that the “need more detailed and globally comparable statistics”. The full text of her speech can be found [here] (http://www.ecb.europa.eu/press/key/date/2015/html/sp151020.en.html).\n\n Furthermore the ECB released a new concept with the Our statistics website: [“Insights”] (https://www.euro-area-statistics.org/issuance-of-debt-securities-by-euro-area-residents?cr=eur&lg=en). Insights was launched on World Statistics Day, 20 October. This first issue refers to Securities Issues Statistics and show not only the latest figures but also a longer series plus a short explanation of the use of these data. This is a joint effort with national central banks to get statistics to new target groups with a low entry barrier."
       },
       {
         "id": "195",
@@ -737,12 +768,12 @@
       },
       {
         "id": "193",
-        "title":"Costa Rica’s National Institute of Statistics and Census celebrations of World Statistics Day 2015",
+        "title":"St. Lucia observes World Statistics Day",
         "date": "2015-10-23",
-        "countries":  ["CRI"
+        "countries":  ["LCA"
         ],
-        "image": "CostaRica",
-        "text": "Acknowledging the fundamental role of official statistics for decision making and the formulation and monitoring of public actions to improve people’s lives, Costa Rica’s National Institute of Statistics and Census (INEC, joined the celebration of World Statistics Day with multiple initiatives, including:\n\n*   An event with expert users and producers of official statistics, who participated in a round table discussion around the theme “Better Data. Better Lives”. The event also featured the presentation of an award winning video on the “History of Statistics”.\n*   Production and distribution of digital flipbook with reviews experts focused on the importance of statistics to promote development. This flipbook is also being disseminated on the institutional website and other public media outlets.\n*   Production of a printed key ring with theme “World Statistics Day. Better data. Better Lives.”\n*   Information campaign which will cover the distribution of a commemorative poster, a photo frame template, a press release for the official launch of activities around the celebration of World Statistics Day, and use of the official World Statistics Day 2015 logo\n*   An internal campaign for INEC staff, which included the distribution of a World Statistics Day 2015 photo frame template, and a photo wall of all INEC staff."
+        "image": "StLucia",
+        "text": "On the occasion of World Statistics Day 2015, Edwin Catherine, the chief statistician of St. Lucia, spoke about the “particular challenges in this new information era” and the potential of big data. News coverage can be found here.\n\n [![Saint Lucia](img/posts/StLucia-video.jpg)](https://www.youtube.com/watch?v=ZT-rr-1rekg)"
       },
       {
         "id": "192",
