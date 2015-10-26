@@ -14,6 +14,10 @@
         "name": "Aruba"
        },
        {
+        "code": "ARM",
+        "name": "Armenia"
+       },
+       {
         "code": "AUS",
         "name": "Australia"
        },
@@ -24,6 +28,10 @@
        {
         "code": "AZE",
         "name": "Azerbaijan"
+      },
+      {
+        "code": "BHR",
+        "name": "Bahrain"
       },
       {
         "code": "BGD",
@@ -50,8 +58,20 @@
         "name": "Brazil"
       },
       {
+        "code": "BRN",
+        "name": "Brunei Darussalam"
+      },
+      {
+        "code": "BGR",
+        "name": "Bulgaria"
+      },
+      {
         "code": "CAN",
         "name": "Canada"
+      },
+      {
+        "code": "CYM",
+        "name": "Cayman Islands"
       },
       {
         "code": "TCD",
@@ -70,12 +90,24 @@
          "name": "Colombia"
       },
       {
+       "code": "CRI",
+       "name": "Costa Rica"
+     },
+      {
+         "code": "CIV",
+         "name": "Cote d'Ivoire"
+      },
+      {
          "code": "HRV",
          "name": "Croatia"
       },
       {
          "code": "CUW",
          "name": "Curaçao"
+      },
+      {
+        "code": "CYP",
+        "name": "Cyprus"
       },
       {
         "code": "CZE",
@@ -101,9 +133,17 @@
        "code": "FJI",
        "name": "Fiji"
      },
+     {
+      "code": "FRA",
+      "name": "France"
+    },
       {
         "code": "DEU",
         "name": "Germany"
+      },
+      {
+        "code": "GRC",
+        "name": "Greece"
       },
       {
         "code": "GUY",
@@ -178,6 +218,10 @@
         "name": "Mali"
       },
       {
+        "code": "MLT",
+        "name": "Malta"
+      },
+      {
         "code": "MEX",
         "name": "Mexico"
       },
@@ -206,6 +250,10 @@
         "name": "New Zealand"
       },
       {
+       "code": "NLD",
+       "name": "Netherlands"
+     },
+      {
         "code": "NOR",
         "name": "Norway"
       },
@@ -213,6 +261,10 @@
         "code": "OMN",
         "name": "Oman"
       },
+      {
+       "code": "PNG",
+       "name": "Papua New Guinea"
+     },
       {
         "code": "PER",
         "name": "Peru"
@@ -252,6 +304,10 @@
       {
         "code": "RWA",
         "name": "Rwanda"
+      },
+      {
+        "code": "LCA",
+        "name": "Saint Lucia"
       },
       {
         "code": "SAU",
@@ -316,6 +372,10 @@
       {
         "code": "TKL",
         "name": "Tokelau"
+      },
+      {
+        "code": "TTO",
+        "name": "Trinidad and Tobago"
       },
       {
         "code": "TUR",
@@ -384,6 +444,11 @@
         "type": "international"
       },
       {
+        "code": "CBSN",
+        "name": "CBS News Sunday Morning",
+        "type": "other"
+      },
+      {
         "code": "CSS",
         "name": "Catalan Statistical Society",
         "type": "other"
@@ -394,9 +459,19 @@
         "type": "other"
       },
       {
+        "code": "ESCWA",
+        "name": "Economic and  Social Commission for Western Asia",
+        "type": "international"
+      },
+      {
         "code": "ECB",
         "name": "European Central Bank",
         "type": "international"
+      },
+      {
+        "code": "EDXORG",
+        "name": "edX",
+        "type": "other"
       },
       {
         "code": "Eurostat",
@@ -411,6 +486,11 @@
       {
         "code": "GCC_Stat",
         "name": "GCC-STAT",
+        "type": "other"
+      },
+      {
+        "code": "Harvard",
+        "name": "Harvard University",
         "type": "other"
       },
       {
@@ -439,6 +519,11 @@
         "type": "international"
       },
       {
+        "code": "ILO",
+        "name": "International Labour Organization",
+        "type": "international"
+      },
+      {
         "code": "ISI",
         "name": "International Statistical Institute",
         "type": "other"
@@ -446,6 +531,11 @@
       {
         "code": "ITAM",
         "name": "Instituto Tecnológico Autónomo de México",
+        "type": "other"
+      },
+      {
+        "code": "MITMA",
+        "name": "Massachusetts Institute of Technology",
         "type": "other"
       },
       {
@@ -457,6 +547,11 @@
         "code": "NUofT",
         "name": "National University of Tucuman",
         "type": "other"
+      },
+      {
+        "code": "OHCHR",
+        "name": "Office of the United Nations High Commissioner for Human Rights",
+        "type": "international"
       },
       {
         "code": "OECD",
@@ -509,9 +604,24 @@
         "type": "international"
       },
       {
+       "code": "UNESCO",
+       "name": "UN Educational, Scientific and Cultural Organization",
+       "type": "international"
+     },
+      {
         "code": "UNIDO",
         "name": "UN Industrial Development Organization",
         "type": "international"
+      },
+      {
+        "code": "USNavalAcademy",
+        "name": "United States Naval Academy",
+        "type": "other"
+      },
+      {
+        "code": "UGlasgow",
+        "name": "University of Glasgow",
+        "type": "other"
       },
       {
         "code": "UGIR",
@@ -540,12 +650,22 @@
       },
       {
         "code": "UZurich",
-        "name": "  University of Zurich",
+        "name": "University of Zurich",
         "type": "other"
       },
       {
         "code": "WFP",
         "name": "World Food Programme",
+        "type": "international"
+      },
+      {
+        "code": "WHO",
+        "name": "World Health Organization",
+        "type": "international"
+      },
+      {
+        "code": "UNWTO",
+        "name": "World Tourism Organization",
         "type": "international"
       },
       {
@@ -556,6 +676,87 @@
     ]
   },
   "posts": [
+    {
+        "id": "1002",
+        "title":"United Nations Secretary-General message on World Statistics Day 2015",
+        "date": "2015-10-20",
+        "organisations":["UN"
+        ],
+        "image": "20150820-ban_ki-moon_portrait",
+        "text": "\"On this World Statistics Day, I urge all partners and stakeholders to work together to ensure that the necessary investments are made, adequate technical capacity is built, new data sources are explored and innovative processes are applied to give all countries the comprehensive information systems they need to achieve sustainable development.\"\n\nThe full text of Secretary-General's message on World Statistics Day 2015 is available here:\n\n*   [Arabic](files/statistics2015-message.Arabic.pdf)\n* [Chinese](files/statistics2015-message.Chinese.pdf)\n*  [English](files/statistics2015-message.pdf)\n*  [French](files/statistics2015-message.French.pdf)\n*  [Russian](files/statistics2015-message.Russian.pdf)\n*   [Spanish](files/statistics2015-message.Spanish.pdf)"
+      },
+      {
+        "id": "197",
+        "title":"THANK YOU FOR A SUCCESSFUL WORLD STATISTICS DAY!",
+        "date": "2015-10-23",
+        "organisations":["UN"
+        ],
+        "image": "BetterDataBetterLives",
+        "text": "On 20 October 2015 we celebrated the second World Statistics Day. We thank all our partners across the globe who initiated, organized or took part in activities to celebrate this special Day. This website will remain active as a repository of photos, videos, reports, press clippings etc. on the observance of World Statistics Day 2015 worldwide.\n\n We invite you to share with us how you celebrated World Statistics Day [(statistics@un.org)](mailto:statistics@un.org).\n\n![UNSD Staff Better Data Better Lives](img/posts/BetterDataBetterLives.jpg)\n\n The staff of the United Nations Statistics Division."
+      },
+      {
+        "id": "1001",
+        "title":"Finalists and winning solution to the #StatsDay15 Data Visualization Challenge",
+        "date": "2015-10-20",
+        "organisations":["UN"
+        ],
+        "image": "Data_Vis",
+        "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
+      },
+      {
+        "id": "200",
+        "title":"Malta celebrates with a seminar on “Better data. Better lives.”",
+        "date": "2015-10-23",
+        "countries":["MLT"
+        ],
+        "image": "Malta",
+        "text": "On 20 October the [National Statistics Office] (http://nso.gov.mt) of Malta held a seminar to celebrate World Statistics Day, with the theme “Better Data, Better Lives”. The objective of the seminar was to increase awareness and recognition of the role of statistics in shaping policy making in many areas, with the aim of making effective impacts on societies and lives. The topics presented span the economic and social spectrum. The audience included key stakeholders and users, opinion makers, the media and NSO staff members.\n\n For more details please see [here](http://nso.gov.mt/en/nso/WSD2015/Pages/World-Statistics-Day-2015.aspx). "
+      },
+      {
+        "id": "199",
+        "title":"Wales celebrates World Statistics Day",
+        "date": "2015-10-23",
+        "countries":  ["GBR"
+        ],
+        "image": "Wales",
+        "text": "The [Government of Wales] (http://www.gov.wales/statistics) celebrated World Statistics Day with an Update by the [Chief Statistician] (http://gov.wales/statistics-and-research/about/user-engagement/chief-statisticians-update/?lang=en) and a promotional stand that featured not only a [statistical quiz] (files/Quiz-WelshGovernment-WorldStatisticsDay2015.pdf) but also with sweet versions of our friendly logo ([see pictures in gallery](photo-gallery.html))."
+      },
+      {
+        "id": "198",
+        "title":"Costa Rica’s National Institute of Statistics and Census celebrations of World Statistics Day 2015",
+        "date": "2015-10-23",
+        "countries":  ["CRI"
+        ],
+        "image": "CostaRica",
+        "text": "Acknowledging the fundamental role of official statistics for decision making and the formulation and monitoring of public actions to improve people’s lives, Costa Rica’s [National Institute of Statistics and Census (INEC)](http://www.inec.go.cr/Web/Home/pagPrincipal.aspx), joined the celebration of World Statistics Day with multiple initiatives, including:\n\n*   An event with expert users and producers of official statistics, who participated in a round table discussion around the theme “Better Data. Better Lives”. The event also featured the presentation of an award winning video on the “History of Statistics”.\n*   Production and distribution of [digital flipbook](http://newoas.nacion.com/inec/INEC.swf) with reviews experts focused on the importance of statistics to promote development. This flipbook is also being disseminated on the institutional website and other public media outlets.\n*   Production of a printed key ring with theme “World Statistics Day. Better data. Better Lives.”\n*   Information campaign which will cover the distribution of a commemorative poster, a photo frame template, a press release for the official launch of activities around the celebration of World Statistics Day, and use of the official World Statistics Day 2015 logo\n*   An internal campaign for INEC staff, which included the distribution of a World Statistics Day 2015 photo frame template, and a photo wall of all INEC staff."
+      },
+      {
+        "id": "196",
+        "title":"European Central Bank celebrated World Statistics Day with a conference on “European Statistics by the European System of Central Banks”",
+        "date": "2015-10-23",
+        "organisations":  ["ECB"
+        ],
+        "image": "European_central_bank2",
+        "text": "To celebrate this year’s World Statistics Day, the [European Central Bank (ECB)] (http://www.ecb.europa.eu/) organised a conference on the “European Statistics by the European System of Central Banks”. The main purpose of the conference was to present the European economic and financial statistics by the [European System of Central Banks (ESCB)] (https://www.ecb.europa.eu/ecb/orga/escb/html/index.en.html), achievements and further developments.\n\n More information on the programme can be found [here] (http://www.ecb.europa.eu/stats/html/index.en.html). In her opening speech, Sabine Lautenschläger, Member of the Executive Board of the ECB and Vice-Chair of the Supervisory Board of the Single Supervisory Mechanism, said: “Credible statistics lie at the heart of the ECB’s policy-making.” but also stressed that the “need more detailed and globally comparable statistics”. The full text of her speech can be found [here] (http://www.ecb.europa.eu/press/key/date/2015/html/sp151020.en.html).\n\n Furthermore the ECB released a new concept with the Our statistics website: [“Insights”] (https://www.euro-area-statistics.org/issuance-of-debt-securities-by-euro-area-residents?cr=eur&lg=en). Insights was launched on World Statistics Day, 20 October. This first issue refers to Securities Issues Statistics and show not only the latest figures but also a longer series plus a short explanation of the use of these data. This is a joint effort with national central banks to get statistics to new target groups with a low entry barrier."
+      },
+      {
+        "id": "195",
+        "title":"Central Statistical Office of Trinidad and Tobago observes World Statistics Day 2015",
+        "date": "2015-10-23",
+        "countries":["TTO"
+        ],
+        "image": "TrinidadTobago",
+        "text": "The [Central Statistical Office (CSO)] (http://www.cso.gov.tt) of Trinidad and Tobago will host a Seminar for sixth form students in observance of World Statistics Day on 20 October 2015. CSO staff will make a number of statistical presentations and educational giveaways to the students. This Seminar will place on the Second Floor of Plaza 47, Frederick Street, Port of Spain from 9:30am – 12:00pm on 20 October.\n\n The CSO recognises the importance of engaging all sectors of the society and this year the focus is on the younger stakeholders. It is hoped that they will be able to gain a greater appreciation of the services and products provided by the CSO and thereby recognise the usefulness of the output of the CSO in their current and future studies as well as to the wider society for decision making and planning.\n\n More details can be found [here] (http://cso.gov.tt/newscontainer/world-statistics-day-2015/)."
+      },
+      {
+        "id": "194",
+        "title":"National Statistical Service of the Republic of Armenia marks World Statistics Day",
+        "date": "2015-10-23",
+        "countries":["ARM"
+        ],
+        "image": "Armenia",
+        "text": "The [National Statistical Service] (http://www.armstat.am) of the Republic of Armenia issued a press release (in Armenian) which can be found [here](http://www.armstat.am/en/?nid=54&id=454)."
+      },
       {
       "id": "1003",
       "title":"Message of the Director of the United Nations Statistics Division World Statistics Day 2015",
@@ -566,22 +767,370 @@
       "text": "\"... this World Statistics Day is an excellent opportunity to start a conversation between users and producers of statistics and data at all levels. It is an opportunity to showcase our achievements centred around the key concepts of quality and sustainability, and to demonstrate our unique position as official statisticians to contribute to improving the lives of many through our products – living up to our vision statement: Better Data. Better Lives.\" *Stefan Schweinfest* \n\n\n\n \n\n [![Better data for better lives: Celebrating World Statistics Day 2015](./img/posts/Schweinfest-StatsDay15-Video.png)](https://www.youtube.com/embed/JhheWKSufL4 \"Better data for better lives: Celebrating World Statistics Day 2015\")\n\nThe full text of UNSD Director's message on World Statistics Day 2015 is available here:\n\n*   [English](files/Statement-WSD-Stefan-Final.pdf)\n*  [Spanish](files/Statement-WSD-Stefan-Final-S.pdf)"
       },
       {
-        "id": "1002",
-        "title":"United Nations Secretary-General message on World Statistics Day 2015",
-        "date": "2015-10-20",
-        "organisations":["UN"
+        "id": "193",
+        "title":"St. Lucia observes World Statistics Day",
+        "date": "2015-10-23",
+        "countries":  ["LCA"
         ],
-        "image": "20150820-ban_ki-moon_portrait",
-        "text": "\"On this World Statistics Day, I urge all partners and stakeholders to work together to ensure that the necessary investments are made, adequate technical capacity is built, new data sources are explored and innovative processes are applied to give all countries the comprehensive information systems they need to achieve sustainable development.\"\n\nThe full text of Secretary-General's message on World Statistics Day 2015 is available here:\n\n*   [Arabic](files/statistics2015-message.Arabic.pdf)\n* [Chinese](files/statistics2015-message.Chinese.pdf)\n*  [English](files/statistics2015-message.pdf)\n*  [French](files/statistics2015-message.French.pdf)\n*  [Russian](files/statistics2015-message.Russian.pdf)\n*   [Spanish](files/statistics2015-message.Spanish.pdf)"
+        "image": "StLucia",
+        "text": "On the occasion of World Statistics Day 2015, Edwin Catherine, the chief statistician of St. Lucia, spoke about the “particular challenges in this new information era” and the potential of big data. News coverage can be found here.\n\n [![Saint Lucia](img/posts/StLucia-video.jpg)](https://www.youtube.com/watch?v=ZT-rr-1rekg)"
       },
       {
-        "id": "1001",
-        "title":"Finalists and winning solution to the #StatsDay15 Data Visualization Challenge",
-        "date": "2015-10-20",
+        "id": "192",
+        "title":"Cayman Islands mark World Statistics Day 2015",
+        "date": "2015-10-23",
+        "countries":  ["CYM"
+        ],
+        "image": "CaymanIslands",
+        "text": "The Cayman Islands joined the global statistical community in celebrating World Statistics Day on 20 October. In his statement, Hon. Marco Archer, JP Minister for Finance and Economic and Development, expressed his hope “to motivate the community to actively contribute to the improvement of official statistics in the Cayman Islands” and affirmed his own commitment by stating: “I have certainly made this one of my priorities as the Minister responsible for the development of official economic statistics.” The full statement is available [here](http://www.gov.ky/portal/page/portal/cighome/pressroom/archive/201510/Better%20Data%20Better%20Lives)."
+      },
+      {
+        "id": "191",
+        "title":"Speech of the Director-General of Eurostat on the occasion of World Statistics Day 2015",
+        "date": "2015-10-23",
+        "organisations":  ["Eurostat"
+        ],
+        "image": "EUROSTAT_2",
+        "text": "Walter Radermacher, Director-General of Eurostat, focussed on three keywords independence, importance and innovation, in a speech on the occasion of World Statistics Day. The speech is available here.\n\n [![Eurostat](img/posts/EUROSTAT_video2.jpg)](https://www.youtube.com/watch?v=nlODPf-hQMc)"
+      },
+      {
+        "id": "190",
+        "title":"General Statistics Office of Viet Nam hold press conference",
+        "date": "2015-10-23",
+        "countries":  ["VNM"
+        ],
+        "image": "Vietnam",
+        "text": "The [General Statistics Office (GSO)] (https://www.gso.gov.vn/Default_en.aspx?tabid=491) of Viet Nam held a press conference to inform the media about World Statistics Day and the Revised Statistics Law. The event took place in the afternoon of 19 October 2015. Attending were Mr. Nguyen Bich Lam, Director General of GSO; Mr. Vu Thanh Liem, Deputy Director General of GSO – chairman of the press conference; representatives from press agencies in Hanoi; leadership and staff of units under GSO.\n\n Mr. Vu Thanh Liem informed the press about the full program activities and initiatives planned by GSO including an information campaign about WSD on the GSO website, the websites of provincial statistical offices and on the Figures and Events Journal.\n\nFor more details about the event and photos [click here] (https://www.gso.gov.vn/ItemPreview.aspx?ItemID=15210)."
+      },
+      {
+              "id": "189",
+              "title":"The World’s Women 2015 Trends and Statistics",
+              "date": "2015-10-22",
+              "organisations":["UN"
+              ],
+              "image": "WorldsWomen2015a",
+              "text": "The World’s Women 2015 Trends and Statistics is now available @ [http://unstats.un.org/unsd/gender/worldswomen.html](http://unstats.un.org/unsd/gender/worldswomen.html) The report presents the latest statistics and analysis on the status of women and men in the world, highlighting the current situation and changes over time. The report is the sixth in the series which has been published every five years by the UN Statistics Division, as called for in the Beijing Platform for Action adopted at the Fourth World Conference on Women in 1995.\n\n The World’s Women 2015 highlights that progress towards the goal of gender equality has been made in the last two decades in most areas of concern, although at low and uneven pace. Through a life cycle approach, the publication reveals the challenges and specific needs experienced by women during their different stages of life. The different trajectories of women and men--from childhood through the working and reproductive stage to older age--are highlighted in the analysis undertaken in eight chapters of the report, each representing a broad area of concern: population and families, health, education, work, power and decision-making, violence against women, environment and poverty. A wide selection of statistics and indicators covered in the publication are presented in its Statistical Annex, available online @ [http://unstats.un.org/unsd/gender/worldswomen.html](http://unstats.un.org/unsd/gender/worldswomen.html)"
+            },
+            {
+              "id": "188",
+              "title":"Statistical Service of Cyprus marks World Statistics Day",
+              "date": "2015-10-22",
+              "countries":  ["CYP"
+              ],
+              "image": "Cystat",
+              "text": "The [Statistical Service of Cyprus (CYSTAT)] (http://www.cystat.gov.cy) marked World Statistics Day 2015. In a statement released on the occasion of World Statistics Day, G. Chr. Georgiou, the Director of mentioned the “difficult task of meeting the growing demand for statistical information”. He also acknowledged “the fundamental role of CYSTAT’s work and has made it its primary commitment over the years, to produce reliable, timely, high-quality statistics, taking into account users' needs. … In order to fulfil this commitment, CYSTAT continuously evolves, implementing technological and methodological changes, following the latest developments in the area of statistics.” \n\n The full statement is available [here](http://www.cystat.gov.cy/mof/cystat/statistics.nsf/All/60B07B320C52C257C2257EE3003562A7?OpenDocument&sub=1&sel=1&e=&print). "
+            },
+     {
+       "id": "187",
+       "title":"World Tourism Organization supports World Statistics Day",
+       "date": "2015-10-22",
+       "organisations":  ["UNWTO"
+       ],
+       "image": "UNWTO",
+       "text": "On the occasion of this year's World Statistic Day, the World Tourism Organization (UNWTO) (http://unwto.org) called for improved investment and coordination in data collection in the tourism sector. In their [press release] (http://media.unwto.org/press-release/2015-10-20/world-statistics-day-unwto-calls-more-and-better-tourism-data).\n\n “Robust tourism statistics are vital to guide sustainable development, monitor progress, evaluate impact, promote results-focused management, and highlight strategic issues for policy objectives. UNWTO calls upon national governments to work towards building internationally comparable and reliable tourism statistics, including Tourism Satellite Accounts (TSA), in line with the UN approved guiding namely the International Recommendations, the International Recommendations for Tourism Statistics 2008 and the Tourism Satellite Account: Recommended Methodological Framework 2008” said UNWTO Secretary-General, Taleb Rifai.\n\nThe full press release is available [here](http://media.unwto.org/press-release/2015-10-20/world-statistics-day-unwto-calls-more-and-better-tourism-data)."
+     },
+     {
+       "id": "186",
+       "title":"World Statistics Day in Bulgaria: A Round Table Conference",
+       "date": "2015-10-22",
+       "countries":  ["BGR"
+       ],
+       "image": "Bulgaria",
+       "text": "A Round Table Conference on the World Statistics Day was organized by the [Statistics and Econometrics Department] (http://www.unwe.bg/en/structure/render/246) of the [University of National and World Economy (UNWE)] (http://www.unwe.bg) and the [National Statistical Institute (NSI)] (http://www.nsi.bg) of Bulgaria.\n\n The event was held at the Scientific Councils Hall of UNWE. It was attended by the Rector of the University Prof. D.Sc.(Econ.) Statty Stattev, the Chairman of NSI Sergey Tsvetarski, Prof. Dr. Veselka Pavlova, Vice-Rector of UNWE and Head of the Statistics and Econometrics Department, Prof. Dr. Valentin Goev, Vice-Rector of UNWE, Dr. Bogdan Bogdanov, Deputy Chairman of the National Statistical Institute, Prof. Dr. Kamelia Stefanova, Dean of the Applied Informatics and Statistics Faculty, Prof. D.Sc.(Math.) Nikolay Bozhinov, Vice-Dean and Head of the Mathematics Department, lecturers, experts from the NSI, graduated Bachelors and Masters from the specialty and students.\n\n The Round Table Conference was devoted to the World Statistics Day and discussed issues related to the Bulgarian and European statistical system and the connection between the theory and practice.\n\n For more details please see [here](http://www.unwe.bg/en/news/8060/round-table-conference-on-the-occasion-of-the-world-statistics-day-.html)."
+     },
+     {
+       "id": "185",
+       "title":"Bahrain Statistical Society celebrates World Statistics Day",
+       "date": "2015-10-22",
+       "countries":  ["BHR"
+       ],
+       "image": "Bahrain",
+       "text": "The [Bahrain Statistical Society (BSS)] (http://bahrainss.org) will celebrate World Statistics Day. The main celebration event is scheduled to take place on 7th November 2015, hosted by [Applied Science University] (http://www.asu.edu.bh). The aim of the event is to: highlight applications of statistics and to promote the WSD slogan “Better data. Better lives.” Guest speakers will present their applications of applying statistics. Participants are from governmental and educational organizations. The [United Nations Development Programme (UNDP)] (http://www.undp.org) was invited to present the new Sustainable Development Goals.\n\n On this occasion, the Bahrain Statistical Society will announce the winner of the Statistical Excellence Award. The award is awarded for Bahraini statisticians with a distinguished excellent profile. The award is a means to encourage excellence in the field of statistics.\n\n Thirdly, during the main celebration event, a research project about Statistical Literacy and Quality of Applying Statistical Methods will be launched. The research will be completed within 3 months. Qualified team of statisticians will examine a sample of Bahraini postgraduate researchers of the academic year 2012/2013. Results will be announced by next year.\n\n For more information please contact BSS at [info@bahrainss.org](mailto:info@bahrainss.org)."
+     },
+            {
+              "id": "184",
+              "title":"Statistics Netherlands releases new video on CBS Compass for quality of life",
+              "date": "2015-10-22",
+              "countries":  ["NLD"
+              ],
+              "image": "Netherlands",
+              "text": "To embrace the world wide celebration of World Statistics Day 2015, [CBS (Statistics Netherlands)] (http://www.cbs.nl/) and the [Netherlands Society for Statistics and Operations Research (VvS+OR)] (http://www.vvs-or.nl/) collaborated to produce a video that showcases the so-called CBS's Compass that monitors Quality of Life on three different dashboards. These are the actual quality of life, quality of life in the future, and quality of life world-wide. The video is in Dutch;  \n\n [![CBS (Statistics Netherlands)](img/posts/Netherlands_video.jpg)](https://youtu.be/fRoKnABqAL0)\n\n A version in English is envisioned for the near future."
+            },
+            {
+                    "id": "183",
+                    "title":"China marked World Statistics Day with a celebratory",
+                    "date": "2015-10-22",
+                    "countries":  ["CHN"
+                    ],
+                    "organisations":["UN"
+                    ],
+                    "image": "China_UNSD",
+                    "text": "A celebratory event of the Second World Statistics Day was jointly organized by the United Nations Statistics Division (UNSD) and the National Bureau of Statistics (NBS) of China in Xi’an, China. Mr. Wu Hongbo, United Nations Under-Secretary-General for Economic and Social Affairs, Mr. Wang Baoan, Commissioner of NBS of China, Mr. Stefan Schweinfest, Director of UNSD, and senior officials of Shaanxi Province attended the event. More details will follow. \n\n![](img/posts/China_gallery.jpg)"
+            },
+            {
+               "id": "182",
+               "title":"Former U.S. Labor Statistics Commissioners Carroll D. Wright and Janet L. Norwood were inducted into Labor Hall of Honor on World Statistics Day",
+               "date": "2015-10-22",
+               "countries":  ["USA"
+               ],
+               "image": "USBureauofLabour",
+               "text": "On World Statistics Day, 20 October 2015, [Carroll D. Wright] (http://www.bls.gov/bls/history/commissioners/wright.htm), the first commissioner of the “Bureau of Labor,” and [Janet L. Norwood] (http://www.bls.gov/bls/history/commissioners/norwood.htm), the Bureau of Labor Statistics’ first female commissioner, were inducted into the [Labor Department’s Hall of Honor](http://www.dol.gov/dol/aboutdol/hallofhonor/).\n\n Carroll Wright was the first [Bureau of Labour (BLS)] (http://www.bls.gov/home.htm) Commissioner, serving from 1885 to 1905. Janet Norwood was the first woman to serve as BLS Commissioner and led the Bureau for 12 crucial years (1979-1991), modernizing it and raising the profile of its work. Both former Commissioners ensured BLS produced the high quality of statistics necessary to the proper functioning of a democratic government. This was the first time BLS Commissioners were inducted into the Labor Hall of Honor. The Hall of Honor was established in 1988 to honor those Americans whose distinctive contributions in the field of labor have elevated working conditions, wages, and over-all quality of life of America’s working families.\n\n The full ceremony can be watched here: \n\n [![Bureau of Labour (BLS)](img/posts/US_CensusBureau_video.jpg)](https://www.youtube.com/watch?v=wouyNVtTMkI)"
+             },
+           {
+              "id": "181",
+              "title":"Celebration of the World Statistics Day in Lithuania",
+              "date": "2015-10-22",
+              "countries":  ["LTU"
+              ],
+              "image": "LithuanianStatSociety",
+              "text": "On 20 October 2015, Lithuania, together with many other countries of the world, celebrated the World Statistics Day.\n\n A conference dedicated to the World Statistics Day took place in the Government Office. It was attended by the representatives of the Government, institutions producing official statistics and providing administrative data for statistical purposes, members of the Statistical Council and the [Lithuanian Statistical Society] (http://www.statistikusajunga.lt], representatives of the media, academic community, employees of [Statistics Lithuania] (http://www.stat.gov.lt/) and other members of the national statistical community.\n\n The Director General of Statistics Lithuania Vilija Lapėnienė emphasised that statistical quality requires several preconditions: first, accurate primary statistical data provided by respondents (enterprises, individuals, administrative sources – State registers); second, well-educated and professional staff, able to apply advanced and reliable statistical methods; and, third, professional independence of statistical authorities. “Do all those three preconditions exist in Lithuania? In one word – yes”, – affirmed Vilija Lapėnienė.\n\n At the conference, speeches were also given by the representatives of the main official statistics user groups – advisor to the SEB Bank [http://sebgroup.com] president, financial analyst Gitanas Nausėda, deputy editor-in-chief of a daily [Verslo žinios] (vz.lt) (Business News) Irma Verbienė. At the end of the celebration, a family of musicians – Raminta, Augustas and Benas Gocentas – performed musical compositions.\n\n For more information see and photos [see here] (http://www.stat.gov.lt/en/home/-/asset_publisher/lbrXvLVHX2ln/content/minejome-pasauline-statistikos-diena?redirect=http%3A%2F%2Fwww.stat.gov.lt%2Fen%2Fhome%3Fp_p_id%3D101_INSTANCE_lbrXvLVHX2ln%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-3%26p_p_col_count%3D1)."
+            },
+      {
+        "id": "180",
+        "title": "UNESCO supports World Statistics Day",
+        "date": "2015-10-22",
+        "organisations": ["UN","UNESCO"
+        ],
+        "image": "UNESCO",
+        "text": "The Director-General of the [United Nations Educational, Scientific and Cultural Organization (UNESCO)](http://www.unesco.org), Irina Bokova, issued a message on the occasion of World Statistics Day in which she emphasized that “the demand for internationally comparable data is reaching new heights with the adoption of the Sustainable Development Goals (SDGs)”. She also stressed that “statistics is never a matter of simply 'gathering' pre-existing data: it is a construct that plays a part in creating the reality that it reveals. It brings to light previously unnoticed inequalities, fostering social awareness and helping us to find our bearings in terms of how we look at the world. Through the strength of a number or a well-illustrated graphic, statistics are worth more than a lengthy speech. They are a public good that every citizen must be able to understand and every State must be able to make the most of, to the advantage of all.” The full statement is available [here] (http://en.unesco.org/news/world-statistics-day-2015)."
+      },
+      {
+        "id": "179",
+        "title": "Myanmar celebrated World Statistics Day",
+        "date": "2015-10-22",
+        "countries": ["MMR"
+        ],
+        "image": "Myanmar2",
+        "text": "Myanmar celebrated World Statistics Day with the theme “Better Data, Better Lives.” on 20 October 2015 with an address by Union Minister Dr. Kan Zaw. He pointed out that statistics are very important as preparations need to be made for post 2015 development program and taking 2020 world population and household census. The new [Myanmar Statistical Information Service (MMSIS) website] (http://www.mmsis.gov.mm) was launched during this ceremony, during which Director of UN Statistics Division was addressing the participants by video link. The meeting on statistics development followed after the ceremony with the theme “Better Data, Better Lives.” Media coverage is available [here] (http://www.myanmarinternational.tv/news/world-statistics-day-better-data-better-lives).\n\n[![MSIS World Statistics Day Video](http://img.youtube.com/vi/STURP5h4u4M/0.jpg)](http://www.youtube.com/watch?v=STURP5h4u4M)"
+      },
+      {
+        "id": "178",
+        "title": "United States Naval Academy Economics Department Midshipmen celebrated World Statistics Day",
+        "date": "2015-10-22",
+        "organisations": ["USNavalAcademy"
+        ],
+        "countries":["USA"
+        ],
+        "image": "USNavyAcademy",
+        "text": "Students of the [Economics Department] (http://www.usna.edu/EconDept/) Midshipmen at the [US Naval Academy] (http://www.usna.edu) marked World Statistics Day by discussing how economic policy is hardwired into economic data. Students also discussed how statistics affect their professional and personal lives, including the impact of weather and tidal predictions on navigation and logistics and the impact of the internet data on how they get and use data in their planning, shopping, and travel decisions. They also discussed an article from the [Guardian] (http://www.theguardian.com/news/datablog/2015/oct/20/why-world-statistics-day-is-something-worth-celebrating?CMP=share_btn_link) on World Statistics Day which raised the issue of the uses and misuses of statistics in public policy and politics.\n\n![US Naval Academy Students](img/posts/USNavyAcademy_pic.jpg)"
+      },
+      {
+        "id": "177",
+        "title": "Sri Lanka uses World Statistics Day logo in Sinhala and Tamil",
+        "date": "2015-10-22",
+        "countries": ["LKA"
+        ],
+        "image": "SriLanka2",
+        "text": "The Department of Census and Statistics of Sri Lanka uses the World Statistics Day logo in Sinhala/Sinhalese and Tamil, the official languages of Sri Lanka. Please see [Resources page](resources.html)"
+      },
+      {
+        "id": "176",
+        "title": "Two World Statistics Day special editions",
+        "date": "2015-10-22",
+        "organisations": ["ASA", "RSS"
+        ],
+        "countries":["USA", "GBR"
+        ],
+        "image": "Significance_RSS_ASA",
+        "text": "The October issue of the [Significance magazine] (http://www.statslife.org.uk/significance/back-issues) featured a 20-page World Statistics Day special entitled “Fuel for Growth”. In his introduction, John Pullinger, the UK National Statistician and current chair of the UN Statistical Commission emphaisized that the theme of this year's World Statistics Day was “vitally important for the work of the statistical community worldwide”. The eleven articles show “merely a glimpse of the full range of problems to which statistical analysis is applied, despite touching on a wide range of issues: from economic development to trade and transport, data sharing, human rights and hunger.” For the full special see [here] (http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2015.00854.x/abstract). A brief overview is available [here](http://www.statslife.org.uk/significance/2514). \n\nThe [World of Statistics] (http://www.worldofstatistics.org) issued a special World Statistics Day edition of their [News from the World of Statistics] (http://www.worldofstatistics.org/news-of-the-world-of-statistics-archive/) which is available [here] (http://www.worldofstatistics.org/files/2015/10/World-Statistics-Day-October-20-2015.pdf)."
+      },
+      {
+        "id": "175",
+        "title": "University of Glasgow marks World Statistics Day",
+        "date": "2015-10-22",
+        "organisations": ["UGlasgow"
+        ],
+        "countries":["GBR"
+        ],
+        "image": "UnivofGlasgow",
+        "text": "The [School of Mathematics and Statistics] (http://www.gla.ac.uk/schools/mathematicsstatistics/) of the [University of Glasgow] (http://gla.ac.uk) marked World Statistics Day by a brief [newsletter] (http://www.gla.ac.uk/media/media_428200_en.pdf) highlighting hree examples of projects, where Glasgow statisticians are making a difference by providing insight into some of the “grand planetary challenges, round people and environment”."
+      },
+           {
+              "id": "174",
+              "title":"ESCWA celebrates World Statistics Day",
+              "date": "2015-10-22",
+              "organisations":["ESCWA"
+              ],
+              "image": "ESCWA",
+              "text": "The [Statistics Division] (http://www.escwa.un.org/divisions/main.asp?division=sd) of the [Economic and Social Commission for Western Asia (ESCWA)] (http://www.escwa.un.org/) celebrated World Statistics Day by reaching out to all ESCWA staff by [e-mail] (/files/ESCWA_WSD-2015.pdf). Staff of the Statistics Division also distributed [World Statistics Day buttons in Arabic, French and English] (resources.html) and encouraged colleagues to wear the buttons in recognition of the importance of quality data in fulfilling the Comission's mandate."
+            },
+           {
+              "id": "173",
+              "title":"Basque Statistics Institute supports World Statistics Day 2015",
+              "date": "2015-10-22",
+              "countries":  ["ESP"
+              ],
+              "image": "Basque",
+              "text": "The [Basque Statistics Institute] (http://eustat.eus) supports World Statistics Day with a banner on their homepage. The banner links to a series of [videos] (http://eustat.eus/ci_ci/indice.html) on official statistics in the Basque Country."
+            },
+           {
+            "id": "172",
+            "title": "Hellenic Statistical Authority marks World Statistics Day",
+            "date": "2015-10-22",
+            "countries":  ["GRC"
+            ],
+            "image": "Greece_ELSTAT",
+            "text": "[The Hellenic Statistical Authority (ELSTAT)] (http://www.statistics.gr), Greece, created a special [webpage] (http://www.statistics.gr/portal/page/portal/ESYE/PAGE-statisticsday) on its website containing information on the celebration of the World Statistics Day 2015 including a special [announcement on the celebration] (http://www.statistics.gr/portal/page/portal/ESYE/BUCKET/General/PR_World_Statistics_Day_EN.pdf), stressing that official statistics must be produced in accordance with the statistical principles of “professional independence” “impartiality”, “objectivity”, “reliability”, “statistical confidentiality” and “cost-effectiveness”. The site also announces the [2016 IAOS Young statisticians competition] (http://www.statistics.gr/portal/page/portal/ESYE/BUCKET/General/NWS_IAOS_EN.pdf) and other relevant links."
+          },
+          {
+             "id": "171",
+             "title":"WHO and the WHO Family of International Classifications Network mark World Statistics Day",
+             "date": "2015-10-22",
+             "organisations":["WHO"
+             ],
+             "image": "WHO",
+             "text": "The global [WHO Family of International Classifications Network] (http://www.who.int/classifications/network/en/) is currently in Manchester, UK, for its annual meeting where it is marking World Statistics Day by showcasing their achievements and their ongoing work to help this vision of a consistent set of tools, standards and methods for statistics and information on causes of death, causes of ill-heath (including those for which people seek assistance from health care providers), functioning and disability come true. More information can be found at [http://www.hscic.gov.uk/whofic2015uk](http://www.hscic.gov.uk/whofic2015uk)."
+           },
+           {
+              "id": "170",
+              "title":"University of Kerala (India) celebrates World Statistics Day",
+              "date": "2015-10-22",
+              "countries":  ["IND"
+              ],
+              "image": "UnivofKerala",
+              "text": "The [Department of Statistics] (http://www.keralauniversity.ac.in/departments/stat) of the [University of Kerala] (http://www.keralauniversity.ac.in), Kariavattom, India , is celebrating [World Statistics Day with an inaugural function] (img/posts/UnivofKerala_WSD.jpg) and an essay competition. The [essay competition] (files/UnivofKerala_WSD-2015.pdf) used the theme “Better data. Better lives”; students in three levels were invited: (1) Plus one- Plus two (intermediate) Level (Mathematics/Statistics stream), (2) Graduate Level (Mathematics/Statistics Main) and (3) Post-graduate Level (M.Sc. Statistics). In the Inaugural function of the Celebrations to be held on 20 October 2015, the winners of the “Essay Competition” will be given certificates and mementos."
+            },
+      {
+        "id": "169",
+        "title":"CBS News Sunday Morning features World Statistics Day in their “Sunday Morning” Weekly Calendar",
+        "date": "2015-10-21",
+        "organisations":["CBSN"
+        ],
+        "image": "CBSSundayMorning",
+        "text": "[CBS News Sunday Morning] (http://www.cbsnews.com/) is a 90min American newsmagazine television program that has airs Sundays from 9:00 to 10:30 a.m. Eastern, Pacific Time, which features a “Sunday Morning” Calendar that looks ahead on the upcoming week. This Sunday's [calendar] (http://www.cbsnews.com/news/calendar-week-of-october-19/) included World Statistics Day as “a day for statisticians to highlight the innumerable ways they help decision-makers develop informed policies ... by the numbers.”"
+      },
+      {
+       "id": "168",
+       "title": "Celebrating 140 years of Croatian official statistics",
+       "date": "2015-10-21",
+       "countries":  ["HRV"
+       ],
+       "image": "Croatia140",
+       "text": "On 19 October 2015, the [Croatian Bureau of Statistics] (http://www.dzs.hr) celebrated 140 years of Croatian official statistics. On this occasion, the Bureau prepared a short story [“Life through the Spectrum of Numbers”] (http://www.dzs.hr/Eng/important/Interesting/articles/140-years-booklet.pdf), which illustrates to what extent our every step is accompanied with statistical data. A [press release] (http://www.dzs.hr/Eng/important/Interesting/articles/140-years.pdf) was also issued on the occasion."
+     },
+     {
+       "id":"167",
+       "title": "Brunei Darussalam celebrated World Statistics Day",
+       "date": "2015-10-21",
+       "countries": ["BRN"
+       ],
+       "image": "BruneiDarussalam_JPKE",
+       "text": "On the occasion of World Statistics Day, the [Department of Economic Planning and Development (JPKE)] (http://www.depd.gov.bn/Theme/Home.aspx) of Brunei Darussalam launched its new website, which presents the latest national official statistics in a more user-friendly way. The website was launched in a [formal ceremony](http://www.depd.gov.bn/Lists/News/DispForm.aspx?ID=34).\n\n Upcoming events in commemoration of World Statistics Day are a Surah Yasin and Tahlil Recital Ceremony on Thursday, 22 October 2015, in remembrance of JPKE’s staff who have passed away; the coordination with the media to disseminate infographics on national statistics starting from 20 until 31 October 2015; and a sales Promotion of JPKE’s statistical publications.\n\n The Department also issued a [press release](files/Brunei_PressRelease.pdf)."
+     },
+     {
+       "id": "166",
+       "title":"edX blogs about World Statistics Day 2015",
+       "date": "2015-10-21",
+       "organisations": ["EDXORG","MITMA","Harvard"],
+       "image": "edx",
+       "text": "[edX] (http://www.edx.org), a nonprofit online learning destination founded by [Harvard](http://www.harvard.edu) and [MIT](http://web.mit.edu), helped promote World Statistics Day with a [blog post](http://blog.edx.org/edx-celebrates-world-statistics-day/) that highlights a selection of statistic and policy courses that help improve people's lives."
+     },
+     {
+       "id": "165",
+       "title":"Statistics Views and Wiley have announced the winner of their data visualization competition",
+       "date": "2015-10-21",
+       "organisations": ["Wiley","StatViews"],
+       "image": "Wiley1",
+       "text": "Statistics Views and Wiley have announced the winner of their [data visualization competition] (https://worldstatisticsday.org/blog.html?i=31). For details please [click here] (http://www.statisticsviews.com/details/news/8487731/Winner-of-World-Statistics-Day-competition-is___.html)"
+     },
+     {
+       "id": "164",
+       "title":"UN Women celebrates World Statistics Day with an “eye on the global gender gap”",
+       "date": "2015-10-21",
+       "organisations": ["UN"
+       ],
+       "image": "UNWomen",
+       "text": "To mark World Statistics Day, [UN Women] (http://www.unwomen.org) is showcasing new interactive figures based on the key findings in its flagship report Progress of the World’s Women 2015-2016 Transforming economies, realizing rights. These eye-catching figures visualize the progress made in the realization of women’s economic and social rights, as well as where gaps remain. They were developed to highlight the importance of gender statistics, as a foundation for informed policymaking, ultimately to secure better lives for women and girls around the world. The four interactive figures feature data on the following: global gender gaps in labour force participation; laws and policies that shape women’s access to paid work and equal conditions at work, maternity and parental leave and childcare; the poverty-reducing effects of social transfers (such as child and family benefits) for single mothers and the economic value of women’s unpaid care and domestic work.\n\n To view the data showcase please visit [http://progress.unwomen.org/en/2015/](http://progress.unwomen.org/en/2015/)."
+     },
+     {
+       "id": "163",
+       "title":"This is how Papua New Guinea celebrated World Statistics Day",
+       "date": "2015-10-21",
+       "countries":["PNG"
+       ],
+       "image": "PapuaNewGuinea_NSO",
+       "text": "The [National Statistical Office] (http://www.nso.gov.pg) of Papua New Guinea celebrated the Day at the Kemabolo village in the Rigo District of Central Province. Media coverage from NBCPNG is available here.\n\n [![here](img/posts/Papua_Video.png)](https://www.youtube.com/watch/VCKVk4Lll1Q) \n\nThe national statistician, Roko Koloma, was also on the talk-back radio show with the [UNFPA PNG Resident Represent the United Nations] (http://countryoffice.unfpa.org/png/), Walter Mendoca Filho and the Head of Economics Statistics in National Statistical Office. The three officials interacted with the public audience for two hours. Information on official statistics was also advertised in a [newspaper spread] (files/PapuaNewGuinea_newspaper.pdf)."
+     },
+      {
+        "id": "162",
+        "title":"UNSD issues press release",
+        "date": "2015-10-21",
         "organisations":["UN"
         ],
-        "image": "Data_Vis",
-        "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
+        "image": "UN",
+        "text": "The United Nations issued the following press release on the occasion of World Statistics Day 2015: [Press release] (http://www.un.org/press/en/2015/obv1538.doc.htm)."
+      },
+      {
+        "id": "161",
+        "title":"Cote d'Ivoire celebrated World Statistics Day",
+        "date": "2015-10-21",
+        "countries":["CIV"
+        ],
+        "image": "CotedIvoire",
+        "text": "Cote d'Ivoire celebrated World Statistics Day with a [statement by Kaba Nialé, Minister of the Economy and Finance] (files/CotedIvoire_Journéemondialedelastatistique.pdf). In her statement, Ms. Nialé urged statisticians and demographers from Cote d'Ivoire to demonstrate scientific independence, professionalism, impartiality, transparency and rigor in the exercise of their function to make available to government, development partners and all users, better statistical data to ensure a better life for the citizens of Cote d'Ivoire.\n\n The statement was also the focus on a programme entitled “Le 13 Heures de RTI 1 du 20 Octobre 2015 avec Fatou Fofana” on national TV ([You Tube video](https://www.youtube.com/watch?v=qirkqH1Efo0&feature=youtu.be))."
+      },
+      {
+        "id": "160",
+        "title":"Latvia's opinion leaders sharing their vision of the role of data in their lives and in society",
+        "date": "2015-10-21",
+        "countries":["LVA"
+        ],
+        "image": "Latvia",
+        "text": "On the occasion of World Statistics Day 2015 the [Central Statistical Bureau of Latvia] (http://www.csb.gov.lv/en) prepared several [videos] (https://www.youtube.com/playlist?list=PLPPdEBjeUQWHJJge4sacrOZxQf_DeSGEu) of opinion leaders sharing their vision of the role of data in their lives and in society as a whole. The videos are currently available in Latvian but English subtitles will be released shortly. \n\n [![CSB Latvia](img/posts/Latvia_video.png)](http://www.youtube.com/playlist?list=PLPPdEBjeUQWHJJge4sacrOZxQf_DeSGEu) \n\n \n\n In addition, the Bureau had prepared a [quiz] (http://www.poll-maker.com/Q2IPQE) about statistics of Latvia. A [press release] (files/LVA_PressRelease.pdf) was also distributed."
+      },
+      {
+        "id": "159",
+        "title":"Expertise France supported World Statistics Day",
+        "date": "2015-10-21",
+        "countries":["FRA"
+        ],
+        "image": "France_Expertise",
+        "text": "[Expertise France] (http://www.expertisefrance.fr), a the French international technical expertise agency with the aim of increasing the mobilization capacities of the various areas of public technical expertise in the international arena, in order to better respond to the growing needs of developing or emergent countries in terms of assistance to public policies, supported World Statistics Day with a [special poster] (img/posts/France_poster.png)."
+      },
+      {
+        "id": "158",
+        "title":"Statistical Office of the Republic of Serbia issues press release on the occasion of World Statistics Day",
+        "date": "2015-10-21",
+        "countries":["SRB"
+        ],
+        "image": "Serbia_2",
+        "text": "On the occasion of World Statistics Day the Statistical Office of the [Republic of Serbia (SORS)] (http://webrzs.stat.gov.rs/WebSite/Default.aspx) issued a [press release] (http://webrzs.stat.gov.rs/WebSite/userFiles/file/Aktuelnosti/DanStat/II%20WSD.pdf) emphasizing “the critical role of high-quality official statistical information in analysis, planning and decision-making policy” and stressing “the importance of sustainable national capacity to produce reliable and timely statistics and indicators measuring a country’s progress.”\n\nThe Office also posted a photo gallery “[SORS - Part of world statistics family] (http://webrzs.stat.gov.rs/WebSite/Public/PageView.aspx?pKey=717)”."
+      },
+      {
+        "id": "157",
+        "title":"Biostatistics Group at McGill University celebrates the sweet way",
+        "date": "2015-10-21",
+        "countries":["CAN"
+        ],
+        "image": "Canada_McGill",
+        "text": "The [Biostatistics group] (http://www.mcgill.ca/epi-biostat-occh/) at [McGill University] (http://www.mcgill.ca) in Montreal (Canada) celebrated World Statistics Day in a sweet way. Approximately 45 students, faculty, and other appreciators of statistics gathered for cupcakes and coffee to celebrate before their weekly [seminar series] (http://www.mcgill.ca/epi-biostat-occh/news-events/seminars/biostatistics). \n\n [![here] (img/posts/Canada_McGill_photo.jpg)](img/posts/Canada_McGill_photo.jpg)"
+      },
+      {
+        "id": "156",
+        "title":"Office of the United Nations High Commissioner for Human Rights marks World Statistics Day",
+        "date": "2015-10-20",
+        "organisations":["OHCHR"
+        ],
+        "image": "OHCHR",
+        "text": "The [Office of the United Nations High Commissioner for Human Rights (OHCHR)](http://www.ohchr.org/EN/Pages/WelcomePage.aspx) is joining the World Statistics Day 2015’s call for “Better data. Better lives.” by underlining the need for a human rights-based approach to data and statistics, and to make sure that adequate methodologies for the collection of disaggregated data pertaining to marginalized groups are developed and implemented.\n\n For more information, visit the [website](http://www.ohchr.org/EN/NewsEvents/Pages/WorldStatisticsDay2015.aspx) of the Office of the High Commissioner for Human Rights."
+      },
+      {
+        "id": "155",
+        "title":"ILO supports World Statistics Day",
+        "date": "2015-10-20",
+        "organisations":["ILO"
+        ],
+        "image": "ILO",
+        "text": "The Director-General of the [International Labour Organization (ILO)] (http://www.ilo.org), Guy Ryder, issued a message on the occasion of World Statistics Day in which he “commends the huge progress made by many institutions producing labour and decent work statistics around the world, particularly national statistical offices and ministries of labour”. He also reassured his organization's “clear conviction that better labour market data will guide the creation of better jobs leading to better lives.” The full statement is available [here] (http://www.ilo.org/global/about-the-ilo/who-we-are/ilo-director-general/statements-and-speeches/WCMS_416470/lang--en/index.htm)."
+      },
+      {
+        "id": "154",
+        "title":"Statistics New Zealand celebrates",
+        "date": "2015-10-20",
+        "countries":["NZL"
+        ],
+        "image": "NewZealand_1",
+        "text": "[Statistics New Zealand] (http://www.stats.govt.nz/) reinforced the message shown on their website [Thanks, New Zealand! ...] (img/posts/NZL_website.png) by half page adverts in the three major New Zealand newspapers – the [NZ Herald] (http://www.nzherald.co.nz), the [Dominion Post] (http://www.dominionpost.com/), and [The Press] (http://www.stuff.co.nz/the-press/). \n\n![](img/posts/NewZealand_2.jpg)\n\n###### (Carol Slappendel, the Deputy Government Statistician for Operations displaying one of the Papers.)\n\nStatistics New Zealand also released a new report, [Women at work: 1991-2013](http://www.stats.govt.nz/browse_for_stats/people_and_communities/Women/women-occupation/women-occupation-media-release.aspx), as part of their celebrations. This report shows that the representation of women working in life science professions (biology and environmental science) doubled between 1991 and 2013 and also highlights that women are now just as likely as men to have qualifications in the area of natural and physical sciences. In 2013, this was the only field of study that had no high-level sex segregation – this field includes most sciences such as biology, chemistry, earth science, and mathematics.\n\nFinally, Chief Methodologist, Vince Galvin, presented a talk on 30 years of the Household Labour Force Survey. \n\n[![Statistics New Zealand](img/posts/NZL_video2.png)](http://www.youtube.com/watch?v=-bwJKRUrdaM “Vince Galvin - 30 years of the Household Labour Force Survey”) "
       },
       {
         "id": "153",
@@ -653,7 +1202,7 @@
         "countries":["IRN"
         ],
         "image": "Iran_CB",
-        "text": "General Directorate of Economic statistics of the [Central Bank of the Islamic Republic of Iran] (http://www.cbi.ir/) and the National Day of Planning and Statistics produced a poster in [Farsi (Persian)] (img/posts/Iran_CB_poster.png) language in celebration of the World Statistics Day."
+        "text": "The General Directorate of Economic statistics of the [Central Bank of the Islamic Republic of Iran] (http://www.cbi.ir/) produced a logo in [Farsi (Persian)] (img/posts/Iran_CB_poster.png) language in celebration of the World Statistics Day and the National Day of Planning and Statistics."
       },
 
       {
@@ -759,7 +1308,7 @@
         "organisations":["WFP"
         ],
         "image": "WFP",
-        "text": "A core function of the [World Food Programme (WFP)] (http://www.wfp.org/) food security analysis and trends service [(VAM)] (http://vam.wfp.org/) is to estimate and communicate who, how many, where and why people are food insecure. WFP will celebrate the World Statistics Day with a talk on why investing in primary and secondary data collection and analysis are fundamental for the design and implementation of food assistance programmes worldwide.\n\n The event will showcase WFP’s food security analysis and measurement capacity, presenting the [Consolidated Approach to Reporting Indicators (CARI)] (https://resources.vam.wfp.org/CARI) of Food Security. The CARI combines key food security indicators, including the Food Consumption Score, the Food Expenditure Share and Livelihoods Coping Strategies to access the food security situation of a given country. Using datasets from a recent survey, both the theory and the methodology will be discussed. The salient features of mVAM, a mobile food security and markets monitoring system, will also be presented to demonstrate our ability to safely access near real-time food security information quickly and inexpensively from hard to reach places like war-stricken countries of Iraq and Yemen."
+        "text": "A core function of the [World Food Programme (WFP)] (http://www.wfp.org/) food security analysis and trends service [(VAM)] (http://vam.wfp.org/) is to estimate and communicate who, how many, where and why people are food insecure. WFP will celebrate the World Statistics Day with a talk on why investing in primary and secondary data collection and analysis are fundamental for the design and implementation of food assistance programmes worldwide.\n\n The event will showcase WFP’s food security analysis and measurement capacity, presenting the [Consolidated Approach to Reporting Indicators (CARI)] (https://resources.vam.wfp.org/CARI) of Food Security. The CARI combines key food security indicators, including the Food Consumption Score, the Food Expenditure Share and Livelihoods Coping Strategies to access the food security situation of a given country. Using datasets from a recent survey, both the theory and the methodology will be discussed. The salient features of [mVAM](http://vam.wfp.org/sites/mvam_monitoring/), a mobile food security and markets monitoring system, will also be presented to demonstrate our ability to safely access near real-time food security information quickly and inexpensively from hard to reach places like war-stricken countries of Iraq and Yemen."
       },
       {
         "id": "134",
@@ -965,7 +1514,7 @@
         "countries":["HRV"
         ],
         "image": "Croatia_CBS",
-        "text": "The [Central Bureau of Statistics of the Republic of Croatia] (http://www.dzs.hr) and the Croatian Statistical Association are organizing the Croatian Statistics Day on 19 October 2015. The event will take place at the Croatian [Chamber of Economy] (http://en.hgk.hr) with the theme “Overview the history of statistics in Croatia” and will feature by three keynote speakers from the Europan Union."
+        "text": "The [Croatian Bureau of Statistics] (http://www.dzs.hr) and the Croatian Statistical Association are organizing the Croatian Statistics Day on 19 October 2015. The event will take place at the Croatian [Chamber of Economy] (http://en.hgk.hr) with the theme “Overview the history of statistics in Croatia” and will feature by three keynote speakers from the Europan Union."
       },
       {
         "id": "112",
@@ -1562,7 +2111,7 @@
       "organisations": ["CSS"
       ],
       "image": "Catalonia",
-      "text":"[The Statistical Institute of Catalonia](http://www.idescat.cat/) is joining UN and other institutions in the world to celebrate the World Statistics Day 2015. We have included a [short promotional vídeo](https://www.youtube.com/watch?v=IH4TAKZQzkc) in our web site.\n\n Together with the Catalan Statistical Society, we will celebrate an event on October 20 in Barcelona, where a Data Manifesto will be made públic. It will be published in our [web page](http://www.idescat.cat/institut/manifestdades/?lang=en)(link will be live starting on October 20, 20h)"
+      "text":"[The Statistical Institute of Catalonia](http://www.idescat.cat/) is joining UN and other institutions in the world to celebrate the World Statistics Day 2015. We have included a [short promotional vídeo](https://www.youtube.com/watch?v=IH4TAKZQzkc) in our web site.\n\n Together with the Catalan Statistical Society, we will celebrate an event on October 20 in Barcelona, where a Data Manifesto will be made públic. It will be published in our [web page](http://www.idescat.cat/metodes/manifestdades/?lang=en)."
     },
     {
       "id": "49",
