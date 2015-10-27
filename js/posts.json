@@ -1,6 +1,10 @@
 {
   "codes": {
     "country": [
+      {
+        "code": "DZA",
+        "name": "Algeria"
+       },
        {
         "code": "AIA",
         "name": "Anguilla"
@@ -210,9 +214,17 @@
         "name": "Luxembourg"
       },
       {
+       "code": "MDG",
+       "name": "Madagascar"
+     },
+      {
         "code": "MYS",
         "name": "Malaysia"
       },
+      {
+       "code": "MDV",
+       "name": "Maldives"
+     },
       {
         "code": "MLI",
         "name": "Mali"
@@ -413,7 +425,7 @@
     "organisation": [
       {
         "code": "AfDB",
-        "name": "African Development Bank",
+        "name": "AfDB",
         "type": "international"
       },
       {
@@ -448,7 +460,7 @@
       },
       {
         "code": "CARICOM",
-        "name": "Caribbean Community",
+        "name": "CARICOM",
         "type": "international"
       },
       {
@@ -468,12 +480,12 @@
       },
       {
         "code": "ESCWA",
-        "name": "Economic and  Social Commission for Western Asia",
+        "name": "UNESCWA",
         "type": "international"
       },
       {
         "code": "ECB",
-        "name": "European Central Bank",
+        "name": "ECB",
         "type": "international"
       },
       {
@@ -488,7 +500,7 @@
       },
       {
         "code": "FAO",
-        "name": "Food and Agriculture Organization",
+        "name": "FAO",
         "type": "international"
       },
       {
@@ -513,7 +525,7 @@
       },
       {
         "code": "IADB",
-        "name": "Inter-American Development Bank",
+        "name": "IDB",
         "type": "international"
       },
       {
@@ -523,12 +535,12 @@
       },
       {
         "code": "ICAO",
-        "name": "International Civil Aviation Organization",
+        "name": "ICAO",
         "type": "international"
       },
       {
         "code": "ILO",
-        "name": "International Labour Organization",
+        "name": "ILO",
         "type": "international"
       },
       {
@@ -558,12 +570,12 @@
       },
       {
         "code": "OHCHR",
-        "name": "Office of the United Nations High Commissioner for Human Rights",
+        "name": "OHCHR",
         "type": "international"
       },
       {
         "code": "OECD",
-        "name": "Organisation for Economic Co-operation and Development",
+        "name": "OECD",
         "type": "international"
       },
       {
@@ -603,27 +615,27 @@
       },
       {
         "code": "UN",
-        "name": "United Nations",
+        "name": "UN",
         "type": "international"
       },
       {
         "code": "UNECA",
-        "name": "UN Economic Commission for Africa",
+        "name": "UNECA",
         "type": "international"
       },
       {
        "code": "UNECE",
-       "name": "UN Economic Commission for Europe",
+       "name": "UNECE",
        "type": "international"
       },
       {
        "code": "UNESCO",
-       "name": "UN Educational, Scientific and Cultural Organization",
+       "name": "UNESCO",
        "type": "international"
      },
       {
         "code": "UNIDO",
-        "name": "UN Industrial Development Organization",
+        "name": "UNIDO",
         "type": "international"
       },
       {
@@ -668,17 +680,17 @@
       },
       {
         "code": "WFP",
-        "name": "World Food Programme",
+        "name": "WFP",
         "type": "international"
       },
       {
         "code": "WHO",
-        "name": "World Health Organization",
+        "name": "WHO",
         "type": "international"
       },
       {
         "code": "UNWTO",
-        "name": "World Tourism Organization",
+        "name": "WTO",
         "type": "international"
       },
       {
@@ -716,7 +728,60 @@
         "image": "Data_Vis",
         "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
       },
-
+      {
+        "id": "215",
+        "title":"National Bureau of Statistics of the Maldives released Census results on World Statistics Day",
+        "date": "2015-10-27",
+        "countries":["MDV"
+        ],
+        "image": "Maldives",
+        "text": "The [National Bureau of Statistics] (http://www.planning.gov.mv/en/) of the Maldives released the results of the 2014 population and housing census on World Statistics Day. The results were presented at a ceremony held at Dharubaaruge. The release video is available [here](https://www.youtube.com/watch?v=vUC6Q0BBTw4). Photos can be found [here] (https://www.facebook.com/media/set/?set=a.498490353657586.1073741840.407389922767630&type=3).\n\n[![Maldives](img/posts/MDV_video.png)](https://www.youtube.com/watch?v=vUC6Q0BBTw4)"
+      },
+          {
+             "id": "216",
+             "title":"UN DESA's ASG, Lenni Montiel put a spotlight on statistics at the center of sustainable development on his twitter chat event",
+             "date": "2015-10-27",
+             "organisations":["UN"
+             ],
+             "image": "LM_twitter",
+             "text": "As part of the celebration for World Statistics Day 2015, Lenni Montiel, UN DESA’s Assistant Secretary-General for Economic Development, hosted a [Twitter chat] (https://storify.com/UNDESA/tweet/preview) event to put the spotlight on the pivotal role of statistics in measuring development progress across the globe.\n\n Using the hashtag #SDGsData, people from all corners of the world tuned in on 22 October to ask their questions on how the UN is working with data and how these efforts can contribute to realize sustainable development. Many of these questions covered data transparency, effectiveness, and inclusiveness, as well as the experiences gained from monitoring the Millennium Development Goals (MDGs).\n\n To address these questions, Mr. Montiel highlighted five key actions: paying attention to national ownership and flexibility in the reporting format; conducting more consultation among statisticians in international organizations, UN Inter-Agency and Expert Groups; placing focus on country level data; investing in statistical capacity to ensure availability, reliability, timeliness and accessibility of development data; and last but not least, improving institutional coordination at all levels, including within national statistical systems.\n\n Mr. Montiel also explained that the data revolution is helping address inequalities in data access and use through principles, innovation, resources and leadership. At the end of the chat, Mr. Montiel concluded that “...with the wealth of knowledge gained through the MDGs monitoring, we will be successful tracking SDGs data, ensuring to leave no one behind.” \n\n Read more: [Statistics at the center of sustainable development](https://worldstatisticsday.org/sdgs-data-chat.html)"
+           },
+                 {
+                   "id": "214",
+                   "title":"Madagascar celebrates World Statistics Day",
+                   "date": "2015-10-27",
+                   "countries":["MDG"
+                   ],
+                   "image": "Madagascar_ICCA",
+                   "text": "The [Chamber of Commerce and Industry of Antananarivo (ICCA)] (http://www.cci.mg/) celebrated World Statistics Day 2015 with an exhibition of statistical data at the City Hall Analakely on 20 October 2015. In addition, a collection of the electronic version of the Statistical Yearbook of Ministries was posted on the [website of INSTAT] (http://www.instat.mg).  A collection of the electronic version of open data to power the [Open Data portal Madagascar] (http://madagascar.opendataforafrica.org) was also launched."
+                 },
+                 {
+                   "id": "213",
+                   "title":"Dominican Republic releases promotional video",
+                   "date": "2015-10-27",
+                   "countries":["DOM"
+                   ],
+                   "image": "Dominican2",
+                   "text": "The [National Statistical Office (ONE)] (http://one.gob.do/) has published a promotional video featuring 10 years of National Multi-Purpose Household Survey [Encuesta Nacional de Hogares y Propósitos Múltiples (ENHOGAR)] (http://www.one.gob.do/Estadisticas/216/encuesta-nacional-de-hogares-de-propositos-multiples-%28ENHOGAR%29).\n\n [![Dominican Republic video](img/posts/DOM_video.png)](https://www.youtube.com/watch?v=O9F-Rpr04BU)."
+                 },
+                 {
+                   "id": "212",
+                   "title":"Algeria celebrated World Statistics Day",
+                   "date": "2015-10-27",
+                   "countries":["DZA"
+                   ],
+                   "image": "Algeria",
+                   "text": "The [National Statistics Office of Algeria] (http://www.ons.dz/) celebrated World Statistics Day with an Open House at its offices on 20 October. The Office also issued a statement, which is available in [Arabic] (http://www.ons.dz/IMG/Communique_JMS2015enArabe.pdf), [English] (http://www.ons.dz/IMG/Communique_JMS2015enAnglais.pdf) and [French] (http://www.ons.dz/IMG/Communique_JMS2015enFrancais.pdf), in which the importance of new technologies was highlighted.\n\n More information can be found at [http://www.ons.dz/Journee-mondiale-de-la-statistique.html](http://www.ons.dz/Journee-mondiale-de-la-statistique.html)."
+                 },
+                 {
+                    "id": "211",
+                    "title":"Monaco celebrated World Statistics Day",
+                    "date": "2015-10-27",
+                    "countries":["MCO"
+                    ],
+                    "image": "Monaco2",
+                    "text": "On the occasion of World Statistics Day 2015, Monaco Statistics, the [Monegasque Institute of Statistics and Economic Studies (IMSEE)] (http://www.monacostatistics.mc/), held a conference with two objectives: to raise awareness of key players in Monegasque society and to show how high-quality data can serve society. IMSEE had invited speakers from a various fields, including health and scientific research, to testify to the importance placed upon the quality of data and show the usefulness of such data in their respective sectors. This conference was also an opportunity to present the census of the population that will take place in 2016. \n\n Video coverage is available [here] (https://www.youtube.com/watch?v=VIuEAUyvubg).\n\n [![Monaco video](img/posts/MCO_video.png)](https://www.youtube.com/watch?v=VIuEAUyvubg)."
+                  },
       {
               "id": "210",
               "title":"Department of Statistics Malaysia releases a new promotional video",
