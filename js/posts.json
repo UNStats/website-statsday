@@ -306,6 +306,10 @@
         "name": "Rwanda"
       },
       {
+        "code": "SHN",
+        "name": "Saint Helena"
+      },
+      {
         "code": "LCA",
         "name": "Saint Lucia"
       },
@@ -388,6 +392,10 @@
       {
         "code": "GBR",
         "name": "United Kingdom"
+      },
+      {
+        "code": "TZA",
+        "name": "United Republic of Tanzania"
       },
       {
         "code": "USA",
@@ -604,6 +612,11 @@
         "type": "international"
       },
       {
+       "code": "UNECE",
+       "name": "UN Economic Commission for Europe",
+       "type": "international"
+      },
+      {
        "code": "UNESCO",
        "name": "UN Educational, Scientific and Cultural Organization",
        "type": "international"
@@ -702,6 +715,97 @@
         ],
         "image": "Data_Vis",
         "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
+      },
+
+      {
+              "id": "210",
+              "title":"Department of Statistics Malaysia releases a new promotional video",
+              "date": "2015-10-26",
+              "countries":["MYS"
+              ],
+              "image": "Malaysia_DS_video",
+              "text": "The Department of Statistics Malaysia [www.statistics.gov.my] releases a new promotional video:\n\n [![Malaysia](img/posts/Malaysia_video.jpg)](https://www.youtube.com/watch?v=VUcze_T0N30)"
+            },
+            {
+              "id": "209",
+              "title":"Germany celebrates World Statistics Day",
+              "date": "2015-10-26",
+              "countries":["DEU"
+              ],
+              "image": "germany2",
+              "text": "In his greeting message on World Statistics Day, the President of Germany’s [Federal Statistical Office (Destatis)] (http://www.destatis.de), Dieter Sarreither states that “high-quality data sources, sound statistical methods, new technologies and robust statistical systems favour well-informed decisions and thus have a positive impact on society.” Mr. Sarreither also stressed his commitment “to ensuring that the slogan Better Data, Better Lives remains pivotal to [his office's] work in future”\n\nTo mark this day, the Federal Statistical Office is focussing on improving statistical literacy and organising a scientific colloquium entitled “Understanding Statistics” (only in German language) in co-operation with the German Statistical Society (DStatG) on the 19th and 20th November in Wiesbaden.\n\nOn 20 October (World Statistics Day) the office also launched a new online portal [StatistikCampus] (https://www.destatis.de/DE/PresseService/StatistikCampus/StatistikCampus.html;jsessionid=EE730D89236563AA67C0F714AC92DC17.cae3) (only in German language) aimed specifically at scientific users and highlighting services of particular interest to students and researchers.\n\nFor more information [see here] (http://www.destatis.de/EN/FactsFigures/InFocus/Other/WorldStatisticsDay2015.html)."
+            },
+            {
+              "id": "208",
+              "title":"National Center for Education Statistics celebrated “The growing field of statistics”",
+              "date": "2015-10-26",
+              "countries":["USA"
+              ],
+              "image": "NationalCenterforEduStat",
+              "text": "The [National Center for Education Statistics] (http://nces.ed.gov/) marked World Statistics Day by looking at the [“growing field of statistics”] (http://nces.ed.gov/blogs/nces/post/the-growing-field-of-statistics) in their online blog.\n\nIn her blog, Lauren Musu-Gillettepoints out that careers in statistics “are varied, and cover a range of areas that include politics, economics, finance, and governance. As the interest in data-driven decision making grows, so too does the demand for statisticians.” More details can be [found here] (http://nces.ed.gov/blogs/nces/post/the-growing-field-of-statistics)."
+            },
+            {
+              "id": "207",
+              "title":"Celebrating World Statistics Day With Pizza and Puns",
+              "date": "2015-10-26",
+              "countries":["USA"
+              ],
+              "image": "CarnegieMellonUniv",
+              "text": "[Carnegie Mellon University’s (CMU)] (http://www.cmu.edu) [Department of Statistics] (http://www.stat.cmu.edu/) celebrated World Statistics Day with a pizza party for faculty, staff and students. Guests were encouraged to share statistics-themed desserts, with prizes for the tastiest treats and the most clever statistics puns. Entries included a cake decorated with a scatter plot, “model-based coconut clusters,” “Tukey lime pie” and “chai squares”—chai-spiced bar cookies named for the chi-squared distribution. The coconut clusters and chai squares tied for first place. The contest has roots in the department’s holiday parties, where dessert competitions figure prominently. Justin Hyun, a Ph.D. student in statistics, won the previous contest with M & M’s candies hidden in yogurt parfaits. The dessert concept was a nod to the hidden Markov model (HMM for short.)\n\n“Data is everywhere. As a mathematics major before coming to CMU, I appreciate the real world application of math in data analysis and statistics,” Hyun said. Visiting Assistant Professor Sam Ventura said, “In today's data-rich world, terms such as ‘analytics’ and ‘big data’ are used and misused regularly. This can cloud perceptions about who is best suited to solve data-related problems. By celebrating World Statistics Day, we hope to remind everyone that statisticians are here to solve problems involving data.”\n\n For more information please [click here] (http://www.cmu.edu/dietrich/news/news-stories/2015/october/world-stats-day.html)."
+            },
+            {
+              "id": "206",
+              "title":"The Sultanate of Oman celebrated World Statistics Day on 20 October under the auspices of the National Centre for Statistics and Information",
+              "date": "2015-10-26",
+              "countries":["OMN"
+              ],
+              "image": "Oman2",
+              "text": "The Sultanate of Oman celebrated World Statistics Day on 20 October under the auspices of the [National Centre for Statistics and Information (NCSI)] (https://www.ncsi.gov.om) in cooperation with key authorities in the statistical field. The day-long events involved various segments of the society including students of different age groups, academics and kids, and were held in [Muscat Grand Mall] (www.muscatgrandmall.com) and [Sultan Qaboos University] (http://www.squ.edu.om). Several programs and activities such as presentations on statistical research papers, stage events, face painting of World Statistics Day logo and other designs for kids and local competition through social media were held with a view to involve the community on a larger scale in the World Statistical Day celebrations. For more  [see pictures in gallery](photo-gallery.html)."
+            },
+      {
+        "id": "205",
+        "title":"The United Republic of Tanzania celebrated World Statistics Day",
+        "date": "2015-10-26",
+        "countries":["TZA"
+        ],
+        "image": "Tanzania",
+        "text": "The [Tanzania National Bureau of Statistics] (http://www.nbs.go.tz/) celebrated World Statistics Day on 23 October 2015. A speech by Dr Albina Chuwa, Director General of Tanzania National Bureau of Statistics, on the occasion of World Statistics Day 2015 can be watched [here] (https://www.youtube.com/watch?v=Mm68f8lni7g).\n\n [![Tanzania National Bureau of Statistics](img/posts/TZA_video.png)](http://www.youtube.com/watch?v=Mm68f8lni7g “Speech of The Director General, NBS-Tanzania on the occasion of World Statistics Day 2015”)"
+      },
+      {
+        "id": "204",
+        "title":"Russian statisticians celebrate World Statistics Day 2015 by holding the first Open Russian Statistical Congress",
+        "date": "2015-10-26",
+        "countries":["RUS"
+        ],
+        "image": "Russia",
+        "text": "On World Statistics Day, 20 October 2015, Russian statisticians convened in Novosibirsk for the first [Open Russian Statistical Congress] (http://www.rusasstat.ru/en/i-open-russian-statistical-congress.html). The organisers included the [Russian Association of Statisticians (RASt)] (http://www.rusasstat.ru/en/), the [Russian statistical office (ROSSTAT)] (http://www.gks.ru/) and the [Novosibirsk State University of Economics and Management] (http://nsuem.com/).\n\n The Congress was conceived as a platform for the communication among statisticians and everyone interested in statistics in Russia and abroad. This event brought in officials, researchers, teachers and students with diverse backgrounds. The agenda included issues ranging from official statistics, open data, mathematical and economic statistics, information processing systems to legal statistics, quantitative methods in humanities, geostatistics and library statistics. During the opening ceremony, the Statement for World Statistics Day “Data for Sustainable Development”, signed by RASt among 43 other statistical associations and institutions, was announced.\n\n The culmination of the Congress three-day program was the release of air balloons with the World Statistics Day 2015 official logo, calling for “Better data. Better lives.” Hundreds of balloons flew high in the cloudy sky of Novosibirsk, spreading the enlightening message of statistics. For photos please click [here] (photo-gallery.html)."
+      },
+      {
+        "id": "203",
+        "title":"World Statistics Day 2015 was celebrated on St. Helena",
+        "date": "2015-10-26",
+        "countries":["SHN"
+        ],
+        "image": "StHelena",
+        "text": "The [Helena Statistics Office] (http://www.sainthelena.gov.sh/statistics/) celebrated World Statistics Day by stressing the importance of accurate statistical information for the Island and spreading the message of Better Data. Better Lives. At a critical period in the Island’s development they reminded people of the importance of data to inform policy formation, to enable effective (and accountable) decision making, and perhaps above all – to ensure that they can monitor the wellbeing of the Island and her people. In a [news entry] (http://www.sainthelena.gov.sh/world-statistics-day-2015-2/) on their website the Statistics Office reminds us that “the value of statistical information is disproportionately large in small places such as St Helena, and never more so than during periods of change.” More information is available [here] (http://www.sainthelena.gov.sh/world-statistics-day-2015-2/)."
+      },
+      {
+        "id": "202",
+        "title":"UN Economic Commission for Europe marks World Statistic Day",
+        "date": "2015-10-26",
+        "organisations":["UNECE"
+        ],
+        "image": "UNECE",
+        "text": "The Statistics Division of the [UN Economic Commission for Europe (UNECE)] (http://www.unece.org/) marked World Statistics Day 2015 in an [online article] (http://www.unece.org/info/media/news/statistics/2015/counting-on-numbers-celebrating-world-statistics-day-2015/doc.html), In the article “ECE calls for a celebration of the Fundamental Principles of Official Statistics, followed worldwide as the guiding principles to compile reliable, comparable Official Statistics.” ECE also stresses that “official statisticians have to reinvent the way they work by modernizing their working methods and sharing more than ever before their knowledge and capabilities to find solutions together.” The full statement can be found [here] (http://www.unece.org/info/media/news/statistics/2015/counting-on-numbers-celebrating-world-statistics-day-2015/doc.html)."
+      },
+      {
+        "id": "201",
+        "title":"Iran celebrated World Statistics Day and National Statistics & Programming Day",
+        "date": "2015-10-26",
+        "countries":["IRN"
+        ],
+        "image": "Iran2",
+        "text": "The Department of Statistics of the [Ministry of Cooperative, Labor and Social Welfare] (http://www.mcls.gov.ir/) in Iran celebrated World Statistics Day on 20 October. The celebration was held in conjunction with National Statistics & Programming Day, which fell on 23 October. The poster can be found [here](img/posts/Iran_MCLS.jpg)."
       },
       {
         "id": "200",
