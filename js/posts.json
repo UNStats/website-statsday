@@ -126,6 +126,10 @@
         "name": "Egypt"
       },
       {
+        "code": "GNQ",
+        "name": "Equatorial Guinea"
+      },
+      {
         "code": "EST",
         "name": "Estonia"
       },
@@ -729,13 +733,22 @@
         "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
       },
       {
-        "id": "215",
-        "title":"National Bureau of Statistics of the Maldives released Census results on World Statistics Day",
+        "id": "218",
+        "title":"National Institute of Statistics of Equatorial Guinea celebrates World Statistics Day and the launch of its official website",
         "date": "2015-10-27",
-        "countries":["MDV"
+        "countries":["GNQ"
         ],
-        "image": "Maldives",
-        "text": "The [National Bureau of Statistics] (http://www.planning.gov.mv/en/) of the Maldives released the results of the 2014 population and housing census on World Statistics Day. The results were presented at a ceremony held at Dharubaaruge. The release video is available [here](https://www.youtube.com/watch?v=vUC6Q0BBTw4). Photos can be found [here] (https://www.facebook.com/media/set/?set=a.498490353657586.1073741840.407389922767630&type=3).\n\n[![Maldives](img/posts/MDV_video.png)](https://www.youtube.com/watch?v=vUC6Q0BBTw4)"
+        "image": "EqGuinea",
+        "text": "The [National Institute of Statistics of Equatorial Guinea (INEGE)] (http://www.inege.gq/) celebrated World Statistics Day on Tuesday, 20 October. On the same day, the Institute officially launched its website in the presence of several national and international authorities.\n\n The ceremony to launch the official website of the [National Institute of Statistics of Equatorial Guinea] (http://www.inege.gq) was chaired by its Deputy Director General, Constantina Bindang Ndong Okiri, on behalf of the Director General, Ricardo Nsue Ndemesogo. The event, held in the headquarters of the institution in Malabo II, began with the speech by Constantina Bindang, who recalled that: “Today is World Statistics Day, which is why the INEGE is called to basically produce statistics that can assist the Government in making decisions. Similarly, we have used this time to launch our website and publish the National Data Bank that our institution has been able to collect to date.” Bindang Ndong ended her speech by thanking the attendees for their presence and asking other State institutions for collaboration in order to gather more data: “We ask that institutions work more with the INEGE in order to have more access to the statistics of our country, because -to date- the institute has gathered that data through censuses or surveys.” After her speech, she gave the floor to the Manager of the World Bank in Equatorial Guinea, Sylvie Dossou, who revealed the involvement of the organization in the work, and appealed once again to all national institutions to collaborate with the institute to consolidate and support the country's growth. Other speakers included the head of the department of Methodology, Quality and ICT (information and communications technology) of INEGE, Agustin Ndong Nseng and the Director General of the Institutional Website of the Government of the Republic of Equatorial Guinea, Filiberto Nseme Nsue Nchama. The event was also attended by the Director Generals of Statistics, Planning and Programming, Jose Mbo Eneme and Víctor Sima Asong, and the National Agency Equatorial Guinea 2020, Nicolas Fernando Okiri Abaha, among other national and international personalities.\n\n More information can be found [here](http://www.guineaecuatorialpress.com/noticia.php?id=7038).\n\n Source: Equatorial Guinea’s Press and Information Office"
+      },
+      {
+        "id": "217",
+        "title":"“I am a statistician” - A Peking Opera original performance",
+        "date": "2015-10-27",
+        "countries":["CHN"
+        ],
+        "image": "CHN_opera",
+        "text": "To celebrate the second World Statistics Day and to welcome statistician friends from around the world to Xi’an, China, the [National Bureau of Statistics] (http://www.stats.gov.cn), China, dedicated “I am a statistician” - an original performance by the Peking Opera to all guests and statisticians worldwide.\n\n Peking Opera is the quintessence of Chinese culture. The piece is performed by Hualian (male character with painted face), Laodan (old lady), Quingyi (elegant young lady) and Laosheng (old gentleman), which are the four typical roles in the Peking Opera.\n\n [![Chinese opera video](img/posts/CHN_video.png)](https://www.youtube.com/watch?v=W94q3puQmSY)\n###### (“I am a statistician” - A Peking Opera original performance video.)"
       },
           {
              "id": "216",
@@ -745,6 +758,15 @@
              ],
              "image": "LM_twitter",
              "text": "As part of the celebration for World Statistics Day 2015, Lenni Montiel, UN DESA’s Assistant Secretary-General for Economic Development, hosted a [Twitter chat] (https://storify.com/UNDESA/tweet/preview) event to put the spotlight on the pivotal role of statistics in measuring development progress across the globe.\n\n Using the hashtag #SDGsData, people from all corners of the world tuned in on 22 October to ask their questions on how the UN is working with data and how these efforts can contribute to realize sustainable development. Many of these questions covered data transparency, effectiveness, and inclusiveness, as well as the experiences gained from monitoring the Millennium Development Goals (MDGs).\n\n To address these questions, Mr. Montiel highlighted five key actions: paying attention to national ownership and flexibility in the reporting format; conducting more consultation among statisticians in international organizations, UN Inter-Agency and Expert Groups; placing focus on country level data; investing in statistical capacity to ensure availability, reliability, timeliness and accessibility of development data; and last but not least, improving institutional coordination at all levels, including within national statistical systems.\n\n Mr. Montiel also explained that the data revolution is helping address inequalities in data access and use through principles, innovation, resources and leadership. At the end of the chat, Mr. Montiel concluded that “...with the wealth of knowledge gained through the MDGs monitoring, we will be successful tracking SDGs data, ensuring to leave no one behind.” \n\n Read more: [Statistics at the center of sustainable development](https://worldstatisticsday.org/sdgs-data-chat.html)"
+           },
+           {
+             "id": "215",
+             "title":"National Bureau of Statistics of the Maldives released Census results on World Statistics Day",
+             "date": "2015-10-27",
+             "countries":["MDV"
+             ],
+             "image": "Maldives",
+             "text": "The [National Bureau of Statistics] (http://www.planning.gov.mv/en/) of the Maldives released the results of the 2014 population and housing census on World Statistics Day. The results were presented at a ceremony held at Dharubaaruge. The release video is available [here](https://www.youtube.com/watch?v=vUC6Q0BBTw4). Photos can be found [here] (https://www.facebook.com/media/set/?set=a.498490353657586.1073741840.407389922767630&type=3).\n\n[![Maldives](img/posts/MDV_video.png)](https://www.youtube.com/watch?v=vUC6Q0BBTw4)"
            },
                  {
                    "id": "214",
@@ -888,7 +910,7 @@
         "countries":  ["GBR"
         ],
         "image": "Wales",
-        "text": "The [Government of Wales] (http://www.gov.wales/statistics) celebrated World Statistics Day with an Update by the [Chief Statistician] (http://gov.wales/statistics-and-research/about/user-engagement/chief-statisticians-update/?lang=en) and a promotional stand that featured not only a [statistical quiz] (files/Quiz-WelshGovernment-WorldStatisticsDay2015.pdf) but also with sweet versions of our friendly logo ([see pictures in gallery](photo-gallery.html))."
+        "text": "The [Government of Wales] (http://www.gov.wales/statistics) celebrated World Statistics Day with an Update by the [Chief Statistician] (http://gov.wales/statistics-and-research/about/user-engagement/chief-statisticians-update/?lang=en) and a promotional stand that featured not only a [statistical quiz] (files/WSD_Welsh_Q.pdf) but also with sweet versions of our friendly logo ([see pictures in gallery](photo-gallery.html))."
       },
       {
         "id": "198",
