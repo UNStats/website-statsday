@@ -557,6 +557,11 @@
         "type": "other"
       },
       {
+        "code": "Kapiti",
+        "name": "Kāpiti College",
+        "type": "other"
+      },
+      {
         "code": "MITMA",
         "name": "Massachusetts Institute of Technology",
         "type": "other"
@@ -740,6 +745,45 @@
               ],
               "image": "Data_Vis",
               "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
+            },
+
+            {
+              "id": "228",
+              "title":"The Kingdom of Morocco celebrated World Statistics Day 2015 with an international seminar and several regional events",
+              "date": "2015-10-29",
+              "countries":["MAR"
+              ],
+              "image": "Morocco2",
+              "text": "Under the High Patronage of His Majesty the King Mohammed VI, the [High Commission for Planning in Morocco] (http://www.hcp.ma/) joined the international community to celebrate World Statistics Day on 20 October 2015 under the theme: “Better Data. Better Lives”. In this regard, the High Commission for Planning organised three activities, an international scientific conference, an exhibition at national level and similarly open days at both the central level and in the 12 regions of the Kingdom.\n\n A conference was convened in Rabat. Executives and senior government officials were invited by the High Commission for Planning to intervene in this scientific conference and to emphasise the role of the production, publication and use of official statistics. Some of the notable participants included the parliamentary presidents of the House of Representatives and the House of Councilors, several ministers, the first president of the Court of Cassation, the Governor of the Central bank and the President of the Economic, Social and Environmental Council and other personalities from the civil society. This conference was attended by eminent international personalities including M. Enrico Giovannini, former Minister of Employment and social policies of Italy, M. Mario Pezzini, Director of the OECD Development Centre, M. Jean Luc Tavernier, Director of the National Institute of Statistics and Economic Studies of France (INSEE), M. Pedro Luis do Nascimento de Silva, President of the International Statistical Institute (ISI) and M. Johannes Jutting, the manager of the Partnership in Statistics for Development in the 21st Century (PARIS21).\n\n In this occasion, a partnership agreement was signed between the High Commissioner of Planning and the first president of the Court of Cassation. The strategic aims of this partnership include joint research, statistics analysis, knowledge sharing in technologies and database archiving. The agreement also includes exchanging invitations to participate in events and activities organized by either party especially in common interest areas.\n\n To provide a global networking platform through this event, an exhibition booth covering the HCP, several Ministries and national institution producers or users of statistics and other public and private entities offered a platform to showcase statistical publication, dissemination of data related to their recent activities and technologies and also to exchange latest news and innovation of statistics among various areas of official statistics. This exhibition also provided various activities to the public and the civil society in order to enhance the interaction between statisticians, producers and users.\n\n The celebration of the this event also highlighted the aspects of regional statistic. In this regard Open Days at both, the central level and in the 12 regions of the Kingdom were held on 21, 22 and 23 October 2015. The program for these days included thematic workshops on the recent developments of national statistical system, statistical concepts and methodologies; exhibition (technologies, websites, and publications) and guided visits for users and students.\n\n Video coverages on the main event can be found [here](photo-gallery.html): \n\n* [Opening session] (https://www.youtube.com/watch?v=VOyqxf6nR1E) \n* [Video conference with E. Giovannini] (https://www.youtube.com/watch?v=0yP-5uvY-2c)\n* [Discussions] (https://www.youtube.com/watch?v=U0biGLfCqls) \n* [Signing of the partnership agreement] (https://www.youtube.com/watch?v=bJc3FOu3zHU)\n* [Closing] (https://www.youtube.com/watch?v=Cmrt0aJac_k)"
+            },
+            {
+              "id": "227",
+              "title":"Students at Kāpiti College (New Zealand) produce fun video for World Statistics Day",
+              "date": "2015-10-29",
+              "organisations":["Kapiti"
+              ],
+              "countries":["NZL"
+              ],
+              "image": "KapitiCollege",
+              "text": "Students at [Kāpiti College] (http://kc.school.nz) had fun with statistics demonstrating the PPDAC [Problem-Plan-Data-Analysis-Consclusion] cycle for a basic investigation.\n\n Please watch: \n\n [![Video by Kāpiti College students](img/posts/KapitiCollege_video.png)](https://www.youtube.com/watch?v=xtGAvyYjjtE)"
+            },
+            {
+              "id": "226",
+              "title":"African Development Bank marks World Statistics Day",
+              "date": "2015-10-29",
+              "organisations":["AfDB"
+              ],
+              "image": "AfricanDevBank2",
+              "text": "The [African Development Bank (AfDB)] (http://www.afdb.org) joined the world in celebrating World Statistics Day on 20 October 2015. As part of the celebrations, the [AfDB Statistics Department] (http://www.afdb.org/en/knowledge/statistics/) held a series of seminars from 19-23 October 2015 with the aim of showcasing statistical activities already underway within Bank’s Statistical Capacity Building (SCB) program. Also highlighted were future programs planned in response to the current demands of the Data Revolution and the post-2015 development agenda. Details can be found [here] (http://www.afdb.org/en/news-and-events/article/afdb-marks-world-statistics-day-better-data-better-lives-14883/)."
+            },
+            {
+              "id": "225",
+              "title":"Celebrate World Statistics Day with a Quiz from the U.S. Energy Information Administration",
+              "date": "2015-10-29",
+              "countries": ["USA"
+              ],
+              "image": "USEIA",
+              "text": "The [U.S. Energy Information Administration (EIA)] (http://www.eia.gov), the statistical and analytical agency within the U.S. Department of Energy [http://www.energy.gov], participated in World Statistics Day.  In honor of World Statistics Day 2015, EIA created a [20-question energy quiz](http://www.eia.gov/energyexplained/resources/energy_quiz/) to highlight some key energy statistics. In addition to our data and analysis products, EIA also provides several energy education products, which can be found [here](http://www.eia.gov/todayinenergy/detail.cfm?id=23412)."
             },
             {
               "id": "224",
