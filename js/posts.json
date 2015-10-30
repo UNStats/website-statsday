@@ -622,6 +622,11 @@
         "type": "international"
       },
       {
+        "code": "UNCTAD",
+        "name": "UNCTAD",
+        "type": "international"
+      },
+      {
         "code": "UNECA",
         "name": "UNECA",
         "type": "international"
@@ -682,6 +687,11 @@
         "type": "other"
       },
       {
+        "code": "UNWTO",
+        "name": "UNWTO",
+        "type": "international"
+      },
+      {
         "code": "UZurich",
         "name": "University of Zurich",
         "type": "other"
@@ -694,11 +704,6 @@
       {
         "code": "WHO",
         "name": "WHO",
-        "type": "international"
-      },
-      {
-        "code": "UNWTO",
-        "name": "WTO",
         "type": "international"
       },
       {
@@ -743,7 +748,7 @@
               "organisations":["UNCTAD"
               ],
               "image": "UNCTAD",
-              "text": "The [Statistics & Information Section] (http://unctad.org/en/Pages/Statistics.aspx) of the [UN Conference on Trade and Development (UNCTAD)] (http://unctag.org) marked World Statistics Day in an online [article](http://unctad.org/en/pages/newsdetails.aspx?OriginalVersionID=1111&Sitemap_x0020_Taxonomy=Statistics;#20;#UNCTAD%20Home).\n\n Steve McFeely, head of Statistics and Information, highlighted that “World Statistics Day also celebrates the achievements of statisticians around the world and the important, but often unseen, role they play in the development and protection of society, our environment and the economy and in objectively highlighting important issues such as human rights.”. He also stressed that “UNCTAD will continue to work, as a key partner within the United Nations Statistical System, with member states and international organisations to provide a targeted, professional statistical service that provides the best quality statistics on trade and the interrelated fields of foreign direct investment, information economy, creative economy and maritime transport.” The full statement can be found [here] (http://unctad.org/en/pages/newsdetails.aspx?OriginalVersionID=1111&Sitemap_x0020_Taxonomy=Statistics;#20;#UNCTAD%20Home)."
+              "text": "The [Statistics & Information Section] (http://unctad.org/en/Pages/Statistics.aspx) of the [UN Conference on Trade and Development (UNCTAD)] (http://unctad.org) marked World Statistics Day in an online [article](http://unctad.org/en/pages/newsdetails.aspx?OriginalVersionID=1111&Sitemap_x0020_Taxonomy=Statistics;#20;#UNCTAD%20Home).\n\n Steve McFeely, head of Statistics and Information, highlighted that “World Statistics Day also celebrates the achievements of statisticians around the world and the important, but often unseen, role they play in the development and protection of society, our environment and the economy and in objectively highlighting important issues such as human rights.”. He also stressed that “UNCTAD will continue to work, as a key partner within the United Nations Statistical System, with member states and international organisations to provide a targeted, professional statistical service that provides the best quality statistics on trade and the interrelated fields of foreign direct investment, information economy, creative economy and maritime transport.” The full statement can be found [here] (http://unctad.org/en/pages/newsdetails.aspx?OriginalVersionID=1111&Sitemap_x0020_Taxonomy=Statistics;#20;#UNCTAD%20Home)."
             },
             {
               "id": "223",
@@ -776,7 +781,7 @@
               "date": "2015-10-29",
               "countries":["MLI"
               ],
-              "image": "mali_2",
+              "image": "Mali_2",
               "text": "A celebratory day-long event will be held at the International Conference Centre of Bamako on 20 October 2015 focussing on the the importance of statistics for the country's social and economic development. Speakers included Mali's Minister for Spatial planning, the director of the [National Institute of Statistics] (http://www.instat-mali.org) and the director of [Afristat] (http://www.afristat.org). Media coverage is available [here](photo-gallery.html)."
           },
             {
