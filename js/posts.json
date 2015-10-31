@@ -58,6 +58,10 @@
         "name": "Belgium"
       },
       {
+       "code": "BOL",
+       "name": "Bolivia"
+      },
+      {
        "code": "BWA",
        "name": "Botswana"
      },
@@ -120,6 +124,10 @@
       {
         "code": "CZE",
         "name": "Czech Republic"
+      },
+      {
+        "code": "DJI",
+        "name": "Djibouti"
       },
       {
         "code": "DOM",
@@ -272,6 +280,14 @@
       {
         "code": "NZL",
         "name": "New Zealand"
+      },
+      {
+        "code": "NER",
+        "name": "Niger"
+      },
+      {
+        "code": "NGA",
+        "name": "Nigeria"
       },
       {
         "code": "NOR",
@@ -747,6 +763,69 @@
               "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
             },
 
+            {
+              "id": "235",
+              "title":"Luxembourg celebrates World Statistics Day",
+              "date": "2015-10-30",
+              "countries":["LUX"
+              ],
+              "image": "luxembourg_2",
+              "text": "[STATEC] (http://www.statistiques.public.lu/fr/acteurs/statec/), the National Institute of Statistics and Economic Studies of the Grand-Duchy of Luxembourg, and [EUROSTAT] (http://ec.europa.eu/eurostat), the Statistical Office of the European Union, jointly organised a conference on 20 October wit the occasion of World Statistics Day 2015.\n\nThe conference took place at Eurostat's headquarters, situated in Luxembourg. In it, Mr. Michail Skaliotis, Head of Eurostat's Task Force on Big Data, gave a [presentation on “Big data in the European Statistical System”](http://www.statistiques.public.lu/fr/agenda/detail-agenda/2015/10/SKALIOTISWorldstatsdaySTATEC.pdf). Another presentation, entitled [“Données massives et statistique en haute dimension”](http://www.statistiques.public.lu/fr/agenda/detail-agenda/2015/10/DeMolLuxembourg.pdf), was given by Christine De Mol from the [Université Libre de Bruxelles] (http://www.ulb.ac.be). \n\n The day before World Statistics Day 2015, Mr. Serge Allegrezza, Director of STATEC, gave an interview on national radio. The interview with [RTL] (http://radio.rtl.lu/) (in Luxembourgish) is available [here] (http://radio.rtl.lu/emissiounen/den-invite-vun-der-rtl-redaktioun/722628.html)."
+            },
+            {
+              "id": "234",
+              "title":"Statistical Chart Creative Activity for Primary and Middle School Students in Beijing",
+              "date": "2015-10-30",
+              "countries":["CHN"
+              ],
+              "image": "Booklet-China",
+              "text": "The *Statistical Education Society of China* and *Future Link* jointly held this year the *Statistical Chart Creative Design Activity* for primary and middle school students in Beijing, as was done before in 2011 and 2013.\n\n The purpose of this creative activity has been to advocate for a learning style in primary and middle schools based on identifying statistical phenomena, acquiring statistical knowledge and understanding statistical indicators. It has also demonstrated the statistical ability and art talent of many students, and provided a bridge of friendship and mutual communication.\n\n Through this activity, the Statistical Education Society of China has collected a large number of high quality design works that highlight the students' unique perspectives and creativity. Among the 7592 pieces of works that students have submitted in the 3 years that the event has taken place, 2823 have been from middle school group and 4769 from primary school group. 472 pieces of works were awarded a prize.\n\n The booklet below was issued on the occasion of World Statistics Day:\n\n [Booklet](files/Booklet-China.pdf)"
+            },
+            {
+              "id": "233",
+              "title":"Niger celebrated World Statistics Day with an Open Day",
+              "date": "2015-10-30",
+              "countries":["NER"
+              ],
+              "image": "Niger",
+              "text": "The [National Institute of Statistics (INS)] (http://www.stat-niger.org/) of Niger commemorated World Statistics Day 2015 with an “open day” on its premises chaired by its Director General, Mr Alichina KOURGUENI.\n\n Details can be found in the following media coverage in [French] (http://www.anp.ne/article/celebration-de-la-2eme-journee-mondiale-de-la-statistique-l-ins-du-niger-ouvre-ses-portes-au#sthash.9FopmKFR.8DTLuuHM.dpbs)."
+            },
+            {
+              "id": "232",
+              "title":"Djibouti celebrates World Statistics Day",
+              "date": "2015-10-30",
+              "countries":["DJI"
+              ],
+              "image": "Djibouti",
+              "text": "Djibouit celebrated this year's World Statistics Day with a ceremony sponsored by the Commissioner of Planning, Amarreh Ali Said. The ceremony had the participation of government members, the director of the [Department of Statistics and Demographic Studies (DISED)] (http://www.dised.dj/), Idriss Ali Suldan, and the UNDP resident representative in Djibouti, Valery Cliff. On this occasion, the director of DISED made a presentation of the National Development Strategy of Statistics from 2011 to 2015.\n\n Media coverage is available [here] (http://www.lanationdj.com/journee-mondiale-de-la-statistique-a-djibouti-la-necessite-des-donnees-plus-fiables/#)."
+            },
+            {
+              "id": "231",
+              "title":"Media coverage from Rwanda",
+              "date": "2015-10-30",
+              "countries":["RWA"
+              ],
+              "image": "RWA_NewTimes",
+              "text": "Rwanda's newspaper [The New Times] (http://www.newtimes.co.rw/) marked World Statistics Day 2015 with an [article](http://www.newtimes.co.rw/files/promo/1446010515NISR-October-28.pdf) reflecting on the achievements of the institutions and bodies responsible for providing national statistics in Rwanda. The article is available [here] (http://www.newtimes.co.rw/files/promo/1446010515NISR-October-28.pdf).\n\n Rwanda will celebrate the World Statistics day on 27 November 2015 in combination with the African Statistics day which is normally celebrated on 18 November every year."
+            },
+            {
+              "id": "230",
+              "title":"Nigeria marks World Statistics Day",
+              "date": "2015-10-30",
+              "countries":["NGA"
+              ],
+              "image": "Nigeria",
+              "text": "The [National Bureau of Statistics] (http://www.nigerianstat.gov.ng/) of Nigeria marked World Statistics Day 2015 by issuing a public statement. In it, Dr. Yemi Kale, Statistician-General of the Federation and Chief Executive National Bureau of Statistics, renewed the NBS' “commitment to providing the necessary data required to support policymakers, business decision-makers and individual citizens as we all contribute towards sustainable development in Nigeria.” Dr. Kale also promised to “explore new data sources, innovative use of technology and wider stakeholder engagement without compromising our operational independence, professional integrity or public trust.” The full statement is available [here](http://www.nigerianstat.gov.ng/pages/download/324)."
+            },
+            {
+              "id": "229",
+              "title":"Bolivia celebrates World Statistics Day",
+              "date": "2015-10-30",
+              "countries":["BOL"
+              ],
+              "image": "Bolivia",
+              "text": "The [National Institute of Statistics (INE)] (http://www.ine.gob.bo/) of Bolivia celebrated World Statistics Day 2015 with many outreach activities with staff disseminating statistical information to the local population, institutions and universities. In the days around World Statistics Day 150 workshops carried out at national level, reaching 4000 participants.\n\n News coverage including an interview with NE's director Mr. Alejandro Gozalves is available [here] (https://www.youtube.com/watch?v=QCS4NV3OYOI)\n\n [![Bolivia video](img/posts/Bolivia_video.png)](https://www.youtube.com/watch?v=QCS4NV3OYOI)"
+            },
             {
               "id": "228",
               "title":"The Kingdom of Morocco celebrated World Statistics Day 2015 with an international seminar and several regional events",
@@ -2404,7 +2483,7 @@
       "organisations": ["CSS"
       ],
       "image": "Catalonia",
-      "text":"[The Statistical Institute of Catalonia](http://www.idescat.cat/) is joining UN and other institutions in the world to celebrate the World Statistics Day 2015. We have included a [short promotional vídeo](https://www.youtube.com/watch?v=IH4TAKZQzkc) in our web site.\n\n Together with the Catalan Statistical Society, we will celebrate an event on October 20 in Barcelona, where a Data Manifesto will be made públic. It will be published in our [web page](http://www.idescat.cat/metodes/manifestdades/?lang=en)."
+      "text":"[The Statistical Institute of Catalonia](http://www.idescat.cat/) is joining UN and other institutions in the world to celebrate the World Statistics Day 2015. They have included a [short promotional vídeo](https://www.youtube.com/watch?v=IH4TAKZQzkc) in their web site.\n\n Together with the Catalan Statistical Society, they will celebrate an event on October 20 in Barcelona, where a Data Manifesto will be made públic. It will be published in their [web page](http://www.idescat.cat/metodes/manifestdades/?lang=en)"
     },
     {
       "id": "49",
