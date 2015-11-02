@@ -219,6 +219,7 @@
   <!-- WSD specific JS -->
   <script src="js/wsd.js"></script>
 
+  <!-- Mustache template for country list for dropdown in mobile version -->
   <script id="countries-template" type="text/template">
     <option value="Select a country">Select a country</option>
     {{#codes}} {{#country}}
@@ -226,6 +227,7 @@
     {{/country}} {{/codes}}
   </script>
 
+  <!-- Mustache template for international organisations in mobile version -->
   <script id="organisations-template" type="text/template">
     <option value="Select an organisation">Select an organisation</option>
     {{#codes}} {{#organisation}} {{#isInternational}}
@@ -233,6 +235,7 @@
     {{/isInternational}} {{/organisation}} {{/codes}}
   </script>
 
+  <!-- Mustache template for country list in desktop version -->
   <script id="countries-d-template" type="text/template">
     {{#codes}} {{#country}}
     <li>
@@ -241,6 +244,7 @@
     {{/country}} {{/codes}}
   </script>
 
+  <!-- Mustache template for international organisations list in desktop version -->
   <script id="organisations-d-template" type="text/template">
     {{#codes}} {{#organisation}} {{#isInternational}}
     <li>
@@ -248,33 +252,8 @@
     </li>
     {{/isInternational}} {{/organisation}} {{/codes}}
   </script>
-
-  <script>
-    $(function() {
-            $.getJSON('js/posts.json', function(data) {
-                /* Desktop version */
-                var template = $('#countries-d-template').html();
-                var items = Mustache.to_html(template, data);
-                $('#countries-d').html(items);
-
-                template = $('#organisations-d-template').html();
-                _(data.codes.organisation).map(function(o) { o.isInternational = o.type === 'international'; return o; }).value();
-                items = Mustache.to_html(template, data);
-                $('#organisations-d').html(items);
-
-                /* Mobile version */
-                template = $('#countries-template').html();
-                items = Mustache.to_html(template, data);
-                $('#countries').html(items);
-
-                template = $('#organisations-template').html();
-                _(data.codes.organisation).map(function(o) { o.isInternational = o.type === 'international'; return o; }).value();
-                items = Mustache.to_html(template, data);
-                $('#organisations').html(items);
-            });
-        });
-  </script>
-
+  
+  <!-- Mustache template for posts -->
   <script id="posts-template" type="text/template">
     {{#.}}
     <li class="post">
@@ -301,6 +280,39 @@
     {{/.}}
   </script>
 
+  <!-- Javascript to load JSON file -->
+  <script type="text/javascript">
+    $(function() {
+        $.getJSON('js/posts.json', function(data) {
+
+            /* Desktop version */
+            /* Fill country template  */
+            var template = $('#countries-d-template').html();
+            var items = Mustache.to_html(template, data);
+            $('#countries-d').html(items);
+
+            /* Fill organisation template  */
+            template = $('#organisations-d-template').html();
+            _(data.codes.organisation).map(function(o) { o.isInternational = o.type === 'international'; return o; }).value();
+            items = Mustache.to_html(template, data);
+            $('#organisations-d').html(items);
+
+            /* Mobile version */
+            /* Fill country template  */
+            template = $('#countries-template').html();
+            items = Mustache.to_html(template, data);
+            $('#countries').html(items);
+
+            /* Fill organisation template  */
+            template = $('#organisations-template').html();
+            _(data.codes.organisation).map(function(o) { o.isInternational = o.type === 'international'; return o; }).value();
+            items = Mustache.to_html(template, data);
+            $('#organisations').html(items);
+        });
+    });
+  </script>
+
+  <!-- Change URL on dropdown change in mobile version to filter by country/international organisation -->
   <script>
     $(function(){
         $("#countries").change(function(){

@@ -1,83 +1,120 @@
-    function getParameterByName(name) {
-        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
-        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
-          results = regex.exec(location.search);
-        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
-      }
+/* Get the search parameters from the URL  ----------------------------------------- */
+function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+}
+      
+/* Code for filtering functionality ------ ----------------------------------------- */
+$(function () {
+     /* Read all posts in the JSON file  */
+    $.getJSON('js/posts.json', function (data) {
+        /* Fill the posts template  */
+        var template = $('#posts-template').html();
 
-      $(function() {
-        $.getJSON('js/posts.json', function(data) {
-          var template = $('#posts-template').html();
+        /* Fill the countries template  */
+        var countries = data.codes.country;
 
-          var countries = data.codes.country;
-
-          if (countries) {
+        /* If countries, get the country names associated with the codes  */
+        if (countries) {
             countries.lookup = function (code) {
-              return _(this).where({ 'code': code }).pluck('name').first();
+                return _(this).where({ 'code': code }).pluck('name').first();
             };
-          }
+        }
 
-          var organisations = data.codes.organisation;
+        /* Fill the organisations template  */
+        var organisations = data.codes.organisation;
 
-          if (organisations) {
+        /* If organisations, get the organisation names associated with the codes  */
+        if (organisations) {
+            /* Lookup by code */
             organisations.lookup = function (code) {
-              return _(this).where({ 'code': code }).pluck('name').first();
+                return _(this).where({ 'code': code }).pluck('name').first();
             };
-
+            /* Lookup by type (international/other) */
             organisations.lookupByType = function (type) {
-              return _(this).where({ 'type': type }).pluck('code').value();
+                return _(this).where({ 'type': type }).pluck('code').value();
             }
-          }
+        }
 
-          var addProvider = function(post) {
-            post.provider = function() {
-              var cs = _(this.countries || []).map(function (code) { return countries.lookup(code); });
-              var os = _(this.organisations || []).map(function (code) { return organisations.lookup(code); }).value();
-              return cs.concat(os).reduce(function (s, value) { return s += ', ' + value; });
+        /* Take a post, string the provider/s together and return the completed post  */
+        var addProvider = function (post) {
+            post.provider = function () {
+                var cs = _(this.countries || []).map(function (code) { return countries.lookup(code); });
+                var os = _(this.organisations || []).map(function (code) { return organisations.lookup(code); }).value();
+                return cs.concat(os).reduce(function (s, value) { return s += ', ' + value; });
             };
             return post;
-          }
+        }
 
-          var addHtml = function(post) {
-            post.html = function() {
-              return markdown.toHTML(this.text);
+        /* Convert the markdown into HTML using the Lodash library */
+        var addHtml = function (post) {
+            post.html = function () {
+                return markdown.toHTML(this.text);
             };
             return post;
-          };
+        };
 
-          var o = getParameterByName('o');
-          var ot = getParameterByName('ot');
-          var c = getParameterByName('c');
-          var i = getParameterByName('i');
-          var posts = _(data.posts).map(addHtml).map(addProvider);
+        /* Call function getParameterByName to get the search parameters and assign them to a variable [array] */
+        /* international organisations  */
+        var o = getParameterByName('o');
+        /* otehr organisations  */
+        var ot = getParameterByName('ot');
+        /* country  */
+        var c = getParameterByName('c');
+        /* item = post  */
+        var i = getParameterByName('i');
+        
+        /* Call function addProvider to list one or more providers to a post */
+        var posts = _(data.posts).map(addHtml).map(addProvider);
 
-          if (o !== '') {
-            posts = posts.where({'organisations': [o]});
+        /* If organisations */
+        if (o !== '') {
+            /* Get all posts by organisations */
+            posts = posts.where({ 'organisations': [o] });
+            /* Show div #remove-filter, a link to reset filters */
             $("#remove-filter").removeClass("make-visible");
+            /* Show div #organisations displaying the organisation's name in the dropdown, mobile version only */
             $('#organisations').val(o);
+            /* Show div #selected-filter displaying the organisation's name */
             $("#selected-filter h4").text(organisations.lookup(o));
-          }
+        }
 
-          if (ot !== '') {
+        /* If other organisations */
+        if (ot !== '') {
+            /* Get all codes for other organisations */
             var os = organisations.lookupByType(ot);
-            posts = posts.filter(function(p) { return _.some(_.intersection(p.organisations, os)); });
+            /* Get all posts by other organisations */
+            posts = posts.filter(function (p) { return _.some(_.intersection(p.organisations, os)); });
+            /* Show div #remove-filter, a link to reset filters */
             $("#remove-filter").removeClass("make-visible");
+            /* Show div #selected-filter diplaying "Non-governmental organisations" */
             $("#selected-filter h4").text("Non-governmental organisations");
-          }
+        }
 
-          if (c !== '') {
-            posts = posts.where({'countries': [c]});
+        /* If countries */
+        if (c !== '') {
+            /* Get all posts by countries */
+            posts = posts.where({ 'countries': [c] });
+            /* Show div #remove-filter, a link to reset filters */
             $("#remove-filter").removeClass("make-visible");
+            /* Show div #organisations displaying the country's name in the dropdown, mobile version only */
             $('#countries').val(c);
+            /* Show div #selected-filter displaying the country's name */
             $("#selected-filter h4").text(countries.lookup(c));
-          }
+        }
 
-          if (i !== '') {
-            posts = posts.where({'id': i});
+        /* If item */
+        if (i !== '') {
+            /* Get the post for the corresponding post id */
+            posts = posts.where({ 'id': i });
+            /* Show div #remove-filter, a link to reset filters */
             $("#remove-filter").removeClass("make-visible");
-          }
+        }
 
-          var postsHtml = Mustache.to_html(template, posts.value());
-          $('#posts').html(postsHtml);
-        });
-      });
+        /* Fill posts template  */
+        var postsHtml = Mustache.to_html(template, posts.value());
+        $('#posts').html(postsHtml);
+    });
+});

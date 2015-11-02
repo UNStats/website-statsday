@@ -441,7 +441,8 @@
 
     <!-- lodash library -->
     <script src="js/lodash.min.js"></script>
-
+    
+    <!-- Mustache template for country list -->
     <script id="countries-template" type="text/template">
         {{#codes}} {{#country}}
         <li>
@@ -450,6 +451,7 @@
         {{/country}} {{/codes}}
     </script>
 
+    <!-- Mustache template for international organisation list -->
     <script id="organisations-template" type="text/template">
         {{#codes}} {{#organisation}} {{#isInternational}}
         <li>
@@ -458,6 +460,7 @@
         {{/isInternational}} {{/organisation}} {{/codes}}
     </script>
 
+    <!-- Mustache template for six latest posts -->
     <script id="posts-template" type="text/template">
         {{#posts}}
         <li class="col-md-4 col-sm-6 latest-post">
@@ -473,18 +476,24 @@
         {{/posts}}
     </script>
 
+    <!-- Javascript to load JSON file -->
     <script>
         $(function() {
+            /* Read all posts in the JSON file  */
             $.getJSON('js/posts.json', function(data) {
+
+                /* Fill country template  */
                 var template = $('#countries-template').html();
                 var items = Mustache.to_html(template, data);
                 $('#countries').html(items);
 
+                /* Fill organisation template  */
                 template = $('#organisations-template').html();
                 _(data.codes.organisation).map(function(o) { o.isInternational = o.type === 'international'; return o; }).value();
                 items = Mustache.to_html(template, data);
                 $('#organisations').html(items);
 
+                /* Fill posts template  */
                 template = $('#posts-template').html();
                 var latest_posts = {posts: data.posts.slice(0, 6)};
                 items = Mustache.to_html(template, latest_posts);
@@ -507,6 +516,7 @@
         ga('send', 'pageview');
     </script>
 
+    <!-- Set speed for carousel slider -->
     <script>
         $('.carousel').carousel({
             interval: 5000
