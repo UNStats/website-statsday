@@ -1,6 +1,14 @@
 {
   "codes": {
     "country": [
+      {
+        "code": "ALB",
+        "name": "Albania"
+       },
+      {
+        "code": "DZA",
+        "name": "Algeria"
+       },
        {
         "code": "AIA",
         "name": "Anguilla"
@@ -10,12 +18,12 @@
         "name": "Argentina"
        },
        {
-        "code": "ABW",
-        "name": "Aruba"
-       },
-       {
         "code": "ARM",
         "name": "Armenia"
+       },
+       {
+        "code": "ABW",
+        "name": "Aruba"
        },
        {
         "code": "AUS",
@@ -48,6 +56,10 @@
       {
         "code": "BEL",
         "name": "Belgium"
+      },
+      {
+       "code": "BOL",
+       "name": "Bolivia"
       },
       {
        "code": "BWA",
@@ -114,6 +126,10 @@
         "name": "Czech Republic"
       },
       {
+        "code": "DJI",
+        "name": "Djibouti"
+      },
+      {
         "code": "DOM",
         "name": "Dominican Republic"
       },
@@ -122,21 +138,25 @@
         "name": "Egypt"
       },
       {
+        "code": "GNQ",
+        "name": "Equatorial Guinea"
+      },
+      {
         "code": "EST",
         "name": "Estonia"
+      },
+      {
+       "code": "FJI",
+       "name": "Fiji"
       },
       {
       "code": "FIN",
       "name": "Finland"
       },
       {
-       "code": "FJI",
-       "name": "Fiji"
-     },
-     {
       "code": "FRA",
       "name": "France"
-    },
+      },
       {
         "code": "DEU",
         "name": "Germany"
@@ -210,9 +230,17 @@
         "name": "Luxembourg"
       },
       {
+       "code": "MDG",
+       "name": "Madagascar"
+     },
+      {
         "code": "MYS",
         "name": "Malaysia"
       },
+      {
+       "code": "MDV",
+       "name": "Maldives"
+     },
       {
         "code": "MLI",
         "name": "Mali"
@@ -246,13 +274,21 @@
         "name": "Myanmar"
       },
       {
+       "code": "NLD",
+       "name": "Netherlands"
+      },
+      {
         "code": "NZL",
         "name": "New Zealand"
       },
       {
-       "code": "NLD",
-       "name": "Netherlands"
-     },
+        "code": "NER",
+        "name": "Niger"
+      },
+      {
+        "code": "NGA",
+        "name": "Nigeria"
+      },
       {
         "code": "NOR",
         "name": "Norway"
@@ -413,7 +449,7 @@
     "organisation": [
       {
         "code": "AfDB",
-        "name": "African Development Bank",
+        "name": "AfDB",
         "type": "international"
       },
       {
@@ -448,7 +484,7 @@
       },
       {
         "code": "CARICOM",
-        "name": "Caribbean Community",
+        "name": "CARICOM",
         "type": "international"
       },
       {
@@ -467,13 +503,8 @@
         "type": "other"
       },
       {
-        "code": "ESCWA",
-        "name": "Economic and  Social Commission for Western Asia",
-        "type": "international"
-      },
-      {
         "code": "ECB",
-        "name": "European Central Bank",
+        "name": "ECB",
         "type": "international"
       },
       {
@@ -488,7 +519,7 @@
       },
       {
         "code": "FAO",
-        "name": "Food and Agriculture Organization",
+        "name": "FAO",
         "type": "international"
       },
       {
@@ -513,7 +544,7 @@
       },
       {
         "code": "IADB",
-        "name": "Inter-American Development Bank",
+        "name": "IADB",
         "type": "international"
       },
       {
@@ -523,12 +554,12 @@
       },
       {
         "code": "ICAO",
-        "name": "International Civil Aviation Organization",
+        "name": "ICAO",
         "type": "international"
       },
       {
         "code": "ILO",
-        "name": "International Labour Organization",
+        "name": "ILO",
         "type": "international"
       },
       {
@@ -539,6 +570,11 @@
       {
         "code": "ITAM",
         "name": "Instituto Tecnológico Autónomo de México",
+        "type": "other"
+      },
+      {
+        "code": "Kapiti",
+        "name": "Kāpiti College",
         "type": "other"
       },
       {
@@ -557,13 +593,13 @@
         "type": "other"
       },
       {
-        "code": "OHCHR",
-        "name": "Office of the United Nations High Commissioner for Human Rights",
+        "code": "OECD",
+        "name": "OECD",
         "type": "international"
       },
       {
-        "code": "OECD",
-        "name": "Organisation for Economic Co-operation and Development",
+        "code": "OHCHR",
+        "name": "OHCHR",
         "type": "international"
       },
       {
@@ -603,27 +639,37 @@
       },
       {
         "code": "UN",
-        "name": "United Nations",
+        "name": "UN",
+        "type": "international"
+      },
+      {
+        "code": "UNCTAD",
+        "name": "UNCTAD",
         "type": "international"
       },
       {
         "code": "UNECA",
-        "name": "UN Economic Commission for Africa",
+        "name": "UNECA",
         "type": "international"
       },
       {
        "code": "UNECE",
-       "name": "UN Economic Commission for Europe",
+       "name": "UNECE",
        "type": "international"
       },
       {
        "code": "UNESCO",
-       "name": "UN Educational, Scientific and Cultural Organization",
+       "name": "UNESCO",
+       "type": "international"
+     },
+     {
+       "code": "ESCWA",
+       "name": "UNESCWA",
        "type": "international"
      },
       {
         "code": "UNIDO",
-        "name": "UN Industrial Development Organization",
+        "name": "UNIDO",
         "type": "international"
       },
       {
@@ -662,23 +708,23 @@
         "type": "other"
       },
       {
+        "code": "UNWTO",
+        "name": "UNWTO",
+        "type": "international"
+      },
+      {
         "code": "UZurich",
         "name": "University of Zurich",
         "type": "other"
       },
       {
         "code": "WFP",
-        "name": "World Food Programme",
+        "name": "WFP",
         "type": "international"
       },
       {
         "code": "WHO",
-        "name": "World Health Organization",
-        "type": "international"
-      },
-      {
-        "code": "UNWTO",
-        "name": "World Tourism Organization",
+        "name": "WHO",
         "type": "international"
       },
       {
@@ -689,34 +735,256 @@
     ]
   },
   "posts": [
-    {
-        "id": "1002",
-        "title":"United Nations Secretary-General message on World Statistics Day 2015",
-        "date": "2015-10-20",
-        "organisations":["UN"
-        ],
-        "image": "20150820-ban_ki-moon_portrait",
-        "text": "\"On this World Statistics Day, I urge all partners and stakeholders to work together to ensure that the necessary investments are made, adequate technical capacity is built, new data sources are explored and innovative processes are applied to give all countries the comprehensive information systems they need to achieve sustainable development.\"\n\nThe full text of Secretary-General's message on World Statistics Day 2015 is available here:\n\n*   [Arabic](files/statistics2015-message.Arabic.pdf)\n* [Chinese](files/statistics2015-message.Chinese.pdf)\n*  [English](files/statistics2015-message.pdf)\n*  [French](files/statistics2015-message.French.pdf)\n*  [Russian](files/statistics2015-message.Russian.pdf)\n*   [Spanish](files/statistics2015-message.Spanish.pdf)"
-      },
-      {
-        "id": "197",
-        "title":"THANK YOU FOR A SUCCESSFUL WORLD STATISTICS DAY!",
-        "date": "2015-10-23",
-        "organisations":["UN"
-        ],
-        "image": "BetterDataBetterLives",
-        "text": "On 20 October 2015 we celebrated the second World Statistics Day. We thank all our partners across the globe who initiated, organized or took part in activities to celebrate this special Day. This website will remain active as a repository of photos, videos, reports, press clippings etc. on the observance of World Statistics Day 2015 worldwide.\n\n We invite you to share with us how you celebrated World Statistics Day [(statistics@un.org)](mailto:statistics@un.org).\n\n![UNSD Staff Better Data Better Lives](img/posts/BetterDataBetterLives.jpg)\n\n The staff of the United Nations Statistics Division."
-      },
-      {
-        "id": "1001",
-        "title":"Finalists and winning solution to the #StatsDay15 Data Visualization Challenge",
-        "date": "2015-10-20",
-        "organisations":["UN"
-        ],
-        "image": "Data_Vis",
-        "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
-      },
+          {
+              "id": "1002",
+              "title":"United Nations Secretary-General message on World Statistics Day 2015",
+              "date": "2015-10-20",
+              "organisations":["UN"
+              ],
+              "image": "20150820-ban_ki-moon_portrait",
+              "text": "\"On this World Statistics Day, I urge all partners and stakeholders to work together to ensure that the necessary investments are made, adequate technical capacity is built, new data sources are explored and innovative processes are applied to give all countries the comprehensive information systems they need to achieve sustainable development.\"\n\nThe full text of Secretary-General's message on World Statistics Day 2015 is available here:\n\n*   [Arabic](files/statistics2015-message.Arabic.pdf)\n* [Chinese](files/statistics2015-message.Chinese.pdf)\n*  [English](files/statistics2015-message.pdf)\n*  [French](files/statistics2015-message.French.pdf)\n*  [Russian](files/statistics2015-message.Russian.pdf)\n*   [Spanish](files/statistics2015-message.Spanish.pdf)"
+            },
+            {
+              "id": "197",
+              "title":"THANK YOU FOR A SUCCESSFUL WORLD STATISTICS DAY!",
+              "date": "2015-10-23",
+              "organisations":["UN"
+              ],
+              "image": "BetterDataBetterLives",
+              "text": "On 20 October 2015 we celebrated the second World Statistics Day. We thank all our partners across the globe who initiated, organized or took part in activities to celebrate this special Day. This website will remain active as a repository of photos, videos, reports, press clippings etc. on the observance of World Statistics Day 2015 worldwide.\n\n We invite you to share with us how you celebrated World Statistics Day [(statistics@un.org)](mailto:statistics@un.org).\n\n![UNSD Staff Better Data Better Lives](img/posts/BetterDataBetterLives.jpg)\n\n The staff of the United Nations Statistics Division."
+            },
+            {
+              "id": "1001",
+              "title":"Finalists and winning solution to the #StatsDay15 Data Visualization Challenge",
+              "date": "2015-10-20",
+              "organisations":["UN"
+              ],
+              "image": "Data_Vis",
+              "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
+            },
 
+            {
+              "id": "235",
+              "title":"Luxembourg celebrates World Statistics Day",
+              "date": "2015-10-30",
+              "countries":["LUX"
+              ],
+              "image": "luxembourg_2",
+              "text": "[STATEC] (http://www.statistiques.public.lu/fr/acteurs/statec/), the National Institute of Statistics and Economic Studies of the Grand-Duchy of Luxembourg, and [EUROSTAT] (http://ec.europa.eu/eurostat), the Statistical Office of the European Union, jointly organised a conference on 20 October wit the occasion of World Statistics Day 2015.\n\nThe conference took place at Eurostat's headquarters, situated in Luxembourg. In it, Mr. Michail Skaliotis, Head of Eurostat's Task Force on Big Data, gave a [presentation on “Big data in the European Statistical System”](http://www.statistiques.public.lu/fr/agenda/detail-agenda/2015/10/SKALIOTISWorldstatsdaySTATEC.pdf). Another presentation, entitled [“Données massives et statistique en haute dimension”](http://www.statistiques.public.lu/fr/agenda/detail-agenda/2015/10/DeMolLuxembourg.pdf), was given by Christine De Mol from the [Université Libre de Bruxelles] (http://www.ulb.ac.be). \n\n The day before World Statistics Day 2015, Mr. Serge Allegrezza, Director of STATEC, gave an interview on national radio. The interview with [RTL] (http://radio.rtl.lu/) (in Luxembourgish) is available [here] (http://radio.rtl.lu/emissiounen/den-invite-vun-der-rtl-redaktioun/722628.html)."
+            },
+            {
+              "id": "234",
+              "title":"Statistical Chart Creative Activity for Primary and Middle School Students in Beijing",
+              "date": "2015-10-30",
+              "countries":["CHN"
+              ],
+              "image": "Booklet-China",
+              "text": "The *Statistical Education Society of China* and *Future Link* jointly held this year the *Statistical Chart Creative Design Activity* for primary and middle school students in Beijing, as was done before in 2011 and 2013.\n\n The purpose of this creative activity has been to advocate for a learning style in primary and middle schools based on identifying statistical phenomena, acquiring statistical knowledge and understanding statistical indicators. It has also demonstrated the statistical ability and art talent of many students, and provided a bridge of friendship and mutual communication.\n\n Through this activity, the Statistical Education Society of China has collected a large number of high quality design works that highlight the students' unique perspectives and creativity. Among the 7592 pieces of works that students have submitted in the 3 years that the event has taken place, 2823 have been from middle school group and 4769 from primary school group. 472 pieces of works were awarded a prize.\n\n The booklet below was issued on the occasion of World Statistics Day:\n\n [Booklet](files/Booklet-China.pdf)"
+            },
+            {
+              "id": "233",
+              "title":"Niger celebrated World Statistics Day with an Open Day",
+              "date": "2015-10-30",
+              "countries":["NER"
+              ],
+              "image": "Niger",
+              "text": "The [National Institute of Statistics (INS)] (http://www.stat-niger.org/) of Niger commemorated World Statistics Day 2015 with an “open day” on its premises chaired by its Director General, Mr Alichina KOURGUENI.\n\n Details can be found in the following media coverage in [French] (http://www.anp.ne/article/celebration-de-la-2eme-journee-mondiale-de-la-statistique-l-ins-du-niger-ouvre-ses-portes-au#sthash.9FopmKFR.8DTLuuHM.dpbs)."
+            },
+            {
+              "id": "232",
+              "title":"Djibouti celebrates World Statistics Day",
+              "date": "2015-10-30",
+              "countries":["DJI"
+              ],
+              "image": "Djibouti",
+              "text": "Djibouit celebrated this year's World Statistics Day with a ceremony sponsored by the Commissioner of Planning, Amarreh Ali Said. The ceremony had the participation of government members, the director of the [Department of Statistics and Demographic Studies (DISED)] (http://www.dised.dj/), Idriss Ali Suldan, and the UNDP resident representative in Djibouti, Valery Cliff. On this occasion, the director of DISED made a presentation of the National Development Strategy of Statistics from 2011 to 2015.\n\n Media coverage is available [here] (http://www.lanationdj.com/journee-mondiale-de-la-statistique-a-djibouti-la-necessite-des-donnees-plus-fiables/#)."
+            },
+            {
+              "id": "231",
+              "title":"Media coverage from Rwanda",
+              "date": "2015-10-30",
+              "countries":["RWA"
+              ],
+              "image": "RWA_NewTimes",
+              "text": "Rwanda's newspaper [The New Times] (http://www.newtimes.co.rw/) marked World Statistics Day 2015 with an [article](http://www.newtimes.co.rw/files/promo/1446010515NISR-October-28.pdf) reflecting on the achievements of the institutions and bodies responsible for providing national statistics in Rwanda. The article is available [here] (http://www.newtimes.co.rw/files/promo/1446010515NISR-October-28.pdf).\n\n Rwanda will celebrate the World Statistics day on 27 November 2015 in combination with the African Statistics day which is normally celebrated on 18 November every year."
+            },
+            {
+              "id": "230",
+              "title":"Nigeria marks World Statistics Day",
+              "date": "2015-10-30",
+              "countries":["NGA"
+              ],
+              "image": "Nigeria",
+              "text": "The [National Bureau of Statistics] (http://www.nigerianstat.gov.ng/) of Nigeria marked World Statistics Day 2015 by issuing a public statement. In it, Dr. Yemi Kale, Statistician-General of the Federation and Chief Executive National Bureau of Statistics, renewed the NBS' “commitment to providing the necessary data required to support policymakers, business decision-makers and individual citizens as we all contribute towards sustainable development in Nigeria.” Dr. Kale also promised to “explore new data sources, innovative use of technology and wider stakeholder engagement without compromising our operational independence, professional integrity or public trust.” The full statement is available [here](http://www.nigerianstat.gov.ng/pages/download/324)."
+            },
+            {
+              "id": "229",
+              "title":"Bolivia celebrates World Statistics Day",
+              "date": "2015-10-30",
+              "countries":["BOL"
+              ],
+              "image": "Bolivia",
+              "text": "The [National Institute of Statistics (INE)] (http://www.ine.gob.bo/) of Bolivia celebrated World Statistics Day 2015 with many outreach activities with staff disseminating statistical information to the local population, institutions and universities. In the days around World Statistics Day 150 workshops carried out at national level, reaching 4000 participants.\n\n News coverage including an interview with NE's director Mr. Alejandro Gozalves is available [here] (https://www.youtube.com/watch?v=QCS4NV3OYOI)\n\n [![Bolivia video](img/posts/Bolivia_video.png)](https://www.youtube.com/watch?v=QCS4NV3OYOI)"
+            },
+            {
+              "id": "228",
+              "title":"The Kingdom of Morocco celebrated World Statistics Day 2015 with an international seminar and several regional events",
+              "date": "2015-10-29",
+              "countries":["MAR"
+              ],
+              "image": "Morocco2",
+              "text": "Under the High Patronage of His Majesty the King Mohammed VI, the [High Commission for Planning in Morocco] (http://www.hcp.ma/) joined the international community to celebrate World Statistics Day on 20 October 2015 under the theme: “Better Data. Better Lives”. In this regard, the High Commission for Planning organised three activities, an international scientific conference, an exhibition at national level and similarly open days at both the central level and in the 12 regions of the Kingdom.\n\n A conference was convened in Rabat. Executives and senior government officials were invited by the High Commission for Planning to intervene in this scientific conference and to emphasise the role of the production, publication and use of official statistics. Some of the notable participants included the parliamentary presidents of the House of Representatives and the House of Councilors, several ministers, the first president of the Court of Cassation, the Governor of the Central bank and the President of the Economic, Social and Environmental Council and other personalities from the civil society. This conference was attended by eminent international personalities including M. Enrico Giovannini, former Minister of Employment and social policies of Italy, M. Mario Pezzini, Director of the OECD Development Centre, M. Jean Luc Tavernier, Director of the National Institute of Statistics and Economic Studies of France (INSEE), M. Pedro Luis do Nascimento de Silva, President of the International Statistical Institute (ISI) and M. Johannes Jutting, the manager of the Partnership in Statistics for Development in the 21st Century (PARIS21).\n\n In this occasion, a partnership agreement was signed between the High Commissioner of Planning and the first president of the Court of Cassation. The strategic aims of this partnership include joint research, statistics analysis, knowledge sharing in technologies and database archiving. The agreement also includes exchanging invitations to participate in events and activities organized by either party especially in common interest areas.\n\n To provide a global networking platform through this event, an exhibition booth covering the HCP, several Ministries and national institution producers or users of statistics and other public and private entities offered a platform to showcase statistical publication, dissemination of data related to their recent activities and technologies and also to exchange latest news and innovation of statistics among various areas of official statistics. This exhibition also provided various activities to the public and the civil society in order to enhance the interaction between statisticians, producers and users.\n\n The celebration of the this event also highlighted the aspects of regional statistic. In this regard Open Days at both, the central level and in the 12 regions of the Kingdom were held on 21, 22 and 23 October 2015. The program for these days included thematic workshops on the recent developments of national statistical system, statistical concepts and methodologies; exhibition (technologies, websites, and publications) and guided visits for users and students.\n\n Video coverages on the main event can be found [here](photo-gallery.html): \n\n* [Opening session] (https://www.youtube.com/watch?v=VOyqxf6nR1E) \n* [Video conference with E. Giovannini] (https://www.youtube.com/watch?v=0yP-5uvY-2c)\n* [Discussions] (https://www.youtube.com/watch?v=U0biGLfCqls) \n* [Signing of the partnership agreement] (https://www.youtube.com/watch?v=bJc3FOu3zHU)\n* [Closing] (https://www.youtube.com/watch?v=Cmrt0aJac_k)"
+            },
+            {
+              "id": "227",
+              "title":"Students at Kāpiti College (New Zealand) produce fun video for World Statistics Day",
+              "date": "2015-10-29",
+              "organisations":["Kapiti"
+              ],
+              "countries":["NZL"
+              ],
+              "image": "KapitiCollege",
+              "text": "Students at [Kāpiti College] (http://kc.school.nz) had fun with statistics demonstrating the PPDAC [Problem-Plan-Data-Analysis-Consclusion] cycle for a basic investigation.\n\n Please watch: \n\n [![Video by Kāpiti College students](img/posts/KapitiCollege_video.png)](https://www.youtube.com/watch?v=xtGAvyYjjtE)"
+            },
+            {
+              "id": "226",
+              "title":"African Development Bank marks World Statistics Day",
+              "date": "2015-10-29",
+              "organisations":["AfDB"
+              ],
+              "image": "AfricanDevBank2",
+              "text": "The [African Development Bank (AfDB)] (http://www.afdb.org) joined the world in celebrating World Statistics Day on 20 October 2015. As part of the celebrations, the [AfDB Statistics Department] (http://www.afdb.org/en/knowledge/statistics/) held a series of seminars from 19-23 October 2015 with the aim of showcasing statistical activities already underway within Bank’s Statistical Capacity Building (SCB) program. Also highlighted were future programs planned in response to the current demands of the Data Revolution and the post-2015 development agenda. Details can be found [here] (http://www.afdb.org/en/news-and-events/article/afdb-marks-world-statistics-day-better-data-better-lives-14883/)."
+            },
+            {
+              "id": "225",
+              "title":"Celebrate World Statistics Day with a Quiz from the U.S. Energy Information Administration",
+              "date": "2015-10-29",
+              "countries": ["USA"
+              ],
+              "image": "USEIA",
+              "text": "The [U.S. Energy Information Administration (EIA)] (http://www.eia.gov), the statistical and analytical agency within the U.S. Department of Energy [http://www.energy.gov], participated in World Statistics Day.  In honor of World Statistics Day 2015, EIA created a [20-question energy quiz](http://www.eia.gov/energyexplained/resources/energy_quiz/) to highlight some key energy statistics. In addition to our data and analysis products, EIA also provides several energy education products, which can be found [here](http://www.eia.gov/todayinenergy/detail.cfm?id=23412)."
+            },
+            {
+              "id": "224",
+              "title":"UNCTAD marks World Statistics Day",
+              "date": "2015-10-29",
+              "organisations":["UNCTAD"
+              ],
+              "image": "UNCTAD",
+              "text": "The [Statistics & Information Section] (http://unctad.org/en/Pages/Statistics.aspx) of the [UN Conference on Trade and Development (UNCTAD)] (http://unctad.org) marked World Statistics Day in an online [article](http://unctad.org/en/pages/newsdetails.aspx?OriginalVersionID=1111&Sitemap_x0020_Taxonomy=Statistics;#20;#UNCTAD%20Home).\n\n Steve McFeely, head of Statistics and Information, highlighted that “World Statistics Day also celebrates the achievements of statisticians around the world and the important, but often unseen, role they play in the development and protection of society, our environment and the economy and in objectively highlighting important issues such as human rights.”. He also stressed that “UNCTAD will continue to work, as a key partner within the United Nations Statistical System, with member states and international organisations to provide a targeted, professional statistical service that provides the best quality statistics on trade and the interrelated fields of foreign direct investment, information economy, creative economy and maritime transport.” The full statement can be found [here] (http://unctad.org/en/pages/newsdetails.aspx?OriginalVersionID=1111&Sitemap_x0020_Taxonomy=Statistics;#20;#UNCTAD%20Home)."
+            },
+            {
+              "id": "223",
+              "title":"Hungary held an international conference celebrating World Statistics Day 2015",
+              "date": "2015-10-29",
+              "countries":["HUN"
+              ],
+              "image": "Hungary_2",
+              "text": "The [Hungarian Central Statistical Office] (http://www.ksh.hu) held an international conference in Budapest on 20-21 October 2015 together with the [Hungarian Academy of Sciences] (http://mta.hu) and the [Hungarian Statistical Association] (http://isi.cbs.nl/statsoc/hungary2.htm). The topic was “Official statistics: New opportunities for transformation – innovation and cooperation”. A welcome by the President of the Hungarian Central Statistical Office, Ms. Gabriella Vukovich, is available [here](http://www.ksh.hu/wsd2015); for all presentations and videos, please [here](http://www.ksh.hu/wsd2015_presentations)."
+          },
+            {
+              "id": "222",
+              "title":"Logo now available in more than 50 languages!",
+              "date": "2015-10-29",
+              "image": "20151029-WorldStatsDay_Logo_combined",
+              "text": "We have just added Amharic, Igbo, Norwegian and Swedish logos to our [page](resources.html). We can now say be “Better data. Better lives.” in more than 50 languages. If you have produced a logo in your language and want to make sure it's on display in our logo gallery, please e-mail us at statistics@un.org"
+            },
+            {
+              "id": "221",
+              "title":"Albania celebrates World Statistics Day",
+              "date": "2015-10-29",
+              "countries":["ALB"
+              ],
+              "image": "Albania",
+              "text": "The [Institute of Statistics (INSTAT)] (http://www.instat.gov.al), on the occasion of the World Statistics Day, held an activity entitled “Open day on Statistics”. The purpose of this activity, was to bring official statistics closer to the public at large, and to inform about the importance of official statistics on making policy decisions and monitoring the development of the society. During this activity, new products of the Institute of Statistics that aim to increase the range and the quality of statistics for policy makers and other users, were presented. This activity was open to everyone who wanted to know more, or give his/her contribution to the improvement of the statistical system in Albania. INSTAT also released a [press release] (http://www.instat.gov.al/media/315327/20_tetor_2015__dita_bot_rore_e_statistikave.pdf) (in Albanian).\n\n For more information [see here] (http://www.instat.gov.al/al/aktivitete/dita-botërore-e-statistikave.aspx) (in Albanian) and in our [photo gallery](photo-gallery.html)."
+          },
+            {
+              "id": "220",
+              "title":"Mali celebrated World Statistics Day",
+              "date": "2015-10-29",
+              "countries":["MLI"
+              ],
+              "image": "mali_2",
+              "text": "A celebratory day-long event will be held at the International Conference Centre of Bamako on 20 October 2015 focussing on the the importance of statistics for the country's social and economic development. Speakers included Mali's Minister for Spatial planning, the director of the [National Institute of Statistics] (http://www.instat-mali.org) and the director of [Afristat] (http://www.afristat.org). Media coverage is available [here](photo-gallery.html)."
+          },
+            {
+              "id": "219",
+              "title":"We have added our logo in Czech, Farsi, Xhosa and Zulu",
+              "date": "2015-10-28",
+              "image": "20151028-WorldStatsDay_Logo_combined",
+              "text": "The World Statistics Day 2015 logo is now also available in Czech, Farsi as well as Xhosa and Zulu, two of the official languages of South Africa. With these latest additions we celebrate “Better data. Better lives.” in almost 50 languages."
+            },
+            {
+              "id": "218",
+              "title":"National Institute of Statistics of Equatorial Guinea celebrates World Statistics Day and the launch of its official website",
+              "date": "2015-10-27",
+              "countries":["GNQ"
+              ],
+              "image": "EqGuinea",
+              "text": "The [National Institute of Statistics of Equatorial Guinea (INEGE)] (http://www.inege.gq/) celebrated World Statistics Day on Tuesday, 20 October. On the same day, the Institute officially launched its website in the presence of several national and international authorities.\n\n The ceremony to launch the official website of the [National Institute of Statistics of Equatorial Guinea] (http://www.inege.gq) was chaired by its Deputy Director General, Constantina Bindang Ndong Okiri, on behalf of the Director General, Ricardo Nsue Ndemesogo. The event, held in the headquarters of the institution in Malabo II, began with the speech by Constantina Bindang, who recalled that: “Today is World Statistics Day, which is why the INEGE is called to basically produce statistics that can assist the Government in making decisions. Similarly, we have used this time to launch our website and publish the National Data Bank that our institution has been able to collect to date.” Bindang Ndong ended her speech by thanking the attendees for their presence and asking other State institutions for collaboration in order to gather more data: “We ask that institutions work more with the INEGE in order to have more access to the statistics of our country, because -to date- the institute has gathered that data through censuses or surveys.” After her speech, she gave the floor to the Manager of the World Bank in Equatorial Guinea, Sylvie Dossou, who revealed the involvement of the organization in the work, and appealed once again to all national institutions to collaborate with the institute to consolidate and support the country's growth. Other speakers included the head of the department of Methodology, Quality and ICT (information and communications technology) of INEGE, Agustin Ndong Nseng and the Director General of the Institutional Website of the Government of the Republic of Equatorial Guinea, Filiberto Nseme Nsue Nchama. The event was also attended by the Director Generals of Statistics, Planning and Programming, Jose Mbo Eneme and Víctor Sima Asong, and the National Agency Equatorial Guinea 2020, Nicolas Fernando Okiri Abaha, among other national and international personalities.\n\n More information can be found [here](http://www.guineaecuatorialpress.com/noticia.php?id=7038).\n\n Source: Equatorial Guinea’s Press and Information Office"
+          },
+          {
+            "id": "217",
+            "title":"“I am a statistician” - A Peking Opera original performance",
+            "date": "2015-10-27",
+            "countries":["CHN"
+            ],
+            "image": "CHN_opera",
+            "text": "To celebrate the second World Statistics Day and to welcome statistician friends from around the world to Xi’an, China, the [National Bureau of Statistics] (http://www.stats.gov.cn), China, dedicated “I am a statistician” - an original performance by the Peking Opera to all guests and statisticians worldwide.\n\n Peking Opera is the quintessence of Chinese culture. The piece is performed by Hualian (male character with painted face), Laodan (old lady), Quingyi (elegant young lady) and Laosheng (old gentleman), which are the four typical roles in the Peking Opera.\n\n [![Chinese opera video](img/posts/CHN_video.png)](https://www.youtube.com/watch?v=W94q3puQmSY) \n\n(\"I am a statistician\" - A Peking Opera original performance.)"},
+          {
+             "id": "216",
+             "title":"UN DESA's ASG, Lenni Montiel put a spotlight on statistics at the center of sustainable development on his twitter chat event",
+             "date": "2015-10-27",
+             "organisations":["UN"
+             ],
+             "image": "LM_twitter",
+             "text": "As part of the celebration for World Statistics Day 2015, Lenni Montiel, UN DESA’s Assistant Secretary-General for Economic Development, hosted a [Twitter chat] (https://storify.com/UNDESA/tweet/preview) event to put the spotlight on the pivotal role of statistics in measuring development progress across the globe.\n\n Using the hashtag #SDGsData, people from all corners of the world tuned in on 22 October to ask their questions on how the UN is working with data and how these efforts can contribute to realize sustainable development. Many of these questions covered data transparency, effectiveness, and inclusiveness, as well as the experiences gained from monitoring the Millennium Development Goals (MDGs).\n\n To address these questions, Mr. Montiel highlighted five key actions: paying attention to national ownership and flexibility in the reporting format; conducting more consultation among statisticians in international organizations, UN Inter-Agency and Expert Groups; placing focus on country level data; investing in statistical capacity to ensure availability, reliability, timeliness and accessibility of development data; and last but not least, improving institutional coordination at all levels, including within national statistical systems.\n\n Mr. Montiel also explained that the data revolution is helping address inequalities in data access and use through principles, innovation, resources and leadership. At the end of the chat, Mr. Montiel concluded that “...with the wealth of knowledge gained through the MDGs monitoring, we will be successful tracking SDGs data, ensuring to leave no one behind.” \n\n Read more: [Statistics at the center of sustainable development](https://worldstatisticsday.org/sdgs-data-chat.html)"
+           },
+           {
+             "id": "215",
+             "title":"National Bureau of Statistics of the Maldives released Census results on World Statistics Day",
+             "date": "2015-10-27",
+             "countries":["MDV"
+             ],
+             "image": "Maldives",
+             "text": "The [National Bureau of Statistics] (http://www.planning.gov.mv/en/) of the Maldives released the results of the 2014 population and housing census on World Statistics Day. The results were presented at a ceremony held at Dharubaaruge. The release video is available [here](https://www.youtube.com/watch?v=vUC6Q0BBTw4). Photos can be found [here] (https://www.facebook.com/media/set/?set=a.498490353657586.1073741840.407389922767630&type=3).\n\n[![Maldives](img/posts/MDV_video.png)](https://www.youtube.com/watch?v=vUC6Q0BBTw4)"
+           },
+                 {
+                   "id": "214",
+                   "title":"Madagascar celebrates World Statistics Day",
+                   "date": "2015-10-27",
+                   "countries":["MDG"
+                   ],
+                   "image": "Madagascar_ICCA",
+                   "text": "The [Chamber of Commerce and Industry of Antananarivo (ICCA)] (http://www.cci.mg/) celebrated World Statistics Day 2015 with an exhibition of statistical data at the City Hall Analakely on 20 October 2015. In addition, a collection of the electronic version of the Statistical Yearbook of Ministries was posted on the [website of INSTAT] (http://www.instat.mg).  A collection of the electronic version of open data to power the [Open Data portal Madagascar] (http://madagascar.opendataforafrica.org) was also launched."
+                 },
+                 {
+                   "id": "213",
+                   "title":"Dominican Republic releases promotional video",
+                   "date": "2015-10-27",
+                   "countries":["DOM"
+                   ],
+                   "image": "Dominican2",
+                   "text": "The [National Statistical Office (ONE)] (http://one.gob.do/) has published a promotional video featuring 10 years of National Multi-Purpose Household Survey [Encuesta Nacional de Hogares y Propósitos Múltiples (ENHOGAR)] (http://www.one.gob.do/Estadisticas/216/encuesta-nacional-de-hogares-de-propositos-multiples-%28ENHOGAR%29).\n\n [![Dominican Republic video](img/posts/DOM_video.png)](https://www.youtube.com/watch?v=O9F-Rpr04BU)."
+                 },
+                 {
+                   "id": "212",
+                   "title":"Algeria celebrated World Statistics Day",
+                   "date": "2015-10-27",
+                   "countries":["DZA"
+                   ],
+                   "image": "Algeria",
+                   "text": "The [National Statistics Office of Algeria] (http://www.ons.dz/) celebrated World Statistics Day with an Open House at its offices on 20 October. The Office also issued a statement, which is available in [Arabic] (http://www.ons.dz/IMG/Communique_JMS2015enArabe.pdf), [English] (http://www.ons.dz/IMG/Communique_JMS2015enAnglais.pdf) and [French] (http://www.ons.dz/IMG/Communique_JMS2015enFrancais.pdf), in which the importance of new technologies was highlighted.\n\n More information can be found at [http://www.ons.dz/Journee-mondiale-de-la-statistique.html](http://www.ons.dz/Journee-mondiale-de-la-statistique.html)."
+                 },
+                 {
+                    "id": "211",
+                    "title":"Monaco celebrated World Statistics Day",
+                    "date": "2015-10-27",
+                    "countries":["MCO"
+                    ],
+                    "image": "Monaco2",
+                    "text": "On the occasion of World Statistics Day 2015, Monaco Statistics, the [Monegasque Institute of Statistics and Economic Studies (IMSEE)] (http://www.monacostatistics.mc/), held a conference with two objectives: to raise awareness of key players in Monegasque society and to show how high-quality data can serve society. IMSEE had invited speakers from a various fields, including health and scientific research, to testify to the importance placed upon the quality of data and show the usefulness of such data in their respective sectors. This conference was also an opportunity to present the census of the population that will take place in 2016. \n\n Video coverage is available [here] (https://www.youtube.com/watch?v=VIuEAUyvubg).\n\n [![Monaco video](img/posts/MCO_video.png)](https://www.youtube.com/watch?v=VIuEAUyvubg)."
+                  },
       {
               "id": "210",
               "title":"Department of Statistics Malaysia releases a new promotional video",
@@ -724,7 +992,7 @@
               "countries":["MYS"
               ],
               "image": "Malaysia_DS_video",
-              "text": "The Department of Statistics Malaysia [www.statistics.gov.my] releases a new promotional video:\n\n [![Malaysia](img/posts/Malaysia_video.jpg)](https://www.youtube.com/watch?v=VUcze_T0N30)"
+              "text": "The [Department of Statistics Malaysia] (http://www.statistics.gov.my) releases a new promotional video:\n\n [![Malaysia](img/posts/Malaysia_video.jpg)](https://www.youtube.com/watch?v=VUcze_T0N30)"
             },
             {
               "id": "209",
@@ -823,7 +1091,7 @@
         "countries":  ["GBR"
         ],
         "image": "Wales",
-        "text": "The [Government of Wales] (http://www.gov.wales/statistics) celebrated World Statistics Day with an Update by the [Chief Statistician] (http://gov.wales/statistics-and-research/about/user-engagement/chief-statisticians-update/?lang=en) and a promotional stand that featured not only a [statistical quiz] (files/Quiz-WelshGovernment-WorldStatisticsDay2015.pdf) but also with sweet versions of our friendly logo ([see pictures in gallery](photo-gallery.html))."
+        "text": "The [Government of Wales] (http://www.gov.wales/statistics) celebrated World Statistics Day with an Update by the [Chief Statistician] (http://gov.wales/statistics-and-research/about/user-engagement/chief-statisticians-update/?lang=en) and a promotional stand that featured not only a [statistical quiz] (files/WSD_Welsh_Q.pdf) but also with sweet versions of our friendly logo ([see pictures in gallery](photo-gallery.html))."
       },
       {
         "id": "198",
@@ -877,7 +1145,7 @@
         "countries":  ["LCA"
         ],
         "image": "StLucia",
-        "text": "On the occasion of World Statistics Day 2015, Edwin Catherine, the chief statistician of St. Lucia, spoke about the “particular challenges in this new information era” and the potential of big data. News coverage can be found here.\n\n [![Saint Lucia](img/posts/StLucia-video.jpg)](https://www.youtube.com/watch?v=ZT-rr-1rekg)"
+        "text": "On the occasion of World Statistics Day 2015, Edwin Catherine, the chief statistician of St. Lucia, spoke about the “particular challenges in this new information era” and the potential of big data. News coverage can be found below.\n\n [![Saint Lucia](img/posts/StLucia-video.jpg)](https://www.youtube.com/watch?v=ZT-rr-1rekg)"
       },
       {
         "id": "192",
@@ -2215,7 +2483,7 @@
       "organisations": ["CSS"
       ],
       "image": "Catalonia",
-      "text":"[The Statistical Institute of Catalonia](http://www.idescat.cat/) is joining UN and other institutions in the world to celebrate the World Statistics Day 2015. We have included a [short promotional vídeo](https://www.youtube.com/watch?v=IH4TAKZQzkc) in our web site.\n\n Together with the Catalan Statistical Society, we will celebrate an event on October 20 in Barcelona, where a Data Manifesto will be made públic. It will be published in our [web page](http://www.idescat.cat/metodes/manifestdades/?lang=en)."
+      "text":"[The Statistical Institute of Catalonia](http://www.idescat.cat/) is joining UN and other institutions in the world to celebrate the World Statistics Day 2015. They have included a [short promotional vídeo](https://www.youtube.com/watch?v=IH4TAKZQzkc) in their web site.\n\n Together with the Catalan Statistical Society, they will celebrate an event on October 20 in Barcelona, where a Data Manifesto will be made públic. It will be published in their [web page](http://www.idescat.cat/metodes/manifestdades/?lang=en)"
     },
     {
       "id": "49",
