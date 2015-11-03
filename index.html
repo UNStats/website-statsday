@@ -451,7 +451,7 @@
         {{/country}} {{/codes}}
     </script>
 
-    <!-- Mustache template for international organisation list -->
+    <!-- Mustache template for the international organisations list -->
     <script id="organisations-template" type="text/template">
         {{#codes}} {{#organisation}} {{#isInternational}}
         <li>
@@ -460,7 +460,7 @@
         {{/isInternational}} {{/organisation}} {{/codes}}
     </script>
 
-    <!-- Mustache template for six latest posts -->
+    <!-- Mustache template for the six latest posts -->
     <script id="posts-template" type="text/template">
         {{#posts}}
         <li class="col-md-4 col-sm-6 latest-post">
@@ -482,12 +482,12 @@
             /* Read all posts in the JSON file  */
             $.getJSON('js/posts.json', function(data) {
 
-                /* Fill country template  */
+                /* Fill countries template  */
                 var template = $('#countries-template').html();
                 var items = Mustache.to_html(template, data);
                 $('#countries').html(items);
 
-                /* Fill organisation template  */
+                /* Fill organisations template  */
                 template = $('#organisations-template').html();
                 _(data.codes.organisation).map(function(o) { o.isInternational = o.type === 'international'; return o; }).value();
                 items = Mustache.to_html(template, data);

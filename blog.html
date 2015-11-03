@@ -227,7 +227,7 @@
     {{/country}} {{/codes}}
   </script>
 
-  <!-- Mustache template for international organisations in mobile version -->
+  <!-- Mustache template for international organisations for dropdown in mobile version -->
   <script id="organisations-template" type="text/template">
     <option value="Select an organisation">Select an organisation</option>
     {{#codes}} {{#organisation}} {{#isInternational}}
@@ -286,24 +286,24 @@
         $.getJSON('js/posts.json', function(data) {
 
             /* Desktop version */
-            /* Fill country template  */
+            /* Fill countries template  */
             var template = $('#countries-d-template').html();
             var items = Mustache.to_html(template, data);
             $('#countries-d').html(items);
 
-            /* Fill organisation template  */
+            /* Fill organisations template  */
             template = $('#organisations-d-template').html();
             _(data.codes.organisation).map(function(o) { o.isInternational = o.type === 'international'; return o; }).value();
             items = Mustache.to_html(template, data);
             $('#organisations-d').html(items);
 
             /* Mobile version */
-            /* Fill country template  */
+            /* Fill countries template  */
             template = $('#countries-template').html();
             items = Mustache.to_html(template, data);
             $('#countries').html(items);
 
-            /* Fill organisation template  */
+            /* Fill organisations template  */
             template = $('#organisations-template').html();
             _(data.codes.organisation).map(function(o) { o.isInternational = o.type === 'international'; return o; }).value();
             items = Mustache.to_html(template, data);

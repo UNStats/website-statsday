@@ -1,4 +1,4 @@
-/* Get the search parameters from the URL  ----------------------------------------- */
+/* Get the query strings from the URL  ----------------------------------------- */
 function getParameterByName(name) {
     name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
     var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
@@ -6,7 +6,7 @@ function getParameterByName(name) {
     return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
 }
       
-/* Code for filtering functionality ------ ----------------------------------------- */
+/* Filtering by country, international organisation and other organisations ------ */
 $(function () {
      /* Read all posts in the JSON file  */
     $.getJSON('js/posts.json', function (data) {
@@ -26,7 +26,7 @@ $(function () {
         /* Fill the organisations template  */
         var organisations = data.codes.organisation;
 
-        /* If organisations, get the organisation names associated with the codes  */
+        /* If organisations, get the organisation names or organisation type associated with the codes  */
         if (organisations) {
             /* Lookup by code */
             organisations.lookup = function (code) {
@@ -38,7 +38,7 @@ $(function () {
             }
         }
 
-        /* Take a post, string the provider/s together and return the completed post  */
+        /* Take a post, add the provider/s and return the completed post  */
         var addProvider = function (post) {
             post.provider = function () {
                 var cs = _(this.countries || []).map(function (code) { return countries.lookup(code); });
@@ -56,20 +56,20 @@ $(function () {
             return post;
         };
 
-        /* Call function getParameterByName to get the search parameters and assign them to a variable [array] */
-        /* international organisations  */
+        /* Call function getParameterByName to get the query strings and assign them to a variable [array] */
+        /* International organisations  */
         var o = getParameterByName('o');
-        /* otehr organisations  */
+        /* Other organisations  */
         var ot = getParameterByName('ot');
-        /* country  */
+        /* Country  */
         var c = getParameterByName('c');
-        /* item = post  */
+        /* Item = post  */
         var i = getParameterByName('i');
         
-        /* Call function addProvider to list one or more providers to a post */
+        /* Call function addProvider to add one or more providers to a post */
         var posts = _(data.posts).map(addHtml).map(addProvider);
 
-        /* If organisations */
+        /* If international organisations */
         if (o !== '') {
             /* Get all posts by organisations */
             posts = posts.where({ 'organisations': [o] });
@@ -85,7 +85,7 @@ $(function () {
         if (ot !== '') {
             /* Get all codes for other organisations */
             var os = organisations.lookupByType(ot);
-            /* Get all posts by other organisations */
+            /* Get all posts by other organisations based on the previous lookup */
             posts = posts.filter(function (p) { return _.some(_.intersection(p.organisations, os)); });
             /* Show div #remove-filter, a link to reset filters */
             $("#remove-filter").removeClass("make-visible");
