@@ -754,14 +754,15 @@
               "text": "On 20 October 2015 we celebrated the second World Statistics Day. We thank all our partners across the globe who initiated, organized or took part in activities to celebrate this special Day. This website will remain active as a repository of photos, videos, reports, press clippings etc. on the observance of World Statistics Day 2015 worldwide.\n\n We invite you to share with us how you celebrated World Statistics Day [(statistics@un.org)](mailto:statistics@un.org).\n\n![UNSD Staff Better Data Better Lives](img/posts/BetterDataBetterLives.jpg)\n\n The staff of the United Nations Statistics Division."
             },
             {
-            "id": "1003",
-            "title":"Message of the Director of the United Nations Statistics Division World Statistics Day 2015",
-            "date": "2015-10-20",
-            "organisations":["UN"
-            ],
-            "image": "Schweinfest",
-            "text": "\"... this World Statistics Day is an excellent opportunity to start a conversation between users and producers of statistics and data at all levels. It is an opportunity to showcase our achievements centred around the key concepts of quality and sustainability, and to demonstrate our unique position as official statisticians to contribute to improving the lives of many through our products – living up to our vision statement: Better Data. Better Lives.\" *Stefan Schweinfest* \n\n\n\n \n\n [![Better data for better lives: Celebrating World Statistics Day 2015](./img/posts/Schweinfest-StatsDay15-Video.png)](https://www.youtube.com/embed/JhheWKSufL4 \"Better data for better lives: Celebrating World Statistics Day 2015\")\n\nThe full text of UNSD Director's message on World Statistics Day 2015 is available here:\n\n*   [English](files/Statement-WSD-Stefan-Final.pdf)\n*  [Spanish](files/Statement-WSD-Stefan-Final-S.pdf)"
+              "id": "1001",
+              "title":"Finalists and winning solution to the #StatsDay15 Data Visualization Challenge",
+              "date": "2015-10-20",
+              "organisations":["UN"
+              ],
+              "image": "Data_Vis",
+              "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
             },
+
             {
               "id": "237",
               "title":"UNSD staff celebrates World Statistics Day",
@@ -1147,6 +1148,15 @@
         "text": "The [National Statistical Service] (http://www.armstat.am) of the Republic of Armenia issued a press release (in Armenian) which can be found [here](http://www.armstat.am/en/?nid=54&id=454)."
       },
       {
+      "id": "1003",
+      "title":"Message of the Director of the United Nations Statistics Division World Statistics Day 2015",
+      "date": "2015-10-20",
+      "organisations":["UN"
+      ],
+      "image": "Schweinfest",
+      "text": "\"... this World Statistics Day is an excellent opportunity to start a conversation between users and producers of statistics and data at all levels. It is an opportunity to showcase our achievements centred around the key concepts of quality and sustainability, and to demonstrate our unique position as official statisticians to contribute to improving the lives of many through our products – living up to our vision statement: Better Data. Better Lives.\" *Stefan Schweinfest* \n\n\n\n \n\n [![Better data for better lives: Celebrating World Statistics Day 2015](./img/posts/Schweinfest-StatsDay15-Video.png)](https://www.youtube.com/embed/JhheWKSufL4 \"Better data for better lives: Celebrating World Statistics Day 2015\")\n\nThe full text of UNSD Director's message on World Statistics Day 2015 is available here:\n\n*   [English](files/Statement-WSD-Stefan-Final.pdf)\n*  [Spanish](files/Statement-WSD-Stefan-Final-S.pdf)"
+      },
+      {
         "id": "193",
         "title":"St. Lucia observes World Statistics Day",
         "date": "2015-10-23",
@@ -1484,15 +1494,6 @@
         ],
         "image": "Canada_McGill",
         "text": "The [Biostatistics group] (http://www.mcgill.ca/epi-biostat-occh/) at [McGill University] (http://www.mcgill.ca) in Montreal (Canada) celebrated World Statistics Day in a sweet way. Approximately 45 students, faculty, and other appreciators of statistics gathered for cupcakes and coffee to celebrate before their weekly [seminar series] (http://www.mcgill.ca/epi-biostat-occh/news-events/seminars/biostatistics). \n\n [![here] (img/posts/Canada_McGill_photo.jpg)](img/posts/Canada_McGill_photo.jpg)"
-      },
-      {
-        "id": "1001",
-        "title":"Finalists and winning solution to the #StatsDay15 Data Visualization Challenge",
-        "date": "2015-10-20",
-        "organisations":["UN"
-        ],
-        "image": "Data_Vis",
-        "text": "On World Statistics Day 2015, the [United Nations Statistics Division]( http://unstats.un.org/ ) and [Unite Ideas]( https://unite.un.org/ideas/closed/400) are proud to announce the finalists and winning solution to the #StatsDay15 Data Visualization Challenge competition.\n\nWe invite you to [browse the gallery](https://worldstatisticsday.org/data-visualisation-challenge.html) and explore the winning solution, submitted by Jeremy Boy from France, as well as other five finalist solutions.\n\nWe are delighted by the quality and the creativity of all the submissions by talented participants from all around the World, all of which provide valuable insights into relevant development policy question based on the indicators of the [MDG database]( http://mdgs.un.org/unsd/mdg/Metadata.aspx)."
       },
       {
         "id": "156",
