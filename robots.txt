@@ -1,7 +1,0 @@
-# http://www.sitemaps.org/protocol.html#informing
-Sitemap: https://worldstatisticsday.org/sitemap.xml
-
-# http://www.robotstxt.org/robotstxt.html
-
-User-agent: *
-Disallow:
