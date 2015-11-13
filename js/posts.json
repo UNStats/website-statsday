@@ -214,6 +214,10 @@
         "name": "Kazakhstan"
       },
       {
+        "code": "KWT",
+        "name": "Kuwait"
+      },
+      {
         "code": "LAO",
         "name": "Lao People's Democratic Republic"
       },
@@ -761,6 +765,24 @@
             ],
             "image": "Schweinfest",
             "text": "\"... this World Statistics Day is an excellent opportunity to start a conversation between users and producers of statistics and data at all levels. It is an opportunity to showcase our achievements centred around the key concepts of quality and sustainability, and to demonstrate our unique position as official statisticians to contribute to improving the lives of many through our products – living up to our vision statement: Better Data. Better Lives.\" *Stefan Schweinfest* \n\n\n\n \n\n [![Better data for better lives: Celebrating World Statistics Day 2015](./img/posts/Schweinfest-StatsDay15-Video.png)](https://www.youtube.com/embed/JhheWKSufL4 \"Better data for better lives: Celebrating World Statistics Day 2015\")\n\nThe full text of UNSD Director's message on World Statistics Day 2015 is available here:\n\n*   [English](files/Statement-WSD-Stefan-Final.pdf)\n*  [Spanish](files/Statement-WSD-Stefan-Final-S.pdf)"
+            },
+            {
+              "id": "240",
+              "title":"World Statistics Day in Togo",
+              "date": "2015-11-13",
+              "countries":["TGO"
+              ],
+              "image": "Togo2",
+              "text": "The [National Institute of Statistics and Economic and Demographic Studies (INSEED)] (http://www.stat-togo.org) and the National Statistical System (NSS) of Togo marked World Statistics Day with an official ceremony. The ceremony was attended by experts from the Commission of [ECOWAS] (http://www.ecowas.int), the [United Nations Statistics Division (UNSD)] (http://unstats.un.org) and from 15 Member States of ECOWAS, who were in Lomé from 19 to 23 in October 2015 for a regional workshop on environment statistics.The Institute published a video about the event, which you access [here] (photo-gallery.html). Media coverage is also available [here] (files/Togo_WSD_media.pdf)."
+            },
+            {
+              "id": "239",
+              "title":"Kuwait Central Statistical Bureau celebrated World Statistics Day",
+              "date": "2015-11-13",
+              "countries":["KWT"
+              ],
+              "image": "Kuwait",
+              "text": "The [Kuwait Central Statistical Bureau (CSB)] (http://csb.gov.kw) organized an event under the auspices of the Minister of Social Affairs and Labor and Minister of State for Planning and Development. The event was attended by users and producers of statistics, senior officials from State Ministries, private sector entities, research centers, International Organizations and representatives of the media.\n\n At the opening ceremony, the Assistant Undersecretary for statistical work made a speech on behalf of Her Excellency, Kuwait Minister of Social Affairs and Labor and Minister of State for Planning and Development; CSB‘s General Director and a representative from the United Nations Development Program (UNDP) also made presentations. During the event information kits were distributed to the participants, including a user-friendly booklet with the most important data. The most important statistical releases carried out during the year 2015 were also distributed.\n\n During the celebration a documentary film entitled [“The Central Statistical Bureau: history and achievements”] (https://youtu.be/IQ_j4NLn1_E) was presented. The film shows the history of statistics in the State of Kuwait starting with its independence. A statistical exhibition was organized, one part was devoted to the historical bulletins published since the creation of the Central Statistical Bureau for more than five decades and another exhibition was reserved to the new statistical publications.\n\n The Statistics Club at the Department of Statistics in the [Kuwait University] (http://www.kuniv.edu/) was invited to participate in the World Statistics Day. The Club had a pavilion in the exhibition area. \n\n News related to the celebration was reported in most newspapers and in some Radio and Television programs as well.\n\n More details on the celebrations can be found here in [Arabic] (files/Kuwait_Arabic.pdf) and [English] (files/Kuwait_English.pdf). Photos are available in our [Gallery] (photo-gallery.html).\n\n [![Kuwait video](img/posts/Kuwait_video.png)](https://www.youtube.com/watch?v=IQ_j4NLn1_E)"
             },
             {
               "id": "238",
@@ -2278,7 +2300,7 @@
       "countries": ["TGO"
       ],
       "image": "Togo",
-      "text":"[The National Institute of Statistics and Economic and Demographic Studies (INSEED)] (http://www.stat-togo.org) and the National Statistical System (NSS) of Togo will mark World Statistics Day with various high level events. On 19 October, radio and TV stations will broadcast a message of the Minister of Development Planning to raise awareness of the importance of statistics for socio-economic development.\n\n The actual day will be marked by an official ceremony, which will include a statement on behalf of the Secretary-General of the United Nations as well as presentations on the day’s theme “Better data. Better lives.”, on the national statistical system and on the importance of statistics in the socio-economic life of the country. An exhibition of the statistical outputs of the national statistical system will be organized and promotional material such as buttons and t-shirts with the logo of the day will be provided.\n\n The ceremony will be attended by experts from the Commission of [ECOWAS] (http://www.ecowas.int), the [United Nations Statistics Division (UNSD)] (unstats.un.org) and from 15 Member States of ECOWAS, who will be in Lomé from 19 to 23 in October 2015 for a regional workshop on environment statistics."
+      "text":"[The National Institute of Statistics and Economic and Demographic Studies (INSEED)] (http://www.stat-togo.org) and the National Statistical System (NSS) of Togo will mark World Statistics Day with various high level events. On 19 October, radio and TV stations will broadcast a message of the Minister of Development Planning to raise awareness of the importance of statistics for socio-economic development.\n\n The actual day will be marked by an official ceremony, which will include a statement on behalf of the Secretary-General of the United Nations as well as presentations on the day’s theme “Better data. Better lives.”, on the national statistical system and on the importance of statistics in the socio-economic life of the country. An exhibition of the statistical outputs of the national statistical system will be organized and promotional material such as buttons and t-shirts with the logo of the day will be provided.\n\n The ceremony will be attended by experts from the Commission of [ECOWAS] (http://www.ecowas.int), the [United Nations Statistics Division (UNSD)] (http://unstats.un.org/) and from 15 Member States of ECOWAS, who will be in Lomé from 19 to 23 in October 2015 for a regional workshop on environment statistics."
     },
     {
       "id": "74",
