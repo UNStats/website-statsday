@@ -1,0 +1,118 @@
+{
+  "types": {
+    "type": [
+      {
+        "code": "EGM",
+        "name": "Expert Group Meeting"
+      },
+      {
+        "code": "SC",
+        "name": "Statistical Commission"
+      }
+    ]
+  },
+  "cities": {
+    "city": [
+      {
+        "code": "USA",
+        "name": "United States of America",
+        "city": "New York"
+      },
+      {
+        "code": "AUT",
+        "name": "Austria",
+        "city": "Vienna"
+      }
+    ]
+  },
+  "tags": {
+    "tag": [
+      {
+        "code": "SDGs",
+        "name": "Social Development Indicators"
+      },
+      {
+        "code": "Indicators",
+        "name": "Indicators"
+      }
+    ]
+  },
+  "unsd-branches": {
+    "unsd-branch": [
+      {
+        "code": "SSB",
+        "name": "Social Statistics Branch"
+      },
+      {
+        "code": "ESB",
+        "name": "Economics Statistics Branch"
+      }
+    ]
+  },
+  "unsd-work-areas": {
+    "unsd-work-area": [
+      {
+        "code": "DI",
+        "name": "Development Indicators"
+      },
+      {
+        "code": "SI",
+        "name": "Social Indicators"
+      }
+    ]
+  },
+  "events": {
+    "event": [
+      {
+        "id": "1",
+        "type": "EGM",
+        "title": "Expert Group Meeting on the indicator framework for the post-2015 development agenda",
+        "start": "2015-02-15",
+        "end": "2015-02-16",
+        "city": "New York, United States",
+        "venue": "UN Headquarters, Conference Room 3",
+        "description": "The Expert Group Meeting on the indicator framework for the post-2015 development agenda (EGM) took place on 25 and 26 February 2015 in New York. The 110 participants of the EGM included representatives from 22 countries, 28 agencies, funds and programmes and three United Nations Regional Commissions. Approximately 40 observers from civil society, academia and Permanent Missions to the United Nations also attended the meeting./n/nThe meeting aimed to discuss the organization of work and the key elements and principles for the development and design of the indicator framework for the post-2015 development agenda. The discussion focused on the overall process, rather than on indicator proposals in specific areas. Yet, a few individual indicators were reviewed for illustration purposes, informing the discussion./n/nThe [conclusions](http://unstats.un.org/unsd/statcom/doc15/BG-EGM-SDG-summary1.pdf) of EGM meeting were provided as a background document to the forty-sixth session of the Statistical Commission the following week, under agenda item 3 (a) Data in support of the post-2015 development agenda (i) Broader measures of progress.",
+        "main-page-url": "http://unstats.un.org/sdgs/meetings/egm-on-indicator-framework",
+        "concept-note-file-url": "http://unstats.un.org/unsd/post-2015/activities/egm-on-indicator-framework/EGM%20on%20SDG%20indicators%20-%20Concept%20note%20(as%20of%2030%20Jan).pdf",
+        "agenda-file-url": "http://unstats.un.org/unsd/post-2015/activities/egm-on-indicator-framework/EGM%20on%20SDG%20indicators%20-%20Feb2015%20-%20Provisional%20agenda%20and%20programme%20(as%20of%2024%20Feb).pdf",
+        "participants-file-url": "http://unstats.un.org/unsd/post-2015/activities/egm-on-indicator-framework/Report_EGM-post2015-25-26%20February%202015.pdf",
+        "report-file-url": "http://unstats.un.org/unsd/post-2015/activities/egm-on-indicator-framework/Report_EGM-post2015-25-26%20February%202015.pdf",
+        "tags": [
+          "SDGs",
+          "Indicators"
+        ],
+        "unsd-branch": [
+          "SSB"
+        ],
+        "unsd-work-area": [
+          "DI"
+        ]
+      },
+      {
+        "id": "2",
+        "type": "EGM",
+        "title": "First meeting of the IAEG-SDGs",
+        "start": "2015-06-01",
+        "end": "2015-06-02",
+        "city": "New York, United States",
+        "venue": "UN Headquarters, Conference Room 3",
+        "description": "The IAEG-SDGs was established by the Statistical Commission at its 46th session to develop an indicator framework for the monitoring of the goals and targets of the post-2015 development agenda at the global level, and to support its implementation.\n###Meeting objectives:###\n- set up the process for the development of the indicator framework;\n- develop a work plan and agree on the way forward;\n- establish the methods of work of the group; and\n- discuss technical issues, including the interlinkages across targets and data disaggregation.",
+        "main-page-url": "http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-01",
+        "concept-note-file-url": "http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-01",
+        "agenda-file-url": "http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-01",
+        "participants-file-url": "http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-01",
+        "report-file-url": "http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-01",
+        "tags": [
+          "SDGs",
+          "Indicators"
+        ],
+        "unsd-branch": [
+          "SSB"
+        ],
+        "unsd-work-area": [
+          "DI"
+        ]
+      }
+    ]
+  }
+}
