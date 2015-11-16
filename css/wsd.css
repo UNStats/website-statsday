@@ -388,6 +388,49 @@ ul#posts {
 
 /* /Blog posts ---------------------------------- */
 
+/* Events -----`--------------------------------- */
+
+ul#events {
+    list-style: none;
+    padding: 0;
+}
+
+.event {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 3px 2px -2px #e7e7e7;
+}
+
+.date {
+    border-right: solid 1px #ccc;
+}
+
+.month {
+    text-transform: uppercase;
+}
+.day {
+    font-size: 50px;
+    color: #888;
+}
+
+.event-heading {
+    color: #069;
+    margin-bottom: 20px;
+}
+
+.event-details {
+    border-left: solid 1px #ccc;
+}
+
+.event-body img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+/* /Events -------------------------------------- */
+
 /* Resources ------------------------------------ */
 
 .thumbnail h4 {
