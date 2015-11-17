@@ -110,25 +110,17 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <h3 class="section-heading text-center">Activities</h3>
-                    <div class="active-countries country-scrolling">
-                        <h5 class="text-center">Countries/areas</h5>
-                        <ul id="countries" class="country-list">
-                        </ul>
-                    </div>
-                    <div class="active-countries organisation-scrolling">
-                        <h5 class="text-center">International Organisations</h5>
-                        <ul id="organisations">
-                        </ul>
-                    </div>
+                <!-- <div class="col-md-3">
                     <div class="active-countries">
-                        <a href="blog.html?ot=other"><h5 class="text-center">Non-Governmental Organisations</h5></a>
+                        <h5 class="text-center">Cities</h5>
+                        <ul id="locations" class="country-list">
+                        </ul>
+                        <hr />
+                        <h5 class="text-center">UNSD Work Areas</h5>
+                        <ul id="unsd-work-areas" class="country-list">
+                        </ul>
                     </div>
-                    <div>
-                        <a class="twitter-timeline" href="https://twitter.com/hashtag/StatsDay15" data-widget-id="647063179797897216">#StatsDay15 Tweets</a>
-                    </div>
-                </div>
+                </div> -->
             </div>
         </div>
         <!-- /.container -->
@@ -200,22 +192,25 @@
     <!-- lodash library -->
     <script src="js/lodash.min.js"></script>
 
-    <!-- Mustache template for country list -->
-    <script id="countries-template" type="text/template">
-        {{#codes}} {{#country}}
+    <!-- WSD events JS -->
+    <script src="js/wsd-events.js"></script>
+
+    <!-- Mustache template for locations list -->
+    <script id="locations-template" type="text/template">
+        {{#locations}}
         <li>
-            <a href="blog.html?c={{code}}"><img src="img/flags_15/flag_button_{{code}}.jpg" alt="{{name}} flag" /> {{name}}</a>
+            <a href="calendar.html?c={{city-code}}"><img src="img/flags_15/flag_button_{{country-code}}.jpg" alt="{{name}} flag" /> {{city}}</a>
         </li>
-        {{/country}} {{/codes}}
+        {{/locations}}
     </script>
 
-    <!-- Mustache template for the international organisations list -->
-    <script id="organisations-template" type="text/template">
-        {{#codes}} {{#organisation}} {{#isInternational}}
+    <!-- Mustache template for UNSD work area list -->
+    <script id="unsd-work-areas-template" type="text/template">
+        {{#unsd-work-areas}}
         <li>
-            <a href="blog.html?o={{code}}">{{name}}</a>
+            <a href="calendar.html?w={{code}}"> {{name}}</a>
         </li>
-        {{/isInternational}} {{/organisation}} {{/codes}}
+        {{/unsd-work-areas}}
     </script>
 
     <!-- Mustache template for events -->
@@ -223,21 +218,26 @@
         {{#events}}
         <li class="post">
             <div class="row">
-                <div class="col-md-2 text-center">
+                <!-- <div class="col-md-2 text-center">
                     <div class="month">June</div>
                     <div class="day">11</div>
                     <div class="year">
                         <p>2015</p>
                     </div>
-                </div>
-                <div class="col-md-10 event-details">
+                </div> -->
+                <div class="col-md-10 event-details col-md-offset-1">
                     <p class="event-heading lead"><strong>{{title}}</strong></p>
-                    <p><strong>{{city}}, {{venue}}</strong></p>
-                    <p><em>{{start}} - {{end}}</em></p>
-                    <p>{{description}}</p>
-                    <hr />
-                    <span class="label label-primary">{{tags}}</span> | 
-                    <span class="label label-warning"><a href="{{main-page-url}}">More</a></span>
+                    <div class="event-time-location">
+                        <p class="text-muted"><em><i class="fa fa-calendar"></i> {{start}} - {{end}}</em></p>
+                        <p class="text-muted"><span><i class="fa fa-globe"></i> {{city}}</span>
+                            <spna><i class="fa fa-map-marker"></i> {{venue}}</span>
+                        </p>
+                    </div>
+                    <p>{{introduction}}</p>
+                    <div class="event-tags">
+                        <p><span class="label label-primary">SDGs</span> <span class="label label-primary">Indicators</span></p>
+                    </div>
+                    <p class="pull-right"><a href="{{main-page-url}}">Read more <i class="fa fa-arrow-circle-right"></i></a></p>
                 </div>
             </div>
         </li>
@@ -250,11 +250,21 @@
             /* Read all posts in the JSON file  */
             $.getJSON('js/events.json', function(data) {
 
-                /* Fill countries template  */
+                /* Fill events template */
                 var template = $('#events-template').html();
                 var items = Mustache.to_html(template, data);
-                $('#events').html(items);
-            });
+                $('#events').html(items); 
+                
+                /* Fill cities template  */
+                template = $('#locations-template').html();
+                items = Mustache.to_html(template, data);
+                $('#locations').html(items);
+                                
+                /* Fill unsd-work-areas-template template  */
+                template = $('#unsd-work-areas-template').html();
+                items = Mustache.to_html(template, data);
+                $('#unsd-work-areas').html(items);
+                });
         });
     </script>
 

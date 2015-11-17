@@ -420,13 +420,34 @@ ul#events {
 }
 
 .event-details {
-    border-left: solid 1px #ccc;
+    /*border-left: solid 1px #ccc;*/
+}
+
+.event-time-location {
+    margin-bottom: 20px;
+}
+
+.event-time-location p {
+    margin-bottom: 3px;
+}
+
+.event-time-location span {
+    margin-right: 15px;
+}
+
+.event-time-location i {
+    margin-right: 5px;
+    color: #8bb2c6;
 }
 
 .event-body img {
     display: block;
     max-width: 100%;
     height: auto;
+}
+
+.event-tags {
+    margin-top: 20px;
 }
 
 /* /Events -------------------------------------- */
