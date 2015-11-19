@@ -110,7 +110,7 @@
                         </ul>
                     </div>
                 </div>
-                <!-- <div class="col-md-3">
+                <div class="col-md-3">
                     <div class="active-countries">
                         <h5 class="text-center">Cities</h5>
                         <ul id="locations" class="country-list">
@@ -119,8 +119,16 @@
                         <h5 class="text-center">UNSD Work Areas</h5>
                         <ul id="unsd-work-areas" class="country-list">
                         </ul>
+                        <hr />
+                        <h5 class="text-center">Tags</h5>
+                        <ul id="tags" class="country-list">
+                        </ul>
+                        <hr />
+                        <h5 class="text-center">Event type</h5>
+                        <ul id="types" class="country-list">
+                        </ul>
                     </div>
-                </div> -->
+                </div>
             </div>
         </div>
         <!-- /.container -->
@@ -199,7 +207,7 @@
     <script id="locations-template" type="text/template">
         {{#locations}}
         <li>
-            <a href="calendar.html?c={{city-code}}"><img src="img/flags_15/flag_button_{{country-code}}.jpg" alt="{{name}} flag" /> {{city}}</a>
+            <a href="calendar.html?l={{city-code}}"><img src="img/flags_15/flag_button_{{country-code}}.jpg" alt="{{name}} flag" /> {{city}}</a>
         </li>
         {{/locations}}
     </script>
@@ -212,10 +220,28 @@
         </li>
         {{/unsd-work-areas}}
     </script>
+    
+    <!-- Mustache template for tag list -->
+    <script id="tags-template" type="text/template">
+        {{#tags}}
+        <li>
+            <a href="calendar.html?t={{code}}"> {{name}}</a>
+        </li>
+        {{/tags}}
+    </script>
+    
+    <!-- Mustache template for tag list -->
+    <script id="types-template" type="text/template">
+        {{#types}}
+        <li>
+            <a href="calendar.html?ty={{code}}"> {{name}}</a>
+        </li>
+        {{/types}}
+    </script>
 
     <!-- Mustache template for events -->
     <script id="events-template" type="text/template">
-        {{#events}}
+        {{#.}}
         <li class="post">
             <div class="row">
                 <!-- <div class="col-md-2 text-center">
@@ -233,15 +259,17 @@
                             <spna><i class="fa fa-map-marker"></i> {{venue}}</span>
                         </p>
                     </div>
-                    <p>{{introduction}}</p>
+                    <p>{{description}}</p>
                     <div class="event-tags">
-                        <p><span class="label label-primary">SDGs</span> <span class="label label-primary">Indicators</span></p>
+                        {{#tags}}
+                            <a href="calendar.html?t={{.}}" class="label label-primary">{{.}}</a>
+                        {{/tags}}
                     </div>
                     <p class="pull-right"><a href="{{main-page-url}}">Read more <i class="fa fa-arrow-circle-right"></i></a></p>
                 </div>
             </div>
         </li>
-        {{/events}}
+        {{/.}}
     </script>
 
     <!-- Javascript to load JSON file -->
@@ -249,21 +277,26 @@
         $(function() {
             /* Read all posts in the JSON file  */
             $.getJSON('js/events.json', function(data) {
-
-                /* Fill events template */
-                var template = $('#events-template').html();
-                var items = Mustache.to_html(template, data);
-                $('#events').html(items); 
-                
+               
                 /* Fill cities template  */
-                template = $('#locations-template').html();
-                items = Mustache.to_html(template, data);
+                var template = $('#locations-template').html();
+                var items = Mustache.to_html(template, data);
                 $('#locations').html(items);
                                 
                 /* Fill unsd-work-areas-template template  */
                 template = $('#unsd-work-areas-template').html();
                 items = Mustache.to_html(template, data);
                 $('#unsd-work-areas').html(items);
+               
+                /* Fill tags template  */
+                template = $('#tags-template').html();
+                items = Mustache.to_html(template, data);
+                $('#tags').html(items);
+                
+                /* Fill tags template  */
+                template = $('#types-template').html();
+                items = Mustache.to_html(template, data);
+                $('#types').html(items);
                 });
         });
     </script>

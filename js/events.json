@@ -11,10 +11,10 @@
   ],
   "locations": [
     {
-      "country-code": "AUT",
-      "country-name": "Austria",
-      "city": "Vienna",
-      "city-code": "VIE"
+      "country-code": "KOR",
+      "country-name": "Republic of Korea",
+      "city": "Seoul",
+      "city-code": "SEO"
     },
     {
       "country-code": "USA",
@@ -25,12 +25,16 @@
   ],
   "tags": [
     {
-      "code": "SDGs",
-      "name": "Social Development Indicators"
+      "code": "IAEG-SDGs",
+      "name": "IAEG-SDGs"
     },
     {
       "code": "Indicators",
       "name": "Indicators"
+    },
+    {
+      "code": "SDGs",
+      "name": "Social Development Indicators"
     }
   ],
   "unsd-branches": [
@@ -44,6 +48,10 @@
     }
   ],
   "unsd-work-areas": [
+    {
+      "code": "CB",
+      "name": "Capacity Building"
+    },
     {
       "code": "DI",
       "name": "Development Indicators"
@@ -62,8 +70,7 @@
       "end": "2015-02-16",
       "city": "NYC",
       "venue": "UN Headquarters, Conference Room 3",
-      "introduction": "The Expert Group Meeting on the indicator framework for the post-2015 development agenda (EGM) took place on 25 and 26 February 2015 in New York. The 110 participants of the EGM included representatives from 22 countries, 28 agencies, funds and programmes and three United Nations Regional Commissions.",
-      "description": "Approximately 40 observers from civil society, academia and Permanent Missions to the United Nations also attended the meeting./n/nThe meeting aimed to discuss the organization of work and the key elements and principles for the development and design of the indicator framework for the post-2015 development agenda. The discussion focused on the overall process, rather than on indicator proposals in specific areas. Yet, a few individual indicators were reviewed for illustration purposes, informing the discussion./n/nThe [conclusions](http://unstats.un.org/unsd/statcom/doc15/BG-EGM-SDG-summary1.pdf) of EGM meeting were provided as a background document to the forty-sixth session of the Statistical Commission the following week, under agenda item 3 (a) Data in support of the post-2015 development agenda (i) Broader measures of progress.",
+      "description": "The Expert Group Meeting on the indicator framework for the post-2015 development agenda (EGM) took place on 25 and 26 February 2015 in New York. The 110 participants of the EGM included representatives from 22 countries, 28 agencies, funds and programmes and three United Nations Regional Commissions. Approximately 40 observers from civil society, academia and Permanent Missions to the United Nations also attended the meeting./n/nThe meeting aimed to discuss the organization of work and the key elements and principles for the development and design of the indicator framework for the post-2015 development agenda. The discussion focused on the overall process, rather than on indicator proposals in specific areas. Yet, a few individual indicators were reviewed for illustration purposes, informing the discussion./n/nThe [conclusions](http://unstats.un.org/unsd/statcom/doc15/BG-EGM-SDG-summary1.pdf) of EGM meeting were provided as a background document to the forty-sixth session of the Statistical Commission the following week, under agenda item 3 (a) Data in support of the post-2015 development agenda (i) Broader measures of progress.",
       "main-page-url": "http://unstats.un.org/sdgs/meetings/egm-on-indicator-framework",
       "concept-note-file-url": "http://unstats.un.org/unsd/post-2015/activities/egm-on-indicator-framework/EGM%20on%20SDG%20indicators%20-%20Concept%20note%20(as%20of%2030%20Jan).pdf",
       "agenda-file-url": "http://unstats.un.org/unsd/post-2015/activities/egm-on-indicator-framework/EGM%20on%20SDG%20indicators%20-%20Feb2015%20-%20Provisional%20agenda%20and%20programme%20(as%20of%2024%20Feb).pdf",
@@ -88,16 +95,63 @@
       "end": "2015-06-02",
       "city": "NYC",
       "venue": "UN Headquarters, Conference Room 3",
-      "introduction": "The IAEG-SDGs was established by the Statistical Commission at its 46th session to develop an indicator framework for the monitoring of the goals and targets of the post-2015 development agenda at the global level, and to support its implementation.",
-      "description": "Meeting objectives:###\n- set up the process for the development of the indicator framework;\n- develop a work plan and agree on the way forward;\n- establish the methods of work of the group; and\n- discuss technical issues, including the interlinkages across targets and data disaggregation.",
+      "description": "The IAEG-SDGs was established by the Statistical Commission at its 46th session to develop an indicator framework for the monitoring of the goals and targets of the post-2015 development agenda at the global level, and to support its implementation. Meeting objectives:###\n- set up the process for the development of the indicator framework;\n- develop a work plan and agree on the way forward;\n- establish the methods of work of the group; and\n- discuss technical issues, including the interlinkages across targets and data disaggregation.",
       "main-page-url": "http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-01",
       "concept-note-file-url": "http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-01",
       "agenda-file-url": "http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-01",
       "participants-file-url": "http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-01",
       "report-file-url": "http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-01",
       "tags": [
-        "SDGs",
         "Indicators"
+      ],
+      "unsd-branch": [
+        "SSB"
+      ],
+      "unsd-work-area": [
+        "DI"
+      ]
+    },
+    {
+      "id": "3",
+      "type": "Seminar",
+      "title": "International Seminar on SDGs",
+      "start": "2015-09-16",
+      "end": "2015-09-17",
+      "city": "SEO",
+      "venue": "Statistics Korea (KOSTAT)",
+      "description": "UN DESA's Statistics Division and Statistics Korea are organizing an *International Seminar on Sustainable Development Goals: Challenges for National Statistical System*, to be held on 16-17 September 2015 in Seoul, Republic of Korea.\n\nThis seminar aims at addressing some of the challenges faced by the National Statistical Systems in monitoring the Sustainable Development Goals and Targets. It is one of the first opportunities for statisticians and experts from around the world to initiate the conversation on the challenges faced by national statistical systems to support the implementation of the 2030 Agenda for Sustainable Development.\n###Topics to be discussed:###\n- The global indicator framework\n- From Global to National Monitoring\n- Data disaggregation: leaving no one behind\n- Data visualization and data communication",
+      "main-page-url": "http://unstats.un.org/sdgs/meetings/sdg-seminar-seoul-2015",
+      "agenda-file-url": "http://unstats.un.org/sdgs/files/meetings/sdg-seminar-seoul-2015/sdg-seminar-seoul-2015-agenda.pdf",
+      "tags": [
+        "Indicators",
+        "SDGs",
+        "IAEG-SDGs"
+      ],
+      "unsd-branch": [
+        "SSB"
+      ],
+      "unsd-work-area": [
+        "DI"
+      ]
+    },
+    {
+      "id": "4",
+      "type": "EGM",
+      "title": "First meeting of the HLG",
+      "start": "2015-10-07",
+      "end": "2015-10-07",
+      "venue": "Via Teleconference",
+      "description": "The High-level Group for Partnership, Coordination and Capacity-Building for post-2015 monitoring (HLG) will hold its first meeting via teleconference, on 7 October 2015, from 7:00am to 9:00am (New York time).\n\n###Meeting objectives###\n- Review the group's mandate and Terms of refernce\n- Discuss plans for the World Forum on Sustainable Development Data\n- Review plans for the preparation of a report to be submitted to the UN Statistical Commission",
+      "main-page-url": "http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-01",
+      "concept-note-file-url": "http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-01",
+      "agenda-file-url": "http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-01",
+      "participants-file-url": "http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-01",
+      "report-file-url": "http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-01",
+      "tags": [
+        "Indicators",
+        "SDGs",
+        "HLG",
+        "World Data Forum"
       ],
       "unsd-branch": [
         "SSB"
