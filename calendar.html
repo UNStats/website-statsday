@@ -127,9 +127,17 @@
                         <h5 class="text-center">Event type</h5>
                         <ul id="types" class="country-list">
                         </ul>
+                        <hr />
+                        <h5 class="text-center">DaTES</h5>
+                        <ul id="dates" class="country-list">
+                        </ul>
                     </div>
                 </div>
             </div>
+            <span class="shortDateFormat">2009-12-18 10:54:50.546</span>
+<span class="longDateFormat">2009-12-18 10:54:50.546</span>
+
+
         </div>
         <!-- /.container -->
     </div>
@@ -202,6 +210,10 @@
 
     <!-- WSD events JS -->
     <script src="js/wsd-events.js"></script>
+    
+    <!-- JQuery Date Format -->
+    <script src="js/moment.min.js"></script>
+    
 
     <!-- Mustache template for locations list -->
     <script id="locations-template" type="text/template">
@@ -238,6 +250,15 @@
         </li>
         {{/types}}
     </script>
+    
+    <!-- Mustache template for dates list -->
+    <script id="dates-template" type="text/template">
+        {{#.}}
+        <li>
+            <a href="calendar.html?d={{start}}"> moment({{start}}).format("YYYY-mm-D");</a>
+        </li>
+        {{/.}}
+    </script>
 
     <!-- Mustache template for events -->
     <script id="events-template" type="text/template">
@@ -254,6 +275,7 @@
                 <div class="col-md-10 event-details col-md-offset-1">
                     <p class="event-heading lead"><strong>{{title}}</strong></p>
                     <div class="event-time-location">
+            <span class="shortDateFormat">2009-12-18 10:54:50.546</span>
                         <p class="text-muted"><em><i class="fa fa-calendar"></i> {{start}} - {{end}}</em></p>
                         <p class="text-muted"><span><i class="fa fa-globe"></i> {{city}}</span>
                             <spna><i class="fa fa-map-marker"></i> {{venue}}</span>
@@ -270,6 +292,32 @@
             </div>
         </li>
         {{/.}}
+    </script>
+    
+    <script>
+  document.write($.format.date("1982-10-15 01:10:20", "Test: dd/MMM/yyyy"));
+</script>
+    
+    <script>
+        jQuery(function() {
+    var shortDateFormat = 'dd/MM/yyyy';
+    var longDateFormat  = 'dd/MM/yyyy HH:mm:ss';
+
+    jQuery(".shortDateFormat").each(function (idx, elem) {
+        if (jQuery(elem).is(":input")) {
+            jQuery(elem).val(jQuery.format.date(jQuery(elem).val(), shortDateFormat));
+        } else {
+            jQuery(elem).text(jQuery.format.date(jQuery(elem).text(), shortDateFormat));
+        }
+    });
+    jQuery(".longDateFormat").each(function (idx, elem) {
+        if (jQuery(elem).is(":input")) {
+            jQuery(elem).val(jQuery.format.date(jQuery(elem).val(), longDateFormat));
+        } else {
+            jQuery(elem).text(jQuery.format.date(jQuery(elem).text(), longDateFormat));
+        }
+    });
+});
     </script>
 
     <!-- Javascript to load JSON file -->

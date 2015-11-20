@@ -12,7 +12,10 @@ $(function () {
     $.getJSON('js/events.json', function (data) {
         var template = $('#events-template').html();
         var events = data.events;
-        
+        var datesTemplate = $('#dates-template').html();
+        var items = Mustache.to_html(datesTemplate, events);
+        $('#dates').html(items); 
+                
         /* Call function getParameterByName to get the query strings and assign them to a variable [array] */
         /* Location  */
         var l = getParameterByName('l');
@@ -20,6 +23,8 @@ $(function () {
         var t = getParameterByName('t');
         /* Event type */
         var ty = getParameterByName('ty');
+        /* date */
+        var d = getParameterByName('d');
                
         /* If location */
         if (l !== '') {
@@ -38,10 +43,16 @@ $(function () {
             /* Get all events by location */
             events = _.where(data.events, { 'type': ty });
         }
-       
-        var items = Mustache.to_html(template, events);
-        $('#events').html(items);        
+        
+        /* If date */
+        if (d !== '') {
+            /* Get all events by date */
+            events = _.where(data.events, { 'start': d });
+        }
+               
+        items = Mustache.to_html(template, events);
+        $('#events').html(items);    
+            
     });
-});
-        
-        
+});  
+       
