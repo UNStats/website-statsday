@@ -134,10 +134,6 @@
                     </div>
                 </div>
             </div>
-            <span class="shortDateFormat">2009-12-18 10:54:50.546</span>
-<span class="longDateFormat">2009-12-18 10:54:50.546</span>
-
-
         </div>
         <!-- /.container -->
     </div>
@@ -212,7 +208,7 @@
     <script src="js/wsd-events.js"></script>
     
     <!-- JQuery Date Format -->
-    <script src="js/moment.min.js"></script>
+    <script src="js/jquery-dateFormat.min.js"></script>
     
 
     <!-- Mustache template for locations list -->
@@ -275,8 +271,7 @@
                 <div class="col-md-10 event-details col-md-offset-1">
                     <p class="event-heading lead"><strong>{{title}}</strong></p>
                     <div class="event-time-location">
-            <span class="shortDateFormat">2009-12-18 10:54:50.546</span>
-                        <p class="text-muted"><em><i class="fa fa-calendar"></i> {{start}} - {{end}}</em></p>
+                        <p class="text-muted"><em><i class="fa fa-calendar"></i> <span class="shortDateFormat">{{start}} </span>- <span class="shortDateFormat">{{end}} </span></em></p>
                         <p class="text-muted"><span><i class="fa fa-globe"></i> {{city}}</span>
                             <spna><i class="fa fa-map-marker"></i> {{venue}}</span>
                         </p>

@@ -49,10 +49,25 @@ $(function () {
             /* Get all events by date */
             events = _.where(data.events, { 'start': d });
         }
-               
+
         items = Mustache.to_html(template, events);
-        $('#events').html(items);    
-            
+        $('#events').html(items);
+
+
+        /* Format event dates */
+        jQuery(function () {
+            var shortDateFormat = 'dd MMMM yyyy';
+
+            jQuery(".shortDateFormat").each(function (idx, elem) {
+                if (jQuery(elem).is(":input")) {
+                    jQuery(elem).val(jQuery.format.date(jQuery(elem).val(), shortDateFormat));
+                } else {
+                    jQuery(elem).text(jQuery.format.date(jQuery(elem).text(), shortDateFormat));
+                }
+            });
+        });
+
     });
-});  
-       
+
+
+});      
