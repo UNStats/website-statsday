@@ -108,6 +108,7 @@
                     <div class="row">
                         <ul id="events" class="latest-posts">
                         </ul>
+                        <ul id="event-details" class="latest-posts"></ul>
                     </div>
                 </div>
                 <div class="col-md-3">
@@ -127,10 +128,10 @@
                         <h5 class="text-center">Event type</h5>
                         <ul id="types" class="country-list">
                         </ul>
-                        <hr />
-                        <h5 class="text-center">DaTES</h5>
+                        <!-- <hr />
+                        <h5 class="text-center">Dates</h5>
                         <ul id="dates" class="country-list">
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
             </div>
@@ -201,15 +202,18 @@
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
 
+    <!-- Markdown library -->
+    <script src="js/markdown.js"></script>
+
     <!-- lodash library -->
     <script src="js/lodash.min.js"></script>
 
     <!-- WSD events JS -->
     <script src="js/wsd-events.js"></script>
-    
+
     <!-- JQuery Date Format -->
     <script src="js/jquery-dateFormat.min.js"></script>
-    
+
 
     <!-- Mustache template for locations list -->
     <script id="locations-template" type="text/template">
@@ -228,7 +232,7 @@
         </li>
         {{/unsd-work-areas}}
     </script>
-    
+
     <!-- Mustache template for tag list -->
     <script id="tags-template" type="text/template">
         {{#tags}}
@@ -237,7 +241,7 @@
         </li>
         {{/tags}}
     </script>
-    
+
     <!-- Mustache template for tag list -->
     <script id="types-template" type="text/template">
         {{#types}}
@@ -246,28 +250,51 @@
         </li>
         {{/types}}
     </script>
-    
-    <!-- Mustache template for dates list -->
+
+    <!-- Mustache template for dates list
     <script id="dates-template" type="text/template">
         {{#.}}
         <li>
-            <a href="calendar.html?d={{start}}"> moment({{start}}).format("YYYY-mm-D");</a>
+            <a href="calendar.html?d={{start}}"><span class="shortDateFormat">{{start}} </span></a>
         </li>
         {{/.}}
-    </script>
+    </script> -->
 
     <!-- Mustache template for events -->
     <script id="events-template" type="text/template">
         {{#.}}
         <li class="post">
             <div class="row">
-                <!-- <div class="col-md-2 text-center">
-                    <div class="month">June</div>
-                    <div class="day">11</div>
-                    <div class="year">
-                        <p>2015</p>
+                <div class="col-md-2 text-center">
+                    <div class="month monthDateFormat">{{start}} </div>
+                    <div class="day dayDateFormat">{{start}} </div>
+                    <div class="year yearDateFormat">{{start}} </div>
+                </div>
+                <div class="col-md-10 event-details">
+                    <p class="event-heading lead"><strong>{{title}}</strong></p>
+                    <div class="event-time-location">
+                        <p class="text-muted"><em><i class="fa fa-calendar"></i> <span class="shortDateFormat">{{start}} </span>- <span class="shortDateFormat">{{end}} </span></em></p>
+                        <p class="text-muted"><span><i class="fa fa-globe"></i> {{city}}</span>
+                            <spna><i class="fa fa-map-marker"></i> {{venue}}</span>
+                        </p>
                     </div>
-                </div> -->
+                    <p>{{{html}}}</p>
+                    <div class="event-tags">
+                        {{#tags}}
+                        <a href="calendar.html?t={{.}}" class="label label-primary">{{.}}</a> {{/tags}}
+                    </div>
+                    <p class="pull-right"><a href="calendar.html?i={{id}}" class="data-visualisation-link" data-toggle="modal">Read more <i class="fa fa-arrow-circle-right"></i></a></p>
+                </div>
+            </div>
+        </li>
+        {{/.}}
+    </script>
+
+    <!-- Mustache template for event details called by event ID -->
+    <script id="details-template" type="text/template">
+        {{#.}}
+        <li class="post">
+            <div class="row">
                 <div class="col-md-10 event-details col-md-offset-1">
                     <p class="event-heading lead"><strong>{{title}}</strong></p>
                     <div class="event-time-location">
@@ -276,43 +303,20 @@
                             <spna><i class="fa fa-map-marker"></i> {{venue}}</span>
                         </p>
                     </div>
-                    <p>{{description}}</p>
+                    <p>{{{html}}}</p>
+                    <p><a href="{{main-page-url}}" target="_blank">Main page</a></p>
+                    <p><a href="{{concept-note-file-url}}" target="_blank">Concept note</a></p>
+                    <p><a href="{{agenda-file-url}}" target="_blank">Agenda</a></p>
+                    <p><a href="{{participants-file-url}}" target="_blank">List of participants</a></p>
+                    <p><a href="{{report-file-url}}" target="_blank">Meeting report</a></p>
                     <div class="event-tags">
                         {{#tags}}
-                            <a href="calendar.html?t={{.}}" class="label label-primary">{{.}}</a>
-                        {{/tags}}
+                        <a href="calendar.html?t={{.}}" class="label label-primary">{{.}}</a> {{/tags}}
                     </div>
-                    <p class="pull-right"><a href="{{main-page-url}}">Read more <i class="fa fa-arrow-circle-right"></i></a></p>
                 </div>
             </div>
         </li>
         {{/.}}
-    </script>
-    
-    <script>
-  document.write($.format.date("1982-10-15 01:10:20", "Test: dd/MMM/yyyy"));
-</script>
-    
-    <script>
-        jQuery(function() {
-    var shortDateFormat = 'dd/MM/yyyy';
-    var longDateFormat  = 'dd/MM/yyyy HH:mm:ss';
-
-    jQuery(".shortDateFormat").each(function (idx, elem) {
-        if (jQuery(elem).is(":input")) {
-            jQuery(elem).val(jQuery.format.date(jQuery(elem).val(), shortDateFormat));
-        } else {
-            jQuery(elem).text(jQuery.format.date(jQuery(elem).text(), shortDateFormat));
-        }
-    });
-    jQuery(".longDateFormat").each(function (idx, elem) {
-        if (jQuery(elem).is(":input")) {
-            jQuery(elem).val(jQuery.format.date(jQuery(elem).val(), longDateFormat));
-        } else {
-            jQuery(elem).text(jQuery.format.date(jQuery(elem).text(), longDateFormat));
-        }
-    });
-});
     </script>
 
     <!-- Javascript to load JSON file -->

@@ -46,6 +46,10 @@ h3
     margin-top: 20px;
 }
 
+.hide {
+    display: none;
+}
+
 .UN-links {
     padding: 3px;
     padding-right: 30px;
@@ -255,6 +259,7 @@ h3
 ul.latest-posts {
     margin: 0;
     padding: 0;
+    list-style: none;
 }
 
 ul.latest-posts li {
