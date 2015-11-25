@@ -42,6 +42,10 @@ h3
     text-align: center;
 }
 
+.text-secondary {
+    color: #8bb2c6;
+}
+
 .btn-filter {
     margin-top: 20px;
 }
@@ -428,10 +432,6 @@ ul#events {
     margin-bottom: 20px;
 }
 
-.event-details {
-    /*border-left: solid 1px #ccc;*/
-}
-
 .event-time-location {
     margin-bottom: 20px;
 }
@@ -457,6 +457,18 @@ ul#events {
 
 .event-tags {
     margin-top: 20px;
+}
+
+#rel-docs a:hover {
+    text-decoration: none;
+}
+
+#rel-docs a:hover .fa {
+    color: #8bb2c6;
+}
+
+#rel-docs a:hover .fa-inverse {
+    color: #fff;
 }
 
 /* /Events -------------------------------------- */

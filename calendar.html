@@ -296,7 +296,7 @@
         <li class="post">
             <div class="row">
                 <div class="col-md-10 event-details col-md-offset-1">
-                    <p class="event-heading lead"><strong>{{title}}</strong></p>
+                    <h3 class="event-heading">{{title}}</h3>
                     <div class="event-time-location">
                         <p class="text-muted"><em><i class="fa fa-calendar"></i> <span class="shortDateFormat">{{start}} </span>&mdash;<span class="shortDateFormat end-date">{{end}} </span></em></p>
                         <p class="text-muted"><span><i class="fa fa-globe"></i> {{city}}</span>
@@ -306,11 +306,57 @@
                     <p>{{{html}}}</p>
                     <hr />
                     <h5>Related documents</h5>
-                    <p><a href="{{main-page-url}}" target="_blank">Main page</a></p>
-                    <p><a href="{{concept-note-file-url}}" target="_blank">Concept note</a></p>
-                    <p><a href="{{agenda-file-url}}" target="_blank">Agenda</a></p>
-                    <p><a href="{{participants-file-url}}" target="_blank">List of participants</a></p>
-                    <p><a href="{{report-file-url}}" target="_blank">Meeting report</a></p>
+                    <div id="rel-docs" class="row">
+                        <div class="col-md-3 text-center">
+                                <a href="{{main-page-url}}" target="_blank">
+                                    <span class="fa-stack fa-3x">
+                                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                        <i class="fa fa-info fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                    <p class="lead"><strong>Main page</strong></p>
+                                </a>
+                        </div>
+                        <div class="col-md-3 text-center">
+                                <a href="{{concept-note-file-url}}" target="_blank">
+                                    <span class="fa-stack fa-3x">
+                                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                        <i class="fa fa-file-text-o fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                    <p class="lead"><strong>Concept note</strong></p>
+                                </a>
+                        </div>
+                        <div class="col-md-3 text-center">
+                                <a href="{{agenda-file-url}}" target="_blank">
+                                    <span class="fa-stack fa-3x">
+                                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                        <i class="fa fa-clock-o fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                    <p class="lead"><strong>Agenda</strong></p>
+                                </a>
+                        </div>
+                        <div class="col-md-3 text-center">
+                                <a href="{{participants-file-url}}" target="_blank">
+                                    <span class="fa-stack fa-3x">
+                                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                        <i class="fa fa-users fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                    <p class="lead"><strong>List of participants</strong></p>
+                                </a>
+                        </div>
+                        <div class="col-md-3 text-center">
+                                <a href="{{report-file-url}}" target="_blank">
+                                    <span class="fa-stack fa-3x">
+                                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                        <i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                    <p class="lead"><strong>Meeting report</strong></p>
+                                </a>
+                        </div>
+                    </div>
+                    <hr />
+                    <div class="contact-person">
+                        <p>{{contact-name}} {{contact-title}} {{contact-phone}}</p>
+                    </div>
                     <div class="event-tags">
                         {{#tags}}
                         <a href="calendar.html?t={{.}}" class="label label-primary">{{.}}</a> {{/tags}}
