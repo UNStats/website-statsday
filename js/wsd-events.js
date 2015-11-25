@@ -81,7 +81,7 @@ $(function () {
 
         /* Format event dates */
         jQuery(function () {
-            var shortDateFormat = 'dd MMMM yyyy';
+            var shortDateFormat = 'dd MMM yyyy';
 
             jQuery(".shortDateFormat").each(function (idx, elem) {
                 if (jQuery(elem).is(":input")) {

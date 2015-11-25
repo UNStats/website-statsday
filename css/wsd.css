@@ -419,6 +419,10 @@ ul#events {
     color: #888;
 }
 
+.end-date {
+    margin-left: 12px;
+}
+
 .event-heading {
     color: #069;
     margin-bottom: 20px;

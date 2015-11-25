@@ -273,7 +273,7 @@
                 <div class="col-md-10 event-details">
                     <p class="event-heading lead"><strong>{{title}}</strong></p>
                     <div class="event-time-location">
-                        <p class="text-muted"><em><i class="fa fa-calendar"></i> <span class="shortDateFormat">{{start}} </span>- <span class="shortDateFormat">{{end}} </span></em></p>
+                        <p class="text-muted"><em><i class="fa fa-calendar"></i> <span class="shortDateFormat">{{start}} </span>&mdash;<span class="shortDateFormat  end-date">{{end}} </span></em></p>
                         <p class="text-muted"><span><i class="fa fa-globe"></i> {{city}}</span>
                             <spna><i class="fa fa-map-marker"></i> {{venue}}</span>
                         </p>
@@ -298,12 +298,14 @@
                 <div class="col-md-10 event-details col-md-offset-1">
                     <p class="event-heading lead"><strong>{{title}}</strong></p>
                     <div class="event-time-location">
-                        <p class="text-muted"><em><i class="fa fa-calendar"></i> <span class="shortDateFormat">{{start}} </span>- <span class="shortDateFormat">{{end}} </span></em></p>
+                        <p class="text-muted"><em><i class="fa fa-calendar"></i> <span class="shortDateFormat">{{start}} </span>&mdash;<span class="shortDateFormat end-date">{{end}} </span></em></p>
                         <p class="text-muted"><span><i class="fa fa-globe"></i> {{city}}</span>
                             <spna><i class="fa fa-map-marker"></i> {{venue}}</span>
                         </p>
                     </div>
                     <p>{{{html}}}</p>
+                    <hr />
+                    <h5>Related documents</h5>
                     <p><a href="{{main-page-url}}" target="_blank">Main page</a></p>
                     <p><a href="{{concept-note-file-url}}" target="_blank">Concept note</a></p>
                     <p><a href="{{agenda-file-url}}" target="_blank">Agenda</a></p>
