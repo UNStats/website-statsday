@@ -586,6 +586,11 @@
         "type": "other"
       },
       {
+        "code": "LoAS",
+        "name": "League of Arab States",
+        "type": "other"
+      },
+      {
         "code": "MITMA",
         "name": "Massachusetts Institute of Technology",
         "type": "other"
@@ -609,6 +614,11 @@
         "code": "OHCHR",
         "name": "OHCHR",
         "type": "international"
+      },
+      {
+        "code":"RCREEE",
+        "name": "Regional Center for Renewable Energy and Energy Efficiency",
+        "type": "other"
       },
       {
         "code": "RSS",
@@ -675,7 +685,12 @@
        "name": "UNESCWA",
        "type": "international"
      },
-      {
+     {
+         "code": "UNICEF",
+         "name": "UNICEF",
+         "type": "international"
+       },
+    {
         "code": "UNIDO",
         "name": "UNIDO",
         "type": "international"
@@ -769,6 +784,34 @@
             ],
             "image": "Schweinfest",
             "text": "\"... this World Statistics Day is an excellent opportunity to start a conversation between users and producers of statistics and data at all levels. It is an opportunity to showcase our achievements centred around the key concepts of quality and sustainability, and to demonstrate our unique position as official statisticians to contribute to improving the lives of many through our products – living up to our vision statement: Better Data. Better Lives.\" *Stefan Schweinfest* \n\n\n\n \n\n [![Better data for better lives: Celebrating World Statistics Day 2015](./img/posts/Schweinfest-StatsDay15-Video.png)](https://www.youtube.com/embed/JhheWKSufL4 \"Better data for better lives: Celebrating World Statistics Day 2015\")\n\nThe full text of UNSD Director's message on World Statistics Day 2015 is available here:\n\n*   [English](files/Statement-WSD-Stefan-Final.pdf)\n*  [Spanish](files/Statement-WSD-Stefan-Final-S.pdf)"
+            },
+            {
+              "id": "253",
+              "title": "UNICEF actively observed World Statistics Day online and through social media",
+              "date": "2015-11-30",
+              "organisations": ["UNICEF"
+              ],
+              "image": "UNICEF",
+              "text":"World Statistics Day featured prominently the [UNICEF.org] (http://www.unicef.org) homepage which was visited by over 72,000 users on 20 October 2015. The page featured a link to the [official DESA website] (http://worldstatisticsday.org) as well as a link to a [blog post] (https://blogs.unicef.org/blog/unlocking-results-for-children-with-data/) written by UNICEF’s Deputy Executive Director Yoka Brandt on the importance of data and statistics.\n\n UNICEF also published posts about World Statistics Day to its 4.7 million followers on Twitter and over 270,000 followers on LinkedIn, contributing to the over 9,000 mentions and a worldwide potential reach of over 175 million users on Twitter. Numerous posts over the course of the day from both the [@UNICEF] (https://twitter.com/UNICEF) and the [@UNICEFData] (https://twitter.com/UNICEFData) accounts drew attention to the importance of official statistics, lessons learned from the MDG monitoring and implications for the SDGs.\n\n UNICEF also participated in the [Twitter Chat with Lenni Montiel] (blog.html?i=216) on October 22nd, making contributions specifically focused on UNICEF’s contribution to indicator work and its critical role in country support on statistics."
+            },
+
+            {
+              "id": "252",
+              "title": "International Statistical Institute launched new website on World Statistics Day",
+              "date": "2015-11-30",
+              "organisations": ["ISI"
+              ],
+              "image": "ISI2",
+              "text":"The International Statistical Institute (ISI) launched its brand new website on World Statistics Day. Check out [http://www.isi-web.org] (http://www.isi-web.org/) and enjoy statistical news and information on a website with modern design."
+            },
+            {
+              "id": "251",
+              "title": "Launching TaqaWay.net on the World Statistics Day 2015",
+              "date": "2015-11-30",
+              "organisations": ["LoAS","RCREEE"
+              ],
+              "image": "Taqaway",
+              "text":"On 20 October 2015, [TaqaWay.net] (http://www.taqaway.net), was launched as a joint collaborative initiative between the [League of Arab States (LAS)] (http://www.arableagueonline.org) and the [Regional Center for Renewable Energy and Energy Efficiency (RCREEE)] (http://www.rcreee.org/). The launch coincided with the second World Statistics Day.\n\n “Taqa” in Arabic means “Energy” while the term “Way” was chosen to depict the sustainable path towards which countries are directing themselves. The synergy between these two concepts lead to the name “TaqaWay”. The [TaqaWay Knowledge Portal] (http://www.taqaway.net) is intended to help policy makers, non-governmental institutions, investors, academia, field experts, and researchers to find the reliable, accurate and updated information on sustainable energy in the Arab region. TaqaWay has also been developed with additional support of [UN-ESCWA] (http://www.escwa.un.org) and [UNEP] (http://www.unep.org). Through a network of regional experts, focal points, contributors and partners, TaqaWay’s dedicated team is constantly updating existing content and looking for new verified and reliable data sets covering the region’s renewable energy and energy efficiency panorama. Through the Online E-learning section, TaqaWay contributes to disseminating knowledge and building the region’s capacity and talents in sustainable energy. \n\n A flyer can be found [here] (files/TaqawayFlyer_2015WSD.pdf)."
             },
             {
               "id": "250",
