@@ -128,10 +128,10 @@
                         <h5 class="text-center">Event type</h5>
                         <ul id="types" class="country-list">
                         </ul>
-                        <!-- <hr />
+                        <hr />
                         <h5 class="text-center">Dates</h5>
                         <ul id="dates" class="country-list">
-                        </ul> -->
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -251,14 +251,14 @@
         {{/types}}
     </script>
 
-    <!-- Mustache template for dates list
+    <!-- Mustache template for dates list -->
     <script id="dates-template" type="text/template">
         {{#.}}
         <li>
-            <a href="calendar.html?d={{start}}"><span class="shortDateFormat">{{start}} </span></a>
+            <a href="calendar.html?d={{.}}"><span class="">{{.}} </span></a>
         </li>
         {{/.}}
-    </script> -->
+    </script>
 
     <!-- Mustache template for events -->
     <script id="events-template" type="text/template">
@@ -278,7 +278,9 @@
                             <spna><i class="fa fa-map-marker"></i> {{venue}}</span>
                         </p>
                     </div>
-                    <p>{{{html}}}</p>
+                    <article>
+                    {{{html}}}
+                    </article>
                     <div class="event-tags">
                         {{#tags}}
                         <a href="calendar.html?t={{.}}" class="label label-primary">{{.}}</a> {{/tags}}
@@ -388,7 +390,7 @@
                 items = Mustache.to_html(template, data);
                 $('#tags').html(items);
                 
-                /* Fill tags template  */
+                /* Fill types template  */
                 template = $('#types-template').html();
                 items = Mustache.to_html(template, data);
                 $('#types').html(items);

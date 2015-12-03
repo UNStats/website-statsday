@@ -13,9 +13,25 @@ $(function () {
         var template = $('#events-template').html();
         var detailsTemplate = $('#details-template').html();
         var events = data.events;
-        //var datesTemplate = $('#dates-template').html();
-        //var items = Mustache.to_html(datesTemplate, events);
-        //$('#dates').html(items); 
+        
+        
+        var getYear = function (event) {
+            event.year = function () {
+                return event.start.slice(0, 4);
+            };
+            return event;
+        };
+        
+        var datesTemplate = $('#dates-template').html();
+        
+        events = events.map(getYear);
+        var eventYears = _(events).map(function(event) { return event.year(); }).uniq().value();
+        
+        var items = Mustache.to_html(datesTemplate, eventYears);
+        $('#dates').html(items); 
+        
+        
+        
         
         /* Convert the markdown into HTML using the Lodash library */
         var addHtml = function (event) {
@@ -61,10 +77,10 @@ $(function () {
         /* If date */
         if (d !== '') {
             /* Get all events by date */
-            events = _.where(data.events, { 'start': d });
+            events = _.filter(data.events, function(ev) { return _.startsWith(ev.start, d); }); 
         }
 
-        var items = Mustache.to_html(template, events);
+        items = Mustache.to_html(template, events);
         $('#events').html(items);
                 
         /* If ID, display only information for the relevant event */
@@ -76,7 +92,7 @@ $(function () {
             $('#events').addClass("hide");
         }
 
-
+        $('article').each(function(){ $(this).find('p:not(:first)').hide()});
 
 
         /* Format event dates */
