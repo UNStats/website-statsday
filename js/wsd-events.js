@@ -12,9 +12,10 @@ $(function () {
     $.getJSON('js/events.json', function (data) {
         var template = $('#events-template').html();
         var detailsTemplate = $('#details-template').html();
+        var datesTemplate = $('#dates-template').html();
         var events = data.events;
         
-        
+        /* Function to get the year from the date string into its own property */
         var getYear = function (event) {
             event.year = function () {
                 return event.start.slice(0, 4);
@@ -22,25 +23,20 @@ $(function () {
             return event;
         };
         
-        var datesTemplate = $('#dates-template').html();
-        
-        events = events.map(getYear);
-        var eventYears = _(events).map(function(event) { return event.year(); }).uniq().value();
-        
-        var items = Mustache.to_html(datesTemplate, eventYears);
-        $('#dates').html(items); 
-        
-        
-        
-        
-        /* Convert the markdown into HTML using the Lodash library */
+        /* Function to convert the markdown into HTML using the Lodash library */
         var addHtml = function (event) {
             event.html = function () {
                 return markdown.toHTML(this.description);
             };
             return event;
         };
-                
+        
+        //Call function to add year property
+        events = events.map(getYear);
+        // Group by years
+        var eventYears = _(events).map(function(event) { return event.year(); }).uniq().value();
+         
+                    
         /* Call function getParameterByName to get the query strings and assign them to a variable [array] */
         /* Location  */
         var l = getParameterByName('l');
@@ -79,7 +75,12 @@ $(function () {
             /* Get all events by date */
             events = _.filter(data.events, function(ev) { return _.startsWith(ev.start, d); }); 
         }
+        
+        //Load years into datesTemplate
+        var items = Mustache.to_html(datesTemplate, eventYears);
+        $('#dates').html(items); 
 
+        //Load events into events template
         items = Mustache.to_html(template, events);
         $('#events').html(items);
                 
@@ -92,6 +93,7 @@ $(function () {
             $('#events').addClass("hide");
         }
 
+        //Only show the first paragraph in the overview page, hide all the others
         $('article').each(function(){ $(this).find('p:not(:first)').hide()});
 
 
