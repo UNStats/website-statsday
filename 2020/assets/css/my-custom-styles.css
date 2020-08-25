@@ -82,3 +82,13 @@ h1, h2, h3, h4, h5, h6 {
 .main-features .heading-center .lead {
     color: #fff;
 }
+
+.portfolio-item img {
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    -webkit-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+    max-width: 100%;
+    margin: 10px;
+    padding: 10px;
+}
